@@ -11,7 +11,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Shlav MCQ">
 <style>
-  :root{--bg:#0f172a;--panel:#1e293b;--panel2:#273449;--text:#e2e8f0;--muted:#94a3b8;--accent:#38bdf8;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;--line:#334155;}
+  :root{--bg:#0f172a;--panel:#1e293b;--panel2:#273449;--text:#e2e8f0;--muted:#94a3b8;--accent:#38bdf8;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;--star:#fbbf24;--line:#334155;}
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html,body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:17px;line-height:1.5}
   body{padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
@@ -31,6 +31,10 @@
   .filter{display:flex;gap:8px;margin-bottom:10px}
   .filter select{flex:1;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font-size:15px}
   .tag{display:inline-block;font-size:11px;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;margin-bottom:12px}
+  .cardhead{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+  .star{flex:0 0 auto;background:none;border:none;font-size:24px;line-height:1;padding:2px 4px;color:var(--muted);transition:transform .12s}
+  .star.on{color:var(--star)}
+  .star:active{transform:scale(1.25)}
   .stem{font-size:18px;font-weight:500;margin:6px 0 16px}
   .opt{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:14px;padding:14px;margin-bottom:10px;transition:.12s}
   .opt .ltr{font-weight:700;color:var(--accent);flex:0 0 auto}
@@ -45,15 +49,35 @@
   .progressbar{height:6px;background:var(--panel2);border-radius:999px;overflow:hidden;margin-bottom:16px}
   .progressbar>i{display:block;height:100%;background:var(--accent);width:0}
   .nav{position:fixed;left:0;right:0;bottom:0;background:rgba(15,23,42,.96);border-top:1px solid var(--line);display:flex;backdrop-filter:blur(8px);padding-bottom:env(safe-area-inset-bottom)}
-  .nav button{flex:1;background:none;border:none;color:var(--muted);padding:12px 0;font-size:12px}
+  .nav button{flex:1;background:none;border:none;color:var(--muted);padding:12px 0;font-size:12px;position:relative}
   .nav button.active{color:var(--accent)}.nav .ico{display:block;font-size:20px;line-height:1}
+  .nav .badge{position:absolute;top:6px;left:50%;margin-left:6px;background:var(--star);color:#06283d;font-size:10px;font-weight:700;border-radius:999px;padding:0 5px;min-width:16px;line-height:16px;text-align:center}
   .row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);gap:10px}
   .row:last-child{border-bottom:none}.row .lab{font-size:14px}.row .acc{font-weight:700}
-  .acc.lo{color:var(--bad)}.acc.mid{color:var(--warn)}.acc.hi{color:var(--good)}
+  .acc.lo{color:var(--bad)}.acc.mid{color:var(--warn)}.acc.hi{color:var(--good)}.acc.na{color:var(--muted)}
   .muted{color:var(--muted)}.center{text-align:center}.big{font-size:40px;margin:8px 0}
   h2.section{font-size:14px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);margin:18px 4px 8px}
   .pill{font-size:11px;border-radius:999px;padding:2px 8px;border:1px solid var(--line)}.pill.weak{color:var(--bad);border-color:var(--bad)}
   .hide{display:none!important}
+  /* collapsible stats tree */
+  .tree .node{border:1px solid var(--line);border-radius:12px;margin-bottom:8px;overflow:hidden}
+  .node-head{display:flex;align-items:center;gap:10px;padding:12px 14px;cursor:pointer;user-select:none}
+  .node-head.l1{background:var(--panel2)}
+  .node-head.l2{background:rgba(39,52,73,.5)}
+  .node-head.l3{background:rgba(39,52,73,.25)}
+  .node-head .caret{transition:transform .15s;color:var(--muted);flex:0 0 auto;font-size:12px}
+  .node-head.open .caret{transform:rotate(90deg)}
+  .node-head .name{flex:1;font-size:14px;font-weight:600}
+  .node-head .name .meta{display:block;color:var(--muted);font-size:11px;font-weight:400;margin-top:1px}
+  .node-body{display:none;padding:8px 10px 6px}
+  .node-body.open{display:block}
+  .node-body .node{margin-bottom:6px}
+  .seclist .row .lab{font-size:13px}
+  /* saved cards */
+  .saved-item .key{font-weight:700;margin-top:8px}
+  .saved-item .exp{margin-top:6px;font-size:15px}
+  .saved-item .actions{display:flex;gap:8px;margin-top:12px}
+  .saved-item .actions .btn{margin-top:0;padding:10px;font-size:14px}
 </style>
 </head>
 <body>
@@ -78,6 +102,7 @@
       <button class="btn" id="start-due">Start due review</button>
       <button class="btn secondary" id="start-weak">Drill weak spots</button>
       <button class="btn secondary" id="start-ahead">Study ahead / fresh items</button>
+      <button class="btn secondary" id="start-starred">⭐ Drill starred</button>
     </div>
     <div class="card" id="weak-home"></div>
   </section>
@@ -85,7 +110,10 @@
   <section id="view-quiz" class="hide">
     <div class="progressbar"><i id="qbar"></i></div>
     <div class="card">
-      <span class="tag" id="q-tag"></span>
+      <div class="cardhead">
+        <span class="tag" id="q-tag"></span>
+        <button class="star" id="q-star" title="Star this question to save it">☆</button>
+      </div>
       <div class="stem" id="q-stem"></div>
       <div id="q-opts"></div>
       <div class="reveal" id="q-reveal">
@@ -103,8 +131,20 @@
       <p id="done-body" class="muted"></p><button class="btn" id="done-home">Back to home</button></div>
   </section>
 
+  <section id="view-saved" class="hide">
+    <div class="card">
+      <h2 class="section" style="margin-top:0">⭐ Saved questions</h2>
+      <p class="muted" style="font-size:14px;margin-top:0">Star any question while reviewing to keep it here — the question and its explanation are saved so you can come back to it anytime.</p>
+      <button class="btn" id="saved-drill">Drill starred</button>
+    </div>
+    <div id="saved-list"></div>
+  </section>
+
   <section id="view-stats" class="hide">
-    <div class="card"><h2 class="section" style="margin-top:0">Coverage by section</h2><div id="stats-sections"></div></div>
+    <div class="card"><h2 class="section" style="margin-top:0">Coverage &amp; accuracy</h2>
+      <p class="muted" style="font-size:13px;margin:0 0 12px">Tap to expand by book → volume → chapter → section. Percentage is your accuracy on items you've answered.</p>
+      <div class="tree" id="stats-tree"></div>
+    </div>
   </section>
 
   <section id="view-settings" class="hide">
@@ -112,7 +152,7 @@
       <p class="muted" style="font-size:14px">Web apps can't reliably schedule daily push (especially on iPhone). Best: add this app to your home screen, and also set a one-time repeating alarm in your phone's Clock/Calendar for your study time. The button below enables best-effort notifications where supported.</p>
       <button class="btn secondary" id="enable-notif">Enable notifications (best-effort)</button></div>
     <div class="card"><h2 class="section" style="margin-top:0">Your data</h2>
-      <p class="muted" style="font-size:14px">Progress is stored on this device. Export it to back up or to share with Claude for weak-spot analysis.</p>
+      <p class="muted" style="font-size:14px">Progress (including starred questions) is stored on this device. Export it to back up or to share with Claude for weak-spot analysis.</p>
       <button class="btn secondary" id="export">Export progress (copy JSON)</button>
       <button class="btn secondary" id="import">Import progress (paste JSON)</button>
       <button class="btn secondary" id="reset" style="color:var(--bad)">Reset all progress</button></div>
@@ -124,22 +164,33 @@
 
 <nav class="nav">
   <button data-view="home" class="active"><span class="ico">🏠</span>Home</button>
+  <button data-view="saved"><span class="ico">⭐</span>Saved<span class="badge hide" id="nav-saved-badge"></span></button>
   <button data-view="stats"><span class="ico">📊</span>Stats</button>
   <button data-view="settings"><span class="ico">⚙️</span>Settings</button>
 </nav>
 
 <script>
-const VERSION="v1.1", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
-let QUESTIONS=[], state=null;
+const VERSION="v1.2", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
 function todayStr(d){d=d||new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
 function addDays(n){const d=new Date();d.setDate(d.getDate()+n);return todayStr(d);}
-function loadState(){let s=null;try{s=JSON.parse(localStorage.getItem(STORE_KEY));}catch(e){}if(!s||!s.byId)s={byId:{},streak:{last:null,count:0},notif:false};QUESTIONS.forEach(q=>{if(!s.byId[q.id])s.byId[q.id]={idx:-1,due:todayStr(),last:null,seen:0,correct:0};});return s;}
+function loadState(){let s=null;try{s=JSON.parse(localStorage.getItem(STORE_KEY));}catch(e){}if(!s||!s.byId)s={byId:{},streak:{last:null,count:0},notif:false};if(!s.starred)s.starred={};QUESTIONS.forEach(q=>{if(!s.byId[q.id])s.byId[q.id]={idx:-1,due:todayStr(),last:null,seen:0,correct:0};});return s;}
 function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));}
 function isMastered(it){return it.idx>=LADDER.length;}
 function isDue(it){return !isMastered(it)&&it.due<=todayStr();}
 function grade(it,ok){it.seen++;if(ok)it.correct++;if(ok)it.idx=Math.max(it.idx,0)+1;else it.idx=0;if(it.idx>=LADDER.length){it.last="correct";it.due="2099-01-01";}else{it.due=addDays(LADDER[it.idx]);it.last=ok?"correct":"wrong";}const t=todayStr();if(state.streak.last!==t){state.streak.count=(state.streak.last===addDays(-1))?state.streak.count+1:1;state.streak.last=t;}save();}
 function uniq(a){return [...new Set(a)];}
+
+/* ---------- starring / saved ---------- */
+function isStarred(id){return !!(state.starred&&state.starred[id]);}
+function toggleStar(q){if(!state.starred)state.starred={};if(state.starred[q.id]){delete state.starred[q.id];}else{state.starred[q.id]={ts:Date.now(),snap:{stem:q.stem,answer:q.answer,exp:q.exp,hy:q.hy,src:q.src,book:q.book,vol:q.vol,chnum:q.chnum,chname:q.chname,section:q.section}};}save();updateSavedBadge();}
+function starredIds(){return Object.keys(state.starred||{});}
+function starredQuestions(){/* live question objects (drillable), newest first */return starredIds().filter(id=>byIdQ[id]).map(id=>byIdQ[id]).sort((a,b)=>(state.starred[b.id].ts||0)-(state.starred[a.id].ts||0));}
+function starredRecords(){/* for display: prefer live, fall back to saved snapshot */return starredIds().map(id=>{const live=byIdQ[id];const snap=state.starred[id].snap||{};const q=live||Object.assign({id},snap);return{id,q,live:!!live,ts:state.starred[id].ts||0};}).sort((a,b)=>b.ts-a.ts);}
+function updateSavedBadge(){const n=starredIds().length;const b=$("nav-saved-badge");if(!b)return;b.textContent=n;b.classList.toggle("hide",n===0);}
+function renderStarBtn(){const q=session[sIdx];if(!q)return;const on=isStarred(q.id);const b=$("q-star");b.textContent=on?"★":"☆";b.classList.toggle("on",on);b.title=on?"Starred — saved to your list":"Star this question to save it";}
+
 function populateBooks(){const s=$("book-filter");s.innerHTML='<option value="">All books</option>';uniq(QUESTIONS.map(q=>q.book)).sort().forEach(b=>{const o=document.createElement("option");o.value=b;o.textContent=b;s.appendChild(o);});}
 function populateVols(){const b=$("book-filter").value,s=$("vol-filter");const v=uniq(QUESTIONS.filter(q=>(!b||q.book===b)&&q.vol).map(q=>q.vol)).sort();s.innerHTML='<option value="">All volumes</option>';v.forEach(x=>{const o=document.createElement("option");o.value=x;o.textContent=x;s.appendChild(o);});s.disabled=v.length===0;s.style.opacity=v.length?1:.5;}
 function populateChaps(){const b=$("book-filter").value,v=$("vol-filter").value,s=$("chap-filter");const seen={},ch=[];QUESTIONS.forEach(q=>{if(b&&q.book!==b)return;if(v&&q.vol!==v)return;const k=q.book+"|"+q.vol+"|"+q.chnum;if(!seen[k]){seen[k]=1;ch.push({k,n:q.chnum,name:q.chname});}});ch.sort((a,b)=>(parseInt(a.n)||0)-(parseInt(b.n)||0));s.innerHTML='<option value="">All chapters</option>';ch.forEach(c=>{const o=document.createElement("option");o.value=c.k;o.textContent="Ch "+c.n+" — "+c.name;s.appendChild(o);});}
@@ -149,13 +200,15 @@ function masteredCount(){return pool().filter(q=>isMastered(state.byId[q.id])).l
 function overallAcc(){let s=0,c=0;pool().forEach(q=>{const it=state.byId[q.id];s+=it.seen;c+=it.correct;});return s?Math.round(100*c/s):null;}
 function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.book+" Ch"+q.chnum+" · "+q.section;if(!m[k])m[k]={seen:0,correct:0,n:0,due:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;if(isDue(it))m[k].due++;});return Object.entries(m).map(([sec,v])=>({sec,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n,due:v.due}));}
 function weakSections(){return sectionStats().filter(s=>s.acc!==null&&s.seen>=1&&s.acc<70).sort((a,b)=>a.acc-b.acc);}
-function show(v){["home","quiz","done","stats","settings"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
+function show(v){["home","quiz","done","stats","settings","saved"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
 function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
-function renderHome(){$("kpi-due").textContent=dueList().length;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";const n=dueList().length;$("start-due").disabled=n===0;$("start-due").textContent=n?("Start due review ("+n+")"):"Nothing due 🎉";const ws=weakSections();$("weak-home").innerHTML=ws.length?'<h2 class="section" style="margin-top:0">Weak spots (&lt;70%)</h2>'+ws.map(s=>`<div class="row"><span class="lab">${s.sec} <span class="pill weak">weak</span></span><span class="acc lo">${s.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak spots yet. Sections under 70% will appear here as you drill.</p>';}
+function renderHome(){$("kpi-due").textContent=dueList().length;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";const n=dueList().length;$("start-due").disabled=n===0;$("start-due").textContent=n?("Start due review ("+n+")"):"Nothing due 🎉";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const ws=weakSections();$("weak-home").innerHTML=ws.length?'<h2 class="section" style="margin-top:0">Weak spots (&lt;70%)</h2>'+ws.map(s=>`<div class="row"><span class="lab">${s.sec} <span class="pill weak">weak</span></span><span class="acc lo">${s.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak spots yet. Sections under 70% will appear here as you drill.</p>';updateSavedBadge();}
+
 let session=[],sIdx=0,answered=false;
 function startSession(items){if(!items.length){alert("Nothing to drill here.");return;}session=items.slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];const aw=A.last==="wrong"?0:1,bw=B.last==="wrong"?0:1;if(aw!==bw)return aw-bw;return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);});if(session.length>20)session=session.slice(0,20);sIdx=0;show("quiz");setNav("home");renderCard();}
-function renderCard(){answered=false;const q=session[sIdx];$("qbar").style.width=Math.round(100*sIdx/session.length)+"%";$("q-tag").textContent=q.book+" · Ch "+q.chnum+" "+q.chname+" · "+q.section;$("q-stem").textContent=q.stem;const o=$("q-opts");o.innerHTML="";["A","B","C","D"].forEach(L=>{if(!q.options[L])return;const b=document.createElement("button");b.className="opt";b.innerHTML=`<span class="ltr">${L}</span><span>${q.options[L]}</span>`;b.onclick=()=>answer(L);o.appendChild(b);});$("q-reveal").style.display="none";$("q-next").classList.add("hide");$("q-next").textContent=sIdx===session.length-1?"Finish":"Next";}
+function renderCard(){answered=false;const q=session[sIdx];$("qbar").style.width=Math.round(100*sIdx/session.length)+"%";$("q-tag").textContent=q.book+" · Ch "+q.chnum+" "+q.chname+" · "+q.section;$("q-stem").textContent=q.stem;renderStarBtn();const o=$("q-opts");o.innerHTML="";["A","B","C","D"].forEach(L=>{if(!q.options||!q.options[L])return;const b=document.createElement("button");b.className="opt";b.innerHTML=`<span class="ltr">${L}</span><span>${q.options[L]}</span>`;b.onclick=()=>answer(L);o.appendChild(b);});$("q-reveal").style.display="none";$("q-next").classList.add("hide");$("q-next").textContent=sIdx===session.length-1?"Finish":"Next";}
 function answer(L){if(answered)return;answered=true;const q=session[sIdx],ok=L===q.answer;const bs=$("q-opts").querySelectorAll(".opt");["A","B","C","D"].forEach((LL,i)=>{const b=bs[i];if(!b)return;b.classList.add("disabled");if(LL===q.answer)b.classList.add("correct");else if(LL===L)b.classList.add("wrong");});$("q-key").innerHTML="Key: <b>"+q.answer+"</b> — "+(ok?'<span style="color:var(--good)">correct ✓</span>':'<span style="color:var(--bad)">you chose '+L+' ✗</span>');$("q-exp").textContent=q.exp||"";$("q-hy").textContent=q.hy?("🔑 "+q.hy):"";$("q-src").textContent=q.src?("📖 "+q.src):"";$("q-reveal").style.display="block";$("q-next").classList.remove("hide");grade(state.byId[q.id],ok);}
+$("q-star").onclick=()=>{const q=session[sIdx];if(!q)return;toggleStar(q);renderStarBtn();};
 $("q-next").onclick=()=>{sIdx++;if(sIdx>=session.length)finishSession();else renderCard();};
 $("q-quit").onclick=finishSession;
 function finishSession(){$("done-body").textContent=dueList().length?(dueList().length+" item(s) still due. Keep going or come back later."):"All due items cleared. 🎉";show("done");setNav("home");}
@@ -163,17 +216,47 @@ $("done-home").onclick=()=>{renderHome();show("home");setNav("home");};
 $("start-due").onclick=()=>startSession(dueList());
 $("start-weak").onclick=()=>{const ws=weakSections().map(s=>s.sec);let it=pool().filter(q=>ws.includes(q.chapter+" · "+q.section));if(!it.length)it=pool().slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);}).slice(0,10);startSession(it);};
 $("start-ahead").onclick=()=>{const it=pool().filter(q=>!isMastered(state.byId[q.id])).sort((a,b)=>state.byId[a.id].due<state.byId[b.id].due?-1:1).slice(0,15);startSession(it);};
-function renderStats(){$("stats-sections").innerHTML=sectionStats().sort((a,b)=>(a.acc??101)-(b.acc??101)).map(s=>{const cls=s.acc===null?"":s.acc<70?"lo":s.acc<90?"mid":"hi";return `<div class="row"><span class="lab">${s.sec}<br><span class="muted" style="font-size:12px">${s.n} item(s)${s.due?" · "+s.due+" due":""}</span></span><span class="acc ${cls}">${s.acc===null?"–":s.acc+"%"}</span></div>`;}).join("");}
+$("start-starred").onclick=()=>drillStarred();
+$("saved-drill").onclick=()=>drillStarred();
+function drillStarred(){const it=starredQuestions();if(!it.length){alert("Star some questions first — tap the ☆ on any question while reviewing.");return;}startSession(it);}
+
+/* ---------- Saved tab ---------- */
+function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+function renderSaved(){const recs=starredRecords();const box=$("saved-list");$("saved-drill").disabled=recs.length===0;if(!recs.length){box.innerHTML='<div class="card center"><div class="big">⭐</div><p class="muted">No saved questions yet.<br>Tap the ☆ on any question while reviewing to save it here.</p></div>';return;}box.innerHTML=recs.map(r=>{const q=r.q;const tag=esc((q.book||"")+" · Ch "+(q.chnum||"?")+" "+(q.chname||"")+" · "+(q.section||""));const opts=(q.options&&q.answer&&q.options[q.answer])?(" — "+esc(q.options[q.answer])):"";return `<div class="card saved-item" data-id="${esc(r.id)}">
+  <div class="cardhead"><span class="tag">${tag}</span><button class="star on" data-unstar="${esc(r.id)}" title="Remove from saved">★</button></div>
+  <div class="stem" style="font-size:16px">${esc(q.stem)}</div>
+  <div class="key">Answer: <b>${esc(q.answer||"?")}</b>${opts}</div>
+  ${q.exp?`<div class="exp">${esc(q.exp)}</div>`:""}
+  ${q.hy?`<div class="hy" style="margin-top:10px">🔑 ${esc(q.hy)}</div>`:""}
+  ${q.src?`<div class="src">📖 ${esc(q.src)}</div>`:""}
+  <div class="actions">${r.live?`<button class="btn secondary" data-drillone="${esc(r.id)}">Drill this</button>`:`<span class="muted" style="font-size:12px;align-self:center">Not in current bank</span>`}</div>
+</div>`;}).join("");
+  box.querySelectorAll("[data-unstar]").forEach(b=>b.onclick=()=>{const id=b.getAttribute("data-unstar");delete state.starred[id];save();updateSavedBadge();renderSaved();renderHome();});
+  box.querySelectorAll("[data-drillone]").forEach(b=>b.onclick=()=>{const id=b.getAttribute("data-drillone");if(byIdQ[id])startSession([byIdQ[id]]);});
+}
+
+/* ---------- Stats: collapsible Book → Vol → Chapter → Section ---------- */
+function accClass(acc){return acc===null?"na":acc<70?"lo":acc<90?"mid":"hi";}
+function accText(acc){return acc===null?"–":acc+"%";}
+function agg(){const tree={};pool().forEach(q=>{const it=state.byId[q.id];const bk=q.book||"—",vol=q.vol||"", chKey=q.chnum+"|"+q.chname,sec=q.section||"General";tree[bk]=tree[bk]||{vols:{}};const V=tree[bk].vols;V[vol]=V[vol]||{chs:{}};const C=V[vol].chs;C[chKey]=C[chKey]||{chnum:q.chnum,chname:q.chname,secs:{}};const S=C[chKey].secs;S[sec]=S[sec]||{seen:0,correct:0,n:0,due:0};S[sec].seen+=it.seen;S[sec].correct+=it.correct;S[sec].n++;if(isDue(it))S[sec].due++;});return tree;}
+function rollup(parts){let seen=0,correct=0,n=0,due=0;parts.forEach(p=>{seen+=p.seen;correct+=p.correct;n+=p.n;due+=p.due;});return{seen,correct,n,due,acc:seen?Math.round(100*correct/seen):null};}
+function makeNode(level,title,stat,buildBody){const node=document.createElement("div");node.className="node";const head=document.createElement("div");head.className="node-head l"+level;const cls=accClass(stat.acc);head.innerHTML=`<span class="caret">▶</span><span class="name">${esc(title)}<span class="meta">${stat.n} item(s)${stat.due?" · "+stat.due+" due":""} · ${stat.seen} answered</span></span><span class="acc ${cls}">${accText(stat.acc)}</span>`;const body=document.createElement("div");body.className="node-body";let built=false;head.onclick=()=>{const open=head.classList.toggle("open");body.classList.toggle("open",open);if(open&&!built){buildBody(body);built=true;}};node.appendChild(head);node.appendChild(body);return{node,head,body,open:()=>{if(!head.classList.contains("open"))head.click();}};}
+function renderStats(){const tree=agg();const root=$("stats-tree");root.innerHTML="";const books=Object.keys(tree).sort();if(!books.length){root.innerHTML='<p class="muted center">No items yet.</p>';return;}books.forEach(bk=>{const vols=tree[bk].vols;const volKeys=Object.keys(vols);const realVols=volKeys.filter(v=>v!=="");const allCh=[];volKeys.forEach(v=>Object.values(vols[v].chs).forEach(c=>allCh.push(c)));const bookStat=rollup(allCh.flatMap(c=>Object.values(c.secs)));const bn=makeNode(1,bk,bookStat,body=>{
+    const renderChapters=(container,chsObj)=>{const chs=Object.values(chsObj).sort((a,b)=>(parseInt(a.chnum)||0)-(parseInt(b.chnum)||0));chs.forEach(c=>{const cStat=rollup(Object.values(c.secs));const cn=makeNode(3,"Ch "+c.chnum+" — "+c.chname,cStat,cbody=>{const sl=document.createElement("div");sl.className="seclist";Object.entries(c.secs).forEach(([sec,v])=>{const acc=v.seen?Math.round(100*v.correct/v.seen):null;sl.innerHTML+=`<div class="row"><span class="lab">${esc(sec)}<br><span class="muted" style="font-size:11px">${v.n} item(s)${v.due?" · "+v.due+" due":""}</span></span><span class="acc ${accClass(acc)}">${accText(acc)}</span></div>`;});cbody.appendChild(sl);});container.appendChild(cn.node);});};
+    if(realVols.length){volKeys.sort().forEach(v=>{const vStat=rollup(Object.values(vols[v].chs).flatMap(c=>Object.values(c.secs)));const label=v===""?"(no volume)":v;const vn=makeNode(2,label,vStat,vbody=>renderChapters(vbody,vols[v].chs));body.appendChild(vn.node);});}
+    else{renderChapters(body,vols[""].chs);}
+  });root.appendChild(bn.node);if(books.length===1)bn.open();});}
+
 $("ver").textContent=VERSION;
 $("enable-notif").onclick=async()=>{if(!("Notification"in window)){alert("Notifications unsupported here.");return;}const p=await Notification.requestPermission();if(p==="granted"){state.notif=true;save();new Notification("Reminders on",{body:"Best-effort. Also set a repeating phone alarm for reliability."});}else alert("Not granted.");};
 $("export").onclick=()=>{const t=JSON.stringify(state);navigator.clipboard?.writeText(t).then(()=>alert("Progress copied. Paste it to Claude for analysis."),()=>prompt("Copy your backup:",t));};
-$("import").onclick=()=>{const t=prompt("Paste exported progress JSON:");if(!t)return;try{const o=JSON.parse(t);if(o.byId){state=o;save();renderHome();alert("Imported.");}else alert("Invalid.");}catch(e){alert("Invalid JSON.");}};
-$("reset").onclick=()=>{if(confirm("Erase all progress on this device?")){localStorage.removeItem(STORE_KEY);state=loadState();save();renderHome();renderStats();alert("Reset.");}};
+$("import").onclick=()=>{const t=prompt("Paste exported progress JSON:");if(!t)return;try{const o=JSON.parse(t);if(o.byId){if(!o.starred)o.starred={};state=o;save();renderHome();alert("Imported.");}else alert("Invalid.");}catch(e){alert("Invalid JSON.");}};
+$("reset").onclick=()=>{if(confirm("Erase all progress (including starred) on this device?")){localStorage.removeItem(STORE_KEY);state=loadState();save();renderHome();alert("Reset.");}};
 $("reload-q").onclick=()=>location.reload();
-document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
+document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=2").then(r=>r.json()).then(data=>{QUESTIONS=data;state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=3").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>
