@@ -69,7 +69,11 @@
     </div>
     <div class="card">
       <div class="filter">
-        <select id="chap-filter"><option value="">All chapters</option></select>
+        <select id="book-filter"></select>
+        <select id="vol-filter"></select>
+      </div>
+      <div class="filter">
+        <select id="chap-filter"></select>
       </div>
       <button class="btn" id="start-due">Start due review</button>
       <button class="btn secondary" id="start-weak">Drill weak spots</button>
@@ -135,19 +139,22 @@ function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));}
 function isMastered(it){return it.idx>=LADDER.length;}
 function isDue(it){return !isMastered(it)&&it.due<=todayStr();}
 function grade(it,ok){it.seen++;if(ok)it.correct++;if(ok)it.idx=Math.max(it.idx,0)+1;else it.idx=0;if(it.idx>=LADDER.length){it.last="correct";it.due="2099-01-01";}else{it.due=addDays(LADDER[it.idx]);it.last=ok?"correct":"wrong";}const t=todayStr();if(state.streak.last!==t){state.streak.count=(state.streak.last===addDays(-1))?state.streak.count+1:1;state.streak.last=t;}save();}
-function curChap(){return $("chap-filter").value;}
-function pool(){const c=curChap();return c?QUESTIONS.filter(q=>q.chapter===c):QUESTIONS;}
+function uniq(a){return [...new Set(a)];}
+function populateBooks(){const s=$("book-filter");s.innerHTML='<option value="">All books</option>';uniq(QUESTIONS.map(q=>q.book)).sort().forEach(b=>{const o=document.createElement("option");o.value=b;o.textContent=b;s.appendChild(o);});}
+function populateVols(){const b=$("book-filter").value,s=$("vol-filter");const v=uniq(QUESTIONS.filter(q=>(!b||q.book===b)&&q.vol).map(q=>q.vol)).sort();s.innerHTML='<option value="">All volumes</option>';v.forEach(x=>{const o=document.createElement("option");o.value=x;o.textContent=x;s.appendChild(o);});s.disabled=v.length===0;s.style.opacity=v.length?1:.5;}
+function populateChaps(){const b=$("book-filter").value,v=$("vol-filter").value,s=$("chap-filter");const seen={},ch=[];QUESTIONS.forEach(q=>{if(b&&q.book!==b)return;if(v&&q.vol!==v)return;const k=q.book+"|"+q.vol+"|"+q.chnum;if(!seen[k]){seen[k]=1;ch.push({k,n:q.chnum,name:q.chname});}});ch.sort((a,b)=>(parseInt(a.n)||0)-(parseInt(b.n)||0));s.innerHTML='<option value="">All chapters</option>';ch.forEach(c=>{const o=document.createElement("option");o.value=c.k;o.textContent="Ch "+c.n+" — "+c.name;s.appendChild(o);});}
+function pool(){const b=$("book-filter").value,v=$("vol-filter").value,c=$("chap-filter").value;return QUESTIONS.filter(q=>{if(b&&q.book!==b)return false;if(v&&q.vol!==v)return false;if(c&&(q.book+"|"+q.vol+"|"+q.chnum)!==c)return false;return true;});}
 function dueList(){return pool().filter(q=>isDue(state.byId[q.id]));}
 function masteredCount(){return pool().filter(q=>isMastered(state.byId[q.id])).length;}
 function overallAcc(){let s=0,c=0;pool().forEach(q=>{const it=state.byId[q.id];s+=it.seen;c+=it.correct;});return s?Math.round(100*c/s):null;}
-function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.chapter+" · "+q.section;if(!m[k])m[k]={seen:0,correct:0,n:0,due:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;if(isDue(it))m[k].due++;});return Object.entries(m).map(([sec,v])=>({sec,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n,due:v.due}));}
+function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.book+" Ch"+q.chnum+" · "+q.section;if(!m[k])m[k]={seen:0,correct:0,n:0,due:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;if(isDue(it))m[k].due++;});return Object.entries(m).map(([sec,v])=>({sec,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n,due:v.due}));}
 function weakSections(){return sectionStats().filter(s=>s.acc!==null&&s.seen>=1&&s.acc<70).sort((a,b)=>a.acc-b.acc);}
 function show(v){["home","quiz","done","stats","settings"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
 function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
 function renderHome(){$("kpi-due").textContent=dueList().length;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";const n=dueList().length;$("start-due").disabled=n===0;$("start-due").textContent=n?("Start due review ("+n+")"):"Nothing due 🎉";const ws=weakSections();$("weak-home").innerHTML=ws.length?'<h2 class="section" style="margin-top:0">Weak spots (&lt;70%)</h2>'+ws.map(s=>`<div class="row"><span class="lab">${s.sec} <span class="pill weak">weak</span></span><span class="acc lo">${s.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak spots yet. Sections under 70% will appear here as you drill.</p>';}
 let session=[],sIdx=0,answered=false;
 function startSession(items){if(!items.length){alert("Nothing to drill here.");return;}session=items.slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];const aw=A.last==="wrong"?0:1,bw=B.last==="wrong"?0:1;if(aw!==bw)return aw-bw;return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);});if(session.length>20)session=session.slice(0,20);sIdx=0;show("quiz");setNav("home");renderCard();}
-function renderCard(){answered=false;const q=session[sIdx];$("qbar").style.width=Math.round(100*sIdx/session.length)+"%";$("q-tag").textContent=q.chapter+" · "+q.section;$("q-stem").textContent=q.stem;const o=$("q-opts");o.innerHTML="";["A","B","C","D"].forEach(L=>{if(!q.options[L])return;const b=document.createElement("button");b.className="opt";b.innerHTML=`<span class="ltr">${L}</span><span>${q.options[L]}</span>`;b.onclick=()=>answer(L);o.appendChild(b);});$("q-reveal").style.display="none";$("q-next").classList.add("hide");$("q-next").textContent=sIdx===session.length-1?"Finish":"Next";}
+function renderCard(){answered=false;const q=session[sIdx];$("qbar").style.width=Math.round(100*sIdx/session.length)+"%";$("q-tag").textContent=q.book+" · Ch "+q.chnum+" "+q.chname+" · "+q.section;$("q-stem").textContent=q.stem;const o=$("q-opts");o.innerHTML="";["A","B","C","D"].forEach(L=>{if(!q.options[L])return;const b=document.createElement("button");b.className="opt";b.innerHTML=`<span class="ltr">${L}</span><span>${q.options[L]}</span>`;b.onclick=()=>answer(L);o.appendChild(b);});$("q-reveal").style.display="none";$("q-next").classList.add("hide");$("q-next").textContent=sIdx===session.length-1?"Finish":"Next";}
 function answer(L){if(answered)return;answered=true;const q=session[sIdx],ok=L===q.answer;const bs=$("q-opts").querySelectorAll(".opt");["A","B","C","D"].forEach((LL,i)=>{const b=bs[i];if(!b)return;b.classList.add("disabled");if(LL===q.answer)b.classList.add("correct");else if(LL===L)b.classList.add("wrong");});$("q-key").innerHTML="Key: <b>"+q.answer+"</b> — "+(ok?'<span style="color:var(--good)">correct ✓</span>':'<span style="color:var(--bad)">you chose '+L+' ✗</span>');$("q-exp").textContent=q.exp||"";$("q-hy").textContent=q.hy?("🔑 "+q.hy):"";$("q-src").textContent=q.src?("📖 "+q.src):"";$("q-reveal").style.display="block";$("q-next").classList.remove("hide");grade(state.byId[q.id],ok);}
 $("q-next").onclick=()=>{sIdx++;if(sIdx>=session.length)finishSession();else renderCard();};
 $("q-quit").onclick=finishSession;
@@ -164,9 +171,9 @@ $("import").onclick=()=>{const t=prompt("Paste exported progress JSON:");if(!t)r
 $("reset").onclick=()=>{if(confirm("Erase all progress on this device?")){localStorage.removeItem(STORE_KEY);state=loadState();save();renderHome();renderStats();alert("Reset.");}};
 $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
-$("chap-filter").onchange=()=>{renderHome();};
+$("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json").then(r=>r.json()).then(data=>{QUESTIONS=data;state=loadState();save();const chaps=[...new Set(QUESTIONS.map(q=>q.chapter))];chaps.forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;$("chap-filter").appendChild(o);});renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json").then(r=>r.json()).then(data=>{QUESTIONS=data;state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>
