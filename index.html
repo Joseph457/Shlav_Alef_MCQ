@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f172a">
+<title>Shlav Alef MCQ</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Shlav MCQ">
+<style>
+  :root{--bg:#0f172a;--panel:#1e293b;--panel2:#273449;--text:#e2e8f0;--muted:#94a3b8;--accent:#38bdf8;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b;--line:#334155;}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:17px;line-height:1.5}
+  body{padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+  .wrap{max-width:680px;margin:0 auto;padding:14px 16px 96px}
+  header{display:flex;align-items:center;justify-content:space-between;padding:8px 4px 16px}
+  header h1{font-size:19px;margin:0}
+  header .sub{color:var(--muted);font-size:12px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:14px}
+  .kpis{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:14px}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px}
+  .kpi .n{font-size:26px;font-weight:700}.kpi .l{color:var(--muted);font-size:12px;margin-top:2px}
+  .kpi.due .n{color:var(--accent)}
+  button{font-family:inherit;font-size:17px;cursor:pointer}
+  .btn{display:block;width:100%;border:none;border-radius:14px;padding:16px;font-weight:600;background:var(--accent);color:#06283d;margin-top:8px}
+  .btn.secondary{background:var(--panel2);color:var(--text);border:1px solid var(--line)}
+  .btn:disabled{opacity:.4}
+  .filter{display:flex;gap:8px;margin-bottom:10px}
+  .filter select{flex:1;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font-size:15px}
+  .tag{display:inline-block;font-size:11px;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;margin-bottom:12px}
+  .stem{font-size:18px;font-weight:500;margin:6px 0 16px}
+  .opt{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:14px;padding:14px;margin-bottom:10px;transition:.12s}
+  .opt .ltr{font-weight:700;color:var(--accent);flex:0 0 auto}
+  .opt.correct{background:rgba(34,197,94,.16);border-color:var(--good)}.opt.correct .ltr{color:var(--good)}
+  .opt.wrong{background:rgba(239,68,68,.16);border-color:var(--bad)}.opt.wrong .ltr{color:var(--bad)}
+  .opt.disabled{opacity:.6}
+  .reveal{margin-top:6px;border-top:1px dashed var(--line);padding-top:14px;display:none}
+  .reveal h4{margin:0 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)}
+  .reveal .key{font-weight:700}
+  .reveal .hy{background:rgba(56,189,248,.1);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-top:10px;font-size:15px}
+  .reveal .src{color:var(--muted);font-size:12px;margin-top:8px}
+  .progressbar{height:6px;background:var(--panel2);border-radius:999px;overflow:hidden;margin-bottom:16px}
+  .progressbar>i{display:block;height:100%;background:var(--accent);width:0}
+  .nav{position:fixed;left:0;right:0;bottom:0;background:rgba(15,23,42,.96);border-top:1px solid var(--line);display:flex;backdrop-filter:blur(8px);padding-bottom:env(safe-area-inset-bottom)}
+  .nav button{flex:1;background:none;border:none;color:var(--muted);padding:12px 0;font-size:12px}
+  .nav button.active{color:var(--accent)}.nav .ico{display:block;font-size:20px;line-height:1}
+  .row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);gap:10px}
+  .row:last-child{border-bottom:none}.row .lab{font-size:14px}.row .acc{font-weight:700}
+  .acc.lo{color:var(--bad)}.acc.mid{color:var(--warn)}.acc.hi{color:var(--good)}
+  .muted{color:var(--muted)}.center{text-align:center}.big{font-size:40px;margin:8px 0}
+  h2.section{font-size:14px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);margin:18px 4px 8px}
+  .pill{font-size:11px;border-radius:999px;padding:2px 8px;border:1px solid var(--line)}.pill.weak{color:var(--bad);border-color:var(--bad)}
+  .hide{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><div><h1>Shlav Alef · MCQ</h1><div class="sub">Sabiston · spaced repetition</div></div><div class="sub" id="streak"></div></header>
+
+  <section id="view-home">
+    <div class="kpis">
+      <div class="kpi due"><div class="n" id="kpi-due">0</div><div class="l">Due today</div></div>
+      <div class="kpi"><div class="n" id="kpi-total">0</div><div class="l">Total items</div></div>
+      <div class="kpi"><div class="n" id="kpi-acc">–</div><div class="l">Accuracy</div></div>
+      <div class="kpi"><div class="n" id="kpi-mastered">0</div><div class="l">Mastered</div></div>
+    </div>
+    <div class="card">
+      <div class="filter">
+        <select id="chap-filter"><option value="">All chapters</option></select>
+      </div>
+      <button class="btn" id="start-due">Start due review</button>
+      <button class="btn secondary" id="start-weak">Drill weak spots</button>
+      <button class="btn secondary" id="start-ahead">Study ahead / fresh items</button>
+    </div>
+    <div class="card" id="weak-home"></div>
+  </section>
+
+  <section id="view-quiz" class="hide">
+    <div class="progressbar"><i id="qbar"></i></div>
+    <div class="card">
+      <span class="tag" id="q-tag"></span>
+      <div class="stem" id="q-stem"></div>
+      <div id="q-opts"></div>
+      <div class="reveal" id="q-reveal">
+        <h4>Answer</h4><div class="key" id="q-key"></div>
+        <div id="q-exp" style="margin-top:8px"></div>
+        <div class="hy" id="q-hy"></div><div class="src" id="q-src"></div>
+      </div>
+    </div>
+    <button class="btn hide" id="q-next">Next</button>
+    <button class="btn secondary" id="q-quit">End session</button>
+  </section>
+
+  <section id="view-done" class="hide">
+    <div class="card center"><div class="big">✅</div><h2 id="done-title">Session complete</h2>
+      <p id="done-body" class="muted"></p><button class="btn" id="done-home">Back to home</button></div>
+  </section>
+
+  <section id="view-stats" class="hide">
+    <div class="card"><h2 class="section" style="margin-top:0">Coverage by section</h2><div id="stats-sections"></div></div>
+  </section>
+
+  <section id="view-settings" class="hide">
+    <div class="card"><h2 class="section" style="margin-top:0">Daily reminder</h2>
+      <p class="muted" style="font-size:14px">Web apps can't reliably schedule daily push (especially on iPhone). Best: add this app to your home screen, and also set a one-time repeating alarm in your phone's Clock/Calendar for your study time. The button below enables best-effort notifications where supported.</p>
+      <button class="btn secondary" id="enable-notif">Enable notifications (best-effort)</button></div>
+    <div class="card"><h2 class="section" style="margin-top:0">Your data</h2>
+      <p class="muted" style="font-size:14px">Progress is stored on this device. Export it to back up or to share with Claude for weak-spot analysis.</p>
+      <button class="btn secondary" id="export">Export progress (copy JSON)</button>
+      <button class="btn secondary" id="import">Import progress (paste JSON)</button>
+      <button class="btn secondary" id="reset" style="color:var(--bad)">Reset all progress</button></div>
+    <div class="card"><h2 class="section" style="margin-top:0">About</h2>
+      <p class="muted" style="font-size:14px">Sabiston board-style MCQs for Shlav Alef. Ladder: 1d → 3d → 1wk → 3wk → 2mo → mastered. Correct advances; wrong resets to 1d. <span id="ver"></span></p>
+      <button class="btn secondary" id="reload-q">Check for new questions</button></div>
+  </section>
+</div>
+
+<nav class="nav">
+  <button data-view="home" class="active"><span class="ico">🏠</span>Home</button>
+  <button data-view="stats"><span class="ico">📊</span>Stats</button>
+  <button data-view="settings"><span class="ico">⚙️</span>Settings</button>
+</nav>
+
+<script>
+const VERSION="v1.0", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+let QUESTIONS=[], state=null;
+const $=id=>document.getElementById(id);
+function todayStr(d){d=d||new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
+function addDays(n){const d=new Date();d.setDate(d.getDate()+n);return todayStr(d);}
+function loadState(){let s=null;try{s=JSON.parse(localStorage.getItem(STORE_KEY));}catch(e){}if(!s||!s.byId)s={byId:{},streak:{last:null,count:0},notif:false};QUESTIONS.forEach(q=>{if(!s.byId[q.id])s.byId[q.id]={idx:-1,due:todayStr(),last:null,seen:0,correct:0};});return s;}
+function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));}
+function isMastered(it){return it.idx>=LADDER.length;}
+function isDue(it){return !isMastered(it)&&it.due<=todayStr();}
+function grade(it,ok){it.seen++;if(ok)it.correct++;if(ok)it.idx=Math.max(it.idx,0)+1;else it.idx=0;if(it.idx>=LADDER.length){it.last="correct";it.due="2099-01-01";}else{it.due=addDays(LADDER[it.idx]);it.last=ok?"correct":"wrong";}const t=todayStr();if(state.streak.last!==t){state.streak.count=(state.streak.last===addDays(-1))?state.streak.count+1:1;state.streak.last=t;}save();}
+function curChap(){return $("chap-filter").value;}
+function pool(){const c=curChap();return c?QUESTIONS.filter(q=>q.chapter===c):QUESTIONS;}
+function dueList(){return pool().filter(q=>isDue(state.byId[q.id]));}
+function masteredCount(){return pool().filter(q=>isMastered(state.byId[q.id])).length;}
+function overallAcc(){let s=0,c=0;pool().forEach(q=>{const it=state.byId[q.id];s+=it.seen;c+=it.correct;});return s?Math.round(100*c/s):null;}
+function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.chapter+" · "+q.section;if(!m[k])m[k]={seen:0,correct:0,n:0,due:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;if(isDue(it))m[k].due++;});return Object.entries(m).map(([sec,v])=>({sec,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n,due:v.due}));}
+function weakSections(){return sectionStats().filter(s=>s.acc!==null&&s.seen>=1&&s.acc<70).sort((a,b)=>a.acc-b.acc);}
+function show(v){["home","quiz","done","stats","settings"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
+function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
+function renderHome(){$("kpi-due").textContent=dueList().length;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";const n=dueList().length;$("start-due").disabled=n===0;$("start-due").textContent=n?("Start due review ("+n+")"):"Nothing due 🎉";const ws=weakSections();$("weak-home").innerHTML=ws.length?'<h2 class="section" style="margin-top:0">Weak spots (&lt;70%)</h2>'+ws.map(s=>`<div class="row"><span class="lab">${s.sec} <span class="pill weak">weak</span></span><span class="acc lo">${s.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak spots yet. Sections under 70% will appear here as you drill.</p>';}
+let session=[],sIdx=0,answered=false;
+function startSession(items){if(!items.length){alert("Nothing to drill here.");return;}session=items.slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];const aw=A.last==="wrong"?0:1,bw=B.last==="wrong"?0:1;if(aw!==bw)return aw-bw;return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);});if(session.length>20)session=session.slice(0,20);sIdx=0;show("quiz");setNav("home");renderCard();}
+function renderCard(){answered=false;const q=session[sIdx];$("qbar").style.width=Math.round(100*sIdx/session.length)+"%";$("q-tag").textContent=q.chapter+" · "+q.section;$("q-stem").textContent=q.stem;const o=$("q-opts");o.innerHTML="";["A","B","C","D"].forEach(L=>{if(!q.options[L])return;const b=document.createElement("button");b.className="opt";b.innerHTML=`<span class="ltr">${L}</span><span>${q.options[L]}</span>`;b.onclick=()=>answer(L);o.appendChild(b);});$("q-reveal").style.display="none";$("q-next").classList.add("hide");$("q-next").textContent=sIdx===session.length-1?"Finish":"Next";}
+function answer(L){if(answered)return;answered=true;const q=session[sIdx],ok=L===q.answer;const bs=$("q-opts").querySelectorAll(".opt");["A","B","C","D"].forEach((LL,i)=>{const b=bs[i];if(!b)return;b.classList.add("disabled");if(LL===q.answer)b.classList.add("correct");else if(LL===L)b.classList.add("wrong");});$("q-key").innerHTML="Key: <b>"+q.answer+"</b> — "+(ok?'<span style="color:var(--good)">correct ✓</span>':'<span style="color:var(--bad)">you chose '+L+' ✗</span>');$("q-exp").textContent=q.exp||"";$("q-hy").textContent=q.hy?("🔑 "+q.hy):"";$("q-src").textContent=q.src?("📖 "+q.src):"";$("q-reveal").style.display="block";$("q-next").classList.remove("hide");grade(state.byId[q.id],ok);}
+$("q-next").onclick=()=>{sIdx++;if(sIdx>=session.length)finishSession();else renderCard();};
+$("q-quit").onclick=finishSession;
+function finishSession(){$("done-body").textContent=dueList().length?(dueList().length+" item(s) still due. Keep going or come back later."):"All due items cleared. 🎉";show("done");setNav("home");}
+$("done-home").onclick=()=>{renderHome();show("home");setNav("home");};
+$("start-due").onclick=()=>startSession(dueList());
+$("start-weak").onclick=()=>{const ws=weakSections().map(s=>s.sec);let it=pool().filter(q=>ws.includes(q.chapter+" · "+q.section));if(!it.length)it=pool().slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);}).slice(0,10);startSession(it);};
+$("start-ahead").onclick=()=>{const it=pool().filter(q=>!isMastered(state.byId[q.id])).sort((a,b)=>state.byId[a.id].due<state.byId[b.id].due?-1:1).slice(0,15);startSession(it);};
+function renderStats(){$("stats-sections").innerHTML=sectionStats().sort((a,b)=>(a.acc??101)-(b.acc??101)).map(s=>{const cls=s.acc===null?"":s.acc<70?"lo":s.acc<90?"mid":"hi";return `<div class="row"><span class="lab">${s.sec}<br><span class="muted" style="font-size:12px">${s.n} item(s)${s.due?" · "+s.due+" due":""}</span></span><span class="acc ${cls}">${s.acc===null?"–":s.acc+"%"}</span></div>`;}).join("");}
+$("ver").textContent=VERSION;
+$("enable-notif").onclick=async()=>{if(!("Notification"in window)){alert("Notifications unsupported here.");return;}const p=await Notification.requestPermission();if(p==="granted"){state.notif=true;save();new Notification("Reminders on",{body:"Best-effort. Also set a repeating phone alarm for reliability."});}else alert("Not granted.");};
+$("export").onclick=()=>{const t=JSON.stringify(state);navigator.clipboard?.writeText(t).then(()=>alert("Progress copied. Paste it to Claude for analysis."),()=>prompt("Copy your backup:",t));};
+$("import").onclick=()=>{const t=prompt("Paste exported progress JSON:");if(!t)return;try{const o=JSON.parse(t);if(o.byId){state=o;save();renderHome();alert("Imported.");}else alert("Invalid.");}catch(e){alert("Invalid JSON.");}};
+$("reset").onclick=()=>{if(confirm("Erase all progress on this device?")){localStorage.removeItem(STORE_KEY);state=loadState();save();renderHome();renderStats();alert("Reset.");}};
+$("reload-q").onclick=()=>location.reload();
+document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
+$("chap-filter").onchange=()=>{renderHome();};
+function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
+fetch("questions.json").then(r=>r.json()).then(data=>{QUESTIONS=data;state=loadState();save();const chaps=[...new Set(QUESTIONS.map(q=>q.chapter))];chaps.forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;$("chap-filter").appendChild(o);});renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+</body>
+</html>
