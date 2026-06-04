@@ -6158,5 +6158,1045 @@
   "vol": "",
   "chnum": "12",
   "chname": "Surgical Complications"
+ },
+ {
+  "id": "S13.1",
+  "chapter": "Ch13",
+  "section": "Outcomes / Frailty vs age",
+  "stem": "What does the chapter identify as the most important predictor of traditional surgical outcomes in older adults?",
+  "options": {
+   "A": "Frailty (how successfully the patient has aged), rather than chronologic age alone",
+   "B": "Chronologic age alone",
+   "C": "Body mass index",
+   "D": "The specific anesthetic agent used"
+  },
+  "answer": "A",
+  "exp": "Although increasing age does worsen surgical outcomes, multiple studies confirm that age alone is not the major predictor of poor outcome — rather, it is how successfully the patient has aged. Frailty, not chronologic age, is now the most important predictor of traditional surgical outcomes. BMI (C) and anesthetic agent (D) are not the chapter's answer.",
+  "hy": "Frailty, not chronologic age, best predicts surgical outcomes.",
+  "src": "Sabiston Ch 13, \"Outcomes of Surgery in Older Adults\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.2",
+  "chapter": "Ch13",
+  "section": "Surgical volume in older adults",
+  "stem": "Approximately what share of U.S. surgical procedures is accounted for by the ~15% of the population aged 65 and older?",
+  "options": {
+   "A": "About 40%",
+   "B": "About 10%",
+   "C": "About 25%",
+   "D": "About 65%"
+  },
+  "answer": "A",
+  "exp": "The ~15% of the U.S. population aged 65+ accounts for about 40% of surgical procedures, and this share is rising as the Baby Boomers age. The other figures are incorrect. This demographic shift drives the need to standardize geriatric surgical care.",
+  "hy": "15% of the population (65+) → ~40% of surgical procedures.",
+  "src": "Sabiston Ch 13, introduction",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.3",
+  "chapter": "Ch13",
+  "section": "Treatment preferences",
+  "stem": "In studies of seriously ill older adults' treatment preferences (Fig. 13.2), what most strongly reduced willingness to undergo even a low-burden treatment?",
+  "options": {
+   "A": "The possibility of resulting functional or cognitive impairment",
+   "B": "A small risk of death",
+   "C": "The need for a brief hospital stay",
+   "D": "The cost of the intervention"
+  },
+  "answer": "A",
+  "exp": "In Fried's work on treatment preferences, even a small possibility of cognitive or functional decline sharply reduced patients' willingness to undergo treatment — far more than a small risk of death. Patients accepted high-risk-of-death treatments more readily than treatments risking functional/cognitive loss (B is the opposite). Stay/cost (C, D) were not the driver.",
+  "hy": "Older patients fear functional/cognitive decline more than death.",
+  "src": "Sabiston Ch 13, Fig. 13.2",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.4",
+  "chapter": "Ch13",
+  "section": "Life expectancy / Table 13.1",
+  "stem": "Per the life-expectancy table, roughly how many additional years can an average 65-year-old woman expect to live?",
+  "options": {
+   "A": "About 20.6 years",
+   "B": "About 9.8 years",
+   "C": "About 5 years",
+   "D": "About 30 years"
+  },
+  "answer": "A",
+  "exp": "Per Table 13.1, an average 65-year-old woman can expect ~20.6 more years (nearly double her 1900 counterpart). 9.8 years (B) is the 80-year-old figure. The increase in longevity brings more older adults living with surgically treatable chronic disease.",
+  "hy": "65-year-old woman ≈ 20.6 more years.",
+  "src": "Sabiston Ch 13, Table 13.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.5",
+  "chapter": "Ch13",
+  "section": "Life expectancy / Table 13.1",
+  "stem": "Per the same table, roughly how many additional years can an average 80-year-old woman expect to live?",
+  "options": {
+   "A": "About 9.8 years",
+   "B": "About 20.6 years",
+   "C": "About 2 years",
+   "D": "About 16 years"
+  },
+  "answer": "A",
+  "exp": "Per Table 13.1, an average 80-year-old woman can expect ~9.8 more years; 20.6 years (B) is the 65-year-old figure. Life-expectancy estimates inform shared decision-making and screening decisions in older adults.",
+  "hy": "80-year-old woman ≈ 9.8 more years.",
+  "src": "Sabiston Ch 13, Table 13.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.6",
+  "chapter": "Ch13",
+  "section": "Fried frailty phenotype",
+  "stem": "The Fried frailty phenotype defines frailty by which five characteristics?",
+  "options": {
+   "A": "Weight loss, weak grip strength, self-reported exhaustion, slow walking speed, and low energy expenditure",
+   "B": "Age, sex, ASA class, BMI, and serum albumin",
+   "C": "Hypertension, diabetes, smoking, hyperlipidemia, and obesity",
+   "D": "Cognition, mood, continence, vision, and hearing"
+  },
+  "answer": "A",
+  "exp": "The Fried frailty phenotype defines frailty by weight loss, weak grip strength, self-reported exhaustion, slow walking speed, and low energy expenditure; ≥3 of these define the frail phenotype. The other lists are demographic/comorbidity or multidomain constructs, not the Fried phenotype.",
+  "hy": "Fried phenotype: weight loss, weak grip, exhaustion, slow gait, low activity.",
+  "src": "Sabiston Ch 13, \"Frailty\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.7",
+  "chapter": "Ch13",
+  "section": "Cardiovascular aging / Box 13.1",
+  "stem": "Which set of cardiovascular changes accompanies normal aging?",
+  "options": {
+   "A": "Preserved systolic function but increased diastolic dysfunction, reduced β-adrenergic responsiveness, and greater dependence on preload (atrial kick)",
+   "B": "Markedly reduced systolic function with preserved diastolic function",
+   "C": "Enhanced β-adrenergic responsiveness with reduced reliance on preload",
+   "D": "Decreased afterload from increased arterial compliance"
+  },
+  "answer": "A",
+  "exp": "With aging, systolic function is generally preserved while diastolic dysfunction increases (responsible for up to 50% of heart failure in those >80); β-adrenergic responsiveness declines, and the heart depends more on preload (including atrial kick). Option B reverses systolic/diastolic, C reverses adrenergic/preload, and D is wrong because arterial compliance falls (afterload rises).",
+  "hy": "Aging heart: preserved systole, more diastolic dysfunction, preload-dependent, hyposympathetic.",
+  "src": "Sabiston Ch 13, Box 13.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.8",
+  "chapter": "Ch13",
+  "section": "Cardiovascular aging — clinical implication",
+  "stem": "Because the aging heart maintains cardiac output mainly by increasing ventricular filling (preload) rather than rate, what is a key clinical consequence?",
+  "options": {
+   "A": "Even minor hypovolemia can significantly compromise cardiac function",
+   "B": "Tachycardia reliably compensates for blood loss",
+   "C": "Atrial fibrillation has no hemodynamic effect",
+   "D": "Cardiac output rises sharply with catecholamine infusion"
+  },
+  "answer": "A",
+  "exp": "Because the aging heart maintains output by augmenting preload rather than rate, even minor hypovolemia (or loss of atrial kick) can significantly compromise cardiac function. Tachycardia does not reliably compensate (B), atrial fibrillation removes the atrial contribution to preload (C), and the heart is relatively unresponsive to catecholamines (D).",
+  "hy": "Preload-dependent aging heart → minor hypovolemia is poorly tolerated.",
+  "src": "Sabiston Ch 13, \"Cardiovascular System\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.9",
+  "chapter": "Ch13",
+  "section": "Respiratory aging / Box 13.2",
+  "stem": "Which change in gas exchange and ventilatory control accompanies aging?",
+  "options": {
+   "A": "A decline in PaO₂ (~0.3–0.4 mm Hg/yr) with unchanged PaCO₂, and blunted ventilatory responses to hypoxia (~50%) and hypercapnia (~40%)",
+   "B": "A decline in PaCO₂ with rising PaO₂",
+   "C": "Enhanced ventilatory responses to hypoxia and hypercapnia",
+   "D": "A large fall in total lung capacity"
+  },
+  "answer": "A",
+  "exp": "Aging lowers PaO₂ by ~0.3–0.4 mm Hg/yr (ventilation-perfusion mismatch) while PaCO₂ stays unchanged, and ventilatory responses to hypoxia and hypercapnia fall by ~50% and ~40%, respectively. Options B and C reverse these, and total lung capacity actually stays roughly unchanged (D).",
+  "hy": "Aging lung: ↓PaO₂, unchanged PaCO₂; blunted hypoxic (50%)/hypercapnic (40%) drive.",
+  "src": "Sabiston Ch 13, Box 13.2",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.10",
+  "chapter": "Ch13",
+  "section": "Respiratory aging — volumes",
+  "stem": "How do lung volumes change with normal aging?",
+  "options": {
+   "A": "Total lung capacity is unchanged, but increased residual volume reduces vital capacity",
+   "B": "Total lung capacity falls markedly while residual volume decreases",
+   "C": "Vital capacity increases as residual volume falls",
+   "D": "All lung volumes decrease proportionally"
+  },
+  "answer": "A",
+  "exp": "Total lung capacity remains essentially unchanged with aging, but loss of elastic recoil increases residual volume, which reduces vital capacity. The other options misstate the volume changes; the loss of elastic inward recoil is partly offset by reduced chest-wall outward force.",
+  "hy": "Aging: TLC unchanged, ↑residual volume → ↓vital capacity.",
+  "src": "Sabiston Ch 13, \"Respiratory System\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.11",
+  "chapter": "Ch13",
+  "section": "Renal aging / Box 13.3",
+  "stem": "Which statement about renal function in aging is correct?",
+  "options": {
+   "A": "GFR falls ~45% by age 80 and renal blood flow ~50%, yet serum creatinine may stay normal because lean body mass (and creatinine production) also falls",
+   "B": "Serum creatinine reliably reflects GFR in the elderly",
+   "C": "Renal blood flow increases with age",
+   "D": "Tubular concentrating ability improves with age"
+  },
+  "answer": "A",
+  "exp": "GFR falls ~45% by age 80 and renal blood flow ~50%, yet serum creatinine can remain normal because declining lean body mass reduces creatinine production — so creatinine is an unreliable marker of GFR in the elderly. Renal blood flow falls (C), and concentrating ability declines (D).",
+  "hy": "Aging kidney: GFR ↓45%, RBF ↓50%; \"normal\" creatinine masks the decline.",
+  "src": "Sabiston Ch 13, Box 13.3/\"Renal System\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.12",
+  "chapter": "Ch13",
+  "section": "Renal aging — creatinine clearance",
+  "stem": "A serum creatinine of 1.0 mg/dL means very different things at different ages. Which statement and preferred estimating equation are correct?",
+  "options": {
+   "A": "It may represent CrCl >100 mL/min at age 30 but <60 mL/min at age 85; the Cockcroft-Gault equation correlates best with measured CrCl in older inpatients",
+   "B": "It always represents the same CrCl regardless of age",
+   "C": "The MDRD equation is preferred because 24-hour urine collection is easy in the elderly",
+   "D": "Serum creatinine overestimates renal function only in young patients"
+  },
+  "answer": "A",
+  "exp": "Because creatinine production falls with lean mass, a creatinine of 1.0 mg/dL can mean CrCl >100 mL/min at 30 but <60 mL/min at 85; the Cockcroft-Gault equation correlates best with measured CrCl in older inpatients (24-hour collection is unreliable due to incontinence/cognitive impairment). Options B–D misstate this.",
+  "hy": "Same creatinine = very different CrCl by age; use Cockcroft-Gault.",
+  "src": "Sabiston Ch 13, \"Renal System\"/Fig. 13.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.13",
+  "chapter": "Ch13",
+  "section": "Hepatobiliary aging / Box 13.4",
+  "stem": "Which hepatobiliary change accompanies aging?",
+  "options": {
+   "A": "Decreased hepatocyte number and hepatic blood flow with preserved synthetic capacity, plus an increased incidence of gallstones",
+   "B": "A marked fall in synthetic capacity (albumin, clotting factors)",
+   "C": "Increased hepatic blood flow",
+   "D": "A decreased incidence of gallstones"
+  },
+  "answer": "A",
+  "exp": "Aging decreases hepatocyte number and hepatic blood flow and alters drug clearance, but synthetic capacity (albumin, clotting factors) remains essentially unchanged; gallstone incidence rises. Option B is wrong (synthesis is preserved), C reverses blood flow, and D reverses gallstone incidence.",
+  "hy": "Aging liver: ↓hepatocytes/blood flow, preserved synthesis, ↑gallstones.",
+  "src": "Sabiston Ch 13, Box 13.4",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.14",
+  "chapter": "Ch13",
+  "section": "Immune aging / Box 13.5",
+  "stem": "Which set of immune changes (immunosenescence) accompanies aging?",
+  "options": {
+   "A": "Thymic involution with decreased naïve T-cell production, plus increased inflammatory cytokines and autoantibodies",
+   "B": "Thymic enlargement with increased naïve T cells",
+   "C": "Decreased autoantibodies and inflammatory cytokines",
+   "D": "Enhanced response to novel antigens"
+  },
+  "answer": "A",
+  "exp": "Immunosenescence features thymic involution with decreased production of naïve T cells, decreased T-cell mitogenic activity, and increases in inflammatory cytokines and autoantibodies (autoantibody prevalence >10% by age 80). This leaves older hosts less able to respond to new antigens (D is wrong).",
+  "hy": "Immunosenescence: thymic involution, fewer naïve T cells, more cytokines/autoantibodies.",
+  "src": "Sabiston Ch 13, Box 13.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.15",
+  "chapter": "Ch13",
+  "section": "Endocrine aging / glycemic target",
+  "stem": "What perioperative blood-glucose target is now widely accepted, even in older patients?",
+  "options": {
+   "A": "Below 180 mg/dL",
+   "B": "Below 110 mg/dL (tight control)",
+   "C": "Below 250 mg/dL",
+   "D": "Below 80 mg/dL"
+  },
+  "answer": "A",
+  "exp": "Maintaining blood glucose below 180 mg/dL in the perioperative period is now widely accepted, even in older patients; very tight control (<110) has not shown consistent benefit and risks hypoglycemia. The other targets are incorrect.",
+  "hy": "Perioperative glucose goal <180 mg/dL (avoid overly tight control).",
+  "src": "Sabiston Ch 13, \"Endocrine\"/diabetes",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.16",
+  "chapter": "Ch13",
+  "section": "Glucose intolerance in aging",
+  "stem": "In aging, \"glucose intolerance\" is characterized by a normal fasting glucose but a postchallenge glucose in which range?",
+  "options": {
+   "A": ">140 but <200 mg/dL",
+   "B": ">200 mg/dL",
+   "C": "<100 mg/dL",
+   "D": ">300 mg/dL"
+  },
+  "answer": "A",
+  "exp": "Glucose intolerance in aging is defined by a normal fasting glucose with a postchallenge glucose >140 but <200 mg/dL (a value ≥200 would be diabetes). It reflects declining insulin secretion and/or increasing insulin resistance.",
+  "hy": "Glucose intolerance: postchallenge 140–200 mg/dL with normal fasting glucose.",
+  "src": "Sabiston Ch 13, \"Endocrine\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.17",
+  "chapter": "Ch13",
+  "section": "Surgical decision-making",
+  "stem": "In the study by Fried and colleagues, what proportion of older patients would NOT want even a low-burden treatment if severe functional or cognitive impairment was the expected outcome?",
+  "options": {
+   "A": "More than 70%",
+   "B": "About 25%",
+   "C": "About 10%",
+   "D": "Fewer than 5%"
+  },
+  "answer": "A",
+  "exp": "More than 70% of older patients in Fried's study would not want even a low-burden treatment (e.g., IV antibiotics) if the expected outcome was severe functional or cognitive impairment — a concern that outweighed the concern for death. The smaller figures are incorrect.",
+  "hy": ">70% refuse even low-burden treatment if functional/cognitive impairment is expected.",
+  "src": "Sabiston Ch 13, \"Surgical Decision-Making\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.18",
+  "chapter": "Ch13",
+  "section": "Structured communication / Box 13.6",
+  "stem": "The \"Best Case/Worst Case\" model and structured communication frameworks are designed primarily to do what?",
+  "options": {
+   "A": "Place the acute surgical condition in the context of the patient's overall health and goals to support goal-concordant shared decision-making",
+   "B": "Estimate 30-day operative mortality with a validated calculator",
+   "C": "Replace the need for an advance directive",
+   "D": "Determine antibiotic prophylaxis"
+  },
+  "answer": "A",
+  "exp": "The \"Best Case/Worst Case\" and structured communication models place the acute surgical problem in the context of the patient's overall health and goals, eliciting priorities and framing options (including palliative ones) to support goal-concordant shared decision-making. They are not mortality calculators (B), do not replace advance directives (C), and are unrelated to prophylaxis (D).",
+  "hy": "Structured communication → goal-concordant shared decisions.",
+  "src": "Sabiston Ch 13, Box 13.6/\"Surgical Decision-Making\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.19",
+  "chapter": "Ch13",
+  "section": "Advance directives",
+  "stem": "Which statement about advance directives in older surgical patients is correct?",
+  "options": {
+   "A": "All patients should be encouraged to make a formal advance directive and name a surrogate; preferences should be discussed directly with the patient since surrogate–patient concordance is often poor",
+   "B": "Surrogates reliably know the patient's wishes, so direct discussion is unnecessary",
+   "C": "Advance directives preclude any disease-directed treatment",
+   "D": "They are only relevant once the patient is already incapacitated"
+  },
+  "answer": "A",
+  "exp": "All patients should be encouraged to complete a formal advance directive and name a surrogate, and preferences should be discussed directly with the patient because surrogate–patient (and physician–patient) concordance about wishes is often poor. Advance directives do not preclude disease treatment (C).",
+  "hy": "Encourage advance directives; ask the patient directly — surrogates often misjudge wishes.",
+  "src": "Sabiston Ch 13, \"Advanced Directives\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.20",
+  "chapter": "Ch13",
+  "section": "ACS/AGS preoperative checklist",
+  "stem": "The ACS/AGS best-practice preoperative assessment for geriatric patients is built around what?",
+  "options": {
+   "A": "A structured checklist covering cognition, depression, delirium risk, substance use, cardiac/pulmonary risk, functional status/falls, frailty, and nutrition",
+   "B": "A single frailty questionnaire",
+   "C": "Routine whole-body CT for all patients",
+   "D": "Mandatory preoperative ICU admission"
+  },
+  "answer": "A",
+  "exp": "The ACS/AGS best-practice guideline is a structured checklist covering cognition/capacity, depression, delirium risk, alcohol/substance use, cardiac and pulmonary risk, functional status and falls, frailty, nutrition, medication review/polypharmacy, and goals of care. It is not a single questionnaire (B) or routine imaging/ICU (C, D).",
+  "hy": "ACS/AGS geriatric preop = multidomain checklist (cognition, falls, frailty, nutrition...).",
+  "src": "Sabiston Ch 13, \"Screening to Identify High-Risk Characteristics\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.21",
+  "chapter": "Ch13",
+  "section": "Functional capacity / METs",
+  "stem": "In assessing older surgical patients, an inability to function above how many METs is associated with increased perioperative cardiac events and long-term risk?",
+  "options": {
+   "A": "4 METs",
+   "B": "1 MET",
+   "C": "10 METs",
+   "D": "7 METs"
+  },
+  "answer": "A",
+  "exp": "Exercise tolerance is the most sensitive predictor of perioperative cardiac/pulmonary complications, and an inability to exceed 4 METs is associated with increased perioperative cardiac events and long-term risk. One MET (3.5 mL/kg/min) is resting consumption; 10 METs is strenuous exertion.",
+  "hy": "Inability to exceed 4 METs flags increased perioperative cardiac risk.",
+  "src": "Sabiston Ch 13, \"Exercise tolerance\"/Fig. 13.8",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.22",
+  "chapter": "Ch13",
+  "section": "Falls / Timed Up and Go",
+  "stem": "On the Timed Up and Go test, which finding indicates a high fall risk?",
+  "options": {
+   "A": "Inability to rise from the chair without using the armrests, or a test time greater than 15 seconds",
+   "B": "A test time under 5 seconds",
+   "C": "Any need to turn around during the walk",
+   "D": "Completing the test in under 30 seconds"
+  },
+  "answer": "A",
+  "exp": "On the Timed Up and Go test, the inability to rise from the chair without using the armrests, or a test time greater than 15 seconds, indicates a high fall risk and prompts gait/balance training and physical therapy. The other findings are not the cutoff.",
+  "hy": "TUG: can't rise without arms, or >15 s = high fall risk.",
+  "src": "Sabiston Ch 13, \"Mobility/Fall Risk Assessment\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.23",
+  "chapter": "Ch13",
+  "section": "Malnutrition risk / Box 13.7",
+  "stem": "Which combination is listed among factors associated with increased risk of malnutrition in older adults?",
+  "options": {
+   "A": "Recent weight loss, poor dentition, depression, polypharmacy, and swallowing disorders",
+   "B": "High income and robust appetite",
+   "C": "Young age and high physical activity",
+   "D": "Recent weight gain and excellent oral intake"
+  },
+  "answer": "A",
+  "exp": "Box 13.7 lists factors such as recent weight loss, limited ability to obtain food, immobility, poverty, depression, isolation, cognitive impairment, poor dentition, swallowing disorders, GERD, malabsorption, systemic disease, and appetite-suppressing or metabolism-blocking drugs. High income/good appetite, youth, and weight gain (B, C, D) are not risk factors.",
+  "hy": "Malnutrition risks: weight loss, poor dentition, depression, polypharmacy, dysphagia.",
+  "src": "Sabiston Ch 13, Box 13.7",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.24",
+  "chapter": "Ch13",
+  "section": "Nutrition thresholds",
+  "stem": "Which set of objective findings identifies an older patient at high risk for nutrition-related complications?",
+  "options": {
+   "A": "BMI <18.5 kg/m², serum albumin <3.0 g/dL, and unintentional weight loss >10%–15% within 6 months",
+   "B": "BMI <25, albumin <4.5, and any weight loss",
+   "C": "BMI >30, albumin >3.5, and stable weight",
+   "D": "BMI <22, albumin <4.0, and 2% weight loss"
+  },
+  "answer": "A",
+  "exp": "Severe nutritional deficits are flagged by BMI <18.5 kg/m², serum albumin <3.0 g/dL, and unintentional weight loss >10%–15% within 6 months — identifying high risk for nutrition-related complications and possibly warranting preoperative supplementation even if surgery is delayed. The other thresholds are incorrect.",
+  "hy": "High nutritional risk: BMI <18.5, albumin <3.0, weight loss >10–15%/6 mo.",
+  "src": "Sabiston Ch 13, \"Nutritional Status\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.25",
+  "chapter": "Ch13",
+  "section": "Beers list / medications",
+  "stem": "According to the Beers list referenced in the chapter, which medications should generally be avoided in older adults?",
+  "options": {
+   "A": "Benzodiazepines, meperidine (Demerol), and diphenhydramine (Benadryl)",
+   "B": "Acetaminophen, cefazolin, and lisinopril",
+   "C": "Metformin, atorvastatin, and aspirin",
+   "D": "Omeprazole, amlodipine, and levothyroxine"
+  },
+  "answer": "A",
+  "exp": "The Beers list flags medications to avoid in older adults; the most commonly cited to avoid are all benzodiazepines, the analgesic meperidine (Demerol), and the antihistamine diphenhydramine (Benadryl). The other drug groups are not the Beers-list examples emphasized.",
+  "hy": "Avoid in elderly (Beers): benzodiazepines, meperidine, diphenhydramine.",
+  "src": "Sabiston Ch 13, \"Medication Management\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.26",
+  "chapter": "Ch13",
+  "section": "Multimodality pain / Box 13.8",
+  "stem": "The ACS Geriatric Surgery Verification standard for a multimodality pain plan emphasizes which approach?",
+  "options": {
+   "A": "Opioid-sparing techniques, \"start low, go slow\" titration, avoiding Beers-list drugs, and a prophylactic bowel regimen",
+   "B": "High-dose scheduled opioids with benzodiazepine adjuncts",
+   "C": "Routine meperidine for breakthrough pain",
+   "D": "Withholding all analgesia to avoid delirium"
+  },
+  "answer": "A",
+  "exp": "The ACS Geriatric Surgery Verification multimodality pain standard emphasizes opioid-sparing techniques (nonopioids, regional analgesia), \"start low, go slow\" titration for increased sensitivity, avoiding Beers-list drugs (benzodiazepines, meperidine, muscle relaxants), and a prophylactic bowel regimen. High-dose opioids/benzodiazepines (B), meperidine (C), and withholding analgesia (D) are wrong.",
+  "hy": "Geriatric pain plan: opioid-sparing, start low/go slow, avoid Beers, bowel regimen.",
+  "src": "Sabiston Ch 13, Box 13.8",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.27",
+  "chapter": "Ch13",
+  "section": "Delirium / CAM",
+  "stem": "A positive Confusion Assessment Method (CAM) diagnosis of delirium requires which combination of features?",
+  "options": {
+   "A": "Acute onset with a fluctuating course AND inattention, plus either disorganized thinking or an altered level of consciousness",
+   "B": "Chronic progressive memory loss over months",
+   "C": "A fixed, non-fluctuating cognitive deficit",
+   "D": "Hallucinations alone"
+  },
+  "answer": "A",
+  "exp": "A positive CAM requires (1) acute onset with a fluctuating course AND (2) inattention, plus either (3) disorganized thinking or (4) an altered level of consciousness. Chronic progressive loss (B) describes dementia, a fixed deficit (C) is not delirium, and hallucinations alone (D) are insufficient.",
+  "hy": "CAM: acute/fluctuating + inattention + (disorganized thinking OR altered consciousness).",
+  "src": "Sabiston Ch 13, \"Delirium\" (CAM)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.28",
+  "chapter": "Ch13",
+  "section": "Delirium incidence by procedure",
+  "stem": "Which set of approximate postoperative delirium incidences by procedure is correct?",
+  "options": {
+   "A": "<5% after cataract surgery, ~35% after vascular surgery, 40%–60% after hip fracture repair, and >50% in ICU patients",
+   "B": "~50% after cataract surgery and <5% after hip fracture repair",
+   "C": "Uniformly ~10% regardless of procedure",
+   "D": "Highest after cataract surgery and lowest after hip fracture repair"
+  },
+  "answer": "A",
+  "exp": "Postoperative delirium incidence varies by procedure: <5% after cataract surgery, ~35% after vascular surgery, 40%–60% after hip fracture repair, and >50% in older ICU patients. The other options invert or flatten these rates.",
+  "hy": "Delirium: cataract <5%, vascular 35%, hip fracture 40–60%, ICU >50%.",
+  "src": "Sabiston Ch 13, \"Delirium\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.29",
+  "chapter": "Ch13",
+  "section": "Delirium risk factors / Table 13.2",
+  "stem": "Which is a predisposing (risk) factor — rather than a precipitating factor — for postoperative delirium?",
+  "options": {
+   "A": "Preexisting cognitive impairment",
+   "B": "A new urinary tract infection",
+   "C": "Newly added psychoactive medication",
+   "D": "Acute electrolyte abnormality"
+  },
+  "answer": "A",
+  "exp": "Predisposing (risk) factors are baseline patient characteristics — advanced age, cognitive/functional impairment, poor nutrition, comorbidity, sensory impairment — whereas precipitating factors are acute insults (infection, new medications, hypoxia, electrolyte disturbance, pain). Preexisting cognitive impairment is a predisposing factor; B, C, and D are precipitating factors.",
+  "hy": "Predisposing = baseline (cognitive impairment); precipitating = acute insults (infection, drugs).",
+  "src": "Sabiston Ch 13, Table 13.2",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.30",
+  "chapter": "Ch13",
+  "section": "Delirium precipitating factors / Table 13.2",
+  "stem": "Which is a precipitating factor for postoperative delirium, and which laboratory finding is associated with increased delirium risk?",
+  "options": {
+   "A": "Use of bladder catheters/restraints and sleep disruption are precipitating factors; a postoperative hematocrit <30% is associated with increased delirium risk",
+   "B": "Advanced age is a precipitating factor; a hematocrit >45% increases risk",
+   "C": "Baseline dementia is a precipitating factor; hypernatremia is protective",
+   "D": "Epidural (vs general) anesthesia strongly precipitates delirium"
+  },
+  "answer": "A",
+  "exp": "Precipitating factors include bladder catheters/restraints, sleep disruption, infection, medications, hypoxemia, and electrolyte abnormalities; a postoperative hematocrit <30% (along with intraoperative blood loss and transfusion) is associated with increased delirium risk. Notably, no association was found with anesthetic route (epidural vs general), so D is wrong.",
+  "hy": "Precipitants: catheters/restraints, sleep disruption; hematocrit <30% raises delirium risk.",
+  "src": "Sabiston Ch 13, Table 13.2/\"Delirium\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.31",
+  "chapter": "Ch13",
+  "section": "Delirium management",
+  "stem": "Which statement about managing postoperative delirium is correct?",
+  "options": {
+   "A": "Prevention is best (orientation, mobility, sleep-wake cycle, avoiding deliriogenic drugs); low-dose antipsychotics (e.g., haloperidol) are reserved for patients who are a danger to themselves or others",
+   "B": "Scheduled benzodiazepines are first-line therapy",
+   "C": "General anesthesia clearly causes more delirium than epidural anesthesia",
+   "D": "Physical restraints are the preferred first measure"
+  },
+  "answer": "A",
+  "exp": "The best treatment for delirium is prevention (orientation, family at bedside, sensory aids, mobility, normal sleep-wake cycle, avoiding dehydration and deliriogenic drugs); low-dose antipsychotics such as haloperidol are reserved for patients who pose a danger to themselves or others. Benzodiazepines are not first-line (B), no association exists with anesthetic route (C), and restraints should be avoided (D).",
+  "hy": "Delirium: prevent first; low-dose antipsychotic only for dangerous agitation.",
+  "src": "Sabiston Ch 13, \"Delirium\" (treatment)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.32",
+  "chapter": "Ch13",
+  "section": "Aspiration",
+  "stem": "Which statement about postoperative aspiration in older adults is correct?",
+  "options": {
+   "A": "Incidence rises almost exponentially with age (patients >80 have a 9–10× higher risk than those 18–29); a 3-ounce bedside swallow test and 30–45° upright positioning help reduce risk",
+   "B": "Aspiration risk is independent of age",
+   "C": "Supine positioning reduces aspiration risk",
+   "D": "A 3-ounce swallow test is used to diagnose pneumonia"
+  },
+  "answer": "A",
+  "exp": "Postoperative aspiration-pneumonia incidence rises almost exponentially with age — patients >80 have a 9- to 10-fold higher risk than those 18–29 — and a 3-ounce bedside swallow test plus 30–45° upright positioning (during and after meals) helps reduce risk. Aspiration risk is age-dependent (B), supine positioning worsens risk (C), and the swallow test assesses swallowing, not pneumonia (D).",
+  "hy": ">80 yr → 9–10× aspiration risk; 3-oz swallow test + 30–45° upright.",
+  "src": "Sabiston Ch 13, \"Aspiration\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.33",
+  "chapter": "Ch13",
+  "section": "Deconditioning",
+  "stem": "Which statement about deconditioning from immobility is correct?",
+  "options": {
+   "A": "Functional decline can occur after as little as 2 days of immobility, and the period for functional recovery may be up to 3 times longer than the period of immobility",
+   "B": "Functional decline requires at least 2 weeks of bed rest",
+   "C": "Recovery is always faster than the immobility period",
+   "D": "Bed rest has no effect on bone or muscle"
+  },
+  "answer": "A",
+  "exp": "Functional decline can occur after as little as 2 days of immobility, and the period needed for functional recovery may be up to 3 times longer than the period of immobility — underscoring the value of early mobilization. The other options understate or deny these effects.",
+  "hy": "Decline after 2 days' immobility; recovery up to 3× the immobile period.",
+  "src": "Sabiston Ch 13, \"Deconditioning\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.34",
+  "chapter": "Ch13",
+  "section": "Bed rest effects / Table 13.3",
+  "stem": "Which cardiovascular/respiratory effects of bed rest are listed in the chapter?",
+  "options": {
+   "A": "Decreased stroke volume and cardiac output with orthostatic hypotension, and decreased respiratory excursion with increased atelectasis potential",
+   "B": "Increased stroke volume and cardiac output",
+   "C": "Improved oxygen uptake and reduced atelectasis",
+   "D": "No measurable cardiovascular effect"
+  },
+  "answer": "A",
+  "exp": "Table 13.3 lists decreased stroke volume and cardiac output with orthostatic hypotension (cardiovascular) and decreased respiratory excursion/oxygen uptake with increased atelectasis potential (respiratory). Options B–D reverse or deny these effects.",
+  "hy": "Bed rest: ↓stroke volume/CO + orthostasis; ↓respiratory excursion + atelectasis.",
+  "src": "Sabiston Ch 13, Table 13.3",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.35",
+  "chapter": "Ch13",
+  "section": "Bed rest effects / Table 13.3",
+  "stem": "Beyond the heart and lungs, which musculoskeletal and other effects of bed rest are listed?",
+  "options": {
+   "A": "Decreased muscle strength/blood flow, increased bone loss/decreased bone density, constipation, incontinence, and skin breakdown",
+   "B": "Increased muscle strength and bone density",
+   "C": "Improved gastrointestinal motility",
+   "D": "Enhanced skin integrity"
+  },
+  "answer": "A",
+  "exp": "Table 13.3 also lists decreased muscle strength and blood flow, increased bone loss with decreased bone density, gastrointestinal effects (malnutrition, anorexia, constipation), genitourinary incontinence, skin breakdown, and psychological effects (isolation, depression, disorientation). Options B–D contradict these.",
+  "hy": "Bed rest: ↓muscle/bone, constipation, incontinence, skin breakdown.",
+  "src": "Sabiston Ch 13, Table 13.3",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.36",
+  "chapter": "Ch13",
+  "section": "Thyroid cancer in elderly",
+  "stem": "Which statement about thyroid nodules/cancer in older adults is correct?",
+  "options": {
+   "A": "Malignant nodules tend to have more aggressive phenotypes in the elderly (thyroid-cancer–specific mortality ~8%), and outcomes are better when the surgeon's volume exceeds ~30 thyroidectomies/year",
+   "B": "Thyroid cancers are uniformly indolent in the elderly",
+   "C": "Surgeon volume has no effect on outcomes",
+   "D": "Age is a favorable prognostic factor for thyroid cancer"
+  },
+  "answer": "A",
+  "exp": "In older adults, thyroid nodules are common but malignant nodules tend to be more aggressive, with thyroid-cancer–specific mortality ~8%; outcomes in complex older patients are better when the surgeon performs >30 thyroidectomies/year. Thyroid cancers are not uniformly indolent (B), surgeon volume matters (C), and age is a negative prognostic factor (D).",
+  "hy": "Elderly thyroid cancer: more aggressive (~8% mortality); high-volume surgeon better.",
+  "src": "Sabiston Ch 13, \"Endocrine Surgery\" (thyroid)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.37",
+  "chapter": "Ch13",
+  "section": "Primary hyperparathyroidism",
+  "stem": "In an older outpatient with hypercalcemia, which statement is correct?",
+  "options": {
+   "A": "Primary hyperparathyroidism is the most common cause; surgery is indicated for serum calcium >1 mg/dL above normal, 24-h urine calcium >400 mg, CrCl <60 mL/min, or a T-score below −2.5",
+   "B": "Malignancy is the most common cause of outpatient hypercalcemia",
+   "C": "Surgery is never indicated for asymptomatic disease",
+   "D": "Parathyroidectomy requires the calcium to exceed 15 mg/dL"
+  },
+  "answer": "A",
+  "exp": "Primary hyperparathyroidism is the most common cause of hypercalcemia in the older outpatient; surgery is indicated for serum calcium >1 mg/dL above normal, 24-hour urine calcium >400 mg, CrCl <60 mL/min, or bone density >2.5 SD below peak (T-score < −2.5). Malignancy (B) is the more common cause in inpatients, asymptomatic disease can warrant surgery (C), and the calcium threshold is not 15 (D).",
+  "hy": "HPTH surgery: Ca >1 above normal, urine Ca >400, CrCl <60, T-score < −2.5.",
+  "src": "Sabiston Ch 13, \"Parathyroid Disease\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.38",
+  "chapter": "Ch13",
+  "section": "Parathyroid presentation / Table 13.4",
+  "stem": "How does primary hyperparathyroidism more often present in older adults?",
+  "options": {
+   "A": "With nonspecific neuropsychiatric and constitutional symptoms (fatigue, mental impairment, weakness, bone pain) rather than classic kidney stones",
+   "B": "Almost always with symptomatic nephrolithiasis",
+   "C": "With hypocalcemic tetany",
+   "D": "With no symptoms in the great majority of patients"
+  },
+  "answer": "A",
+  "exp": "Primary hyperparathyroidism in older adults more often presents with nonspecific neuropsychiatric and constitutional complaints — fatigue, mental/memory impairment, weakness, bone pain — rather than the classic kidney stones, and these symptoms are frequently misattributed to \"old age.\" Tetany (C) reflects hypocalcemia, and truly asymptomatic disease is a minority (D).",
+  "hy": "Elderly HPTH: neuropsychiatric/constitutional symptoms, not classic stones.",
+  "src": "Sabiston Ch 13, Table 13.4/\"Parathyroid Disease\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.39",
+  "chapter": "Ch13",
+  "section": "Parathyroid presentation / Table 13.4",
+  "stem": "Across the cited series of older parathyroid-surgery patients, which is true of the \"asymptomatic\" proportion?",
+  "options": {
+   "A": "Only a minority are truly asymptomatic (roughly 0%–20% across series), and symptoms are often wrongly attributed to \"old age\"",
+   "B": "The majority (>80%) are truly asymptomatic",
+   "C": "None are ever asymptomatic",
+   "D": "Asymptomatic disease is more common in the elderly than in younger patients"
+  },
+  "answer": "A",
+  "exp": "Across the cited series (Table 13.4), only a minority of older parathyroid-surgery patients are truly asymptomatic (roughly 0%–20%), and apparent \"asymptomatic\" status often reflects symptoms wrongly attributed to aging. The majority are not asymptomatic (B), some are (C is wrong), and asymptomatic disease is not more common in the elderly (D).",
+  "hy": "Few elderly HPTH patients are truly asymptomatic (~0–20%).",
+  "src": "Sabiston Ch 13, Table 13.4",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.40",
+  "chapter": "Ch13",
+  "section": "Breast disease",
+  "stem": "Which statement about breast cancer in older women is correct?",
+  "options": {
+   "A": "A new breast lump is likely malignant; tumors tend to have favorable biology (more hormone-sensitive) yet often present larger/more advanced, and surgical mortality in reasonable health is low (<1%)",
+   "B": "A new breast lump in an older woman is almost always benign",
+   "C": "Older women's tumors are usually hormone-receptor negative and high grade",
+   "D": "Surgical resection is contraindicated in all women over 70"
+  },
+  "answer": "A",
+  "exp": "In older women a new breast lump is likely malignant and should be pursued with biopsy; tumors tend to have favorable biology (more hormone-sensitive, lower grade) yet often present larger/more advanced, and surgical mortality in reasonable health is low (<1%). A new lump is not usually benign (B), the biology is favorable not unfavorable (C), and surgery is recommended for most older patients (D).",
+  "hy": "Older breast lump = likely cancer; favorable biology but later stage; surgery mortality <1%.",
+  "src": "Sabiston Ch 13, \"Breast Disease\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.41",
+  "chapter": "Ch13",
+  "section": "Mammography screening / Table 13.5",
+  "stem": "Which screening recommendation is correctly attributed?",
+  "options": {
+   "A": "USPSTF: biennial screening for women aged 50–74 (insufficient evidence to recommend for/against beyond 74)",
+   "B": "USPSTF: annual screening with no upper age limit",
+   "C": "ACS: screening stops at age 50",
+   "D": "AGS: no screening after age 70 under any circumstances"
+  },
+  "answer": "A",
+  "exp": "Per Table 13.5, the USPSTF recommends biennial screening mammography for women aged 50–74, with insufficient evidence to recommend for or against screening beyond age 74. The USPSTF does not recommend annual screening with no upper limit (B); ACS screens from ~45 (C); and AGS supports screening up to 85 with adequate life expectancy (D).",
+  "hy": "USPSTF: biennial mammography, ages 50–74.",
+  "src": "Sabiston Ch 13, Table 13.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.42",
+  "chapter": "Ch13",
+  "section": "Mammography screening / Table 13.5",
+  "stem": "Which screening recommendation is correctly attributed?",
+  "options": {
+   "A": "AGS: offer screening up to age 85 in women with a life expectancy ≥5 years (and to healthy women ≥85 with excellent function)",
+   "B": "ACS: stop screening at 45",
+   "C": "USPSTF: screen all women to age 100",
+   "D": "ACR: screening begins only at age 65"
+  },
+  "answer": "A",
+  "exp": "Per Table 13.5, the AGS recommends offering screening up to age 85 in women with a life expectancy ≥5 years (and to healthy women ≥85 with excellent functional status). The other attributions are incorrect (ACS continues as long as health/life expectancy ≥10 y; USPSTF stops the clear recommendation at 74).",
+  "hy": "AGS: screen to 85 if life expectancy ≥5 years.",
+  "src": "Sabiston Ch 13, Table 13.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.43",
+  "chapter": "Ch13",
+  "section": "GERD in elderly",
+  "stem": "How does gastroesophageal reflux disease often present in older adults?",
+  "options": {
+   "A": "With attenuated or atypical symptoms (dysphagia, anorexia, anemia, weight loss, vomiting) rather than classic heartburn, owing to decreased esophageal pain sensitivity",
+   "B": "With more severe heartburn than younger patients",
+   "C": "Always with classic retrosternal burning",
+   "D": "Without any risk of Barrett esophagus or adenocarcinoma"
+  },
+  "answer": "A",
+  "exp": "GERD in older adults often presents with attenuated or atypical symptoms — dysphagia, anorexia, anemia, weight loss, vomiting — rather than classic heartburn, partly from age-related decreased esophageal pain sensitivity; complications (erosive esophagitis, Barrett, adenocarcinoma) are actually more frequent. Older patients tend to have less severe heartburn (B, C wrong), and complications do occur (D wrong).",
+  "hy": "Elderly GERD: atypical/attenuated symptoms despite more complications.",
+  "src": "Sabiston Ch 13, \"Gastroesophageal reflux disease\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.44",
+  "chapter": "Ch13",
+  "section": "Paraesophageal hernia",
+  "stem": "What is the current management approach to an asymptomatic paraesophageal hernia in an older adult, and the risk if emergency surgery is needed?",
+  "options": {
+   "A": "Watchful waiting is generally recommended (low ~1.1%/yr risk of needing emergency surgery); emergency-surgery mortality is ~5.4%–8%",
+   "B": "Immediate repair is mandatory for all asymptomatic hernias",
+   "C": "Emergency repair carries negligible mortality",
+   "D": "These hernias never require surgery"
+  },
+  "answer": "A",
+  "exp": "For asymptomatic paraesophageal hernias in older adults, watchful waiting is now generally recommended (only ~1.1% annual probability of needing an emergency operation), and emergency-surgery mortality is ~5.4%–8% (higher with greater frailty). Immediate repair is no longer mandatory (B), emergency mortality is not negligible (C), and some do require surgery (D).",
+  "hy": "Asymptomatic paraesophageal hernia: watchful waiting; emergency mortality ~5–8%.",
+  "src": "Sabiston Ch 13, \"Paraesophageal hernias\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.45",
+  "chapter": "Ch13",
+  "section": "Peptic ulcer / NSAIDs",
+  "stem": "Which statement about peptic ulcer disease in older adults is correct?",
+  "options": {
+   "A": "Up to 80% of ulcer-related deaths occur in patients >65, and NSAID users have roughly twice the peptic-ulcer mortality of non-users",
+   "B": "NSAIDs are protective against ulcer complications in the elderly",
+   "C": "Peptic ulcer disease decreases in incidence with age",
+   "D": "Patient age alone is the strongest independent predictor of operative mortality for perforated ulcer"
+  },
+  "answer": "A",
+  "exp": "Up to 80% of peptic-ulcer-related deaths occur in patients >65, and NSAID users have roughly twice the peptic-ulcer mortality of non-users (80% of ulcer-related deaths are in NSAID users). NSAIDs increase, not protect against, ulcer complications (B); incidence rises with age (C); and age alone is not an independent predictor of operative mortality — concomitant disease, preoperative shock, and >48 h perforation are (D).",
+  "hy": "80% of ulcer deaths are >65; NSAIDs double ulcer mortality.",
+  "src": "Sabiston Ch 13, \"Peptic ulcer\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.46",
+  "chapter": "Ch13",
+  "section": "Gallstone ileus",
+  "stem": "Gallstone obstruction of the small bowel lumen accounts for what fraction of small-bowel obstructions overall, and of obstructions in older adults without a hernia or prior surgery?",
+  "options": {
+   "A": "1%–3% of all SBOs, but up to ~25% of obstructions in patients >65 without a hernia or prior surgery",
+   "B": "The majority of all SBOs at every age",
+   "C": "Less than 0.1% of obstructions in any group",
+   "D": "Equal proportions in young and old patients"
+  },
+  "answer": "A",
+  "exp": "Gallstone obstruction of the small bowel (\"gallstone ileus\") accounts for 1%–3% of all SBOs, but up to ~25% of obstructions in patients >65 who have no abdominal wall hernia or prior surgery. It is not the majority overall (B), not <0.1% (C), and is disproportionately a disease of older adults (D).",
+  "hy": "Gallstone ileus: 1–3% of all SBOs, up to 25% in elderly without hernia/prior surgery.",
+  "src": "Sabiston Ch 13, \"Small Bowel Obstruction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.47",
+  "chapter": "Ch13",
+  "section": "Biliary tract disease",
+  "stem": "Which statement about biliary disease in older adults is correct?",
+  "options": {
+   "A": "Biliary tract disease is the single most common cause of acute abdominal complaints in patients >65, and acute cholecystitis often presents atypically (up to ~25% with no tenderness, one-third with no fever or leukocytosis)",
+   "B": "Biliary disease is rare in older adults",
+   "C": "Acute cholecystitis always presents with classic right-upper-quadrant peritonitis in the elderly",
+   "D": "Gallstone prevalence decreases with age"
+  },
+  "answer": "A",
+  "exp": "Biliary tract disease is the single most common cause of acute abdominal complaints in patients >65, and acute cholecystitis often presents atypically — up to ~25% have no abdominal tenderness, one-third have no fever or leukocytosis, and many lack peritoneal signs. Biliary disease is common, not rare (B), presentation is often atypical (C), and gallstone prevalence rises with age (D).",
+  "hy": "Biliary disease = most common acute abdomen >65; cholecystitis often presents atypically.",
+  "src": "Sabiston Ch 13, \"Biliary Tract Disease\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.48",
+  "chapter": "Ch13",
+  "section": "Small bowel obstruction",
+  "stem": "Which statement about SBO in older adults is correct?",
+  "options": {
+   "A": "Adhesions are the most common cause; about 30% of adhesive SBOs ultimately require surgery; and 30-day mortality for malignant (metastatic) obstruction exceeds ~35%",
+   "B": "Hernias are the most common cause in Western countries",
+   "C": "All adhesive SBOs require immediate operation",
+   "D": "Strangulation is reliably identified by fever, tachycardia, and leukocytosis in the elderly"
+  },
+  "answer": "A",
+  "exp": "Adhesions cause the substantial majority of SBOs; about 30% of adhesive SBOs ultimately require surgery (most are managed initially nonoperatively with NG decompression and IV fluids); and 30-day operative mortality for malignant (metastatic) obstruction exceeds ~35%. Hernias are second, not first (B); not all adhesive SBOs need surgery (C); and strangulation signs are notoriously misleading in the elderly (D).",
+  "hy": "SBO: adhesions #1; ~30% of adhesive SBOs need surgery; malignant obstruction mortality >35%.",
+  "src": "Sabiston Ch 13, \"Small Bowel Obstruction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.49",
+  "chapter": "Ch13",
+  "section": "Appendicitis in elderly",
+  "stem": "Which statement about appendicitis in older adults is correct?",
+  "options": {
+   "A": "It accounts for 5%–10% of cases; the classic presentation is seen in <20%; and >50% have perforated appendicitis at operation due to delays",
+   "B": "The classic presentation occurs in the majority of older patients",
+   "C": "Perforation is rare in older patients",
+   "D": "The white-count and temperature are reliably elevated in the elderly"
+  },
+  "answer": "A",
+  "exp": "Appendicitis accounts for 5%–10% of cases in old age; the classic presentation is seen in <20% of older patients, and delays mean >50% have perforated appendicitis at operation, with high morbidity/mortality. The classic presentation is uncommon (B), perforation is frequent (C), and WBC/temperature are normal in 20%–50% (D).",
+  "hy": "Elderly appendicitis: classic picture <20%; >50% perforated at operation.",
+  "src": "Sabiston Ch 13, \"Appendicitis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.50",
+  "chapter": "Ch13",
+  "section": "Colorectal cancer",
+  "stem": "Which statement about colorectal cancer in older adults is correct?",
+  "options": {
+   "A": "Most new cases occur in those ≥65; emergency surgery carries threefold-to-fourfold higher mortality than elective; and sphincter-saving coloanal anastomosis can achieve continence in ~80% of selected older patients",
+   "B": "Colorectal cancer is predominantly a disease of the young",
+   "C": "Emergency and elective resections carry identical mortality",
+   "D": "Older patients are over-represented in adjuvant-therapy trials"
+  },
+  "answer": "A",
+  "exp": "Most new colorectal cancers occur in those ≥65 (71% of new cases); emergency surgery carries threefold-to-fourfold higher mortality than elective; and sphincter-saving coloanal anastomosis can achieve continence in ~80% of selected older patients. Colorectal cancer is a disease of aging (B), emergency vs elective mortality differ greatly (C), and older patients are under-represented in adjuvant trials (D).",
+  "hy": "Colorectal cancer: ≥65 in most; emergency surgery 3–4× mortality; coloanal continence ~80%.",
+  "src": "Sabiston Ch 13, \"Carcinoma of the Colon and Rectum\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.51",
+  "chapter": "Ch13",
+  "section": "AAA / EVAR",
+  "stem": "Which statement about abdominal aortic aneurysm repair in older adults is correct?",
+  "options": {
+   "A": "Elective AAA repair mortality is generally <5% at ≥65; EVAR's early perioperative survival advantage is not sustained long-term; and for ruptured AAA, EVAR carries a lower 30-day mortality (~20%) than open repair (~36%)",
+   "B": "Open repair of ruptured AAA carries a mortality under 10%",
+   "C": "EVAR is contraindicated in all patients over 70",
+   "D": "Elective AAA repair mortality exceeds 30% in all older patients"
+  },
+  "answer": "A",
+  "exp": "Elective AAA repair mortality is generally <5% in those ≥65; EVAR's early perioperative survival advantage is not sustained beyond a few years; and for ruptured AAA, EVAR carries a lower 30-day mortality (~19.7%) than open repair (~36.3%). Open ruptured-AAA mortality exceeds 50% in older series (B), EVAR is appropriate for suitable older anatomy (C), and elective mortality is not >30% (D).",
+  "hy": "Elective AAA <5%; ruptured AAA ~20% (EVAR) vs ~36% (open).",
+  "src": "Sabiston Ch 13, \"Abdominal Aortic Aneurysm\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S13.52",
+  "chapter": "Ch13",
+  "section": "Carotid disease",
+  "stem": "In comparing carotid endarterectomy (CEA) and carotid artery stenting (CAS) in older patients, which periprocedural pattern is correct?",
+  "options": {
+   "A": "Stenting carries a higher periprocedural stroke risk while endarterectomy carries a higher MI risk; patients >75 have increased stroke risk with stenting (arch calcium/tortuosity)",
+   "B": "Endarterectomy carries a higher stroke risk and stenting a higher MI risk",
+   "C": "Stenting is uniformly safer than endarterectomy in the very elderly",
+   "D": "Age has no bearing on the choice between CEA and CAS"
+  },
+  "answer": "A",
+  "exp": "Comparing CEA and CAS, the periprocedural period shows a higher stroke risk with stenting and a higher MI risk with endarterectomy; patients >75 have increased stroke risk with stenting because of greater aortic-arch calcium and tortuosity, so age should factor into the choice. Option B reverses the stroke/MI pattern, C overstates stenting safety, and D denies the age effect.",
+  "hy": "CAS → more stroke; CEA → more MI; stenting riskier for stroke in patients >75.",
+  "src": "Sabiston Ch 13, \"Carotid Artery Disease\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "13",
+  "chname": "Surgery in the Geriatric Patient"
  }
 ]
