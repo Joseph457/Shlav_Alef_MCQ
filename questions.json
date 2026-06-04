@@ -8458,5 +8458,1325 @@
   "vol": "",
   "chnum": "14",
   "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S17.1",
+  "chapter": "Ch17",
+  "section": "Injury Severity Score / Table 17.1",
+  "stem": "How is the Injury Severity Score (ISS) calculated, and what is its range?",
+  "options": {
+   "A": "By summing the squares of the AIS severity codes of the three most severely injured body regions; it ranges from 1 to 75",
+   "B": "By averaging the GCS, systolic blood pressure, and respiratory rate",
+   "C": "By adding the AIS codes of all injured regions; it ranges from 0 to 12",
+   "D": "By multiplying the worst AIS code by the number of injuries"
+  },
+  "answer": "A",
+  "exp": "The ISS is calculated by summing the squares of the AIS severity codes of the three most severely injured body regions, yielding a range of 1 to 75; it is the standard anatomic measure of overall injury burden. It is not an average of physiologic variables (B), a simple sum (C), or a multiplication (D).",
+  "hy": "ISS = sum of squares of the 3 worst AIS regions (range 1–75).",
+  "src": "Sabiston Ch 17, \"Injury Scoring\"/Table 17.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.2",
+  "chapter": "Ch17",
+  "section": "ISS severity bands",
+  "stem": "Which ISS value defines \"severe\" injury?",
+  "options": {
+   "A": "ISS greater than 25",
+   "B": "ISS less than 9",
+   "C": "ISS between 9 and 16",
+   "D": "ISS of exactly 15"
+  },
+  "answer": "A",
+  "exp": "ISS severity bands are minor (<9), moderate (9–16), serious (16–25), and severe (>25), so an ISS greater than 25 defines severe injury. ISS <9 is minor (B), 9–16 is moderate (C), and a single value of 15 is moderate (D).",
+  "hy": "Severe injury = ISS >25.",
+  "src": "Sabiston Ch 17, \"Injury Scoring\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.3",
+  "chapter": "Ch17",
+  "section": "Abbreviated Injury Scale / Table 17.1",
+  "stem": "In the Abbreviated Injury Scale, what does the \"post-dot\" severity code represent?",
+  "options": {
+   "A": "A 1-to-6 score of injury severity/risk of death (1 = minimal, 6 = presumably fatal)",
+   "B": "The body region of the injury only",
+   "C": "The number of injured organs",
+   "D": "The patient's Glasgow Coma Scale"
+  },
+  "answer": "A",
+  "exp": "The AIS \"post-dot\" code is a 1-to-6 severity score (1 minimal, 6 presumably fatal) describing the risk of death for each injury, used to cohort injuries and feed the ISS. It does not encode body region alone (B), organ count (C), or GCS (D).",
+  "hy": "AIS post-dot = severity 1 (minimal) to 6 (fatal).",
+  "src": "Sabiston Ch 17, Table 17.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.4",
+  "chapter": "Ch17",
+  "section": "Glasgow Coma Scale / Table 17.2",
+  "stem": "Which set correctly describes the Glasgow Coma Scale components and range?",
+  "options": {
+   "A": "Best eye opening (max 4), verbal response (max 5), motor response (max 6); total range 3–15",
+   "B": "Eye (max 6), verbal (max 4), motor (max 5); range 0–12",
+   "C": "Eye, verbal, motor each scored 0–10; range 0–30",
+   "D": "A single 1–15 consciousness score"
+  },
+  "answer": "A",
+  "exp": "The GCS scores best eye opening (max 4), verbal response (max 5), and motor response (max 6), for a total range of 3–15. The other options misassign the component maxima or the range.",
+  "hy": "GCS: eye 4, verbal 5, motor 6; total 3–15.",
+  "src": "Sabiston Ch 17, Table 17.2",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.5",
+  "chapter": "Ch17",
+  "section": "GCS — motor score",
+  "stem": "Which component of the GCS has been found to be most reflective of outcomes after traumatic brain injury?",
+  "options": {
+   "A": "The motor response score",
+   "B": "The eye-opening score",
+   "C": "The verbal response score",
+   "D": "The pupil size"
+  },
+  "answer": "A",
+  "exp": "The motor response component of the GCS has been found to be the most reflective of outcomes after traumatic brain injury. Eye opening, verbal response, and pupil size are not the cited best predictor.",
+  "hy": "GCS motor score best predicts TBI outcome.",
+  "src": "Sabiston Ch 17, \"Injury Scoring\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.6",
+  "chapter": "Ch17",
+  "section": "GCS scoring",
+  "stem": "A trauma patient opens his eyes to voice, is confused when spoken to, and localizes to painful stimulus. What is his Glasgow Coma Scale score?",
+  "options": {
+   "A": "12 (E3 + V4 + M5)",
+   "B": "8 (E2 + V2 + M4)",
+   "C": "15 (E4 + V5 + M6)",
+   "D": "6 (E2 + V1 + M3)"
+  },
+  "answer": "A",
+  "exp": "Eyes opening to voice = E3, confused speech = V4, and localizing to pain = M5, summing to a GCS of 12. The other totals reflect different component scores.",
+  "hy": "E3 + V4 + M5 = GCS 12.",
+  "src": "Sabiston Ch 17, Table 17.2",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.7",
+  "chapter": "Ch17",
+  "section": "Revised Trauma Score / Table 17.3",
+  "stem": "Which three variables make up the Revised Trauma Score?",
+  "options": {
+   "A": "Glasgow Coma Scale, systolic blood pressure, and respiratory rate",
+   "B": "Heart rate, hemoglobin, and base deficit",
+   "C": "Age, mechanism of injury, and ISS",
+   "D": "Pupil size, temperature, and urine output"
+  },
+  "answer": "A",
+  "exp": "The Revised Trauma Score is a physiologic score combining the Glasgow Coma Scale, systolic blood pressure, and respiratory rate (each coded, total 0–12). The other variable sets are not the RTS.",
+  "hy": "RTS = GCS + systolic BP + respiratory rate.",
+  "src": "Sabiston Ch 17, Table 17.3",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.8",
+  "chapter": "Ch17",
+  "section": "Revised Trauma Score / Table 17.3",
+  "stem": "On the Revised Trauma Score, which physiologic value earns the maximum coded points (4)?",
+  "options": {
+   "A": "A systolic blood pressure greater than 89 mm Hg (and a GCS of 13–15)",
+   "B": "A systolic blood pressure of 1–49 mm Hg",
+   "C": "A respiratory rate of 0",
+   "D": "A GCS of 3"
+  },
+  "answer": "A",
+  "exp": "On the RTS, the top coded value (4) corresponds to a systolic blood pressure >89 mm Hg (and, separately, a GCS of 13–15 and respiratory rate 10–29). A systolic BP of 1–49 (B), a respiratory rate of 0 (C), and a GCS of 3 (D) all score the lowest (0).",
+  "hy": "RTS: SBP >89 (and GCS 13–15) earn the max 4 points.",
+  "src": "Sabiston Ch 17, Table 17.3",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.9",
+  "chapter": "Ch17",
+  "section": "Trauma systems",
+  "stem": "What did the National Study on the Costs and Outcomes of Trauma (NSCOT) demonstrate about care at trauma centers?",
+  "options": {
+   "A": "Care at a trauma center was associated with ~20%–25% lower mortality than at a non-trauma center, after adjusting for injury severity",
+   "B": "There was no mortality difference between trauma and non-trauma centers",
+   "C": "Trauma centers increased mortality due to overtreatment",
+   "D": "Mortality benefit was seen only in pediatric patients"
+  },
+  "answer": "A",
+  "exp": "NSCOT (>5000 patients, 69 hospitals) showed that, after correcting for injury severity, care at a trauma center was associated with a 20% reduction in in-hospital mortality and a 25% reduction in 1-year mortality versus non-trauma centers. There is a clear benefit (B, C wrong), and it was not limited to children (D).",
+  "hy": "Trauma-center care: ~20–25% lower mortality (NSCOT).",
+  "src": "Sabiston Ch 17, \"Trauma Systems\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.10",
+  "chapter": "Ch17",
+  "section": "Prehospital care",
+  "stem": "Which prehospital principles does the chapter emphasize?",
+  "options": {
+   "A": "Minimize scene time (target <15 minutes) and recognize that prehospital hypotension (<90 mm Hg), GCS ≤8, and nonextremity firearm injury predict higher mortality",
+   "B": "Spend at least 30 minutes stabilizing at the scene before transport",
+   "C": "Definitive operative repair should occur in the field",
+   "D": "Prehospital hypotension has no prognostic value"
+  },
+  "answer": "A",
+  "exp": "Prehospital care emphasizes minimizing scene time (target <15 minutes) with a \"load and go\" approach, and recognizes that prehospital hypotension (<90 mm Hg), GCS ≤8, and nonextremity firearm injury predict higher mortality with increasing prehospital time. Prolonged scene stabilization (B), field definitive repair (C), and ignoring hypotension (D) are wrong.",
+  "hy": "Scene time <15 min; prehospital hypotension/GCS ≤8 predict death.",
+  "src": "Sabiston Ch 17, \"Prehospital Trauma Care\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.11",
+  "chapter": "Ch17",
+  "section": "Shock definition",
+  "stem": "How does ATLS define shock, and what is the most common cause in the injured patient?",
+  "options": {
+   "A": "Evidence of end-organ hypoperfusion on physical exam; hemorrhage is by far the most common cause",
+   "B": "A systolic blood pressure below 90 mm Hg; sepsis is the most common cause",
+   "C": "A heart rate above 120 bpm; neurogenic shock is most common",
+   "D": "Loss of consciousness; cardiogenic shock is most common"
+  },
+  "answer": "A",
+  "exp": "ATLS defines shock clinically as evidence of end-organ hypoperfusion on physical exam, and hemorrhage is by far the most common cause in trauma — acute blood loss must be excluded before other causes. Hypotension is a late sign (B), and neurogenic/cardiogenic causes are far less common (C, D).",
+  "hy": "Shock = end-organ hypoperfusion; hemorrhage most common in trauma.",
+  "src": "Sabiston Ch 17, \"Circulation\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.12",
+  "chapter": "Ch17",
+  "section": "Hemorrhagic shock classes / Table 17.4",
+  "stem": "By the ATLS classification of hemorrhagic shock, what blood-volume loss defines Class III?",
+  "options": {
+   "A": "30%–40%",
+   "B": "Less than 15%",
+   "C": "15%–30%",
+   "D": "Greater than 40%"
+  },
+  "answer": "A",
+  "exp": "ATLS Class III hemorrhagic shock corresponds to a 30%–40% blood-volume loss; Class I is <15%, Class II is 15%–30%, and Class IV is >40%.",
+  "hy": "Class III hemorrhage = 30–40% volume loss.",
+  "src": "Sabiston Ch 17, Table 17.4",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.13",
+  "chapter": "Ch17",
+  "section": "Hemorrhagic shock classes / Table 17.4",
+  "stem": "Which statement about the ATLS hemorrhagic shock classes is correct?",
+  "options": {
+   "A": "Blood pressure typically remains normal until Class III; Class II shows tachycardia and a narrowed pulse pressure with a still-normal blood pressure",
+   "B": "Hypotension appears in Class I",
+   "C": "Urine output is unaffected even in Class IV",
+   "D": "Class I requires a massive transfusion protocol"
+  },
+  "answer": "A",
+  "exp": "Blood pressure typically remains normal until Class III hemorrhage; Class II shows tachycardia and a narrowed (decreased) pulse pressure while systolic BP is still normal. Hypotension does not appear in Class I (B), urine output falls by Class III–IV (C), and Class I needs only monitoring, not MTP (D).",
+  "hy": "BP stays normal until Class III; Class II = tachycardia + narrow pulse pressure.",
+  "src": "Sabiston Ch 17, Table 17.4",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.14",
+  "chapter": "Ch17",
+  "section": "Initial resuscitation",
+  "stem": "What is the ATLS-recommended initial fluid resuscitation, and what crystalloid threshold increases the risk of death?",
+  "options": {
+   "A": "1 L of warmed crystalloid initially, moving to blood-product resuscitation; crystalloid beyond 1.5 L increases the risk of death",
+   "B": "4 L of crystalloid before any blood products",
+   "C": "Vasopressors first, before any fluid",
+   "D": "Unlimited crystalloid until blood pressure normalizes"
+  },
+  "answer": "A",
+  "exp": "ATLS recommends initial resuscitation with 1 L of warmed crystalloid (via two large-bore IVs, an IO, or central access), moving to product-based resuscitation in nonresponders; crystalloid beyond 1.5 L increases the risk of death. Large crystalloid volumes (B, D) and vasopressors-first (C) are incorrect.",
+  "hy": "Start 1 L warmed crystalloid; >1.5 L crystalloid increases mortality.",
+  "src": "Sabiston Ch 17, \"Circulation\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.15",
+  "chapter": "Ch17",
+  "section": "Sources of exsanguination",
+  "stem": "What are the major anatomic locations through which life-threatening blood loss may occur in trauma?",
+  "options": {
+   "A": "Chest, abdomen, retroperitoneum, pelvis, and long-bone fractures (plus external loss)",
+   "B": "Only the chest and abdomen",
+   "C": "The cranium and scalp",
+   "D": "The bladder and ureters"
+  },
+  "answer": "A",
+  "exp": "Exsanguination in trauma occurs through five major sites: the chest, abdomen, retroperitoneum, pelvis, and long-bone fractures (plus identifiable external loss). The narrower options miss the retroperitoneum/pelvis/long bones; cranial and bladder bleeding are not the major exsanguination sites.",
+  "hy": "Five bleeding sites: chest, abdomen, retroperitoneum, pelvis, long bones (+ external).",
+  "src": "Sabiston Ch 17, \"Circulation\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.16",
+  "chapter": "Ch17",
+  "section": "FAST scan",
+  "stem": "The Focused Assessment with Sonography in Trauma (FAST) assesses which spaces for fluid?",
+  "options": {
+   "A": "The hepatorenal (Morison pouch), splenorenal, and pelvic spaces, plus the pericardium",
+   "B": "Only the bladder",
+   "C": "The pleural apices bilaterally",
+   "D": "The retroperitoneal aorta"
+  },
+  "answer": "A",
+  "exp": "The FAST examination assesses the hepatorenal space (Morison pouch), the splenorenal space, the pelvis, and the pericardium for fluid, which in trauma is presumed to be blood; it is fast and repeatable. The other single-space answers are incorrect.",
+  "hy": "FAST: hepatorenal, splenorenal, pelvic, and pericardial windows.",
+  "src": "Sabiston Ch 17, \"Circulation\" (FAST)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.17",
+  "chapter": "Ch17",
+  "section": "Tension pneumothorax",
+  "stem": "How should a suspected tension pneumothorax be managed during the primary survey?",
+  "options": {
+   "A": "It is a clinical diagnosis requiring immediate decompression (needle/finger thoracostomy then tube), not waiting for a chest radiograph",
+   "B": "Confirm with CT before any intervention",
+   "C": "Observe and obtain serial chest radiographs",
+   "D": "Treat with diuretics and oxygen alone"
+  },
+  "answer": "A",
+  "exp": "Tension pneumothorax is a clinical diagnosis (hypotension, decreased breath sounds, poor compliance) requiring immediate decompression (needle or finger thoracostomy followed by a chest tube) — not waiting for imaging. Confirming with CT (B) or serial films (C), or treating with diuretics (D), would be dangerous delays.",
+  "hy": "Tension PTX: clinical diagnosis → immediate decompression, no imaging delay.",
+  "src": "Sabiston Ch 17, \"Breathing\"/\"Chest\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.18",
+  "chapter": "Ch17",
+  "section": "Cardiac tamponade",
+  "stem": "Which clinical triad suggests pericardial tamponade, and what bedside test/procedure evaluates the pericardium?",
+  "options": {
+   "A": "Beck triad (hypotension, distended neck veins, muffled heart sounds); ultrasound, with a subxiphoid pericardial window if inconclusive",
+   "B": "Cushing triad; bronchoscopy",
+   "C": "Charcot triad; paracentesis",
+   "D": "Virchow triad; pericardiocentesis only"
+  },
+  "answer": "A",
+  "exp": "Pericardial tamponade is suggested by the Beck triad (hypotension, distended neck veins, muffled heart sounds), though it is inconsistently present; ultrasound rapidly assesses the pericardium, and a subxiphoid pericardial window is used when ultrasound is inconclusive (e.g., with a hemothorax). The other triads/procedures are unrelated.",
+  "hy": "Tamponade = Beck triad; ultrasound ± subxiphoid window.",
+  "src": "Sabiston Ch 17, \"Chest\" (cardiac injury)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.19",
+  "chapter": "Ch17",
+  "section": "Disability / neurogenic shock",
+  "stem": "Which statement about neurogenic shock in the trauma patient is correct?",
+  "options": {
+   "A": "It requires a cervical or high thoracic spinal cord injury; if the patient can move the upper extremities, neurogenic shock is much less likely, and hemorrhage must still be excluded",
+   "B": "It is the most common cause of shock in trauma",
+   "C": "A lumbar fracture is the usual cause",
+   "D": "It is diagnosed before excluding hemorrhage"
+  },
+  "answer": "A",
+  "exp": "Neurogenic shock requires a cervical or high thoracic spinal cord injury; if the patient can move the upper extremities, neurogenic shock is much less likely — and because hemorrhage is so common in trauma, blood loss must be excluded before attributing shock to the cord injury. It is not the most common cause (B), a lumbar fracture does not cause it (C), and hemorrhage must be excluded first (D).",
+  "hy": "Neurogenic shock needs a cervical/high-thoracic SCI; exclude hemorrhage first.",
+  "src": "Sabiston Ch 17, \"Disability and Exposure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.20",
+  "chapter": "Ch17",
+  "section": "Lethal triad / exposure",
+  "stem": "Which three derangements form the \"lethal triad\" (terrible triad of death) in trauma, prompting aggressive rewarming after exposure?",
+  "options": {
+   "A": "Hypothermia, acidosis, and coagulopathy",
+   "B": "Hypoxia, hypercarbia, and hypotension",
+   "C": "Hyperkalemia, acidosis, and hypocalcemia",
+   "D": "Fever, tachycardia, and leukocytosis"
+  },
+  "answer": "A",
+  "exp": "The lethal (terrible) triad of death in trauma is hypothermia, acidosis, and coagulopathy; hypothermia is countered with blankets, warming devices (e.g., Bair Hugger), a warm room, and warmed fluids during the exposure phase. The other triads are incorrect.",
+  "hy": "Lethal triad: hypothermia + acidosis + coagulopathy.",
+  "src": "Sabiston Ch 17, \"Disability and Exposure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.21",
+  "chapter": "Ch17",
+  "section": "Resuscitative thoracotomy",
+  "stem": "Resuscitative thoracotomy in the emergency department provides which therapeutic maneuvers?",
+  "options": {
+   "A": "Release of cardiac tamponade, temporary repair of cardiac injury, cross-clamping the descending thoracic aorta, and control of intrathoracic bleeding",
+   "B": "Definitive coronary bypass",
+   "C": "Pulmonary lobectomy",
+   "D": "Repair of the abdominal aorta"
+  },
+  "answer": "A",
+  "exp": "Resuscitative thoracotomy provides four therapeutic maneuvers: release of cardiac tamponade, temporary repair of a cardiac injury, cross-clamping of the descending thoracic aorta, and management of intrathoracic bleeding. It is not a definitive bypass, lobectomy, or abdominal aortic repair.",
+  "hy": "RT: relieve tamponade, repair heart, cross-clamp aorta, control thoracic bleeding.",
+  "src": "Sabiston Ch 17, \"Resuscitative Thoracotomy\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.22",
+  "chapter": "Ch17",
+  "section": "Resuscitative thoracotomy outcomes",
+  "stem": "Which patients have the best survival after resuscitative thoracotomy?",
+  "options": {
+   "A": "Those with penetrating thoracic injury and signs of life on arrival (~21% survival), versus blunt trauma without signs of life (<1%)",
+   "B": "Blunt trauma patients without signs of life",
+   "C": "Patients over age 57 with blunt arrest",
+   "D": "Patients with isolated extremity injury"
+  },
+  "answer": "A",
+  "exp": "The best survival after resuscitative thoracotomy is in patients with penetrating thoracic injury and signs of life on arrival (~21.3%, vs ~8.3% without signs of life), whereas blunt trauma fares poorly (4.6% with, 0.7% without signs of life). The other groups have poor or futile outcomes.",
+  "hy": "Best RT survival: penetrating chest + signs of life (~21%).",
+  "src": "Sabiston Ch 17, \"Resuscitative Thoracotomy\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.23",
+  "chapter": "Ch17",
+  "section": "Resuscitative thoracotomy futility",
+  "stem": "What does the NTDB review show about resuscitative thoracotomy in older patients?",
+  "options": {
+   "A": "Essentially 100% mortality in both blunt and penetrating mechanisms above age 57, favoring bilateral thoracostomy with conservative measures instead",
+   "B": "Improved survival with advancing age",
+   "C": "No relationship between age and outcome",
+   "D": "Best outcomes occur in patients over 70"
+  },
+  "answer": "A",
+  "exp": "An NTDB review of 11,380 patients found essentially 100% mortality after resuscitative thoracotomy in both blunt and penetrating mechanisms above age 57, so bilateral thoracostomy tubes with conservative transfusion measures are more appropriate in that group. Survival does not improve with age (B, D), and age clearly matters (C).",
+  "hy": "RT is futile (~100% mortality) above age 57.",
+  "src": "Sabiston Ch 17, \"Resuscitative Thoracotomy\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.24",
+  "chapter": "Ch17",
+  "section": "REBOA",
+  "stem": "How does resuscitative endovascular balloon occlusion of the aorta (REBOA) work in the decompensating trauma patient?",
+  "options": {
+   "A": "A balloon introduced via the common femoral artery is advanced proximal to the level of injury and inflated, shunting blood to the heart and brain while decreasing distal hemorrhage",
+   "B": "A balloon is placed in the inferior vena cava to increase venous return",
+   "C": "It permanently replaces the injured aortic segment",
+   "D": "It is inserted through the radial artery into the ascending aorta"
+  },
+  "answer": "A",
+  "exp": "REBOA introduces a balloon via the common femoral artery, advances it proximal to the level of injury, and inflates it — shunting blood to the heart and brain while decreasing distal hemorrhage in the decompensating patient. It is not placed in the IVC (B), does not replace the aorta (C), and is not a radial/ascending-aorta technique (D).",
+  "hy": "REBOA: femoral balloon proximal to injury shunts blood to heart/brain.",
+  "src": "Sabiston Ch 17, \"Resuscitative Thoracotomy and Endovascular Aortic Occlusion\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.25",
+  "chapter": "Ch17",
+  "section": "Damage control",
+  "stem": "What is the central concept of damage control surgery?",
+  "options": {
+   "A": "Abbreviated initial operation for hemostasis and contamination control with temporary closure, followed by ICU resuscitation and delayed definitive reconstruction",
+   "B": "Definitive repair of all injuries at the index operation regardless of physiology",
+   "C": "Avoiding any operation until the patient is fully resuscitated",
+   "D": "Routine primary anastomosis of all bowel injuries immediately"
+  },
+  "answer": "A",
+  "exp": "Damage control replaces definitive index-operation repair with an abbreviated operation for rapid hemostasis and contamination control plus temporary closure, followed by ICU resuscitation and delayed definitive reconstruction — preventing the deterioration seen with prolonged surgery in physiologically deranged patients. The other options describe the abandoned definitive-first or non-operative approaches.",
+  "hy": "Damage control: abbreviated hemostasis → ICU resuscitation → delayed reconstruction.",
+  "src": "Sabiston Ch 17, \"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.26",
+  "chapter": "Ch17",
+  "section": "Damage control resuscitation",
+  "stem": "Damage control resuscitation is defined by which principles?",
+  "options": {
+   "A": "Permissive hypotension, early balanced transfusion, treatment of coagulopathy, and minimization of crystalloid",
+   "B": "Aggressive crystalloid loading to normalize blood pressure",
+   "C": "Withholding all blood products until the OR",
+   "D": "Routine vasopressor infusion as first-line therapy"
+  },
+  "answer": "A",
+  "exp": "Damage control resuscitation is defined by permissive hypotension, early balanced (1:1:1) transfusion, treatment of coagulopathy, and minimization of crystalloid — the resuscitation counterpart to damage control surgery. Aggressive crystalloid (B), withholding products (C), and routine vasopressors (D) are contrary to it.",
+  "hy": "DCR: permissive hypotension, balanced transfusion, treat coagulopathy, minimize crystalloid.",
+  "src": "Sabiston Ch 17, \"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.27",
+  "chapter": "Ch17",
+  "section": "Massive transfusion ratio",
+  "stem": "What component ratio do massive transfusion protocols use to approximate whole blood?",
+  "options": {
+   "A": "1:1:1 — plasma, platelets, and packed red blood cells",
+   "B": "3:1 crystalloid to blood",
+   "C": "4:1 packed red cells to plasma",
+   "D": "Platelets only"
+  },
+  "answer": "A",
+  "exp": "Massive transfusion protocols transfuse plasma, platelets, and packed red blood cells in an equivalent 1:1:1 ratio to approximate whole blood. The crystalloid ratio (B), red-cell-heavy ratio (C), and platelets-only (D) are wrong.",
+  "hy": "MTP ratio = 1:1:1 plasma:platelets:PRBC.",
+  "src": "Sabiston Ch 17, \"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.28",
+  "chapter": "Ch17",
+  "section": "Assessment of Blood Consumption score",
+  "stem": "The Assessment of Blood Consumption (ABC) score predicts the need for massive transfusion using which four criteria?",
+  "options": {
+   "A": "Penetrating mechanism, positive FAST, arrival systolic BP ≤90 mm Hg, and arrival heart rate >120 bpm (≥2 predicts MTP need)",
+   "B": "Age, GCS, lactate, and base deficit",
+   "C": "Hemoglobin, INR, platelets, and fibrinogen",
+   "D": "Mechanism, ISS, RTS, and TRISS"
+  },
+  "answer": "A",
+  "exp": "The ABC score uses four criteria — penetrating mechanism, positive FAST, arrival systolic BP ≤90 mm Hg, and arrival heart rate >120 bpm; a score of ≥2 predicts the need for massive transfusion (≈75% sensitivity, 86% specificity). The other variable sets are not the ABC score.",
+  "hy": "ABC score: penetrating, +FAST, SBP ≤90, HR >120; ≥2 → MTP.",
+  "src": "Sabiston Ch 17, \"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.29",
+  "chapter": "Ch17",
+  "section": "Thromboelastography",
+  "stem": "On thromboelastography (TEG), which abnormality is matched to the correct treatment?",
+  "options": {
+   "A": "An elevated LY30 (fibrinolysis) is treated with tranexamic acid; a prolonged R time with plasma; a decreased maximum amplitude with platelets",
+   "B": "A prolonged R time is treated with platelets",
+   "C": "An elevated LY30 is treated with cryoprecipitate alone",
+   "D": "A decreased maximum amplitude is treated with vitamin K"
+  },
+  "answer": "A",
+  "exp": "On TEG, an elevated LY30 indicates fibrinolysis and is treated with tranexamic acid; a prolonged R time (delayed clot formation) is treated with plasma; and a decreased maximum amplitude (low clot strength/platelet dysfunction) is treated with platelets. The other pairings are reversed/incorrect.",
+  "hy": "TEG: ↑LY30→TXA; prolonged R→plasma; ↓MA→platelets.",
+  "src": "Sabiston Ch 17, Fig. 17.7/\"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.30",
+  "chapter": "Ch17",
+  "section": "Tranexamic acid",
+  "stem": "Which statement about tranexamic acid (TXA) in trauma is correct?",
+  "options": {
+   "A": "It is a lysine analog that inhibits fibrinolysis and (per CRASH-2) reduced all-cause mortality and death from bleeding without increasing vascular occlusive events",
+   "B": "It is a procoagulant factor concentrate that markedly raises thrombosis risk",
+   "C": "It works by activating plasmin",
+   "D": "It is only useful after 24 hours from injury"
+  },
+  "answer": "A",
+  "exp": "Tranexamic acid is a synthetic lysine derivative that inhibits fibrinolysis by blocking plasmin binding to fibrin; in CRASH-2 it reduced all-cause mortality (14.5% vs 16%) and death due to bleeding without increasing vascular occlusive events, making it a standard resuscitation adjunct. It is not a procoagulant concentrate (B), does not activate plasmin (C), and is most effective early, not after 24 h (D).",
+  "hy": "TXA = antifibrinolytic lysine analog; CRASH-2 lowered mortality, no extra thrombosis.",
+  "src": "Sabiston Ch 17, \"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.31",
+  "chapter": "Ch17",
+  "section": "Monro-Kellie doctrine",
+  "stem": "What does the Monro-Kellie doctrine describe in traumatic brain injury?",
+  "options": {
+   "A": "Because the skull is a fixed compartment, any increase in intracranial volume (blood/edema) eventually causes an exponential rise in intracranial pressure, reducing cerebral perfusion and risking herniation",
+   "B": "Cerebral blood flow is independent of intracranial pressure",
+   "C": "The brain can expand freely without raising pressure",
+   "D": "Cerebrospinal fluid production increases to offset any bleeding"
+  },
+  "answer": "A",
+  "exp": "The Monro-Kellie doctrine holds that the skull is a fixed compartment, so once compensatory reserve is exhausted, any further increase in intracranial volume (extravascular blood or edema) causes an exponential rise in ICP, reducing cerebral perfusion pressure and risking herniation. The other statements deny this fixed-volume relationship.",
+  "hy": "Monro-Kellie: fixed skull → added volume → exponential ICP rise.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.32",
+  "chapter": "Ch17",
+  "section": "Cerebral perfusion pressure",
+  "stem": "How is cerebral perfusion pressure (CPP) defined, and when is an ICP monitor indicated?",
+  "options": {
+   "A": "CPP = mean arterial pressure − intracranial pressure; ICP monitoring is indicated with a GCS <8 and evidence of injury on CT",
+   "B": "CPP = systolic BP − diastolic BP; monitor all GCS 15 patients",
+   "C": "CPP = ICP − MAP; monitor only penetrating injuries",
+   "D": "CPP equals the mean arterial pressure regardless of ICP"
+  },
+  "answer": "A",
+  "exp": "Cerebral perfusion pressure equals the mean arterial pressure minus the intracranial pressure (CPP = MAP − ICP); ICP monitoring is indicated in patients with a GCS <8 and evidence of injury on CT. The other formulas/indications are incorrect.",
+  "hy": "CPP = MAP − ICP; monitor ICP if GCS <8 with CT injury.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.33",
+  "chapter": "Ch17",
+  "section": "Epidural hematoma",
+  "stem": "Which features are characteristic of an epidural hematoma?",
+  "options": {
+   "A": "A lens-shaped (biconvex) collection that may follow a \"lucid interval\" and is often associated with relatively preserved underlying brain",
+   "B": "A crescentic collection with severe underlying brain injury",
+   "C": "Blood within the ventricles only",
+   "D": "Diffuse thin blood following the brain's contour"
+  },
+  "answer": "A",
+  "exp": "An epidural hematoma is a lens-shaped (biconvex) collection (classically from a middle meningeal artery tear) that may follow a \"lucid interval\" before the hematoma expands, and it is often associated with relatively preserved underlying brain. A crescentic collection with severe brain injury describes a subdural (B); intraventricular (C) and contour-following thin blood (D) are not epidural.",
+  "hy": "Epidural: biconvex, lucid interval, less underlying brain injury.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.34",
+  "chapter": "Ch17",
+  "section": "Subdural hematoma",
+  "stem": "How does a subdural hematoma differ from an epidural hematoma?",
+  "options": {
+   "A": "It follows the contour of the brain (crescentic) and is commonly associated with severe underlying brain tissue injury",
+   "B": "It is biconvex and respects suture lines",
+   "C": "It never causes mass effect",
+   "D": "It is always managed nonoperatively"
+  },
+  "answer": "A",
+  "exp": "A subdural hematoma follows the contour of the brain (crescentic) and is commonly associated with severe underlying brain tissue injury, contrasting with the biconvex epidural. It is not biconvex (B), can cause mass effect (C), and frequently requires operative decompression (D).",
+  "hy": "Subdural: crescentic, follows brain contour, severe underlying injury.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.35",
+  "chapter": "Ch17",
+  "section": "TBI management",
+  "stem": "Which measures are used to manage elevated intracranial pressure after TBI?",
+  "options": {
+   "A": "Head-of-bed elevation, mild hyperventilation, mannitol, and hypertonic saline (with craniotomy for a hematoma causing mass effect)",
+   "B": "Trendelenburg positioning and aggressive hypotonic fluids",
+   "C": "Deliberate hypoventilation to raise PaCO₂",
+   "D": "Routine prophylactic craniectomy in all TBI"
+  },
+  "answer": "A",
+  "exp": "Elevated ICP after TBI is managed with head-of-bed elevation, mild hyperventilation, mannitol, and hypertonic saline, with craniotomy to evacuate a hematoma causing mass effect. Trendelenburg/hypotonic fluids (B), deliberate hypoventilation (C), and routine prophylactic craniectomy (D) are wrong (craniectomy for severe TBI is rarely needed).",
+  "hy": "ICP control: HOB up, mild hyperventilation, mannitol, hypertonic saline.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"/Fig. 17.10",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.36",
+  "chapter": "Ch17",
+  "section": "TBI — hypoxia",
+  "stem": "Why is immediate airway control and ventilatory support critical after traumatic brain injury?",
+  "options": {
+   "A": "Transient episodes of hypoxia after TBI may increase mortality up to fourfold",
+   "B": "Hypoxia has no effect on TBI outcomes",
+   "C": "Permissive hypoxia improves cerebral perfusion",
+   "D": "Intubation is contraindicated in TBI"
+  },
+  "answer": "A",
+  "exp": "Airway control and ventilatory support are critical immediately after TBI because transient episodes of hypoxia may increase mortality up to fourfold; avoiding secondary hypoxic insult is paramount. Hypoxia is harmful (B, C wrong), and intubation is often required (D).",
+  "hy": "Post-TBI hypoxia can increase mortality up to 4×.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.37",
+  "chapter": "Ch17",
+  "section": "Vertebral fractures / Table 17.5",
+  "stem": "A C1 ring fracture in multiple locations (blow-out of the ring) is which eponymous fracture, and what determines management?",
+  "options": {
+   "A": "A Jefferson fracture; management depends on transverse-ligament integrity (hard collar if stable, traction/surgery if unstable)",
+   "B": "A hangman fracture; always requires fusion",
+   "C": "A Chance fracture; managed with a brace",
+   "D": "An odontoid type I fracture; requires a halo vest"
+  },
+  "answer": "A",
+  "exp": "A Jefferson fracture is a burst/blow-out of the C1 ring in multiple locations; management depends on the integrity of the transverse ligament — a hard collar if the ligament is intact (stable), and traction or surgery if it is disrupted (unstable). The other eponyms/fractures are misassigned.",
+  "hy": "Jefferson (C1 burst): collar if ligament stable, traction/surgery if unstable.",
+  "src": "Sabiston Ch 17, Table 17.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.38",
+  "chapter": "Ch17",
+  "section": "Odontoid fractures / Table 17.5",
+  "stem": "How are odontoid (dens) fractures classified and managed?",
+  "options": {
+   "A": "Type I (tip) — hard collar; Type II (through the base) — halo vest or surgery; Type III (into the C2 body) — halo vest",
+   "B": "Type I — surgery; Type II — observation; Type III — collar only",
+   "C": "All odontoid fractures are managed with a soft collar",
+   "D": "Type II fractures uniformly heal in a collar without intervention"
+  },
+  "answer": "A",
+  "exp": "Odontoid fractures are classified as Type I (tip, managed with a hard collar), Type II (through the base, managed with a halo vest or surgery given high nonunion risk), and Type III (extending into the C2 body, managed with a halo vest). The other management schemes are incorrect — Type II in particular does not reliably heal in a collar.",
+  "hy": "Odontoid: I collar, II halo/surgery, III halo vest.",
+  "src": "Sabiston Ch 17, Table 17.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.39",
+  "chapter": "Ch17",
+  "section": "Chance fracture / Table 17.5",
+  "stem": "A flexion-distraction avulsion of the posterior elements of a lumbar vertebra associated with seat-belt use is which fracture, and how is it managed?",
+  "options": {
+   "A": "A Chance fracture, typically requiring surgical stabilization",
+   "B": "A Jefferson fracture, managed with a hard collar",
+   "C": "A compression fracture, never requiring surgery",
+   "D": "A hangman fracture, managed with traction"
+  },
+  "answer": "A",
+  "exp": "A Chance fracture is a flexion-distraction injury with avulsion of the posterior elements of a lumbar vertebra, classically from seat-belt use, and typically requires surgical stabilization. The other eponyms (Jefferson, hangman) and \"never surgery\" are incorrect.",
+  "hy": "Chance fracture (seat-belt, posterior-element avulsion) → surgical stabilization.",
+  "src": "Sabiston Ch 17, Table 17.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.40",
+  "chapter": "Ch17",
+  "section": "Spinal cord injury — steroids",
+  "stem": "What is the role of methylprednisolone in acute spinal cord injury per the chapter?",
+  "options": {
+   "A": "It is a controversial, potentially therapeutic short-course option if started within 8 hours of injury (with increased sepsis/pneumonia at 48 h), decided in consultation with neurosurgery",
+   "B": "It is mandatory for all spinal cord injuries",
+   "C": "It is given only after 24 hours from injury",
+   "D": "It has no associated infectious risk"
+  },
+  "answer": "A",
+  "exp": "Methylprednisolone in acute SCI is a controversial, potentially therapeutic short-course option if begun within 8 hours of injury (NASCIS trials showed some motor improvement), with higher rates of severe sepsis/pneumonia at the 48-hour regimen; its use is decided in consultation between trauma and neurosurgery. It is not mandatory (B), is given early not late (C), and does carry infectious risk (D).",
+  "hy": "SCI steroids: controversial short course within 8 h; infection risk.",
+  "src": "Sabiston Ch 17, \"Spinal Cord\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.41",
+  "chapter": "Ch17",
+  "section": "Spinal decompression timing",
+  "stem": "When does surgical spinal cord decompression best improve functional outcomes?",
+  "options": {
+   "A": "When performed within 24 hours of injury in appropriate candidates",
+   "B": "Only after 2 weeks of immobilization",
+   "C": "Decompression has no effect on outcomes",
+   "D": "Only for stable fractures without deficit"
+  },
+  "answer": "A",
+  "exp": "In appropriate candidates, spinal cord decompression has been shown to improve functional outcomes when performed within 24 hours of injury. The other options (2 weeks, no effect, only stable fractures) are incorrect.",
+  "hy": "Spinal cord decompression within 24 h improves function.",
+  "src": "Sabiston Ch 17, \"Spinal Cord\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.42",
+  "chapter": "Ch17",
+  "section": "Cervical spine imaging",
+  "stem": "Which imaging modality is the modern study of choice for evaluating the cervical spine for bony injury, and what is MRI's role?",
+  "options": {
+   "A": "CT is the modality of choice for bony injury; MRI better characterizes soft tissue/cord injury (e.g., neck pain with normal radiographs)",
+   "B": "Plain radiography is superior to CT for the cervicothoracic junction",
+   "C": "MRI is the first-line study for bony fractures",
+   "D": "Ultrasound is the study of choice for the cervical spine"
+  },
+  "answer": "A",
+  "exp": "CT is the modality of choice for evaluating cervical-spine bony injury (superior sensitivity, rapid, and better at the cervicothoracic junction than plain films), while MRI better characterizes soft tissue and cord injury — useful with neck pain and normal radiographs (ideally within 72 hours). Plain films are not superior (B), MRI is not first-line for fractures (C), and ultrasound is not used (D).",
+  "hy": "CT for bony c-spine; MRI for cord/soft tissue.",
+  "src": "Sabiston Ch 17, \"Spinal Cord/Vertebral Column\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.43",
+  "chapter": "Ch17",
+  "section": "Maxillofacial / Le Fort",
+  "stem": "The Le Fort classification describes which injuries?",
+  "options": {
+   "A": "Three patterns of midface fracture disrupting the maxilla from the surrounding facial bones",
+   "B": "Grades of splenic laceration",
+   "C": "Cervical spine fracture types",
+   "D": "Patterns of pelvic ring disruption"
+  },
+  "answer": "A",
+  "exp": "The Le Fort classification describes three patterns of midface fracture that disrupt the maxilla from the surrounding facial bones. It is not a splenic, cervical-spine, or pelvic classification.",
+  "hy": "Le Fort = three midface fracture patterns.",
+  "src": "Sabiston Ch 17, \"Maxillofacial Region\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.44",
+  "chapter": "Ch17",
+  "section": "Facial trauma — airway",
+  "stem": "What is the foremost concern in significant maxillofacial trauma?",
+  "options": {
+   "A": "Airway compromise from soft-tissue/bony injury and bleeding, sometimes requiring early intubation before edema worsens",
+   "B": "Cosmetic deformity, which mandates immediate repair",
+   "C": "Imaging of the facial bones before addressing life threats",
+   "D": "Routine antibiotic prophylaxis as the first priority"
+  },
+  "answer": "A",
+  "exp": "In significant maxillofacial trauma, the foremost concern is airway compromise from soft-tissue/bony injury and bleeding — early intubation can be lifesaving before edema worsens. Cosmesis (B) and facial imaging (C) are deferred until life threats are managed, and antibiotics (D) are not the first priority.",
+  "hy": "Facial trauma: secure the airway first (edema worsens fast).",
+  "src": "Sabiston Ch 17, \"Maxillofacial Region\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.45",
+  "chapter": "Ch17",
+  "section": "Blunt cerebrovascular injury / Box 17.4",
+  "stem": "Which finding is an indicator of high risk for blunt cerebrovascular injury?",
+  "options": {
+   "A": "A severe midface (Le Fort II/III) fracture or a basilar skull fracture involving the carotid canal",
+   "B": "An isolated distal radius fracture",
+   "C": "A simple nasal contusion",
+   "D": "A normal neurologic exam with no risk factors"
+  },
+  "answer": "A",
+  "exp": "Indicators of high risk for blunt cerebrovascular injury include a severe midface fracture (Le Fort II/III), a basilar skull fracture involving the carotid canal, diffuse axonal injury with GCS ≤6, significant cervical-spine fracture/ligamentous injury, and an anterior-neck seat-belt sign. A distal radius fracture (B), nasal contusion (C), and a normal exam without risk factors (D) are not high-risk indicators.",
+  "hy": "BCVI risk: Le Fort II/III, basilar skull/carotid canal fracture, c-spine injury.",
+  "src": "Sabiston Ch 17, Box 17.4",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.46",
+  "chapter": "Ch17",
+  "section": "Neck injury management",
+  "stem": "How are penetrating neck injuries managed in the current (\"no-zone\") approach?",
+  "options": {
+   "A": "Hard signs of vascular or aerodigestive injury mandate immediate operative exploration; stable patients without hard signs undergo CT angiographic evaluation regardless of zone",
+   "B": "All zone II injuries are explored and all zone I/III are observed",
+   "C": "CT angiography is contraindicated in penetrating neck trauma",
+   "D": "Hard signs are managed expectantly with serial exams"
+  },
+  "answer": "A",
+  "exp": "In the modern \"no-zone\" approach to penetrating neck trauma, hard signs of vascular or aerodigestive injury mandate immediate operative exploration, while hemodynamically stable patients without hard signs undergo CT angiographic evaluation regardless of anatomic zone. The strict zone-based and \"no CTA\" approaches (B, C) and expectant management of hard signs (D) are incorrect.",
+  "hy": "Neck: hard signs → explore; otherwise CT angiography (\"no-zone\").",
+  "src": "Sabiston Ch 17, \"Injuries to the Neck\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.47",
+  "chapter": "Ch17",
+  "section": "Chest trauma — initial",
+  "stem": "In a hypotensive trauma patient with decreased breath sounds and poor pulmonary compliance, which diagnosis must be treated immediately during the primary survey?",
+  "options": {
+   "A": "Tension pneumothorax",
+   "B": "Rib contusion",
+   "C": "Simple atelectasis",
+   "D": "Costochondritis"
+  },
+  "answer": "A",
+  "exp": "A hypotensive patient with decreased breath sounds and poor pulmonary compliance has a possible tension pneumothorax, which must be decompressed immediately during the primary survey. Rib contusion, atelectasis, and costochondritis are not immediately life-threatening.",
+  "hy": "Shock + decreased breath sounds + poor compliance = tension PTX.",
+  "src": "Sabiston Ch 17, \"Chest\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.48",
+  "chapter": "Ch17",
+  "section": "Hemothorax — thoracotomy indications",
+  "stem": "Which are traditional indications for immediate thoracotomy after chest-tube placement for hemothorax?",
+  "options": {
+   "A": ">1500 mL of blood drained immediately, or 150–200 mL/hr for 2–4 consecutive hours, or persistent hemodynamic instability with ongoing transfusion need",
+   "B": "Any blood in the chest tube",
+   "C": ">100 mL drained over 24 hours",
+   "D": "A single reading of 500 mL with stable vitals"
+  },
+  "answer": "A",
+  "exp": "Traditional indications for immediate thoracotomy after chest-tube placement are >1500 mL of blood drained immediately, 150–200 mL/hr for 2–4 consecutive hours, or persistent hemodynamic instability with ongoing transfusion need — although these derive from older data and patient physiology should guide the decision (\"is bleeding\" vs \"has bled\"). Any blood (B), >100 mL/24 h (C), and a single stable 500-mL reading (D) are not indications.",
+  "hy": "Thoracotomy: >1500 mL initial, or 150–200 mL/hr ×2–4 h, or instability.",
+  "src": "Sabiston Ch 17, \"Chest\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.49",
+  "chapter": "Ch17",
+  "section": "Cardiac box / penetrating cardiac injury",
+  "stem": "Which statement about penetrating cardiac injury is correct?",
+  "options": {
+   "A": "Injuries in the \"cardiac box\" raise suspicion for cardiac wounds; ultrasound assesses the pericardium, and a subxiphoid window is used when ultrasound is inconclusive (e.g., with hemothorax)",
+   "B": "The cardiac box refers to the upper abdomen",
+   "C": "Ultrasound has no role in penetrating chest trauma",
+   "D": "Pericardial blood is best left undrained"
+  },
+  "answer": "A",
+  "exp": "Penetrating wounds in the \"cardiac box\" raise suspicion for cardiac injury; ultrasound rapidly assesses the pericardium for blood, and a subxiphoid pericardial window is performed when ultrasound is inconclusive or potentially falsely negative (as with a hemothorax). The cardiac box is the precordium, not the abdomen (B); ultrasound is valuable (C); and pericardial blood requires drainage/repair (D).",
+  "hy": "Cardiac box → ultrasound; subxiphoid window if inconclusive.",
+  "src": "Sabiston Ch 17, \"Chest\" (cardiac injury)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.50",
+  "chapter": "Ch17",
+  "section": "Blunt cardiac injury",
+  "stem": "How is blunt cardiac injury evaluated, and what rules it out?",
+  "options": {
+   "A": "ECG and troponin I at initial workup; if both are negative, blunt cardiac injury is ruled out (a new arrhythmia warrants monitored admission)",
+   "B": "A chest radiograph alone rules it out",
+   "C": "It always requires emergency sternotomy",
+   "D": "Echocardiography is the first-line screening test for all patients"
+  },
+  "answer": "A",
+  "exp": "Blunt cardiac injury is evaluated with an ECG and troponin I at initial workup; if both are negative, blunt cardiac injury is effectively ruled out, while a new arrhythmia (commonly tachyarrhythmia) warrants admission for continuous monitoring. A chest film alone does not rule it out (B), it does not always need sternotomy (C), and echocardiography is reserved for instability/structural concern, not first-line screening (D).",
+  "hy": "Blunt cardiac injury: negative ECG + troponin rules it out.",
+  "src": "Sabiston Ch 17, \"Chest\" (blunt cardiac injury)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.51",
+  "chapter": "Ch17",
+  "section": "Blunt thoracic aortic injury",
+  "stem": "Which statement about blunt thoracic aortic injury (BTAI) is correct?",
+  "options": {
+   "A": "~80% die before reaching the hospital; the tear typically occurs at the aortic isthmus near the ligamentum arteriosum from rapid deceleration",
+   "B": "Most patients survive to hospital and the injury is benign",
+   "C": "The ascending aorta at the valve is the typical site",
+   "D": "It is caused by slow venous congestion"
+  },
+  "answer": "A",
+  "exp": "In blunt thoracic aortic injury, ~80% of patients die before reaching the hospital, and the tear typically occurs at the aortic isthmus near the ligamentum arteriosum as a result of rapid deceleration. Most do not survive to hospital with a benign course (B), the ascending aorta/valve is not the typical site (C), and it is a deceleration—not venous-congestion—injury (D).",
+  "hy": "BTAI: ~80% die prehospital; tear at isthmus/ligamentum arteriosum (deceleration).",
+  "src": "Sabiston Ch 17, \"Thoracic Aortic Injuries\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.52",
+  "chapter": "Ch17",
+  "section": "BTAI grading & management",
+  "stem": "On CT angiography, how is aortic injury graded, and what is a key management principle before repair?",
+  "options": {
+   "A": "Grade I intimal disruption, II intramural hematoma, III pseudoaneurysm, IV rupture; impulse/blood-pressure control limits wall stress until repair",
+   "B": "Grades are based on the spleen injury scale",
+   "C": "Immediate full anticoagulation is the priority",
+   "D": "Blood pressure should be deliberately raised before repair"
+  },
+  "answer": "A",
+  "exp": "On CT angiography, aortic injury is graded I (intimal disruption), II (intramural hematoma), III (pseudoaneurysm), IV (rupture); a key principle is impulse/blood-pressure control to limit aortic wall stress until repair (pseudoaneurysms require repair due to risk of progression to rupture). It is not graded by the spleen scale (B), anticoagulation is not the priority (C), and BP should be controlled/lowered, not raised (D).",
+  "hy": "BTAI grades I–IV; control BP/impulse before repair.",
+  "src": "Sabiston Ch 17, \"Thoracic Aortic Injuries\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.53",
+  "chapter": "Ch17",
+  "section": "Abdominal trauma triage",
+  "stem": "How is the unstable versus stable patient with suspected abdominal injury triaged?",
+  "options": {
+   "A": "A nonresponder with intraabdominal fluid on FAST requires emergent laparotomy; a responder with normalized physiology can often be managed with CT and selective nonoperative management",
+   "B": "All abdominal trauma requires immediate laparotomy",
+   "C": "CT should be obtained in all unstable patients before any operation",
+   "D": "FAST findings never alter management"
+  },
+  "answer": "A",
+  "exp": "A nonresponder to resuscitation with intraabdominal fluid on FAST requires emergent laparotomy, whereas a responder who normalizes physiologically can often undergo CT and selective nonoperative management. Not all abdominal trauma needs laparotomy (B), unstable patients should not be delayed for CT (C), and FAST does guide management (D).",
+  "hy": "Unstable + FAST-positive → laparotomy; stable → CT/selective nonop.",
+  "src": "Sabiston Ch 17, \"Injuries to the Abdomen\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.54",
+  "chapter": "Ch17",
+  "section": "Spleen injury scale / Table 17.6",
+  "stem": "On the AAST spleen injury scale, a Grade I injury is defined by which findings?",
+  "options": {
+   "A": "A subcapsular hematoma <10% of surface area, a parenchymal laceration <1 cm deep, or a capsular tear",
+   "B": "A shattered spleen",
+   "C": "A hilar vascular injury devascularizing the spleen",
+   "D": "A laceration involving segmental vessels with >25% devascularization"
+  },
+  "answer": "A",
+  "exp": "An AAST Grade I spleen injury is a subcapsular hematoma <10% of surface area, a parenchymal laceration <1 cm deep, or a capsular tear. A shattered spleen or hilar devascularization is Grade V (B, C), and segmental-vessel injury with >25% devascularization is Grade IV (D).",
+  "hy": "Spleen Grade I: subcapsular hematoma <10%, laceration <1 cm, or capsular tear.",
+  "src": "Sabiston Ch 17, Table 17.6",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.55",
+  "chapter": "Ch17",
+  "section": "Spleen injury scale / Table 17.6",
+  "stem": "Which AAST spleen injury grade is defined by a hilar vascular injury that devascularizes the spleen, or a shattered spleen?",
+  "options": {
+   "A": "Grade V",
+   "B": "Grade I",
+   "C": "Grade II",
+   "D": "Grade III"
+  },
+  "answer": "A",
+  "exp": "AAST spleen Grade V is defined by a hilar vascular injury that devascularizes the spleen, a shattered spleen, or active bleeding extending beyond the spleen into the peritoneum. Grades I–III are the smaller hematomas/lacerations.",
+  "hy": "Spleen Grade V: hilar devascularization or shattered spleen.",
+  "src": "Sabiston Ch 17, Table 17.6",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.56",
+  "chapter": "Ch17",
+  "section": "Nonoperative splenic management",
+  "stem": "Which statement about nonoperative management of blunt splenic injury is correct?",
+  "options": {
+   "A": "Success approaches ~90% at high-volume centers; active extravasation/pseudoaneurysm or high grades (III–V) prompt angioembolization; most delayed bleeding occurs within 72 hours",
+   "B": "Nonoperative management succeeds in under 20% of cases",
+   "C": "Embolization is contraindicated in splenic trauma",
+   "D": "Delayed bleeding essentially never occurs"
+  },
+  "answer": "A",
+  "exp": "Nonoperative management of blunt splenic injury succeeds in roughly 90% of cases at high-volume centers; active extravasation/pseudoaneurysm or high-grade injuries (III–V) prompt angiography and embolization, and most delayed bleeding occurs within 72 hours, warranting monitoring. Success is not <20% (B), embolization is used not contraindicated (C), and delayed bleeding does occur (D).",
+  "hy": "Nonop spleen ~90% success; embolize extravasation/high grade; watch 72 h.",
+  "src": "Sabiston Ch 17, \"Injuries to the Abdomen\" (spleen)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.57",
+  "chapter": "Ch17",
+  "section": "Liver injury scale / Table 17.7",
+  "stem": "On the AAST liver injury scale, a Grade II injury includes which finding?",
+  "options": {
+   "A": "A subcapsular hematoma of 10%–50% surface area or a laceration 1–3 cm deep and ≤10 cm long",
+   "B": "A capsular tear only (Grade I)",
+   "C": "A subcapsular hematoma >50% surface area (Grade III)",
+   "D": "Hepatic avulsion (Grade VI)"
+  },
+  "answer": "A",
+  "exp": "An AAST Grade II liver injury includes a subcapsular hematoma of 10%–50% of surface area, an intraparenchymal hematoma <10 cm, or a laceration 1–3 cm deep and ≤10 cm long. A capsular tear alone is Grade I (B), a subcapsular hematoma >50% is Grade III (C), and avulsion is the highest grade (D).",
+  "hy": "Liver Grade II: subcapsular hematoma 10–50% or laceration 1–3 cm.",
+  "src": "Sabiston Ch 17, Table 17.7",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.58",
+  "chapter": "Ch17",
+  "section": "Liver injury scale / Table 17.7",
+  "stem": "Which CT finding distinguishes a Grade III from a Grade I–II liver injury?",
+  "options": {
+   "A": "A subcapsular hematoma >50% of surface area (or a ruptured subcapsular/parenchymal hematoma), versus the smaller hematomas/lacerations of Grades I–II",
+   "B": "Only a capsular tear",
+   "C": "An intraparenchymal hematoma <10 cm",
+   "D": "A parenchymal laceration <1 cm"
+  },
+  "answer": "A",
+  "exp": "A Grade III liver injury is distinguished by a subcapsular hematoma >50% of surface area (or a ruptured subcapsular/parenchymal hematoma) and deeper lacerations, versus the smaller hematomas/lacerations of Grades I–II. A capsular tear (B), an intraparenchymal hematoma <10 cm (C, Grade II), and a laceration <1 cm (D, Grade I) are lower grades.",
+  "hy": "Liver Grade III: subcapsular hematoma >50% / ruptured hematoma.",
+  "src": "Sabiston Ch 17, Table 17.7",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.59",
+  "chapter": "Ch17",
+  "section": "Liver injury management",
+  "stem": "How are most hepatic injuries managed today?",
+  "options": {
+   "A": "Increasingly nonoperatively (in stable patients), with angioembolization for active arterial bleeding and ICU surveillance",
+   "B": "With routine immediate hepatic lobectomy",
+   "C": "Operatively in all cases regardless of stability",
+   "D": "With observation only, never embolization"
+  },
+  "answer": "A",
+  "exp": "Most hepatic injuries are now managed nonoperatively in stable patients, with angioembolization for active arterial bleeding and ICU surveillance — mirroring the shift away from routine operative management. Routine lobectomy (B), operative management of all (C), and observation-only without embolization (D) are incorrect.",
+  "hy": "Liver: nonoperative + angioembolization for active bleeding in stable patients.",
+  "src": "Sabiston Ch 17, \"Injuries to the Abdomen\" (liver)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.60",
+  "chapter": "Ch17",
+  "section": "Pelvic fracture hemorrhage",
+  "stem": "How is a pelvic fracture with hemodynamic instability initially managed?",
+  "options": {
+   "A": "Immediate reduction of pelvic volume with a binder or sheet, followed by angiographic embolization for arterial bleeding and/or external fixation",
+   "B": "Immediate definitive open reduction and internal fixation in the ED",
+   "C": "Observation with serial radiographs",
+   "D": "Diuresis to reduce pelvic edema"
+  },
+  "answer": "A",
+  "exp": "A pelvic fracture with hemodynamic instability is managed by immediately reducing pelvic volume with a binder or sheet, followed by angiographic embolization for arterial bleeding and/or external fixation. Immediate ED open fixation (B), observation (C), and diuresis (D) are wrong.",
+  "hy": "Unstable pelvis: binder/sheet → angioembolization ± external fixation.",
+  "src": "Sabiston Ch 17, \"Pelvis and Extremities\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.61",
+  "chapter": "Ch17",
+  "section": "Airway management",
+  "stem": "What is the \"gold standard\" approach when a definitive airway is needed in trauma, and what is the surgical airway of choice for laryngeal injury?",
+  "options": {
+   "A": "Endotracheal intubation (often rapid-sequence) is preferred; for laryngeal injury a tracheotomy is used because cricothyroidotomy may be ineffective",
+   "B": "A nasopharyngeal airway is the definitive airway in all trauma",
+   "C": "Cricothyroidotomy is preferred for laryngeal injury",
+   "D": "Bag-mask ventilation alone is definitive"
+  },
+  "answer": "A",
+  "exp": "Endotracheal intubation (often rapid-sequence) is the gold standard when a definitive airway is needed; for a laryngeal injury, a tracheotomy is preferred because cricothyroidotomy may be ineffective. A nasopharyngeal airway (B) and bag-mask ventilation (D) are not definitive, and cricothyroidotomy is not preferred with laryngeal injury (C).",
+  "hy": "Definitive airway = ETT (RSI); laryngeal injury → tracheotomy, not cricothyroidotomy.",
+  "src": "Sabiston Ch 17, \"Airway\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.62",
+  "chapter": "Ch17",
+  "section": "TBI and permissive hypotension",
+  "stem": "Why must permissive hypotension be applied cautiously in patients with traumatic brain injury?",
+  "options": {
+   "A": "Hypotension reduces cerebral perfusion pressure and worsens secondary brain injury, so the TBI patient needs adequate blood pressure rather than deliberate hypotension",
+   "B": "TBI patients tolerate hypotension better than other trauma patients",
+   "C": "Permissive hypotension improves intracranial pressure",
+   "D": "Blood pressure is irrelevant in TBI"
+  },
+  "answer": "A",
+  "exp": "Although permissive hypotension is part of damage control resuscitation, it must be applied cautiously in TBI because hypotension reduces cerebral perfusion pressure and worsens secondary brain injury — the TBI patient needs adequate blood pressure. TBI patients do not tolerate hypotension better (B), hypotension does not help ICP (C), and blood pressure is highly relevant (D).",
+  "hy": "In TBI, avoid permissive hypotension — maintain CPP.",
+  "src": "Sabiston Ch 17, \"Injuries to the Brain\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.63",
+  "chapter": "Ch17",
+  "section": "Secondary survey",
+  "stem": "What is the ATLS secondary survey?",
+  "options": {
+   "A": "A thorough head-to-toe examination and history performed after the primary survey in stable patients, including log-roll of the back, rectal exam, and distal pulse/perfusion checks",
+   "B": "The first 10 seconds of patient contact",
+   "C": "Limited to a neurologic examination only",
+   "D": "Performed before the primary survey in unstable patients"
+  },
+  "answer": "A",
+  "exp": "The ATLS secondary survey is a thorough head-to-toe examination and history performed after the primary survey in stable patients, including a log-roll to inspect the back/spine, a rectal exam, and assessment of distal pulses/perfusion (e.g., ankle-brachial indices). It is not the first seconds of contact (B), not neuro-only (C), and is performed after—not before—the primary survey (D).",
+  "hy": "Secondary survey = head-to-toe exam + history after the primary survey.",
+  "src": "Sabiston Ch 17, \"Secondary Survey\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.64",
+  "chapter": "Ch17",
+  "section": "Damage control indications",
+  "stem": "Which intraoperative physiologic derangements drive the decision to use a damage-control (abbreviated) operation?",
+  "options": {
+   "A": "Progressive hypothermia, coagulopathy, and metabolic acidosis",
+   "B": "Mild hypertension and bradycardia",
+   "C": "Normal temperature and pH with controlled bleeding",
+   "D": "Isolated hyperglycemia"
+  },
+  "answer": "A",
+  "exp": "The decision to use a damage-control (abbreviated) operation is driven by progressive intraoperative physiologic derangement — hypothermia, coagulopathy, and metabolic acidosis (the lethal triad). Mild hypertension/bradycardia (B), normal physiology (C), and isolated hyperglycemia (D) are not the triggers.",
+  "hy": "Damage control triggers: hypothermia, coagulopathy, acidosis.",
+  "src": "Sabiston Ch 17, \"Damage Control Principles\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.65",
+  "chapter": "Ch17",
+  "section": "Resuscitative thoracotomy — setting",
+  "stem": "Under what condition should resuscitative thoracotomy be performed?",
+  "options": {
+   "A": "Only in locations with readily available surgical support for definitive repair if return of spontaneous circulation is achieved",
+   "B": "In any setting, regardless of surgical backup",
+   "C": "Only in the operating room after full imaging",
+   "D": "Only after the patient is hemodynamically stable"
+  },
+  "answer": "A",
+  "exp": "Resuscitative thoracotomy should only be performed in locations with readily available surgical support for definitive repair of thoracic injuries if return of spontaneous circulation is achieved. It is not appropriate in any setting without backup (B), is an ED (not OR-after-imaging) procedure (C), and is for arrest/peri-arrest, not stable patients (D).",
+  "hy": "Perform RT only where definitive surgical repair is available.",
+  "src": "Sabiston Ch 17, \"Resuscitative Thoracotomy\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
+ },
+ {
+  "id": "S17.66",
+  "chapter": "Ch17",
+  "section": "Splenic/abdominal extravasation",
+  "stem": "A stable blunt-trauma patient's CT shows a contrast \"blush\" within the splenic parenchyma. What does this represent and prompt?",
+  "options": {
+   "A": "Active extravasation (or pseudoaneurysm), prompting angiography and embolization rather than immediate splenectomy in the stable patient",
+   "B": "A normal finding requiring no action",
+   "C": "A mandatory indication for immediate splenectomy regardless of stability",
+   "D": "Contrast in the renal collecting system, which is ignored"
+  },
+  "answer": "A",
+  "exp": "A contrast \"blush\" within injured splenic parenchyma represents active extravasation (or a pseudoaneurysm); in a hemodynamically stable patient this prompts angiography and embolization rather than immediate splenectomy. It is not a normal finding (B), does not mandate splenectomy in the stable patient (C), and is intrasplenic rather than in the collecting system (D).",
+  "hy": "Splenic contrast blush in a stable patient → angioembolization.",
+  "src": "Sabiston Ch 17, \"Injuries to the Abdomen\" (spleen)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "17",
+  "chname": "Management of Acute Trauma"
  }
 ]
