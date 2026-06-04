@@ -4238,5 +4238,1925 @@
   "vol": "",
   "chnum": "10",
   "chname": "Principles of Preoperative & Operative Surgery"
+ },
+ {
+  "id": "S12.1",
+  "chapter": "Ch12",
+  "section": "Wound Complications: Seroma",
+  "stem": "A patient develops a soft, fluctuant, non-tender subcutaneous fluid collection under a mastectomy flap two weeks postoperatively, without erythema or fever. What is the most appropriate initial management?",
+  "options": {
+   "A": "Sterile aspiration with a pressure dressing",
+   "B": "Immediate operative re-exploration and washout",
+   "C": "Broad-spectrum IV antibiotics",
+   "D": "Observation alone, as all seromas resolve without intervention"
+  },
+  "answer": "A",
+  "exp": "A seroma is a collection of serum/lymph in a dead space (classic after breast/axillary or hernia surgery); when symptomatic it is managed by sterile aspiration and a pressure dressing, and many asymptomatic seromas simply resorb. Immediate re-exploration is overtreatment for an uninfected collection, antibiotics are reserved for an infected seroma, and not all resolve spontaneously.",
+  "hy": "Symptomatic seroma → sterile aspiration + pressure dressing.",
+  "src": "Sabiston Ch 12, \"Seroma\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.2",
+  "chapter": "Ch12",
+  "section": "HAS-BLED / Table 12.2",
+  "stem": "Using the HAS-BLED score to estimate perioperative bleeding risk, which total score is classified as high bleeding risk?",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "≥3"
+  },
+  "answer": "D",
+  "exp": "On the HAS-BLED score 0–1 is low, 2 is intermediate, and ≥3 is high bleeding risk. The acronym is Hypertension, Abnormal renal/liver function, Stroke, Bleeding, Labile INR, Elderly, Drugs/alcohol.",
+  "hy": "HAS-BLED ≥3 = high bleeding risk.",
+  "src": "Sabiston Ch 12, Table 12.2 (HAS-BLED)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.3",
+  "chapter": "Ch12",
+  "section": "Anticoagulant timing / Table 12.1",
+  "stem": "Per the perioperative discontinuation table, which drug-and-timing pairing is correct before elective surgery?",
+  "options": {
+   "A": "Warfarin — discontinue 5 days before surgery",
+   "B": "Clopidogrel — discontinue 24 hours before surgery",
+   "C": "Rivaroxaban — discontinue 7 days before surgery",
+   "D": "Aspirin in a high-cardiovascular-risk patient — always discontinue 10 days before surgery"
+  },
+  "answer": "A",
+  "exp": "Warfarin is stopped 5 days before elective surgery; clopidogrel is held 5 days (not 24 h), rivaroxaban ≥24 hours (not 7 days), and aspirin in a high-CV-risk patient is generally continued.",
+  "hy": "Warfarin and clopidogrel each stop ~5 days preop.",
+  "src": "Sabiston Ch 12, Table 12.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.4",
+  "chapter": "Ch12",
+  "section": "Acute Wound Failure",
+  "stem": "What suture-length-to-wound-length ratio is recommended for proper continuous fascial closure of a midline laparotomy?",
+  "options": {
+   "A": "At least 2:1",
+   "B": "At least 3:1",
+   "C": "At least 4:1",
+   "D": "At least 6:1"
+  },
+  "answer": "C",
+  "exp": "A suture-length-to-wound-length ratio greater than 4:1 is recommended for continuous fascial closure; lower ratios predispose to dehiscence/incisional hernia.",
+  "hy": "Fascial closure: suture:wound length >4:1.",
+  "src": "Sabiston Ch 12, \"Acute Wound Failure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.5",
+  "chapter": "Ch12",
+  "section": "STITCH trial",
+  "stem": "The STITCH trial compared small-bite with large-bite fascial closure of midline incisions. What did it find?",
+  "options": {
+   "A": "The small-bite technique lowered incisional hernia rates (13% vs 21%)",
+   "B": "The large-bite technique lowered incisional hernia rates (13% vs 21%)",
+   "C": "The two techniques produced identical hernia rates",
+   "D": "The small-bite technique increased the rate of acute dehiscence"
+  },
+  "answer": "A",
+  "exp": "STITCH found incisional hernia in 13% (small bites) vs 21% (large bites), showing technical superiority of small bites; it did not increase acute dehiscence.",
+  "hy": "STITCH: small bites halve incisional hernia (13% vs 21%).",
+  "src": "Sabiston Ch 12, \"Acute Wound Failure\" (STITCH)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.6",
+  "chapter": "Ch12",
+  "section": "Wound dehiscence",
+  "stem": "Which statement about acute abdominal wound dehiscence is correct?",
+  "options": {
+   "A": "It occurs in 1%–3% of procedures, is most common in the first postoperative week, and carries a mortality up to 35%",
+   "B": "It occurs in roughly 20% of procedures and is most common after the third postoperative week",
+   "C": "It is almost never associated with intraabdominal infection",
+   "D": "Late dehiscence is more dangerous than early dehiscence because suture strength is lowest late"
+  },
+  "answer": "A",
+  "exp": "Wound dehiscence occurs in 1%–3%, is most common in the first postoperative week (suture-dependent strength), and carries mortality up to 35%; infection contributes to >50% of cases.",
+  "hy": "Dehiscence: 1%–3%, first week, mortality up to 35%.",
+  "src": "Sabiston Ch 12, \"Acute Wound Failure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.7",
+  "chapter": "Ch12",
+  "section": "SSI definition / Box 12.1",
+  "stem": "By CDC criteria, within what time frame is an infection still classified as a deep incisional or organ/space SSI when a prosthetic implant has been left in place?",
+  "options": {
+   "A": "30 days",
+   "B": "90 days",
+   "C": "6 months",
+   "D": "1 year"
+  },
+  "answer": "D",
+  "exp": "With a prosthetic implant in place, deep incisional and organ/space SSIs are counted up to 1 year (otherwise 30 days); superficial SSI is always within 30 days.",
+  "hy": "With an implant, deep/organ-space SSI counts for 1 year.",
+  "src": "Sabiston Ch 12, Box 12.1 (SSI definition)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.8",
+  "chapter": "Ch12",
+  "section": "Wound classification / Table 12.4",
+  "stem": "Which surgical wound class is correctly matched to its expected infection rate?",
+  "options": {
+   "A": "Clean — 1%–3%",
+   "B": "Clean-contaminated — 20%–25%",
+   "C": "Contaminated — 1%–3%",
+   "D": "Dirty — 5%–8%"
+  },
+  "answer": "A",
+  "exp": "Wound-class infection rates: clean 1%–3%, clean-contaminated 5%–8%, contaminated 20%–25%, dirty 30%–40%. Only option A matches.",
+  "hy": "Clean 1–3%, clean-contam 5–8%, contam 20–25%, dirty 30–40%.",
+  "src": "Sabiston Ch 12, Table 12.4 (wound classification)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.9",
+  "chapter": "Ch12",
+  "section": "SSI pathogens / Table 12.5",
+  "stem": "Which statement about typical SSI pathogens is correct?",
+  "options": {
+   "A": "Staphylococcus aureus is the most common SSI pathogen overall, while colorectal procedures are dominated by gram-negative bacilli and anaerobes",
+   "B": "Colorectal SSIs are caused predominantly by coagulase-negative staphylococci",
+   "C": "Clean orthopedic implant infections are usually due to anaerobes",
+   "D": "Gram-negative bacilli are the most common organisms after clean breast surgery"
+  },
+  "answer": "A",
+  "exp": "S. aureus is the most common SSI pathogen overall, but colorectal/appendiceal/biliary cases are dominated by gram-negative bacilli and anaerobes. Coagulase-negative staph dominate prosthetic/clean cases.",
+  "hy": "S. aureus overall; colorectal = gram-negatives + anaerobes.",
+  "src": "Sabiston Ch 12, Table 12.5 (pathogens by procedure)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.10",
+  "chapter": "Ch12",
+  "section": "SSI prevention",
+  "stem": "Which bundle of perioperative measures is recommended to reduce surgical site infection?",
+  "options": {
+   "A": "Glucose <200 mg/dL, core temperature ≥36°C, antibiotics within 60 min of incision, and hair clipping rather than shaving",
+   "B": "Glucose <250 mg/dL, permissive hypothermia, antibiotics after incision, and razor shaving the morning of surgery",
+   "C": "Routine continuation of prophylactic antibiotics for 72 hours postoperatively",
+   "D": "Avoiding supplemental oxygen to reduce oxidative tissue injury"
+  },
+  "answer": "A",
+  "exp": "The SSI bundle includes glucose <200 mg/dL, normothermia (≥36°C), antibiotics within 60 min of incision, hair clipping not shaving, supplemental oxygen, and alcohol-based chlorhexidine prep.",
+  "hy": "SSI bundle: glucose <200, ≥36°C, abx within 60 min, clip don't shave.",
+  "src": "Sabiston Ch 12, \"SSI — Prevention\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.11",
+  "chapter": "Ch12",
+  "section": "SSI risk factors / Table 12.3",
+  "stem": "According to the risk/protective factor table, which factor is protective against surgical site infection?",
+  "options": {
+   "A": "A laparoscopic (vs open) approach",
+   "B": "Perioperative blood transfusion",
+   "C": "Preoperative hair shaving",
+   "D": "Emergency procedure"
+  },
+  "answer": "A",
+  "exp": "Laparoscopic procedures and antibiotic prophylaxis are protective against SSI, whereas transfusion, shaving, and emergency procedures are risk factors.",
+  "hy": "Laparoscopy and prophylaxis are protective against SSI.",
+  "src": "Sabiston Ch 12, Table 12.3 (SSI risk/protective factors)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.12",
+  "chapter": "Ch12",
+  "section": "Hypothermia classification",
+  "stem": "Perioperative hypothermia (core <35°C) is graded by severity. Which set of ranges is correct?",
+  "options": {
+   "A": "Mild 32–35°C, moderate 28–32°C, severe <28°C",
+   "B": "Mild 34–36°C, moderate 30–34°C, severe <30°C",
+   "C": "Mild 30–35°C, moderate 25–30°C, severe <25°C",
+   "D": "Mild 33–36°C, moderate 29–33°C, severe <29°C"
+  },
+  "answer": "A",
+  "exp": "Hypothermia (core <35°C) is graded mild 32–35°C, moderate 28–32°C, severe <28°C; below 32°C, BP and cardiac output fall.",
+  "hy": "Hypothermia: mild 32–35, moderate 28–32, severe <28°C.",
+  "src": "Sabiston Ch 12, \"Hypothermia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.13",
+  "chapter": "Ch12",
+  "section": "Hypothermia effects",
+  "stem": "Which ECG finding and physiologic effect are characteristic of significant intraoperative hypothermia?",
+  "options": {
+   "A": "The Osborn (J) wave, with impaired coagulation and roughly 20% greater operative blood loss",
+   "B": "A delta wave, with enhanced platelet aggregation and reduced bleeding",
+   "C": "Peaked T waves, with a rightward shift of the oxyhemoglobin curve",
+   "D": "A shortened QT interval, with improved catecholamine responsiveness"
+  },
+  "answer": "A",
+  "exp": "Hypothermia produces the Osborn (J) wave and impairs coagulation/platelets (≈20% greater blood loss); it left-shifts the oxyhemoglobin curve, impairing tissue O₂ delivery.",
+  "hy": "Hypothermia → Osborn J wave, ~20% more blood loss, left-shifted O₂ curve.",
+  "src": "Sabiston Ch 12, \"Hypothermia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.14",
+  "chapter": "Ch12",
+  "section": "Malignant hyperthermia",
+  "stem": "A patient under sevoflurane anesthesia develops a rising end-tidal CO₂, masseter spasm, and tachycardia. Which statement is correct?",
+  "options": {
+   "A": "It is an autosomal-dominant disorder (most often a ryanodine-receptor mutation); a rising end-tidal CO₂ is an early sign; treat with IV dantrolene 2.5 mg/kg and cooling",
+   "B": "It is X-linked; the earliest sign is profound bradycardia; treat with beta blockers",
+   "C": "It is triggered chiefly by propofol; treat by deepening the propofol infusion",
+   "D": "Dantrolene is contraindicated; active cooling alone is the definitive therapy"
+  },
+  "answer": "A",
+  "exp": "Malignant hyperthermia is autosomal-dominant (most often RYR1) triggered by volatile agents and succinylcholine; rising end-tidal CO₂ is an early sign; treat by stopping the trigger, dantrolene 2.5 mg/kg, and cooling.",
+  "hy": "MH: autosomal-dominant RYR1; early rising ETCO₂; dantrolene 2.5 mg/kg + cooling.",
+  "src": "Sabiston Ch 12, \"Malignant Hyperthermia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.15",
+  "chapter": "Ch12",
+  "section": "Postoperative fever timing",
+  "stem": "Regarding the timing of postoperative fever, which statement is correct?",
+  "options": {
+   "A": "Fever in the first 48 hours is most often an inflammatory (cytokine) response, whereas fever ≥72 hours after surgery is more likely infectious",
+   "B": "Fever in the first 48 hours is almost always due to a wound infection",
+   "C": "Fever is never caused by the surgical inflammatory response itself",
+   "D": "Late fever (>72 h) is most often simple atelectasis"
+  },
+  "answer": "A",
+  "exp": "Fever in the first 48 hours is most often an inflammatory cytokine response to surgery, whereas fever ≥72 hours later is more likely infectious (wound, urine, pneumonia).",
+  "hy": "Early fever (<48 h) = inflammatory; late (≥72 h) = infectious.",
+  "src": "Sabiston Ch 12, \"Postoperative Fever\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.16",
+  "chapter": "Ch12",
+  "section": "SIRS criteria",
+  "stem": "SIRS is diagnosed by two or more of which set of criteria?",
+  "options": {
+   "A": "Temperature >38°C or <36°C, HR >90/min, RR >20/min (or PaCO₂ <32), WBC >12,000 or <4,000 or >10% bands",
+   "B": "Temperature >39°C, HR >110/min, lactate >4 mmol/L, and hypotension",
+   "C": "Two positive blood cultures plus a fever",
+   "D": "A SOFA score increase of ≥2 points"
+  },
+  "answer": "A",
+  "exp": "SIRS requires ≥2 of: temperature >38°C or <36°C, HR >90/min, RR >20/min (or PaCO₂ <32), and WBC >12,000 or <4,000 or >10% bands.",
+  "hy": "SIRS = ≥2 of temp, HR >90, RR >20/PaCO₂ <32, WBC derangement.",
+  "src": "Sabiston Ch 12, \"Postoperative Fever\" (SIRS)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.17",
+  "chapter": "Ch12",
+  "section": "Catheter-related bloodstream infection",
+  "stem": "How does the mechanism of CRBSI differ by catheter dwell time?",
+  "options": {
+   "A": "Short-term (<10 days) CRBSI is usually extraluminal from skin flora at the insertion site, whereas long-term (>10 days) is usually endoluminal",
+   "B": "Short-term CRBSI is endoluminal; long-term is extraluminal",
+   "C": "All CRBSI is hematogenous seeding from a distant source",
+   "D": "Dwell time has no relationship to the route of contamination"
+  },
+  "answer": "A",
+  "exp": "Short-term CRBSI (<10 days) is usually extraluminal (skin flora at insertion site); long-term (>10 days) is usually endoluminal (hub/biofilm). Vancomycin is empiric for suspected MRSA.",
+  "hy": "Short-term CRBSI = extraluminal/skin; long-term = endoluminal.",
+  "src": "Sabiston Ch 12, \"Catheter-related bloodstream infection\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.18",
+  "chapter": "Ch12",
+  "section": "Atelectasis",
+  "stem": "Which statement about postoperative atelectasis is correct?",
+  "options": {
+   "A": "It is the most common postoperative respiratory complication and the most common cause of early postoperative fever",
+   "B": "It is the leading cause of fever beginning on postoperative day 5",
+   "C": "It requires antibiotics in all cases",
+   "D": "It is reversed only by reintubation and positive-pressure ventilation"
+  },
+  "answer": "A",
+  "exp": "Atelectasis is the most common postoperative respiratory complication and the most common cause of early postoperative fever; it reverses with mobilization, deep breathing, incentive spirometry, and pain control.",
+  "hy": "Atelectasis = most common respiratory complication and early-fever cause.",
+  "src": "Sabiston Ch 12, \"Atelectasis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.19",
+  "chapter": "Ch12",
+  "section": "Pneumonia / VAP",
+  "stem": "VAP is defined as pneumonia developing after how long of endotracheal intubation, and how do early- vs late-onset organisms differ?",
+  "options": {
+   "A": "After 48–72 hours; early-onset (<4 days) is usually antibiotic-sensitive, late-onset (>4 days) is frequently drug-resistant",
+   "B": "After 12 hours; early-onset organisms are drug-resistant",
+   "C": "After 7 days; there is no difference between early and late organisms",
+   "D": "After 24 hours; late-onset pneumonia is always due to S. aureus"
+  },
+  "answer": "A",
+  "exp": "VAP is pneumonia developing 48–72 hours after intubation; early-onset (<4 days) is usually antibiotic-sensitive, late-onset (>4 days) frequently drug-resistant.",
+  "hy": "VAP = >48–72 h post-intubation; early sensitive, late resistant.",
+  "src": "Sabiston Ch 12, \"Pneumonia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.20",
+  "chapter": "Ch12",
+  "section": "Aspiration",
+  "stem": "Aspiration pneumonitis (Mendelson syndrome) becomes more severe above which thresholds of aspirate acidity and volume?",
+  "options": {
+   "A": "pH below 2.5 and volume above 20 mL",
+   "B": "pH below 5.0 and volume above 50 mL",
+   "C": "pH above 4.0 and volume above 5 mL",
+   "D": "pH below 1.0 and volume above 100 mL"
+  },
+  "answer": "A",
+  "exp": "Mendelson syndrome worsens with more acidic (critical pH <2.5) and more voluminous (>20 mL) aspirate; particulate matter injures independent of acidity.",
+  "hy": "Aspiration severity rises with pH <2.5 and volume >20 mL.",
+  "src": "Sabiston Ch 12, \"Aspiration Pneumonitis and Aspiration Pneumonia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.21",
+  "chapter": "Ch12",
+  "section": "Aspiration pneumonitis vs pneumonia",
+  "stem": "Why is the distinction between aspiration pneumonitis and aspiration pneumonia clinically important?",
+  "options": {
+   "A": "Pneumonitis (sterile acid injury) is managed supportively, whereas aspiration pneumonia requires antibiotics",
+   "B": "Pneumonitis always requires antibiotics, whereas pneumonia is managed supportively",
+   "C": "Both are treated identically, so the distinction is academic",
+   "D": "Pneumonitis is infectious and pneumonia is sterile"
+  },
+  "answer": "A",
+  "exp": "Aspiration pneumonitis is a sterile acid injury managed supportively, whereas aspiration pneumonia is infectious and requires antibiotics — so the distinction changes management.",
+  "hy": "Pneumonitis = supportive; pneumonia = antibiotics.",
+  "src": "Sabiston Ch 12, \"Aspiration Pneumonitis and Aspiration Pneumonia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.22",
+  "chapter": "Ch12",
+  "section": "ARDS",
+  "stem": "Which classification of insult correctly matches ARDS etiology?",
+  "options": {
+   "A": "Direct lung injury — pneumonia, aspiration, chest trauma; indirect — severe sepsis, pancreatitis, ischemia/reperfusion",
+   "B": "Direct lung injury — pancreatitis and sepsis; indirect — pneumonia and aspiration",
+   "C": "ARDS resolves faster than cardiogenic pulmonary edema",
+   "D": "ARDS is characterized by decreased capillary permeability"
+  },
+  "answer": "A",
+  "exp": "ARDS results from direct lung injury (pneumonia, aspiration, chest trauma) or indirect injury (sepsis, pancreatitis, shock, ischemia/reperfusion); it shows increased capillary permeability and resolves slowly.",
+  "hy": "ARDS: direct (pneumonia/aspiration) vs indirect (sepsis/pancreatitis).",
+  "src": "Sabiston Ch 12, \"Pulmonary Edema and ARDS\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.23",
+  "chapter": "Ch12",
+  "section": "Perioperative myocardial infarction",
+  "stem": "According to the POISE trial, what proportion of patients with perioperative myocardial infarction do not experience ischemic symptoms?",
+  "options": {
+   "A": "About 10%",
+   "B": "About 35%",
+   "C": "About 65%",
+   "D": "About 90%"
+  },
+  "answer": "C",
+  "exp": "Per POISE, about 65% of perioperative myocardial infarctions are clinically silent, which is why symptom-based diagnosis underdetects PMI; troponin elevation independently predicts mortality.",
+  "hy": "~65% of perioperative MIs are clinically silent (POISE).",
+  "src": "Sabiston Ch 12, \"Perioperative Myocardial Ischemia and Infarction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.24",
+  "chapter": "Ch12",
+  "section": "Routine troponin screening",
+  "stem": "What is the 2014 ACC/AHA position on routinely screening surgical patients with troponin levels?",
+  "options": {
+   "A": "Routine screening is not recommended; troponin should be checked only in patients with signs/symptoms suggestive of myocardial infarction",
+   "B": "Every surgical patient should have troponin checked before and 72 h after surgery",
+   "C": "Troponin should replace the ECG for perioperative cardiac assessment",
+   "D": "Troponin is unaffected by renal failure, heart failure, or atrial fibrillation, making it an ideal universal screen"
+  },
+  "answer": "A",
+  "exp": "The 2014 ACC/AHA guidance recommends against routine troponin screening — check only if signs/symptoms suggest MI — because troponin rises nonspecifically in renal failure, heart failure, PE, and atrial fibrillation.",
+  "hy": "No routine troponin screening — only if symptomatic.",
+  "src": "Sabiston Ch 12, \"Perioperative Myocardial Ischemia and Infarction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.25",
+  "chapter": "Ch12",
+  "section": "Revised Cardiac Risk Index / Box 12.2",
+  "stem": "How many RCRI risk factors place a patient at increased risk for major perioperative cardiac complications?",
+  "options": {
+   "A": "One or more",
+   "B": "Two or more",
+   "C": "Four or more",
+   "D": "All six"
+  },
+  "answer": "B",
+  "exp": "Two or more RCRI risk factors indicate increased risk for major perioperative cardiac complications. The six are high-risk surgery, ischemic heart disease, CHF, cerebrovascular disease, insulin-treated diabetes, and creatinine >2 mg/dL.",
+  "hy": "RCRI ≥2 factors = elevated cardiac risk.",
+  "src": "Sabiston Ch 12, Box 12.2 (RCRI)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.26",
+  "chapter": "Ch12",
+  "section": "Postoperative hypertension",
+  "stem": "How is postoperative hypertension defined, and what is the recommended initial blood-pressure target when treating it?",
+  "options": {
+   "A": "BP >190/100 mm Hg on two consecutive readings; lower BP by about 25% then reassess",
+   "B": "BP >140/90 mm Hg once; normalize BP completely and immediately",
+   "C": "BP >160/95 mm Hg once; lower BP by 50% within 10 minutes",
+   "D": "BP >200/120 mm Hg sustained for 1 hour; no treatment is needed"
+  },
+  "answer": "A",
+  "exp": "Postoperative hypertension is BP >190/100 mm Hg on two consecutive readings; treat with rapid-onset short-acting agents aiming to lower BP by ~25% then reassess.",
+  "hy": "Postop HTN = >190/100 ×2; lower BP ~25% then reassess.",
+  "src": "Sabiston Ch 12, \"Postoperative Hypertension\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.27",
+  "chapter": "Ch12",
+  "section": "Postoperative arrhythmia",
+  "stem": "Which statement about postoperative atrial fibrillation is correct?",
+  "options": {
+   "A": "It commonly develops within 3 days of surgery; rate control is first-line in stable patients, and the CHA₂DS₂-VASc score (anticoagulate if ≥2) guides thromboembolic prophylaxis",
+   "B": "Immediate electrical cardioversion is first-line in all hemodynamically stable patients",
+   "C": "Anticoagulation is mandatory for every episode regardless of duration or risk score",
+   "D": "Beta blockers are contraindicated for rate control after surgery"
+  },
+  "answer": "A",
+  "exp": "Postoperative AF/flutter usually appears within 3 days; rate control is first-line in stable patients, and the CHA₂DS₂-VASc score (anticoagulate if ≥2) guides prophylaxis; cardioversion is reserved for instability.",
+  "hy": "Postop AF within 3 d; rate control first; anticoagulate if CHA₂DS₂-VASc ≥2.",
+  "src": "Sabiston Ch 12, \"Postoperative Arrhythmias\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.28",
+  "chapter": "Ch12",
+  "section": "Perioperative cardiac medications",
+  "stem": "On the day of surgery, which medication-management statement is correct?",
+  "options": {
+   "A": "ACE inhibitors/ARBs are often held the day before/of surgery to prevent intraoperative hypotension, while chronic beta blockers are continued",
+   "B": "Beta blockers should be stopped the morning of surgery to avoid bradycardia",
+   "C": "ACE inhibitors should be newly started the morning of surgery in all patients",
+   "D": "All antihypertensives should be withheld for 48 hours before surgery"
+  },
+  "answer": "A",
+  "exp": "ACE inhibitors/ARBs are often held the day before/of surgery to prevent intraoperative hypotension, while chronic beta blockers are continued to avoid a catecholamine surge.",
+  "hy": "Hold ACE/ARB day of surgery; continue chronic beta blockers.",
+  "src": "Sabiston Ch 12, \"Postoperative Hypertension\"/\"Heart Failure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.29",
+  "chapter": "Ch12",
+  "section": "Postoperative heart failure",
+  "stem": "Which statement about postoperative heart failure is supported by the chapter?",
+  "options": {
+   "A": "Perioperative heart failure is associated with a ~63% increased mortality; diastolic (preserved-EF) failure carries a lower mortality than systolic (reduced-EF, especially EF <30%)",
+   "B": "Diastolic heart failure carries a higher mortality than systolic heart failure",
+   "C": "BNP has no role in perioperative risk assessment",
+   "D": "Heart failure is not included in any cardiac risk-stratification system"
+  },
+  "answer": "A",
+  "exp": "Perioperative heart failure carries ~63% increased mortality; diastolic (preserved-EF) failure has lower mortality than systolic (reduced-EF, especially EF <30%).",
+  "hy": "Perioperative HF ~63% higher mortality; systolic worse than diastolic.",
+  "src": "Sabiston Ch 12, \"Postoperative Heart Failure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.30",
+  "chapter": "Ch12",
+  "section": "BNP screening",
+  "stem": "In the cited meta-analysis of vascular surgery patients, a preoperative BNP cut point of 30 pg/mL had which test characteristics for predicting 30-day major adverse cardiac events?",
+  "options": {
+   "A": "~95% sensitivity and ~44% specificity",
+   "B": "~44% sensitivity and ~95% specificity",
+   "C": "~99% sensitivity and ~99% specificity",
+   "D": "~50% sensitivity and ~50% specificity"
+  },
+  "answer": "A",
+  "exp": "A preoperative BNP cut point of 30 pg/mL gave ~95% sensitivity and ~44% specificity for 30-day MACE in vascular surgery patients — a sensitive but nonspecific screen.",
+  "hy": "BNP 30 pg/mL ≈ 95% sensitive, 44% specific.",
+  "src": "Sabiston Ch 12, \"Postoperative Heart Failure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.31",
+  "chapter": "Ch12",
+  "section": "AKI / KDIGO definition / Table 12.10",
+  "stem": "By the 2012 KDIGO criteria, which finding meets the definition of acute kidney injury?",
+  "options": {
+   "A": "A rise in serum creatinine of ≥0.3 mg/dL within 48 hours",
+   "B": "A rise in serum creatinine of ≥0.3 mg/dL within 30 days",
+   "C": "Urine output <1.0 mL/kg/h for 2 hours",
+   "D": "Any single creatinine value above 1.5 mg/dL"
+  },
+  "answer": "A",
+  "exp": "KDIGO defines AKI as a creatinine rise ≥0.3 mg/dL within 48 hours, OR ≥1.5× baseline within 7 days, OR urine output <0.5 mL/kg/h for 6 hours.",
+  "hy": "KDIGO AKI: ΔCr ≥0.3 in 48 h, or ≥1.5× in 7 d, or UOP <0.5 ×6 h.",
+  "src": "Sabiston Ch 12, Table 12.10 (KDIGO)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.32",
+  "chapter": "Ch12",
+  "section": "KDIGO staging / Table 12.10",
+  "stem": "Which KDIGO stage-3 AKI criterion is correct?",
+  "options": {
+   "A": "Serum creatinine ≥3 times baseline (or ≥4.0 mg/dL), or urine output <0.3 mL/kg/h for ≥24 h, or anuria for ≥12 h",
+   "B": "Serum creatinine 1.5–1.9 times baseline",
+   "C": "Urine output <0.5 mL/kg/h for 6–12 hours",
+   "D": "Serum creatinine 2.0–2.9 times baseline"
+  },
+  "answer": "A",
+  "exp": "KDIGO stage 3 = creatinine ≥3× baseline (or ≥4.0 mg/dL), or urine output <0.3 mL/kg/h for ≥24 h, or anuria ≥12 h (or RRT). Stage 1 is 1.5–1.9× / ≥0.3 mg/dL; stage 2 is 2.0–2.9×.",
+  "hy": "KDIGO stage 3: ≥3× baseline / Cr ≥4.0 / UOP <0.3 ×24 h.",
+  "src": "Sabiston Ch 12, Table 12.10 (KDIGO staging)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.33",
+  "chapter": "Ch12",
+  "section": "Prerenal vs renal AKI / Table 12.12",
+  "stem": "Which laboratory pattern indicates prerenal (rather than intrinsic renal) azotemia?",
+  "options": {
+   "A": "Urine osmolality >500 mOsm/L, urinary sodium <20, fractional excretion of sodium <1%, BUN:creatinine >20",
+   "B": "Urine osmolality equal to plasma, urinary sodium >50, FeNa >3%",
+   "C": "FeNa >3% with a BUN:creatinine ratio <20",
+   "D": "Urinary sodium >50 mOsm/L with isosthenuric urine"
+  },
+  "answer": "A",
+  "exp": "Prerenal azotemia: concentrated urine (osmolality >500), avid sodium reabsorption (urinary Na <20, FeNa <1%), and high BUN:creatinine (>20). Intrinsic renal failure shows the opposite.",
+  "hy": "Prerenal: U-osm >500, U-Na <20, FeNa <1%, BUN:Cr >20.",
+  "src": "Sabiston Ch 12, Table 12.12 (AKI evaluation)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.34",
+  "chapter": "Ch12",
+  "section": "AKI risk factors / Table 12.11",
+  "stem": "Which factor is listed as a risk factor for developing postoperative acute kidney injury?",
+  "options": {
+   "A": "Preexisting chronic kidney disease and intraoperative hypotension",
+   "B": "Young age and low ASA class",
+   "C": "Restrictive (low-volume) fluid management alone",
+   "D": "Laparoscopic approach"
+  },
+  "answer": "A",
+  "exp": "AKI risk factors include preexisting CKD and intraoperative hypotension (plus age, obesity, diabetes, hypertension, anemia, transfusion, high ASA, heart failure, nephrotoxins, cardiac/emergency surgery).",
+  "hy": "AKI risks: CKD, hypotension, contrast/nephrotoxins, cardiac/emergency surgery.",
+  "src": "Sabiston Ch 12, Table 12.11 (AKI risk factors)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.35",
+  "chapter": "Ch12",
+  "section": "Nephrotoxins / rhabdomyolysis",
+  "stem": "Which statement about renal (intrinsic) causes of perioperative AKI is correct?",
+  "options": {
+   "A": "NSAIDs, aminoglycosides, amphotericin B, and contrast media are directly nephrotoxic, and rhabdomyolysis injures tubules via myoglobin",
+   "B": "Contrast media protect the renal medulla from ischemia",
+   "C": "Aminoglycosides are renoprotective",
+   "D": "Rhabdomyolysis causes a purely postrenal (obstructive) injury"
+  },
+  "answer": "A",
+  "exp": "Intrinsic causes include nephrotoxins (NSAIDs, aminoglycosides, amphotericin B, contrast) and rhabdomyolysis, in which myoglobin injures tubules. Contrast and aminoglycosides are toxic, not protective.",
+  "hy": "Renal AKI: NSAIDs/aminoglycosides/ampho B/contrast + myoglobin.",
+  "src": "Sabiston Ch 12, \"Acute Kidney Injury\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.36",
+  "chapter": "Ch12",
+  "section": "Urinary retention / Table 12.13",
+  "stem": "When postoperative urinary retention is suspected and bladder ultrasound is performed, what bladder volume generally warrants intervention?",
+  "options": {
+   "A": "≥500 mL",
+   "B": "≥150 mL",
+   "C": "≥250 mL",
+   "D": "≥1000 mL"
+  },
+  "answer": "A",
+  "exp": "A bladder volume of ≥500 mL on ultrasound warrants intervention (catheterization; suprapubic if urethral stricture/trauma).",
+  "hy": "Bladder ≥500 mL → catheterize.",
+  "src": "Sabiston Ch 12, \"Urinary Retention\"/Table 12.13",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.37",
+  "chapter": "Ch12",
+  "section": "Adrenal insufficiency",
+  "stem": "Which feature distinguishes primary adrenal insufficiency (Addison disease) from central (secondary) adrenal insufficiency?",
+  "options": {
+   "A": "Primary AI causes hyperpigmentation, hyponatremia, and hyperkalemia (mineralocorticoid lost); central AI spares mineralocorticoids and lacks hyperpigmentation",
+   "B": "Central AI causes hyperpigmentation; primary AI does not",
+   "C": "Primary AI spares aldosterone, so potassium is normal",
+   "D": "Central AI characteristically causes hyperkalemia"
+  },
+  "answer": "A",
+  "exp": "Primary AI (Addison) loses aldosterone (hyponatremia, hyperkalemia, hypovolemia) and high ACTH causes hyperpigmentation; central AI spares mineralocorticoids and has no hyperpigmentation.",
+  "hy": "Primary AI: hyperpigmentation + hyperkalemia; central spares both.",
+  "src": "Sabiston Ch 12, \"Adrenal Insufficiency\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.38",
+  "chapter": "Ch12",
+  "section": "Perioperative steroids",
+  "stem": "Which patient is at low risk for HPA-axis suppression and does not require perioperative stress-dose steroids?",
+  "options": {
+   "A": "A patient on prednisolone 5–10 mg/day for less than 3 weeks",
+   "B": "A patient on >20 mg/day prednisone for more than 3 weeks",
+   "C": "A patient with a cushingoid appearance",
+   "D": "A patient with a morning cortisol <5 mcg/dL"
+  },
+  "answer": "A",
+  "exp": "Low-dose steroids (~5–10 mg/day prednisolone) for <3 weeks pose low HPA-suppression risk and need no stress dosing or testing. High dose >3 weeks, cushingoid appearance, or AM cortisol <5 indicate suppression.",
+  "hy": "Low-dose steroids <3 weeks → no stress dose.",
+  "src": "Sabiston Ch 12, \"Adrenal Insufficiency\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.39",
+  "chapter": "Ch12",
+  "section": "Adrenal crisis",
+  "stem": "What is the initial pharmacologic management of suspected perioperative adrenal crisis?",
+  "options": {
+   "A": "IV hydrocortisone 100 mg bolus with 1 L normal saline, plus correction of electrolytes and glucose",
+   "B": "Oral prednisone 5 mg and observation",
+   "C": "Fluid restriction and a vasopressin infusion",
+   "D": "Withholding steroids until a stimulation test confirms the diagnosis"
+  },
+  "answer": "A",
+  "exp": "Adrenal crisis is treated with IV hydrocortisone 100 mg bolus plus 1 L normal saline and correction of electrolytes/glucose/pH; do not delay treatment for stimulation testing.",
+  "hy": "Adrenal crisis: IV hydrocortisone 100 mg + saline now.",
+  "src": "Sabiston Ch 12, \"Adrenal Insufficiency\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.40",
+  "chapter": "Ch12",
+  "section": "Thyroid storm / Burch-Wartofsky",
+  "stem": "Using the Burch-Wartofsky scoring system, which score is \"highly suggestive\" of thyroid storm, and what is the untreated mortality?",
+  "options": {
+   "A": "A score ≥45 is highly suggestive; untreated mortality is ~20%–50%",
+   "B": "A score ≥25 is highly suggestive; mortality is <5%",
+   "C": "A score ≥45 excludes thyroid storm",
+   "D": "A score of 10 confirms thyroid storm with ~90% mortality"
+  },
+  "answer": "A",
+  "exp": "On Burch-Wartofsky, <25 is unlikely, 25–44 impending, and ≥45 highly suggestive of thyroid storm; untreated mortality is ~20%–50%.",
+  "hy": "Burch-Wartofsky ≥45 highly suggestive; storm mortality ~20–50%.",
+  "src": "Sabiston Ch 12, \"Hyperthyroid Crisis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.41",
+  "chapter": "Ch12",
+  "section": "Thyroid storm treatment",
+  "stem": "Which statement about thyroid-storm pharmacotherapy is correct?",
+  "options": {
+   "A": "Thionamides (propylthiouracil/methimazole) block synthesis; potassium iodide blocks hormone release; steroids reduce T4→T3 conversion; acetaminophen (not aspirin) is used for fever",
+   "B": "Aspirin is the preferred antipyretic because it lowers free thyroid hormone",
+   "C": "Potassium iodide should be given before thionamides to block synthesis",
+   "D": "Beta blockers are contraindicated in thyroid storm"
+  },
+  "answer": "A",
+  "exp": "Storm therapy: thionamides (PTU/methimazole) block synthesis, potassium iodide blocks release (given after thionamide), steroids reduce T4→T3 conversion, beta blockers control rate, and acetaminophen — not aspirin — is used for fever.",
+  "hy": "Storm: thionamide then iodide; steroids; acetaminophen not aspirin.",
+  "src": "Sabiston Ch 12, Box 12.3 (thyroid crisis)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.42",
+  "chapter": "Ch12",
+  "section": "Myxedema coma / Table 12.14",
+  "stem": "Which statement about myxedema coma is correct?",
+  "options": {
+   "A": "It carries a mortality of ~40%–50% and is treated with IV thyroid hormone (T4 ± T3) plus IV hydrocortisone and supportive care",
+   "B": "It is treated with oral levothyroxine and discharge home",
+   "C": "Steroids are contraindicated because cortisol levels are elevated",
+   "D": "It presents with hyperthermia and tachycardia"
+  },
+  "answer": "A",
+  "exp": "Myxedema coma (mortality ~40%–50%) is treated with IV thyroid hormone (T4 ± T3), IV hydrocortisone (concurrent adrenal insufficiency), ventilation, rewarming, and correction of hyponatremia.",
+  "hy": "Myxedema coma: IV T4 ± T3 + IV hydrocortisone + support.",
+  "src": "Sabiston Ch 12, Table 12.14/\"Hypothyroidism\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.43",
+  "chapter": "Ch12",
+  "section": "SIADH",
+  "stem": "In SIADH, at approximately what serum sodium do significant neurologic symptoms appear, and what is the maximum safe correction rate?",
+  "options": {
+   "A": "Significant symptoms <125 mEq/L; correct no faster than ~8 mEq/L per 24 h to avoid osmotic demyelination",
+   "B": "Significant symptoms <140 mEq/L; correct as fast as possible",
+   "C": "Significant symptoms <115 mEq/L; correct at 5 mEq/L per hour",
+   "D": "Symptoms appear only below 100 mEq/L; correction rate is irrelevant"
+  },
+  "answer": "A",
+  "exp": "In SIADH, significant neurologic symptoms appear below ~125 mEq/L, and correction must not exceed ~8 mEq/L per 24 h to avoid osmotic demyelination.",
+  "hy": "SIADH: symptoms <125 mEq/L; correct ≤8 mEq/L/24 h.",
+  "src": "Sabiston Ch 12, \"SIADH\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.44",
+  "chapter": "Ch12",
+  "section": "SIADH causes / Table 12.15",
+  "stem": "Which is the most common tumor cause of SIADH listed in the chapter?",
+  "options": {
+   "A": "Small cell lung cancer",
+   "B": "Pancreatic adenocarcinoma",
+   "C": "Renal cell carcinoma",
+   "D": "Colorectal cancer"
+  },
+  "answer": "A",
+  "exp": "Small cell lung cancer is the most common tumor cause of SIADH.",
+  "hy": "Small cell lung cancer = most common tumor cause of SIADH.",
+  "src": "Sabiston Ch 12, Table 12.15 (causes of SIADH)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.45",
+  "chapter": "Ch12",
+  "section": "Postoperative ileus",
+  "stem": "After abdominal surgery, in what order does motility typically return?",
+  "options": {
+   "A": "Small bowel within hours, stomach in 24–48 hours, colon in 3–5 days",
+   "B": "Colon first (hours), then stomach, then small bowel (days)",
+   "C": "All segments simultaneously at 48 hours",
+   "D": "Stomach within hours, small bowel in 3–5 days, colon last at 10 days"
+  },
+  "answer": "A",
+  "exp": "Motility returns small bowel within hours, stomach 24–48 hours, colon 3–5 days; the colon is rate-limiting for ileus resolution.",
+  "hy": "Motility: small bowel (hours) → stomach (24–48 h) → colon (3–5 d).",
+  "src": "Sabiston Ch 12, \"Ileus and Early Postoperative Bowel Obstruction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.46",
+  "chapter": "Ch12",
+  "section": "Early postoperative bowel obstruction",
+  "stem": "Early postoperative mechanical bowel obstruction is defined as occurring within what interval, and what is its most common cause?",
+  "options": {
+   "A": "Within 6 weeks of surgery; adhesions (>90%)",
+   "B": "Within 1 week of surgery; internal hernia",
+   "C": "Within 6 months of surgery; anastomotic stricture",
+   "D": "Within 24 hours of surgery; intussusception"
+  },
+  "answer": "A",
+  "exp": "Early postoperative mechanical obstruction occurs within 6 weeks, and adhesions cause >90% of cases.",
+  "hy": "Early postop obstruction = <6 weeks; >90% adhesions.",
+  "src": "Sabiston Ch 12, \"Ileus and Early Postoperative Bowel Obstruction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.47",
+  "chapter": "Ch12",
+  "section": "Bowel obstruction presentation",
+  "stem": "Which presentation is most consistent with a high (proximal) small-bowel obstruction relative to a distal one?",
+  "options": {
+   "A": "Early, prominent bilious vomiting with less distention",
+   "B": "Late feculent vomiting with marked distention",
+   "C": "Painless distention with continued passage of flatus",
+   "D": "Episodes spaced minutes apart with massive distention"
+  },
+  "answer": "A",
+  "exp": "A high (proximal) small-bowel obstruction presents early with bilious vomiting and little distention; a distal obstruction causes late feculent vomiting and marked distention.",
+  "hy": "Proximal SBO: early bilious vomiting, little distention.",
+  "src": "Sabiston Ch 12, \"Ileus and Early Postoperative Bowel Obstruction\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.48",
+  "chapter": "Ch12",
+  "section": "Abdominal compartment syndrome",
+  "stem": "Abdominal compartment syndrome is defined as a sustained intraabdominal pressure at or above which value, with new organ dysfunction that improves after decompression?",
+  "options": {
+   "A": "≥12 mm Hg",
+   "B": "≥5 mm Hg",
+   "C": "≥30 mm Hg",
+   "D": "≥50 mm Hg"
+  },
+  "answer": "A",
+  "exp": "Abdominal compartment syndrome is a sustained IAP ≥12 mm Hg with new organ dysfunction reversed by decompression.",
+  "hy": "ACS = sustained IAP ≥12 mm Hg + new organ dysfunction.",
+  "src": "Sabiston Ch 12, \"Abdominal Compartment Syndrome\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.49",
+  "chapter": "Ch12",
+  "section": "ACS measurement & treatment",
+  "stem": "Which statement about abdominal compartment syndrome is correct?",
+  "options": {
+   "A": "Intraabdominal pressure is most commonly estimated via bladder (transurethral) pressure, and definitive treatment of established ACS is decompressive laparotomy",
+   "B": "ACS is diagnosed only by direct intraperitoneal pressure transducers",
+   "C": "Diuresis is the definitive treatment for established ACS",
+   "D": "Sudden decompression has no hemodynamic consequences"
+  },
+  "answer": "A",
+  "exp": "IAP is most commonly estimated via bladder (transurethral) pressure, and definitive treatment of established ACS is decompressive laparotomy; sudden decompression can cause reperfusion acidosis/hypotension.",
+  "hy": "Measure IAP via bladder pressure; treat with decompressive laparotomy.",
+  "src": "Sabiston Ch 12, \"Abdominal Compartment Syndrome\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.50",
+  "chapter": "Ch12",
+  "section": "GI bleeding",
+  "stem": "Upper GI bleeding is anatomically defined as hemorrhage proximal to which landmark, and what is its most common cause?",
+  "options": {
+   "A": "The ligament of Treitz; peptic ulcer disease",
+   "B": "The ileocecal valve; diverticulosis",
+   "C": "The pylorus; angiodysplasia",
+   "D": "The hepatic flexure; Mallory-Weiss tear"
+  },
+  "answer": "A",
+  "exp": "Upper GI bleeding is proximal to the ligament of Treitz; peptic ulcer disease is the most common cause.",
+  "hy": "UGIB = proximal to ligament of Treitz; PUD most common.",
+  "src": "Sabiston Ch 12, \"Postoperative GI Bleeding\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.51",
+  "chapter": "Ch12",
+  "section": "Stress ulcers",
+  "stem": "Which eponymous stress ulcer is correctly matched to its setting?",
+  "options": {
+   "A": "Curling ulcer — burns; Cushing ulcer — raised intracranial pressure",
+   "B": "Curling ulcer — head injury; Cushing ulcer — burns",
+   "C": "Cushing ulcer — sepsis; Curling ulcer — NSAID use",
+   "D": "Both occur only in ambulatory outpatients"
+  },
+  "answer": "A",
+  "exp": "Curling ulcer = burns; Cushing ulcer = raised intracranial pressure (head injury/neurosurgery).",
+  "hy": "Curling = burns; Cushing = raised ICP.",
+  "src": "Sabiston Ch 12, \"Postoperative GI Bleeding\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.52",
+  "chapter": "Ch12",
+  "section": "Stress ulcer prophylaxis",
+  "stem": "Which patients are at highest risk for stress-related mucosal bleeding, and what is the intragastric pH goal?",
+  "options": {
+   "A": "Mechanically ventilated and coagulopathic patients; keep intraluminal pH above 3.5",
+   "B": "Ambulatory patients on a normal diet; keep pH below 2",
+   "C": "Only patients with known peptic ulcer disease; pH goal is irrelevant",
+   "D": "Patients with low intracranial pressure; keep pH below 1"
+  },
+  "answer": "A",
+  "exp": "Mechanically ventilated and coagulopathic patients are at highest risk for stress-related bleeding and warrant prophylaxis; keep intragastric pH above 3.5.",
+  "hy": "Ventilation + coagulopathy = highest stress-ulcer risk; pH >3.5.",
+  "src": "Sabiston Ch 12, \"Postoperative GI Bleeding\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.53",
+  "chapter": "Ch12",
+  "section": "Stomal complications / Table 12.16",
+  "stem": "Which stomal complication is correctly classified as early (vs late)?",
+  "options": {
+   "A": "Ischemic necrosis and retraction are early; parastomal hernia and stenosis are late",
+   "B": "Parastomal hernia and stenosis are early; ischemia is late",
+   "C": "Prolapse is an early complication and ischemia is late",
+   "D": "All stomal complications are classified as late"
+  },
+  "answer": "A",
+  "exp": "Early stomal complications include ischemic necrosis, retraction, and detachment; late complications include parastomal hernia, stenosis, prolapse, and fistula.",
+  "hy": "Early stoma: ischemia/retraction; late: hernia/stenosis/prolapse.",
+  "src": "Sabiston Ch 12, Table 12.16 (stomal complications)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.54",
+  "chapter": "Ch12",
+  "section": "Stoma viability",
+  "stem": "A congested stoma is dark purple on postoperative day 0. How is viability best assessed at the bedside, and which finding indicates a viable stoma?",
+  "options": {
+   "A": "Transillumination — a viable stoma transilluminates bright red even with venous congestion; failure to transilluminate indicates ischemia",
+   "B": "A black stoma always indicates necrosis requiring immediate laparotomy regardless of depth",
+   "C": "A dark stoma that bleeds on pinprick must be revised emergently",
+   "D": "Doppler of the abdominal aorta confirms stomal viability"
+  },
+  "answer": "A",
+  "exp": "A viable stoma transilluminates bright red even with venous congestion; failure to transilluminate indicates ischemia, and the key issue is whether ischemia extends below the fascia.",
+  "hy": "Stoma transilluminates bright red = viable.",
+  "src": "Sabiston Ch 12, \"Stomal Complications\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.55",
+  "chapter": "Ch12",
+  "section": "C. difficile colitis",
+  "stem": "Which set of antibiotics is most classically associated with precipitating Clostridioides difficile infection?",
+  "options": {
+   "A": "Clindamycin, fluoroquinolones, and broad-spectrum penicillins/cephalosporins",
+   "B": "Topical mupirocin and bacitracin",
+   "C": "Single-dose preoperative cefazolin only",
+   "D": "Nystatin and oral vancomycin exclusively"
+  },
+  "answer": "A",
+  "exp": "Clindamycin, fluoroquinolones, and broad-spectrum penicillins/cephalosporins are the classic precipitants of C. difficile infection by disrupting gut flora (nearly all antibiotics can).",
+  "hy": "Clindamycin, fluoroquinolones, broad-spectrum β-lactams precipitate C. diff.",
+  "src": "Sabiston Ch 12, \"Clostridioides difficile Colitis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.56",
+  "chapter": "Ch12",
+  "section": "C. difficile severity",
+  "stem": "Which laboratory pattern indicates severe (rather than non-severe) C. difficile infection?",
+  "options": {
+   "A": "Leukocytosis >15,000/µL and serum creatinine >1.5 mg/dL",
+   "B": "Leukocytosis ≤15,000/µL and creatinine <1.5 mg/dL",
+   "C": "A normal white count with hypoalbuminemia alone",
+   "D": "Eosinophilia with a normal creatinine"
+  },
+  "answer": "A",
+  "exp": "Severe C. difficile infection = leukocytosis >15,000/µL and serum creatinine >1.5 mg/dL; hypotension, ileus, or toxic megacolon define fulminant disease.",
+  "hy": "Severe C. diff: WBC >15,000 and Cr >1.5.",
+  "src": "Sabiston Ch 12, \"Clostridioides difficile Colitis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.57",
+  "chapter": "Ch12",
+  "section": "C. difficile surgery",
+  "stem": "For fulminant or refractory C. difficile colitis requiring an operation, which procedures are described?",
+  "options": {
+   "A": "Total abdominal colectomy with end ileostomy, or a colon-sparing diverting loop ileostomy with antegrade vancomycin lavage",
+   "B": "Segmental sigmoid resection with primary anastomosis",
+   "C": "Appendectomy with peritoneal lavage",
+   "D": "Subtotal gastrectomy"
+  },
+  "answer": "A",
+  "exp": "Operative options for fulminant/refractory CDI are total abdominal colectomy with end ileostomy, or a colon-sparing diverting loop ileostomy with antegrade vancomycin lavage.",
+  "hy": "Surgery for fulminant C. diff: total colectomy + ileostomy, or loop ileostomy + vanco lavage.",
+  "src": "Sabiston Ch 12, \"Clostridioides difficile Colitis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.58",
+  "chapter": "Ch12",
+  "section": "Anastomotic leak risk / Table 12.17",
+  "stem": "Regarding anastomotic location and leak risk, which statement is correct?",
+  "options": {
+   "A": "Small-bowel (enteroenteric/ileocolic) anastomoses are low-risk, whereas esophageal, pancreaticoenteric, and low colorectal anastomoses are high-risk; a colorectal anastomosis below the peritoneal reflection leaks in ~8%–20%",
+   "B": "Ileocolic anastomoses have the highest leak rate of any GI anastomosis",
+   "C": "Esophageal anastomoses are the lowest-risk anastomoses",
+   "D": "Anastomotic location has no bearing on leak rate"
+  },
+  "answer": "A",
+  "exp": "Small-bowel/ileocolic anastomoses are low-risk; esophageal, pancreaticoenteric, and colorectal are high-risk; a colorectal anastomosis below the peritoneal reflection leaks in ~8%–20%.",
+  "hy": "High-risk: esophageal/pancreatic/low colorectal (8–20% below peritoneal reflection).",
+  "src": "Sabiston Ch 12, Table 12.17/\"Anastomotic Leak\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.59",
+  "chapter": "Ch12",
+  "section": "Anastomotic healing / oxygen",
+  "stem": "Below what arterial oxygen tension does the chapter say mature collagen formation (and thus anastomotic healing) becomes impaired?",
+  "options": {
+   "A": "Below 35 mm Hg (with angiogenesis/epithelialization further impaired below 10 mm Hg)",
+   "B": "Below 80 mm Hg",
+   "C": "Below 60 mm Hg",
+   "D": "Below 100 mm Hg"
+  },
+  "answer": "A",
+  "exp": "Mature collagen formation fails below 35 mm Hg arterial O₂ tension; angiogenesis/epithelialization fail below 10 mm Hg — hence maintain euvolemia/normoxia.",
+  "hy": "Collagen maturation fails <35 mm Hg; angiogenesis <10 mm Hg.",
+  "src": "Sabiston Ch 12, \"Anastomotic Leak\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.60",
+  "chapter": "Ch12",
+  "section": "Anastomotic leak timing",
+  "stem": "Which statement about the timing of anastomotic leak presentation is correct?",
+  "options": {
+   "A": "Gastrojejunal leaks after gastric bypass tend to present early (<24 h), while small-bowel and colon leaks typically present 5–7 days postoperatively",
+   "B": "All anastomotic leaks present on postoperative day 1",
+   "C": "Colon leaks always present before gastrojejunal leaks",
+   "D": "Leaks never present after postoperative day 3"
+  },
+  "answer": "A",
+  "exp": "Gastrojejunal leaks present early (<24 h); small-bowel and colon leaks typically present 5–7 days postoperatively.",
+  "hy": "Gastrojejunal leaks <24 h; small-bowel/colon 5–7 days.",
+  "src": "Sabiston Ch 12, \"Anastomotic Leak\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.61",
+  "chapter": "Ch12",
+  "section": "Intestinal fistula output",
+  "stem": "Enterocutaneous fistulas are classified by 24-hour output. Which set of cut points is correct?",
+  "options": {
+   "A": "Low <200 mL/day, moderate 200–500 mL/day, high >500 mL/day",
+   "B": "Low <50 mL/day, moderate 50–100 mL/day, high >100 mL/day",
+   "C": "Low <1000 mL/day, high >2000 mL/day",
+   "D": "Output does not affect management"
+  },
+  "answer": "A",
+  "exp": "Enterocutaneous fistula output: low <200 mL/day, moderate 200–500, high >500; output is the key determinant of physiologic impact and management.",
+  "hy": "ECF output: low <200, moderate 200–500, high >500 mL/day.",
+  "src": "Sabiston Ch 12, \"Intestinal Fistulas\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.62",
+  "chapter": "Ch12",
+  "section": "ECF healing / Table 12.18",
+  "stem": "Which set of features favors spontaneous closure of an enterocutaneous fistula?",
+  "options": {
+   "A": "A long tract (>2 cm), low output, no distal obstruction, no adjacent abscess, and absence of intrinsic bowel disease",
+   "B": "A short tract (<2 cm) with an epithelialized tract",
+   "C": "High output with an associated large abscess",
+   "D": "Origin from the lateral duodenum with distal obstruction"
+  },
+  "answer": "A",
+  "exp": "Favorable features for spontaneous ECF closure: long tract (>2 cm), low output, no distal obstruction, no adjacent abscess, small enteral defect, and no intrinsic bowel disease. Most close within ~4 weeks.",
+  "hy": "Favorable ECF: long tract, low output, no obstruction/abscess.",
+  "src": "Sabiston Ch 12, Table 12.18 (fistula healing)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.63",
+  "chapter": "Ch12",
+  "section": "Pancreatic fistula / ISGPF",
+  "stem": "The ISGPF definition of a clinically relevant postoperative pancreatic fistula requires drain fluid amylase above what level, and which gland features predict high risk?",
+  "options": {
+   "A": "Amylase >3× the upper limit of normal; a soft gland and a small duct (≤3 mm)",
+   "B": "Amylase >1.5× normal; a hard gland and a dilated duct",
+   "C": "Lipase >10× normal; pancreatic cancer histology",
+   "D": "Any measurable drain output regardless of amylase, only with a firm gland"
+  },
+  "answer": "A",
+  "exp": "A clinically relevant POPF is drain amylase >3× the upper limit of normal; a soft gland and small duct (≤3 mm) are high-risk features.",
+  "hy": "POPF: drain amylase >3× ULN; soft gland + small duct = high risk.",
+  "src": "Sabiston Ch 12, \"Pancreatic Fistulas\" (ISGPF)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.64",
+  "chapter": "Ch12",
+  "section": "Bile duct injury",
+  "stem": "Which statement about bile duct injury during cholecystectomy is correct?",
+  "options": {
+   "A": "The common bile duct is most often injured when mistaken for the cystic duct; the \"critical view of safety\" and selective cholangiography reduce risk; major BDI occurs in ~3/1000 cases",
+   "B": "Major bile duct injury occurs in roughly 1 in 10 cholecystectomies",
+   "C": "The infundibular technique is the most reliable way to avoid injury",
+   "D": "Open cholecystectomy injuries are typically more proximal and complex than laparoscopic ones"
+  },
+  "answer": "A",
+  "exp": "The CBD is most often injured when mistaken for the cystic duct; the critical view of safety (with selective cholangiography) reduces risk; major BDI occurs in ~3/1000 cholecystectomies, and laparoscopic injuries tend to be more proximal/complex than open.",
+  "hy": "CBD mistaken for cystic duct; critical view of safety; major BDI ~3/1000.",
+  "src": "Sabiston Ch 12, \"Bile Duct Injuries\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.65",
+  "chapter": "Ch12",
+  "section": "Vasculobiliary injury",
+  "stem": "Which statement about vasculobiliary injury is correct?",
+  "options": {
+   "A": "The right hepatic artery is involved in ~90% of cases; extreme injuries involving the portal vein/proper hepatic artery can cause hepatic infarction with ~50% mortality",
+   "B": "The left hepatic artery is involved in ~90% of cases",
+   "C": "Vasculobiliary injury carries no higher mortality than isolated bile duct injury",
+   "D": "Nonenhancement of the right lobe on CT excludes hepatic artery injury"
+  },
+  "answer": "A",
+  "exp": "The right hepatic artery is involved in ~90% of vasculobiliary injuries; extreme injuries to the portal vein/proper hepatic artery can cause hepatic infarction with ~50% mortality.",
+  "hy": "Vasculobiliary injury: right hepatic artery ~90%; extreme ~50% mortality.",
+  "src": "Sabiston Ch 12, \"Vasculobiliary Injury\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.66",
+  "chapter": "Ch12",
+  "section": "Postoperative delirium",
+  "stem": "Which statement about postoperative delirium is correct?",
+  "options": {
+   "A": "Incidence is ~15%–53% in elderly surgical patients; the hypoactive subtype is the most common and the most often under-diagnosed",
+   "B": "The hyperactive subtype is the most common and easiest to miss",
+   "C": "Delirium is, by definition, an irreversible cognitive decline",
+   "D": "It characteristically presents 3 weeks after discharge"
+  },
+  "answer": "A",
+  "exp": "Postoperative delirium occurs in ~15%–53% of elderly surgical patients; the hypoactive subtype is the most common and most often missed; delirium is typically reversible/fluctuating.",
+  "hy": "POD 15–53%; hypoactive type most common and most under-diagnosed.",
+  "src": "Sabiston Ch 12, \"Postoperative Delirium\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.67",
+  "chapter": "Ch12",
+  "section": "Delirium management",
+  "stem": "Which medication strategy is recommended in managing postoperative delirium?",
+  "options": {
+   "A": "Avoid benzodiazepines and anticholinergics; reserve low-dose antipsychotics (e.g., haloperidol) for hyperactive, dangerous agitation, using benzodiazepines only for alcohol/benzodiazepine withdrawal",
+   "B": "Routine scheduled benzodiazepines for all delirious patients",
+   "C": "First-line physical restraints and deep sedation",
+   "D": "Anticholinergic agents to \"dry up\" secretions and calm the patient"
+  },
+  "answer": "A",
+  "exp": "Avoid benzodiazepines and anticholinergics; use nonpharmacologic measures first, with low-dose antipsychotics reserved for hyperactive dangerous agitation and benzodiazepines only for alcohol/benzodiazepine withdrawal.",
+  "hy": "Avoid benzos/anticholinergics; antipsychotics only for dangerous hyperactivity.",
+  "src": "Sabiston Ch 12, \"Postoperative Delirium\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.68",
+  "chapter": "Ch12",
+  "section": "Perioperative seizure",
+  "stem": "Which statement about perioperative seizures is correct?",
+  "options": {
+   "A": "IV benzodiazepines (lorazepam/diazepam) are first-line to abort a seizure, and prophylactic antiepileptics in patients with no seizure history are not beneficial",
+   "B": "Prophylactic phenytoin should be started in all surgical patients",
+   "C": "Phenobarbital is the first-line agent to abort an acute seizure",
+   "D": "Antiepileptic drugs should be stopped abruptly before surgery in known epileptics"
+  },
+  "answer": "A",
+  "exp": "IV benzodiazepines (lorazepam/diazepam) are first-line to abort a seizure; prophylactic antiepileptics in patients with no seizure history are not beneficial.",
+  "hy": "Benzodiazepines abort seizures; no prophylactic AED if no history.",
+  "src": "Sabiston Ch 12, \"Perioperative Seizure\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.69",
+  "chapter": "Ch12",
+  "section": "Perioperative stroke",
+  "stem": "Which statement about perioperative stroke is correct?",
+  "options": {
+   "A": "It is defined within 30 days of surgery; ischemic strokes predominate (hemorrhagic ~1%–4%); elective surgery should be delayed ~6–12 months after a recent stroke; thrombolysis is a relative contraindication after major surgery",
+   "B": "Hemorrhagic strokes account for the majority of perioperative strokes",
+   "C": "tPA is the routine first-line therapy immediately after major surgery",
+   "D": "Elective surgery may proceed the week after an acute stroke without added risk"
+  },
+  "answer": "A",
+  "exp": "Perioperative stroke is defined within 30 days; ischemic predominate (hemorrhagic ~1%–4%); delay elective surgery ~6–12 months after a recent stroke; thrombolysis is a relative contraindication after major surgery.",
+  "hy": "Stroke ≤30 d; delay elective 6–12 mo; tPA relatively contraindicated.",
+  "src": "Sabiston Ch 12, \"Perioperative Stroke\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.70",
+  "chapter": "Ch12",
+  "section": "Epistaxis",
+  "stem": "Which statement about postoperative epistaxis is correct?",
+  "options": {
+   "A": "Anterior epistaxis (often from the readily accessible anterior septum) is usually controlled by pinching the cartilaginous septum; posterior epistaxis (sphenopalatine vessels, more common in elderly) requires posterior packing or embolization",
+   "B": "Posterior epistaxis is controlled by simple nasal pinching",
+   "C": "Anterior epistaxis arises from the sphenopalatine artery",
+   "D": "Posterior epistaxis is more common in young children than the elderly"
+  },
+  "answer": "A",
+  "exp": "Anterior epistaxis (anterior septum/Kiesselbach) is controlled by pinching the cartilaginous septum; posterior epistaxis (sphenopalatine vessels, elderly) needs posterior packing or embolization.",
+  "hy": "Anterior = pinch; posterior (sphenopalatine, elderly) = packing/embolization.",
+  "src": "Sabiston Ch 12, \"Epistaxis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.71",
+  "chapter": "Ch12",
+  "section": "Nosocomial sinusitis",
+  "stem": "Which factor most strongly predisposes a critically ill patient to nosocomial sinusitis, and how is it diagnosed?",
+  "options": {
+   "A": "Nasal instrumentation (nasotracheal or nasogastric tubes) obstructing the ostiomeatal complex; CT showing opacification/air-fluid levels/≥4 mm mucosal thickening",
+   "B": "Oral (orotracheal) intubation; diagnosis by chest radiograph",
+   "C": "Early mobilization; diagnosis by blood culture alone",
+   "D": "Low Glasgow coma scores are protective against sinusitis"
+  },
+  "answer": "A",
+  "exp": "Nasal instrumentation (nasotracheal/nasogastric tubes) obstructs the ostiomeatal complex and predisposes to nosocomial sinusitis; CT shows opacification, air-fluid levels, or ≥4 mm mucosal thickening.",
+  "hy": "Nosocomial sinusitis: nasal tubes; CT shows opacification/≥4 mm thickening.",
+  "src": "Sabiston Ch 12, \"Nosocomial Sinusitis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.72",
+  "chapter": "Ch12",
+  "section": "Parotitis",
+  "stem": "Acute suppurative parotitis in a debilitated postoperative patient is which type of infection, and what is its feared extension?",
+  "options": {
+   "A": "Most often Staphylococcus aureus in a dehydrated patient with poor oral hygiene; it can extend to a deep neck space infection (mortality ~20%–40%)",
+   "B": "Most often a viral infection requiring no antibiotics",
+   "C": "Caused by gram-negative anaerobes exclusively, never extending beyond the gland",
+   "D": "A benign, self-limited condition that never requires drainage"
+  },
+  "answer": "A",
+  "exp": "Acute suppurative parotitis is usually S. aureus in a dehydrated, debilitated patient with poor oral hygiene; it can extend into a deep neck space infection with ~20%–40% mortality.",
+  "hy": "Parotitis = S. aureus; can extend to lethal deep neck space infection.",
+  "src": "Sabiston Ch 12, \"Parotitis\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.73",
+  "chapter": "Ch12",
+  "section": "Frailty / Fried phenotype",
+  "stem": "The Fried frailty phenotype defines frailty as the presence of how many of its five features?",
+  "options": {
+   "A": "Three or more (one or two = \"prefrail\")",
+   "B": "One or more",
+   "C": "All five",
+   "D": "Two or more"
+  },
+  "answer": "A",
+  "exp": "The Fried frailty phenotype = ≥3 of five features (slowness, weakness, exhaustion, weight loss, low activity); one or two = prefrail.",
+  "hy": "Fried frailty = ≥3 of 5 (prefrail = 1–2).",
+  "src": "Sabiston Ch 12, \"The Geriatric Patient and Frailty\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.74",
+  "chapter": "Ch12",
+  "section": "Anticoagulant timing / Table 12.1",
+  "stem": "For a patient on dabigatran, how does the recommended preoperative discontinuation interval depend on renal function?",
+  "options": {
+   "A": "It lengthens as renal function falls — about 1–2 days if CrCl ≥50 mL/min, but 3–5 days if CrCl <50 mL/min",
+   "B": "It is a fixed 24 hours regardless of renal function",
+   "C": "It shortens as renal function falls",
+   "D": "Dabigatran never needs to be stopped before surgery"
+  },
+  "answer": "A",
+  "exp": "For dabigatran (renally cleared direct thrombin inhibitor), the preoperative hold lengthens with worse renal function: 1–2 days if CrCl ≥50 mL/min, 3–5 days if CrCl <50.",
+  "hy": "Dabigatran hold: 1–2 d if CrCl ≥50, 3–5 d if <50.",
+  "src": "Sabiston Ch 12, Table 12.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.75",
+  "chapter": "Ch12",
+  "section": "HAS-BLED components / Table 12.2",
+  "stem": "Which set of items are components of the HAS-BLED bleeding-risk score?",
+  "options": {
+   "A": "Hypertension (SBP >160), abnormal renal/liver function, prior stroke, bleeding history, labile INR, elderly (>65), and drugs/alcohol",
+   "B": "Age, sex, ASA class, BMI, and smoking status",
+   "C": "Ejection fraction, troponin, BNP, and creatinine clearance only",
+   "D": "Diabetes, vascular disease, and congestive heart failure only"
+  },
+  "answer": "A",
+  "exp": "HAS-BLED components: Hypertension (SBP >160), abnormal renal/liver function, stroke history, bleeding history, labile INRs, elderly (>65), and drugs/alcohol.",
+  "hy": "HAS-BLED = HTN, renal/liver, stroke, bleeding, labile INR, elderly, drugs/alcohol.",
+  "src": "Sabiston Ch 12, Table 12.2 (HAS-BLED)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.76",
+  "chapter": "Ch12",
+  "section": "Wound classification / Table 12.4",
+  "stem": "A bowel operation with uncontrolled gross spillage from the GI tract and apparent inflammation, but no pre-existing pus, is which wound class with what expected infection rate?",
+  "options": {
+   "A": "Contaminated; ~20%–25%",
+   "B": "Clean-contaminated; ~5%–8%",
+   "C": "Dirty; ~30%–40%",
+   "D": "Clean; ~1%–3%"
+  },
+  "answer": "A",
+  "exp": "Gross uncontrolled spillage with inflammation but no pre-existing pus is a contaminated (Class III) wound, ~20%–25% infection. Clean-contaminated is controlled entry without spillage (5–8%); dirty requires established infection/perforation (30–40%).",
+  "hy": "Gross spillage + inflammation, no prior pus = contaminated, ~20–25%.",
+  "src": "Sabiston Ch 12, Table 12.4 (wound classification)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.77",
+  "chapter": "Ch12",
+  "section": "SSI pathogens / Table 12.5",
+  "stem": "Which pathogen profile is expected after a head-and-neck procedure that incises through the oropharyngeal mucosa?",
+  "options": {
+   "A": "S. aureus, streptococci, and oropharyngeal anaerobes (e.g., peptostreptococci)",
+   "B": "Gram-negative bacilli and Candida exclusively",
+   "C": "Coagulase-negative staphylococci only",
+   "D": "Pseudomonas aeruginosa as the sole organism"
+  },
+  "answer": "A",
+  "exp": "Head-and-neck surgery breaching oropharyngeal mucosa is expected to involve S. aureus, streptococci, and oropharyngeal anaerobes (peptostreptococci).",
+  "hy": "Oropharyngeal-mucosa surgery: S. aureus + streptococci + oral anaerobes.",
+  "src": "Sabiston Ch 12, Table 12.5 (pathogens by procedure)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.78",
+  "chapter": "Ch12",
+  "section": "Postoperative fever causes / Table 12.8",
+  "stem": "Which is correctly categorized as a noninfectious cause of postoperative fever?",
+  "options": {
+   "A": "Atelectasis, drug reaction, pancreatitis, and pulmonary embolus",
+   "B": "Pseudomembranous colitis",
+   "C": "Empyema",
+   "D": "Catheter device–related infection"
+  },
+  "answer": "A",
+  "exp": "Noninfectious fever causes include atelectasis, drug reaction, pancreatitis, pulmonary embolus, adrenal insufficiency, allergic and transfusion reactions. Pseudomembranous colitis, empyema, and device infection are infectious.",
+  "hy": "Noninfectious fever: atelectasis, drug reaction, pancreatitis, PE, transfusion reaction.",
+  "src": "Sabiston Ch 12, Table 12.8 (postoperative fever)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.79",
+  "chapter": "Ch12",
+  "section": "Cardiac risk by procedure / Table 12.9",
+  "stem": "In the cardiac risk-stratification table, which procedure is classified as high cardiac risk (often >5%)?",
+  "options": {
+   "A": "Aortic and other major vascular surgery",
+   "B": "Carotid endarterectomy",
+   "C": "Breast surgery",
+   "D": "Cataract surgery"
+  },
+  "answer": "A",
+  "exp": "High cardiac risk (often >5%): aortic/major vascular surgery, peripheral vascular surgery, prolonged operations with large fluid shifts, and emergency major operations in the elderly. CEA is intermediate; breast/cataract are low.",
+  "hy": "High cardiac risk: aortic/major vascular and emergency major surgery.",
+  "src": "Sabiston Ch 12, Table 12.9 (cardiac risk)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.80",
+  "chapter": "Ch12",
+  "section": "Cardiac risk by procedure / Table 12.9",
+  "stem": "Which procedure is classified as intermediate (generally <5%) cardiac risk?",
+  "options": {
+   "A": "Carotid endarterectomy / intraperitoneal or intrathoracic surgery",
+   "B": "Endoscopic procedures",
+   "C": "Emergency major operations in the elderly",
+   "D": "Superficial procedures"
+  },
+  "answer": "A",
+  "exp": "Intermediate cardiac risk (generally <5%): carotid endarterectomy, intraperitoneal/intrathoracic surgery, orthopedic surgery, prostate surgery. Endoscopic/superficial/cataract are low; emergency major elderly is high.",
+  "hy": "Intermediate: CEA, intraperitoneal/intrathoracic, orthopedic, prostate.",
+  "src": "Sabiston Ch 12, Table 12.9 (cardiac risk)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.81",
+  "chapter": "Ch12",
+  "section": "AKI risk factors / Table 12.11",
+  "stem": "Beyond chronic kidney disease, which combination is listed among risk factors for postoperative AKI?",
+  "options": {
+   "A": "Higher ASA grade, heart failure, nephrotoxic medications/contrast, cardiac surgery with cardiopulmonary bypass, and emergency surgery",
+   "B": "Youth, low BMI, and elective minor surgery",
+   "C": "Regional anesthesia and short operative time",
+   "D": "Restrictive transfusion practice alone"
+  },
+  "answer": "A",
+  "exp": "AKI risk factors include higher ASA grade, heart failure, nephrotoxic medications/contrast, cardiac surgery with cardiopulmonary bypass, and emergency surgery (plus age, obesity, diabetes, hypertension, hypotension, anemia, transfusion, CKD).",
+  "hy": "AKI risks: high ASA, heart failure, nephrotoxins/contrast, CPB, emergency surgery.",
+  "src": "Sabiston Ch 12, Table 12.11 (AKI risk factors)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.82",
+  "chapter": "Ch12",
+  "section": "Prerenal vs renal / Table 12.12",
+  "stem": "Which urinary-sodium and fractional-excretion pattern indicates intrinsic renal acute kidney injury?",
+  "options": {
+   "A": "Urinary sodium >50 mOsm/L and FeNa >3%, with urine osmolality near plasma",
+   "B": "Urinary sodium <20 mOsm/L and FeNa <1%",
+   "C": "Urine osmolality >500 mOsm/L with FeNa <1%",
+   "D": "BUN:creatinine ratio >20 with concentrated urine"
+  },
+  "answer": "A",
+  "exp": "Intrinsic renal AKI shows urinary sodium >50 mOsm/L, FeNa >3%, and isosthenuric urine (≈ plasma), with BUN:creatinine <20. Prerenal is the opposite.",
+  "hy": "Renal AKI: U-Na >50, FeNa >3%, isosthenuric urine.",
+  "src": "Sabiston Ch 12, Table 12.12 (AKI evaluation)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.83",
+  "chapter": "Ch12",
+  "section": "Urinary retention risk / Table 12.13",
+  "stem": "Which combination is listed as a risk factor for postoperative urinary retention?",
+  "options": {
+   "A": "Anticholinergic/opioid medications, benign prostatic hyperplasia, and colorectal or hernia surgery",
+   "B": "Young age and laparoscopic appendectomy",
+   "C": "Spinal anesthesia avoidance and early ambulation",
+   "D": "Low fluid intake alone"
+  },
+  "answer": "A",
+  "exp": "Urinary retention risk factors: anticholinergic/opioid medications, BPH, neurogenic bladder, diabetes, neurologic disorders, and colorectal/spine/hernia surgery.",
+  "hy": "Retention risks: anticholinergics/opioids, BPH, colorectal/spine/hernia surgery.",
+  "src": "Sabiston Ch 12, Table 12.13 (urinary retention)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.84",
+  "chapter": "Ch12",
+  "section": "SIADH causes / Table 12.15",
+  "stem": "Besides tumors, which category and example is a recognized cause of SIADH?",
+  "options": {
+   "A": "CNS disorders (stroke, hemorrhage, infection, trauma) and drugs such as carbamazepine or SSRIs",
+   "B": "Hyperthyroidism and Cushing disease",
+   "C": "Diabetes insipidus and adrenal hyperplasia",
+   "D": "Hypercalcemia and hyperkalemia"
+  },
+  "answer": "A",
+  "exp": "Beyond tumors (most often small cell lung cancer), SIADH is caused by CNS disorders (stroke, hemorrhage, infection, trauma), drugs (carbamazepine, SSRIs, cyclophosphamide), surgical stress, and endocrine disorders.",
+  "hy": "SIADH causes: CNS disorders, drugs (carbamazepine/SSRIs), tumors, surgical stress.",
+  "src": "Sabiston Ch 12, Table 12.15 (causes of SIADH)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.85",
+  "chapter": "Ch12",
+  "section": "Frailty organ effects / Table 12.19",
+  "stem": "According to the table of frailty's pathophysiologic effects, which description is correct?",
+  "options": {
+   "A": "Frailty involves low testosterone/IGF-1/vitamin D, impaired immunity (low lymphocytes/CD8), a procoagulant state, and reduced GFR",
+   "B": "Frailty raises testosterone and IGF-1 and improves immune function",
+   "C": "Frailty produces an anticoagulant (bleeding) state with elevated plasminogen activator inhibitor-1",
+   "D": "Frailty has no measurable effect on the cardiovascular response to anesthesia"
+  },
+  "answer": "A",
+  "exp": "Frailty effects: low testosterone/IGF-1/vitamin D, impaired immunity (low lymphocytes/CD8), a procoagulant state (decreased PAI-1), reduced GFR/CYP450 activity, cognitive vulnerability, and cardiac autonomic dysfunction with labile BP under anesthesia.",
+  "hy": "Frailty: low anabolic hormones, immune impairment, procoagulant state, reduced GFR, BP lability.",
+  "src": "Sabiston Ch 12, Table 12.19 (frailty effects)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.86",
+  "chapter": "Ch12",
+  "section": "SSI risk factors / Table 12.3",
+  "stem": "Which of the following is a patient-related risk factor (not a protective factor) for surgical site infection?",
+  "options": {
+   "A": "High ASA score and diabetes mellitus",
+   "B": "A laparoscopic operative approach",
+   "C": "Receipt of antibiotic prophylaxis",
+   "D": "A short, elective, clean operation"
+  },
+  "answer": "A",
+  "exp": "Patient-related SSI risk factors include high ASA score and diabetes (plus age, BMI, smoking, malnutrition, ascites, anemia, frailty). Laparoscopy and prophylaxis are protective; a short clean elective case is low-risk.",
+  "hy": "High ASA and diabetes raise SSI risk.",
+  "src": "Sabiston Ch 12, Table 12.3 (SSI risk/protective factors)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.87",
+  "chapter": "Ch12",
+  "section": "Prophylactic antibiotic dosing / Table 12.6",
+  "stem": "For surgical prophylaxis, what is the recommended adult cefazolin dose, including the adjustment for body weight?",
+  "options": {
+   "A": "2 g, increased to 3 g for patients weighing >120 kg",
+   "B": "1 g for all adults regardless of weight",
+   "C": "500 mg, increased to 1 g for patients >100 kg",
+   "D": "4 g for every adult patient"
+  },
+  "answer": "A",
+  "exp": "Prophylactic cefazolin is 2 g, increased to 3 g for patients >120 kg, to maintain adequate tissue concentration.",
+  "hy": "Prophylactic cefazolin 2 g (3 g if >120 kg).",
+  "src": "Sabiston Ch 12, Table 12.6 (antibiotic dosing)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.88",
+  "chapter": "Ch12",
+  "section": "Prophylaxis by procedure / Table 12.7",
+  "stem": "Which prophylactic regimen is recommended for an elective colorectal operation?",
+  "options": {
+   "A": "Cefazolin plus metronidazole (or cefoxitin/cefotetan)",
+   "B": "Cefazolin alone with no anaerobic coverage",
+   "C": "Topical neomycin only",
+   "D": "Vancomycin monotherapy"
+  },
+  "answer": "A",
+  "exp": "Colorectal prophylaxis requires anaerobic plus gram-negative coverage: cefazolin plus metronidazole, or cefoxitin/cefotetan (often with oral neomycin/erythromycin and a mechanical prep).",
+  "hy": "Colorectal = cefazolin + metronidazole (or cefoxitin/cefotetan).",
+  "src": "Sabiston Ch 12, Table 12.7 (prophylaxis by procedure)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.89",
+  "chapter": "Ch12",
+  "section": "Prophylaxis by procedure / Table 12.7",
+  "stem": "For a clean head-and-neck operation that does not breach the mucosa, what does the prophylaxis table recommend?",
+  "options": {
+   "A": "No prophylaxis (none)",
+   "B": "Carbapenem prophylaxis",
+   "C": "Cefazolin plus metronidazole",
+   "D": "Vancomycin plus an aminoglycoside"
+  },
+  "answer": "A",
+  "exp": "A clean head-and-neck operation that does not enter the mucosa requires no prophylaxis; prophylaxis is reserved for prosthesis placement or clean-contaminated/cancer cases breaching mucosa.",
+  "hy": "Clean head-and-neck without mucosal entry = no prophylaxis.",
+  "src": "Sabiston Ch 12, Table 12.7 (prophylaxis by procedure)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.90",
+  "chapter": "Ch12",
+  "section": "Antibiotic redosing / Table 12.6",
+  "stem": "During a long operation, intraoperative redosing of a prophylactic antibiotic is indicated under which circumstance?",
+  "options": {
+   "A": "When the duration of surgery exceeds two half-lives of the drug, or with massive blood loss",
+   "B": "Every 30 minutes regardless of the agent used",
+   "C": "Only after the operation has exceeded 8 hours",
+   "D": "Redosing is never indicated once a preoperative dose is given"
+  },
+  "answer": "A",
+  "exp": "Redose when the operative duration exceeds two half-lives of the drug, or with massive blood loss; shorten with rapid clearance and use caution in renal/hepatic impairment.",
+  "hy": "Redose after ~2 half-lives or with major blood loss.",
+  "src": "Sabiston Ch 12, Table 12.6 (dosing/redosing)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.91",
+  "chapter": "Ch12",
+  "section": "Fever causes / Table 12.8",
+  "stem": "Which of the following is classified as an infectious cause of postoperative fever?",
+  "options": {
+   "A": "Device-related (catheter) infection, pneumonia, and urinary tract infection",
+   "B": "Atelectasis and dehydration",
+   "C": "Drug reaction and transfusion reaction",
+   "D": "Pancreatitis and pulmonary embolus"
+  },
+  "answer": "A",
+  "exp": "Infectious fever causes include device-related (catheter) infection, pneumonia, urinary tract infection, wound infection, abscess, and pseudomembranous colitis. Atelectasis, drug/transfusion reactions, pancreatitis, and PE are noninfectious.",
+  "hy": "Infectious fever: device infection, pneumonia, UTI, wound, abscess.",
+  "src": "Sabiston Ch 12, Table 12.8 (postoperative fever)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.92",
+  "chapter": "Ch12",
+  "section": "Myxedema coma management / Table 12.14",
+  "stem": "In treating myxedema coma, how are the associated hyponatremia and hypoventilation managed?",
+  "options": {
+   "A": "Hyponatremia with hypertonic (3%) saline and hypoventilation with mechanical ventilation",
+   "B": "Hyponatremia with aggressive free-water boluses and hypoventilation with a respiratory stimulant",
+   "C": "Hyponatremia with fluid restriction alone and hypoventilation with high-flow oxygen only",
+   "D": "Hyponatremia with normal saline and hypoventilation with a beta agonist"
+  },
+  "answer": "A",
+  "exp": "In myxedema coma, hyponatremia is treated with hypertonic (3%) saline and hypoventilation with mechanical ventilation; hypothermia with thyroid hormone and hypocortisolemia with IV hydrocortisone.",
+  "hy": "Myxedema coma: 3% saline for Na; mechanical ventilation for hypoventilation.",
+  "src": "Sabiston Ch 12, Table 12.14 (myxedema management)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.93",
+  "chapter": "Ch12",
+  "section": "Stomal complications / Table 12.16",
+  "stem": "Which set are recognized late stomal complications?",
+  "options": {
+   "A": "Prolapse, stenosis, parastomal hernia, and parastomal varices",
+   "B": "Ischemic necrosis, retraction, and detachment",
+   "C": "Opening the wrong end and acute abscess formation",
+   "D": "Immediate high output and acute peristomal dermatitis only"
+  },
+  "answer": "A",
+  "exp": "Late stomal complications include prolapse, stenosis/stricture, parastomal hernia, fistula, and parastomal varices. Ischemic necrosis, retraction, detachment, and \"opening the wrong end\" are early.",
+  "hy": "Late stoma: prolapse, stenosis, parastomal hernia, varices.",
+  "src": "Sabiston Ch 12, Table 12.16 (stomal complications)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.94",
+  "chapter": "Ch12",
+  "section": "Anastomotic leak factors / Table 12.17",
+  "stem": "Which is listed among the definitive (rather than merely implicated) factors in anastomotic leak?",
+  "options": {
+   "A": "Blood supply, tension on the suture line, and an airtight/watertight anastomosis",
+   "B": "Mechanical bowel preparation",
+   "C": "The use of drains",
+   "D": "Patient gender"
+  },
+  "answer": "A",
+  "exp": "Definitive anastomotic-leak factors are technical aspects, blood supply, tension on the suture line, an airtight/watertight anastomosis, and GI location; bowel prep, drains, gender, smoking, and steroids are merely \"implicated.\"",
+  "hy": "Definitive: technique, blood supply, tension, airtight anastomosis, location.",
+  "src": "Sabiston Ch 12, Table 12.17 (anastomotic leak factors)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.95",
+  "chapter": "Ch12",
+  "section": "Fistula healing / Table 12.18",
+  "stem": "Which set of features is unfavorable for spontaneous closure of an enterocutaneous fistula?",
+  "options": {
+   "A": "A short tract (<2 cm), an epithelialized tract, an end (vs lateral) fistula, and a large enteral defect (>1 cm)",
+   "B": "A long tract (>2 cm) with a single, non-epithelialized channel",
+   "C": "Low output with no adjacent abscess",
+   "D": "Origin from the jejunum or colon with no distal obstruction"
+  },
+  "answer": "A",
+  "exp": "Unfavorable ECF features: short tract (<2 cm), epithelialized tract, end (vs lateral) fistula, large enteral defect (>1 cm), adjacent abscess, distal obstruction, intrinsic bowel disease, malnutrition, and sepsis.",
+  "hy": "Unfavorable ECF: short/epithelialized tract, end fistula, large defect, abscess, obstruction.",
+  "src": "Sabiston Ch 12, Table 12.18 (fistula healing)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
+ },
+ {
+  "id": "S12.96",
+  "chapter": "Ch12",
+  "section": "Frailty effects / Table 12.19",
+  "stem": "According to the frailty-effects table, which cognitive/cardiovascular pairing is correct?",
+  "options": {
+   "A": "Cognition is impaired by anticholinergics and perioperative hypoxic injury amplified by surgery-induced cytokines (IL-1β, TNF-α); cardiac autonomic dysfunction causes blood-pressure lability under anesthesia",
+   "B": "Cognition is unaffected, and the cardiovascular system shows enhanced autonomic stability",
+   "C": "Frailty improves cytokine regulation and protects the brain during surgery",
+   "D": "Frailty causes hypertensive surges (never hypotension) on induction of anesthesia"
+  },
+  "answer": "A",
+  "exp": "Per the frailty-effects table, cognition is impaired by anticholinergics and perioperative hypoxic injury, amplified by surgery-induced cytokines (IL-1β, TNF-α); cardiac autonomic dysfunction causes blood-pressure lability under anesthesia.",
+  "hy": "Frailty: cytokine/anticholinergic cognitive impairment + autonomic BP lability.",
+  "src": "Sabiston Ch 12, Table 12.19 (frailty effects)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "12",
+  "chname": "Surgical Complications"
  }
 ]
