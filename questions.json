@@ -7198,5 +7198,1265 @@
   "vol": "",
   "chnum": "13",
   "chname": "Surgery in the Geriatric Patient"
+ },
+ {
+  "id": "S14.1",
+  "chapter": "Ch14",
+  "section": "MAC concept",
+  "stem": "What does the minimum alveolar concentration (MAC) of a volatile anesthetic represent?",
+  "options": {
+   "A": "The concentration that prevents movement in response to skin incision in 50% of patients — a higher MAC means a less potent agent",
+   "B": "The concentration that produces amnesia in 95% of patients",
+   "C": "The blood concentration at which 50% of patients stop breathing",
+   "D": "The concentration that guarantees no awareness in any patient"
+  },
+  "answer": "A",
+  "exp": "MAC is the concentration of volatile agent that prevents movement in response to a skin incision in 50% of patients — a standard measure of potency. A higher MAC denotes a less potent agent (halothane, low MAC, is potent; nitrous oxide, MAC ~104%, is weak). It does not define amnesia, apnea, or guaranteed lack of awareness.",
+  "hy": "MAC = conc. preventing movement in 50%; higher MAC = less potent.",
+  "src": "Sabiston Ch 14, \"Inhalational Agents\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.2",
+  "chapter": "Ch14",
+  "section": "MAC values / Table 14.1",
+  "stem": "Which set of MAC values is correct?",
+  "options": {
+   "A": "Halothane ~0.75% (most potent), desflurane ~6%, nitrous oxide ~104%",
+   "B": "Halothane ~6%, desflurane ~0.75%, nitrous oxide ~1%",
+   "C": "All potent volatile agents have a MAC near 50%",
+   "D": "Nitrous oxide has the lowest MAC of any agent"
+  },
+  "answer": "A",
+  "exp": "Halothane is the most potent modern volatile agent (MAC ~0.75%), desflurane the least potent hydrocarbon agent (MAC ~6%), and nitrous oxide has a MAC of ~104% (so it cannot reach 1 MAC at sea level alone). The other options invert or flatten these values.",
+  "hy": "MAC: halothane 0.75%, desflurane 6%, N₂O 104%.",
+  "src": "Sabiston Ch 14, Table 14.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.3",
+  "chapter": "Ch14",
+  "section": "Blood/gas solubility / Table 14.1",
+  "stem": "How does the blood/gas solubility coefficient relate to the speed of induction and emergence?",
+  "options": {
+   "A": "Lower-solubility agents (e.g., nitrous oxide, desflurane) give faster induction and emergence; higher-solubility agents (e.g., halothane) are slower",
+   "B": "Higher-solubility agents give faster induction and emergence",
+   "C": "Solubility has no effect on induction speed",
+   "D": "Only potency, not solubility, determines induction speed"
+  },
+  "answer": "A",
+  "exp": "Less-soluble agents (lower blood/gas coefficient), such as nitrous oxide and desflurane, equilibrate quickly and give faster induction and emergence, whereas highly soluble agents like halothane are slower; isoflurane and sevoflurane are intermediate. Option B reverses the relationship.",
+  "hy": "Low blood solubility → fast induction/emergence.",
+  "src": "Sabiston Ch 14, Table 14.1/\"Inhalational Agents\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.4",
+  "chapter": "Ch14",
+  "section": "Inhalational induction / Table 14.1",
+  "stem": "Which agents are suitable for inhalational (mask) induction because of low pungency, and which is not?",
+  "options": {
+   "A": "Sevoflurane and halothane are suitable; desflurane is pungent/irritating and unsuitable",
+   "B": "Desflurane is the preferred mask-induction agent",
+   "C": "Isoflurane is the least pungent and ideal for inhalational induction",
+   "D": "Nitrous oxide alone is sufficient for inhalational induction of anesthesia"
+  },
+  "answer": "A",
+  "exp": "Low-pungency agents — sevoflurane and halothane — do not irritate the airway and are suitable for inhalational induction, whereas desflurane (highly irritating) and isoflurane (pungent) are unsuitable. Nitrous oxide alone is too weak (MAC 104%) for induction/maintenance.",
+  "hy": "Sevoflurane/halothane suit mask induction; desflurane/isoflurane are pungent.",
+  "src": "Sabiston Ch 14, Table 14.1",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.5",
+  "chapter": "Ch14",
+  "section": "Cardiopulmonary effects / Table 14.2",
+  "stem": "Which inhalational agent is associated with marked dose-dependent decreases in blood pressure and cardiac output and marked sensitization of the myocardium to catecholamines?",
+  "options": {
+   "A": "Halothane",
+   "B": "Nitrous oxide",
+   "C": "Isoflurane",
+   "D": "Sevoflurane"
+  },
+  "answer": "A",
+  "exp": "Halothane causes marked dose-dependent decreases in blood pressure and cardiac output and markedly sensitizes the myocardium to catecholamines (arrhythmogenic). Nitrous oxide has little hemodynamic effect, and isoflurane/sevoflurane cause only minimal catecholamine sensitization.",
+  "hy": "Halothane: marked BP/CO drop + catecholamine sensitization.",
+  "src": "Sabiston Ch 14, Table 14.2",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.6",
+  "chapter": "Ch14",
+  "section": "Desflurane / Table 14.2",
+  "stem": "Which statement about desflurane is correct?",
+  "options": {
+   "A": "A rapid increase in inspired concentration causes tachycardia and hypertension, and its pungency precludes inhalational induction",
+   "B": "It markedly lowers heart rate at all concentrations",
+   "C": "Its low pungency makes it ideal for mask induction",
+   "D": "It is the most potent of the volatile agents"
+  },
+  "answer": "A",
+  "exp": "Desflurane is associated with tachycardia and hypertension when the inspired concentration is increased too rapidly, and its pungent odor precludes inhalational induction; it must be delivered through a specialized heated vaporizer. It does not lower heart rate at all concentrations (B), is unsuitable for mask induction (C), and is the least (not most) potent volatile agent (D).",
+  "hy": "Desflurane: rapid ↑concentration → tachycardia/HTN; pungent, heated vaporizer.",
+  "src": "Sabiston Ch 14, Table 14.2/\"Desflurane\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.7",
+  "chapter": "Ch14",
+  "section": "Nitrous oxide contraindications",
+  "stem": "Nitrous oxide is contraindicated in which setting because it diffuses into closed gas spaces faster than nitrogen diffuses out?",
+  "options": {
+   "A": "Pneumothorax, small bowel obstruction, middle ear surgery, or an intraocular gas bubble",
+   "B": "Hypertension and tachycardia",
+   "C": "Asthma and reactive airway disease",
+   "D": "Coronary artery disease"
+  },
+  "answer": "A",
+  "exp": "Because nitrous oxide is ~30× more soluble than nitrogen and diffuses into closed gas spaces faster than nitrogen leaves, it expands them — so it is contraindicated with a pneumothorax, small bowel obstruction, middle ear surgery, or an intraocular gas bubble. The other settings are not the closed-gas-space contraindication.",
+  "hy": "Avoid N₂O with closed gas spaces (PTX, SBO, middle ear, intraocular gas).",
+  "src": "Sabiston Ch 14, \"Nitrous Oxide\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.8",
+  "chapter": "Ch14",
+  "section": "Nitrous oxide properties",
+  "stem": "Why is nitrous oxide unsuitable as a sole anesthetic for maintenance of general anesthesia?",
+  "options": {
+   "A": "Its MAC is ~104%, so it lacks sufficient potency to be used alone at atmospheric pressure",
+   "B": "It is too soluble in blood, giving very slow induction",
+   "C": "It causes profound myocardial depression",
+   "D": "It is highly pungent and irritating to the airway"
+  },
+  "answer": "A",
+  "exp": "Nitrous oxide's MAC is ~104% of inspired gas at sea level, so it cannot reach a full anesthetic concentration alone and is combined with potent volatile agents. It is actually low (not high) in blood solubility (giving rapid kinetics), does not markedly depress the myocardium, and is not pungent.",
+  "hy": "N₂O MAC ~104% → insufficient potency alone.",
+  "src": "Sabiston Ch 14, \"Nitrous Oxide\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.9",
+  "chapter": "Ch14",
+  "section": "Propofol / Table 14.3",
+  "stem": "Which set of properties describes propofol as an IV induction agent?",
+  "options": {
+   "A": "Dose ~1–2 mg/kg; causes hypotension and pain on injection; good bronchodilator; low incidence of postoperative nausea/vomiting",
+   "B": "Raises blood pressure and heart rate; ideal for hypovolemic shock",
+   "C": "Causes adrenal suppression with continuous infusion",
+   "D": "Is the most hemodynamically stable agent, preferred in cardiac dysfunction"
+  },
+  "answer": "A",
+  "exp": "Propofol (induction dose ~1–2 mg/kg) is a short-acting agent associated with smooth, low-nausea emergence and good bronchodilation, but it causes pain on injection and blood-pressure reduction (use caution in hypovolemia/severe CAD). It does not raise BP/HR (B), is not the agent that suppresses the adrenal (C — that is etomidate), and is not the most hemodynamically stable (D — that is etomidate/midazolam).",
+  "hy": "Propofol: 1–2 mg/kg, hypotension + injection pain, bronchodilator, low PONV.",
+  "src": "Sabiston Ch 14, Table 14.3/\"Induction Agents\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.10",
+  "chapter": "Ch14",
+  "section": "Ketamine / Table 14.3",
+  "stem": "Which statement about ketamine is correct?",
+  "options": {
+   "A": "It is the only IV induction agent that raises blood pressure/heart rate and increases cerebral blood flow/ICP; it is a bronchodilator but can cause emergence delirium",
+   "B": "It reliably lowers blood pressure and is ideal for coronary artery disease",
+   "C": "It decreases cerebral blood flow and is preferred in traumatic brain injury",
+   "D": "It causes adrenal suppression and myoclonus"
+  },
+  "answer": "A",
+  "exp": "Ketamine produces dissociative anesthesia and is the only IV induction agent that raises blood pressure and heart rate (via sympathetic tone) and increases cerebral blood flow/ICP; it is a bronchodilator and potent analgesic but causes emergence delirium (mitigated by benzodiazepines). It does not lower BP (B), increases CBF/ICP rather than decreasing it (C), and adrenal suppression/myoclonus describe etomidate (D).",
+  "hy": "Ketamine: ↑BP/HR, ↑ICP/CBF, bronchodilator, emergence delirium.",
+  "src": "Sabiston Ch 14, Table 14.3/\"Ketamine\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.11",
+  "chapter": "Ch14",
+  "section": "Etomidate / Table 14.3",
+  "stem": "Which feature makes etomidate a common choice for inducing patients with cardiac contractile dysfunction or hypovolemia, and what is its notable drawback?",
+  "options": {
+   "A": "It is hemodynamically stable but causes adrenal suppression (with continuous infusion), pain on injection, and myoclonus",
+   "B": "It markedly lowers blood pressure but provides potent analgesia",
+   "C": "It raises heart rate and is contraindicated in shock",
+   "D": "It produces profound amnesia with no cardiovascular effects"
+  },
+  "answer": "A",
+  "exp": "Etomidate produces minimal hemodynamic change and preserves blood pressure, making it useful for inducing patients with cardiac contractile dysfunction or hypovolemia; its drawbacks are burning injection pain, myoclonus, and adrenal suppression (notably with continuous infusion). It does not lower BP markedly (B), is used in shock (C), and does have cardiovascular-sparing but not \"no\" effects (D).",
+  "hy": "Etomidate: hemodynamically stable; adrenal suppression, myoclonus, injection pain.",
+  "src": "Sabiston Ch 14, Table 14.3/\"Etomidate\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.12",
+  "chapter": "Ch14",
+  "section": "Thiopental / Table 14.3",
+  "stem": "Which statement about thiopental is correct?",
+  "options": {
+   "A": "Dose ~2–5 mg/kg; rapid emergence after a single dose is due to redistribution; in hypovolemia/heart failure it can cause severe hypotension",
+   "B": "It raises blood pressure and is the agent of choice in hemorrhagic shock",
+   "C": "It is a potent bronchodilator preferred in asthmatics",
+   "D": "It causes adrenal suppression with single doses"
+  },
+  "answer": "A",
+  "exp": "Thiopental (induction dose ~2–5 mg/kg) produces rapid, pleasant induction; after a single dose, rapid emergence results from redistribution from brain to peripheral tissues, and only ~10%/hour is metabolized hepatically. In hypovolemia/heart failure it causes vasodilation and cardiac depression leading to severe hypotension. It does not raise BP (B), is not a preferred bronchodilator (C), and single doses don't cause adrenal suppression (D).",
+  "hy": "Thiopental 2–5 mg/kg; emergence by redistribution; hypotension if hypovolemic.",
+  "src": "Sabiston Ch 14, Table 14.3/\"Thiopental\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.13",
+  "chapter": "Ch14",
+  "section": "Midazolam / Table 14.3",
+  "stem": "Why is midazolam sometimes chosen for induction, and what is a key interaction?",
+  "options": {
+   "A": "It gives relatively stable hemodynamics and potent amnesia, but causes synergistic ventilatory depression with opioids",
+   "B": "It raises blood pressure and heart rate",
+   "C": "It has no amnestic effect",
+   "D": "It is contraindicated for premedication of anxious patients"
+  },
+  "answer": "A",
+  "exp": "Midazolam offers relatively stable hemodynamics and potent amnesia, which is why it is used for cardiovascular induction and premedication; however, it produces synergistic ventilatory depression when combined with opioids. It does not raise BP/HR (B), does have amnestic effect (C), and is commonly used to premedicate anxious patients (D).",
+  "hy": "Midazolam: stable hemodynamics + amnesia; synergistic respiratory depression with opioids.",
+  "src": "Sabiston Ch 14, Table 14.3/\"Midazolam\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.14",
+  "chapter": "Ch14",
+  "section": "Opioids",
+  "stem": "Which statement about opioids in anesthesia is correct?",
+  "options": {
+   "A": "Fentanyl is ~100–150× more potent than morphine and reduces the MAC of volatile agents; remifentanil is ultra-short-acting because it is metabolized by serum esterases",
+   "B": "Opioids reliably provide hypnosis and amnesia as sole agents at analgesic doses",
+   "C": "Fentanyl is less potent than morphine",
+   "D": "Remifentanil accumulates markedly during prolonged infusions"
+  },
+  "answer": "A",
+  "exp": "Fentanyl is ~100–150× more potent than morphine and (like other opioids) reduces the MAC of volatile agents; remifentanil is ultra-short-acting because it is hydrolyzed by nonspecific serum esterases and does not accumulate with prolonged infusion. Opioids give inconsistent hypnosis/amnesia at analgesic doses (B), fentanyl is more potent than morphine (C), and remifentanil does not accumulate (D).",
+  "hy": "Fentanyl ~100–150× morphine; remifentanil = esterase-metabolized, non-accumulating.",
+  "src": "Sabiston Ch 14, \"Opioids\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.15",
+  "chapter": "Ch14",
+  "section": "Succinylcholine",
+  "stem": "Which statement about succinylcholine is correct?",
+  "options": {
+   "A": "It is a depolarizing agent with rapid onset (~60–90 s) and short duration (~5 min), making it useful for rapid-sequence intubation",
+   "B": "It is a nondepolarizing competitive antagonist",
+   "C": "Its duration of action is ~30 minutes",
+   "D": "It is reversed by neostigmine"
+  },
+  "answer": "A",
+  "exp": "Succinylcholine is the only depolarizing agent in use; its rapid onset (~60–90 s) and short duration (~5 min, from plasma pseudocholinesterase metabolism) make it ideal for rapid-sequence intubation. It is not a nondepolarizing antagonist (B), its duration is ~5 min not 30 (C), and it is not reversed by neostigmine (D — anticholinesterase would prolong, not reverse, depolarizing block).",
+  "hy": "Succinylcholine: depolarizing, onset 60–90 s, duration ~5 min, for RSI.",
+  "src": "Sabiston Ch 14, \"Neuromuscular Blockers\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.16",
+  "chapter": "Ch14",
+  "section": "Succinylcholine hazards",
+  "stem": "Which adverse effects are associated with succinylcholine?",
+  "options": {
+   "A": "Life-threatening hyperkalemia (burns, paraplegia/quadriplegia, massive trauma), malignant hyperthermia triggering, and bradycardia (especially in children)",
+   "B": "Adrenal suppression and myoclonus",
+   "C": "Prolonged paralysis reversible only by dialysis",
+   "D": "Hypertension and tachycardia as the main risks"
+  },
+  "answer": "A",
+  "exp": "Succinylcholine can cause life-threatening hyperkalemia in patients with burns, paraplegia/quadriplegia, or massive trauma (upregulated receptors), can trigger malignant hyperthermia, and commonly causes bradycardia (especially in children) and masseter spasm/myalgias. Adrenal suppression/myoclonus (B) describe etomidate, dialysis-reversal (C) is wrong, and hypertension/tachycardia (D) are not its hallmark risks.",
+  "hy": "Succinylcholine: hyperkalemia (burns/paralysis/trauma), MH trigger, bradycardia in kids.",
+  "src": "Sabiston Ch 14, \"Neuromuscular Blockers\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.17",
+  "chapter": "Ch14",
+  "section": "Nondepolarizing blockers / Table 14.4",
+  "stem": "Which nondepolarizing muscle relaxant is best suited to a patient with significant renal impairment, and why?",
+  "options": {
+   "A": "Cisatracurium, because it is largely eliminated by Hofmann degradation in plasma rather than by the kidney",
+   "B": "Pancuronium, because it is renally cleared",
+   "C": "Vecuronium, because it depends on renal excretion",
+   "D": "Succinylcholine, because it is a nondepolarizer"
+  },
+  "answer": "A",
+  "exp": "Cisatracurium is largely metabolized in serum by Hofmann degradation, making it well suited to patients with renal (and hepatic) impairment, whereas pancuronium and vecuronium are partly renally eliminated and would be unsuitable. Succinylcholine is a depolarizer, not a nondepolarizer (D).",
+  "hy": "Cisatracurium (Hofmann elimination) is best in renal failure.",
+  "src": "Sabiston Ch 14, Table 14.4/\"Neuromuscular Blockers\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.18",
+  "chapter": "Ch14",
+  "section": "NMB dosing / Table 14.4",
+  "stem": "Regarding nondepolarizing relaxant dosing, which principle is correct?",
+  "options": {
+   "A": "Higher doses are required to provide intubating conditions than for surgical relaxation, and potent inhalational agents potentiate their action",
+   "B": "Surgical relaxation requires higher doses than intubation",
+   "C": "Inhalational agents antagonize nondepolarizers",
+   "D": "Chemical paralysis reliably indicates adequate depth of anesthesia"
+  },
+  "answer": "A",
+  "exp": "Higher doses of nondepolarizers are needed to provide intubating conditions than for surgical relaxation, and potent inhalational agents dose-dependently potentiate their action (succinylcholine pre-use also lowers subsequent requirements). Surgical relaxation needs less than intubation (B), inhalational agents potentiate rather than antagonize (C), and chemical paralysis can mask inadequate anesthetic depth (D).",
+  "hy": "Intubating doses > surgical-relaxation doses; volatiles potentiate nondepolarizers.",
+  "src": "Sabiston Ch 14, Table 14.4/\"Neuromuscular Blockers\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.19",
+  "chapter": "Ch14",
+  "section": "NMB reversal",
+  "stem": "How are nondepolarizing neuromuscular blockers classically pharmacologically reversed?",
+  "options": {
+   "A": "With an anticholinesterase (neostigmine or edrophonium) plus atropine or glycopyrrolate to counter the muscarinic effects",
+   "B": "With additional succinylcholine",
+   "C": "With naloxone",
+   "D": "With a benzodiazepine"
+  },
+  "answer": "A",
+  "exp": "Nondepolarizing blockers are classically reversed with an anticholinesterase (neostigmine or edrophonium) given with atropine or glycopyrrolate to block the muscarinic effects of increased acetylcholine. Additional succinylcholine (B), naloxone (C, for opioids), and benzodiazepines (D) do not reverse nondepolarizing block.",
+  "hy": "Reverse nondepolarizers: anticholinesterase + antimuscarinic (atropine/glycopyrrolate).",
+  "src": "Sabiston Ch 14, \"Neuromuscular Blockers\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.20",
+  "chapter": "Ch14",
+  "section": "Train-of-four",
+  "stem": "On neuromuscular monitoring, what train-of-four (TOF) ratio signifies clinically significant residual blockade, and why does it matter?",
+  "options": {
+   "A": "A TOF ratio less than 0.9 indicates residual blockade, which is associated with postoperative respiratory complications and delayed PACU discharge",
+   "B": "A TOF ratio greater than 0.9 indicates residual blockade",
+   "C": "A TOF ratio of 0.5 is the target for safe extubation",
+   "D": "The TOF ratio has no relationship to respiratory complications"
+  },
+  "answer": "A",
+  "exp": "A train-of-four ratio below 0.9 signifies clinically significant residual neuromuscular blockade, which is associated with increased postoperative respiratory complications and delayed PACU discharge; adequate recovery requires a TOF ratio >0.9 (ideally 1.0). Option B inverts the threshold, 0.5 is inadequate (C), and the relationship to complications is real (D).",
+  "hy": "TOF ratio <0.9 = residual blockade → respiratory complications.",
+  "src": "Sabiston Ch 14, \"Neuromuscular Blockade Monitoring\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.21",
+  "chapter": "Ch14",
+  "section": "Bispectral index",
+  "stem": "What does the bispectral index (BIS) monitor, and what is its scale?",
+  "options": {
+   "A": "A processed EEG estimating anesthetic depth/awareness on a 0–100 scale (100 = awake, 0 = complete suppression); it can reduce intraoperative awareness in high-risk patients",
+   "B": "End-tidal CO₂ on a 0–100 scale",
+   "C": "Neuromuscular blockade depth",
+   "D": "Oxygen saturation"
+  },
+  "answer": "A",
+  "exp": "The bispectral index is a processed EEG that estimates anesthetic depth/awareness on a 0–100 scale (100 = fully awake, 0 = complete cortical suppression); meta-analysis shows it can reduce intraoperative awareness in high-risk patients, and BIS <40 for >5 minutes may be associated with increased morbidity. It does not measure ETCO₂ (B), neuromuscular blockade (C), or oxygen saturation (D).",
+  "hy": "BIS = processed EEG, 0–100, reduces awareness in high-risk patients.",
+  "src": "Sabiston Ch 14, \"Central Nervous System Monitoring\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.22",
+  "chapter": "Ch14",
+  "section": "Intraoperative awareness",
+  "stem": "Which factor is associated with a higher rate of medicolegal claims for intraoperative awareness?",
+  "options": {
+   "A": "The use of intraoperative muscle relaxants",
+   "B": "The use of inhalational rather than IV agents",
+   "C": "Regional anesthesia",
+   "D": "Use of the bispectral index monitor"
+  },
+  "answer": "A",
+  "exp": "Medicolegal claims of intraoperative awareness were more than twice as frequent in patients receiving intraoperative muscle relaxants, because chemical paralysis masks the movement that would otherwise signal light anesthesia. Agent choice (B), regional anesthesia (C), and BIS use (D) are not the cited association.",
+  "hy": "Muscle relaxants raise awareness claims (paralysis masks light anesthesia).",
+  "src": "Sabiston Ch 14, \"Neuromuscular Blockers\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.23",
+  "chapter": "Ch14",
+  "section": "Mallampati classification",
+  "stem": "On the Mallampati classification of the airway, which finding predicts a more difficult intubation?",
+  "options": {
+   "A": "A class IV airway (only the hard palate visible) predicts greater difficulty than class I (soft palate, uvula, and pillars visible)",
+   "B": "A class I airway predicts the most difficult intubation",
+   "C": "The classification is performed with the patient supine and mouth closed",
+   "D": "Class IV means the uvula and pillars are fully visible"
+  },
+  "answer": "A",
+  "exp": "On the Mallampati classification, a class IV airway (only the hard palate visible) predicts greater difficulty with mask ventilation/intubation, whereas class I (soft palate, uvula, and pillars visible) predicts ease. It is performed sitting with the mouth open and tongue protruded (C is wrong), and class IV does not show the uvula (D). It is only one component of airway assessment.",
+  "hy": "Mallampati IV (hard palate only) = harder airway; class I = easiest.",
+  "src": "Sabiston Ch 14, Fig. 14.1/\"Airway Examination\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.24",
+  "chapter": "Ch14",
+  "section": "Airway examination / Box 14.3",
+  "stem": "Which physical measurements are part of a reassuring airway examination?",
+  "options": {
+   "A": "Mouth opening and thyromental distance of ~6–8 cm (three to four fingerbreadths), with good cervical mobility",
+   "B": "A thyromental distance under 3 cm",
+   "C": "Mouth opening of 1–2 cm",
+   "D": "A single physical finding reliably predicts airway difficulty"
+  },
+  "answer": "A",
+  "exp": "A reassuring airway exam includes a mouth opening and thyromental distance of ~6–8 cm (three to four fingerbreadths) with good cervical mobility and adequate neck extension; single findings have poor predictive value, but combining ≥2 predictors improves sensitivity/specificity. The very small measurements (B, C) indicate difficulty, and a single finding is unreliable (D).",
+  "hy": "Reassuring airway: mouth opening/thyromental ~6–8 cm; combine predictors.",
+  "src": "Sabiston Ch 14, Box 14.3/\"Airway Examination\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.25",
+  "chapter": "Ch14",
+  "section": "ASA physical status",
+  "stem": "A patient with congestive heart failure and unstable angina — severe systemic disease that is a constant threat to life — is which ASA physical status class?",
+  "options": {
+   "A": "ASA IV",
+   "B": "ASA II",
+   "C": "ASA III",
+   "D": "ASA V"
+  },
+  "answer": "A",
+  "exp": "ASA IV is \"severe systemic disease that is a constant threat to life,\" exemplified by congestive heart failure and unstable angina. ASA II is mild systemic disease, ASA III is severe disease with functional impairment, and ASA V is moribund.",
+  "hy": "ASA IV = severe disease, constant threat to life (CHF, unstable angina).",
+  "src": "Sabiston Ch 14, \"Assessment of Physical Status\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.26",
+  "chapter": "Ch14",
+  "section": "ASA physical status",
+  "stem": "Which description correctly matches an ASA class?",
+  "options": {
+   "A": "ASA III — severe systemic disease with functional impairment (e.g., diabetes with vascular complications, prior MI)",
+   "B": "ASA II — a moribund patient not expected to survive",
+   "C": "ASA I — severe systemic disease that is a constant threat to life",
+   "D": "ASA V — mild systemic disease with no functional limitation"
+  },
+  "answer": "A",
+  "exp": "ASA III is severe systemic disease producing functional impairment (e.g., diabetes with vascular complications, previous MI, uncontrolled hypertension). ASA II (not II = moribund — B is wrong) is mild disease without limitation; ASA I is a normal healthy patient (C wrong); ASA V is moribund (D wrong).",
+  "hy": "ASA III = severe systemic disease with functional impairment.",
+  "src": "Sabiston Ch 14, \"Assessment of Physical Status\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.27",
+  "chapter": "Ch14",
+  "section": "Risk of anesthesia",
+  "stem": "What is the approximate risk of cardiac arrest attributable to anesthesia, and overall surgical mortality in developed nations?",
+  "options": {
+   "A": "Anesthesia-attributable cardiac arrest <1 in 10,000 cases; surgical mortality ~0.4%–0.8%",
+   "B": "Anesthesia-attributable cardiac arrest ~1 in 100 cases; surgical mortality ~20%",
+   "C": "Anesthesia-attributable cardiac arrest ~1 in 50; surgical mortality ~10%",
+   "D": "Both are essentially zero in modern practice"
+  },
+  "answer": "A",
+  "exp": "Anesthesia-attributable cardiac arrest occurs in fewer than 1 in 10,000 cases, and in developed nations overall surgical mortality is ~0.4%–0.8% (morbidity ~3%–17%). The much higher figures (B, C) are incorrect, and risk is low but not zero (D).",
+  "hy": "Anesthesia cardiac arrest <1:10,000; surgical mortality ~0.4–0.8%.",
+  "src": "Sabiston Ch 14, \"Risk of Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.28",
+  "chapter": "Ch14",
+  "section": "Functional capacity / METs",
+  "stem": "In the perioperative literature, how is poor functional capacity defined, and why does it matter?",
+  "options": {
+   "A": "Poor capacity is <4 METs; patients unable to perform 4 METs of work have increased perioperative cardiac and long-term risk",
+   "B": "Poor capacity is <10 METs",
+   "C": "Functional capacity has no bearing on perioperative risk",
+   "D": "Excellent capacity is defined as <4 METs"
+  },
+  "answer": "A",
+  "exp": "Functional capacity is classified as excellent (>10 METs), good (7–10), moderate (4–6), or poor (<4); patients unable to perform 4 METs of daily work have increased perioperative cardiac and long-term risk. Poor capacity is <4 (not <10 — B), capacity does matter (C), and excellent is >10 not <4 (D).",
+  "hy": "Poor functional capacity <4 METs → increased perioperative risk.",
+  "src": "Sabiston Ch 14, \"Cardiovascular Disease\" (METs)",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.29",
+  "chapter": "Ch14",
+  "section": "Pulmonary risk / Table 14.6",
+  "stem": "Which patient-associated factor carries the highest relative risk for postoperative pulmonary complications in the cited analysis?",
+  "options": {
+   "A": "ASA class greater than II (relative risk ~4.9)",
+   "B": "Obesity (relative risk ~1.3)",
+   "C": "Current smoking (relative risk ~1.3)",
+   "D": "COPD (relative risk ~1.8)"
+  },
+  "answer": "A",
+  "exp": "In the cited ACP analysis (Table 14.6), ASA class greater than II carries the highest patient-associated relative risk for postoperative pulmonary complications (~4.9); CHF (~2.9), age >60 (~2.1–3.0), COPD (~1.8), and smoking/obesity (~1.3) are lower.",
+  "hy": "ASA >II is the top patient pulmonary-risk factor (RR ~4.9).",
+  "src": "Sabiston Ch 14, Table 14.6",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.30",
+  "chapter": "Ch14",
+  "section": "Pulmonary risk / Table 14.6",
+  "stem": "Which procedure-associated factors increase postoperative pulmonary complication risk?",
+  "options": {
+   "A": "Surgery lasting >3 hours, emergency surgery, and general anesthesia",
+   "B": "Laparoscopic approach and regional anesthesia",
+   "C": "Short operative time and elective scheduling",
+   "D": "Use of a bispectral index monitor"
+  },
+  "answer": "A",
+  "exp": "Procedure-associated pulmonary-complication risk factors are surgery lasting >3 hours (RR ~2.1), emergency surgery (~2.2), and general anesthesia (~1.8). Laparoscopic/regional approaches and short elective cases are not risk factors (B, C), and BIS use is irrelevant (D).",
+  "hy": "Procedure pulmonary risks: surgery >3 h, emergency, general anesthesia.",
+  "src": "Sabiston Ch 14, Table 14.6",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.31",
+  "chapter": "Ch14",
+  "section": "Fasting / Table 14.7",
+  "stem": "Per the ASA preoperative fasting recommendations, which minimum fasting interval is correct?",
+  "options": {
+   "A": "Clear liquids 2 hours, breast milk 4 hours, infant formula/nonhuman milk/solid food 6 hours",
+   "B": "Clear liquids 6 hours, breast milk 2 hours",
+   "C": "Solid food 2 hours, clear liquids 8 hours",
+   "D": "Breast milk 8 hours, clear liquids 4 hours"
+  },
+  "answer": "A",
+  "exp": "The ASA fasting guidelines specify minimum fasts of 2 hours for clear liquids, 4 hours for breast milk, and 6 hours for infant formula, nonhuman milk, and solid food. The other options scramble these intervals.",
+  "hy": "Fasting: clear 2 h, breast milk 4 h, formula/nonhuman milk/solids 6 h.",
+  "src": "Sabiston Ch 14, Table 14.7",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.32",
+  "chapter": "Ch14",
+  "section": "Fasting / clear liquids",
+  "stem": "Which statement about preoperative fasting is correct?",
+  "options": {
+   "A": "Clear liquids are those you can see through without solids/particulates (water, pulp-free juice, black coffee, clear tea, carbonated drinks), and routine GI stimulants/antacids are not recommended",
+   "B": "Milk and orange juice count as clear liquids",
+   "C": "A minimum fast of 12 hours is required for clear liquids",
+   "D": "Routine prokinetics are recommended for all patients"
+  },
+  "answer": "A",
+  "exp": "Clear liquids are defined as liquids you can see through without solids/particulates — water, pulp-free fruit juice, black coffee, clear tea, carbonated beverages — and routine GI stimulants, acid blockers, antacids, and antiemetics are not recommended for healthy patients. Milk/orange juice are not clear liquids (B), the clear-liquid fast is 2 h not 12 (C), and routine prokinetics are not advised (D).",
+  "hy": "Clear liquids = see-through, particulate-free; no routine prokinetics.",
+  "src": "Sabiston Ch 14, \"Fasting Before Surgery\"/Table 14.7",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.33",
+  "chapter": "Ch14",
+  "section": "Endocarditis prophylaxis / Table 14.5",
+  "stem": "For a patient at highest risk undergoing a dental procedure involving gingival manipulation, what is the recommended oral antibiotic regimen?",
+  "options": {
+   "A": "Amoxicillin 2 g orally, single dose 30–60 minutes before the procedure",
+   "B": "Vancomycin 1 g orally daily for 7 days",
+   "C": "Penicillin 500 mg four times daily for 10 days",
+   "D": "No antibiotic is ever indicated for dental procedures"
+  },
+  "answer": "A",
+  "exp": "For a highest-risk patient undergoing a dental procedure with gingival manipulation, the recommended regimen is amoxicillin 2 g orally as a single dose 30–60 minutes before the procedure. Prolonged courses (B, C) are not used, and prophylaxis is indicated for highest-risk patients (D).",
+  "hy": "Dental endocarditis prophylaxis: amoxicillin 2 g, single dose 30–60 min before.",
+  "src": "Sabiston Ch 14, Table 14.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.34",
+  "chapter": "Ch14",
+  "section": "Endocarditis prophylaxis / Box 14.6",
+  "stem": "Which cardiac condition is in the highest-risk group for which endocarditis prophylaxis before dental procedures is reasonable?",
+  "options": {
+   "A": "A prosthetic cardiac valve (or prosthetic material used for valve repair), previous infective endocarditis, or unrepaired cyanotic congenital heart disease",
+   "B": "Isolated mitral valve prolapse",
+   "C": "A repaired atrial septal defect after 1 year with no residual defect",
+   "D": "Routine genitourinary or gastrointestinal procedures in any patient"
+  },
+  "answer": "A",
+  "exp": "The highest-risk cardiac conditions for which dental prophylaxis is reasonable include a prosthetic valve (or prosthetic repair material), previous infective endocarditis, unrepaired cyanotic CHD (including palliative shunts/conduits), repaired CHD with prosthetic material during the first 6 months, repaired CHD with a residual defect at/adjacent to a prosthesis, and transplant valvulopathy. Isolated MVP (B) and a fully repaired ASD after a year (C) are not high-risk, and prophylaxis is not recommended for routine GI/GU procedures (D).",
+  "hy": "Prophylaxis for: prosthetic valve, prior IE, unrepaired cyanotic CHD, recent prosthetic repair, transplant valvulopathy.",
+  "src": "Sabiston Ch 14, Box 14.6",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.35",
+  "chapter": "Ch14",
+  "section": "Perioperative medical management / Box 14.5",
+  "stem": "Which statement reflects the ACC/AHA perioperative cardiac medication recommendations?",
+  "options": {
+   "A": "Continue chronic beta blockers and statins; do not start beta blockers on the day of surgery; delay elective surgery 14 days after balloon angioplasty, 30 days after a bare-metal stent, and 365 days after a drug-eluting stent",
+   "B": "Start beta blockers on the morning of surgery in all patients",
+   "C": "Stop statins before all surgery",
+   "D": "Coronary revascularization is recommended solely to reduce perioperative cardiac events"
+  },
+  "answer": "A",
+  "exp": "The ACC/AHA recommendations are to continue chronic beta blockers and statins, not to start beta blockers on the day of surgery, and to delay elective noncardiac surgery 14 days after balloon angioplasty, 30 days after a bare-metal stent, and 365 days after a drug-eluting stent. Starting beta blockers the morning of surgery (B), stopping statins (C), and revascularizing solely to reduce perioperative events (D) are all contrary to the guideline.",
+  "hy": "Continue beta blockers/statins; don't start beta blockers day-of; stent delays 14/30/365 d.",
+  "src": "Sabiston Ch 14, Box 14.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.36",
+  "chapter": "Ch14",
+  "section": "Local anesthetic max doses / Table 14.8",
+  "stem": "Which maximal-dose pairing for major nerve blocks (without epinephrine) is correct?",
+  "options": {
+   "A": "Lidocaine 5 mg/kg (7–8 mg/kg with epinephrine); bupivacaine 3 mg/kg",
+   "B": "Lidocaine 1 mg/kg; bupivacaine 10 mg/kg",
+   "C": "Bupivacaine 7 mg/kg; lidocaine 1 mg/kg",
+   "D": "All local anesthetics share a maximal dose of 10 mg/kg"
+  },
+  "answer": "A",
+  "exp": "For major nerve blocks, the maximal dose (without epinephrine) of lidocaine is ~5 mg/kg (increasable to 7–8 mg/kg with epinephrine) and of bupivacaine ~3 mg/kg; mepivacaine matches lidocaine and ropivacaine matches bupivacaine. The other pairings are incorrect, and there is no universal 10 mg/kg limit.",
+  "hy": "Lidocaine 5 mg/kg (7–8 w/ epi); bupivacaine 3 mg/kg.",
+  "src": "Sabiston Ch 14, Table 14.8",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.37",
+  "chapter": "Ch14",
+  "section": "Local anesthetic properties / Table 14.8",
+  "stem": "How do lidocaine and bupivacaine differ in onset and duration for major nerve blocks?",
+  "options": {
+   "A": "Lidocaine has a faster onset (~10–20 min) and shorter duration (~60–180 min); bupivacaine has slower onset (~15–30 min) and longer duration (~180–360 min)",
+   "B": "Bupivacaine has the fastest onset and shortest duration",
+   "C": "Both have identical onset and duration",
+   "D": "Lidocaine lasts longer than bupivacaine"
+  },
+  "answer": "A",
+  "exp": "Lidocaine has a faster onset (~10–20 min) and shorter duration (~60–180 min), whereas bupivacaine has a slower onset (~15–30 min) and a much longer duration (~180–360 min), reflecting its higher lipid solubility/protein binding. Option B reverses this and the others are wrong.",
+  "hy": "Lidocaine: fast/short; bupivacaine: slow/long.",
+  "src": "Sabiston Ch 14, Table 14.8",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.38",
+  "chapter": "Ch14",
+  "section": "Local anesthetic systemic toxicity",
+  "stem": "What is the typical progression of local anesthetic systemic toxicity (LAST)?",
+  "options": {
+   "A": "Early perioral numbness/tingling, metallic taste, tinnitus, and visual changes, progressing to slurred speech, seizures, and finally cardiovascular collapse",
+   "B": "Cardiovascular collapse occurs first, before any CNS symptoms",
+   "C": "The first sign is always a fixed dilated pupil",
+   "D": "Toxicity manifests only as a localized skin rash"
+  },
+  "answer": "A",
+  "exp": "LAST classically begins with CNS excitation — perioral numbness/tingling, metallic taste, tinnitus, visual disturbance, light-headedness — progressing to slurred speech, disorientation, seizures, and finally cardiovascular collapse (bupivacaine is especially cardiotoxic). Cardiovascular collapse is a late, not first, sign (B), and the other descriptions are incorrect.",
+  "hy": "LAST: perioral numbness/metallic taste/tinnitus → seizures → CV collapse.",
+  "src": "Sabiston Ch 14, \"Local Anesthetic Drugs\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.39",
+  "chapter": "Ch14",
+  "section": "LAST treatment",
+  "stem": "What is the recommended lipid-emulsion regimen for severe local anesthetic systemic toxicity, alongside airway/oxygen support?",
+  "options": {
+   "A": "A 20% lipid emulsion bolus of 1.5 mL/kg (lean body mass) over 1 minute, followed by an infusion of 0.25 mL/kg/min",
+   "B": "A 5% dextrose bolus of 10 mL/kg",
+   "C": "Intravenous bupivacaine to stabilize membranes",
+   "D": "Naloxone 0.4 mg IV"
+  },
+  "answer": "A",
+  "exp": "For severe LAST, alongside airway and oxygen support (and benzodiazepines for seizures), the recommended 20% lipid-emulsion regimen is a bolus of 1.5 mL/kg (lean body mass) over 1 minute followed by an infusion of 0.25 mL/kg/min, with the bolus repeatable and infusion doubled for refractory toxicity. The other options are incorrect.",
+  "hy": "LAST lipid rescue: 1.5 mL/kg 20% bolus, then 0.25 mL/kg/min.",
+  "src": "Sabiston Ch 14, \"Local Anesthetic Drugs\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.40",
+  "chapter": "Ch14",
+  "section": "Local anesthetic classes",
+  "stem": "What are the two classes of local anesthetics and their mechanism of action?",
+  "options": {
+   "A": "Aminoesters and aminoamides, which act by dose-dependent blockade of sodium channels in nerve fibers",
+   "B": "Agonists and antagonists, acting on potassium channels",
+   "C": "Depolarizing and nondepolarizing, acting at the neuromuscular junction",
+   "D": "Esters and amides, acting by calcium-channel blockade"
+  },
+  "answer": "A",
+  "exp": "Local anesthetics fall into two classes — aminoesters and aminoamides — and act by dose-dependent blockade of voltage-gated sodium channels in nerve fibers. They are not agonist/antagonist potassium-channel drugs (B), are not neuromuscular agents (C), and do not act by calcium-channel blockade (D).",
+  "hy": "Local anesthetics = esters/amides; block sodium channels.",
+  "src": "Sabiston Ch 14, \"Local Anesthetic Drugs\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.41",
+  "chapter": "Ch14",
+  "section": "Spinal baricity / Table 14.9",
+  "stem": "How does baricity influence the spread of a subarachnoid block?",
+  "options": {
+   "A": "Hyperbaric solutions (e.g., local anesthetic in dextrose) sink with gravity, hypobaric solutions rise, and isobaric (plain) solutions stay near the injection level",
+   "B": "Hyperbaric solutions rise against gravity",
+   "C": "Baricity has no effect on block spread",
+   "D": "Isobaric solutions always ascend within the CSF"
+  },
+  "answer": "A",
+  "exp": "Baricity governs spread within CSF: hyperbaric solutions (local anesthetic in dextrose) sink with gravity, hypobaric solutions (prepared in water) rise, and isobaric (plain) solutions remain near the injection level — so patient position determines block level. Option B reverses hyperbaric behavior, C denies the effect, and D misstates isobaric behavior.",
+  "hy": "Hyperbaric sinks, hypobaric rises, isobaric stays — position matters.",
+  "src": "Sabiston Ch 14, Table 14.9/\"Spinal Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.42",
+  "chapter": "Ch14",
+  "section": "Spinal anesthetic duration / Table 14.9",
+  "stem": "For subarachnoid block, how do the durations of lidocaine and bupivacaine/tetracaine compare?",
+  "options": {
+   "A": "Lidocaine is short-acting (~30–60 min) while bupivacaine and tetracaine last significantly longer (~75–200 min)",
+   "B": "Lidocaine lasts the longest of the three",
+   "C": "All three have identical durations",
+   "D": "Tetracaine has the shortest duration"
+  },
+  "answer": "A",
+  "exp": "For subarachnoid block, lidocaine is short-acting (~30–60 min) while bupivacaine and tetracaine have significantly longer durations (~75–200 min). Option B/C/D misstate the relative durations.",
+  "hy": "Spinal: lidocaine ~30–60 min; bupivacaine/tetracaine ~75–200 min.",
+  "src": "Sabiston Ch 14, Table 14.9",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.43",
+  "chapter": "Ch14",
+  "section": "Spinal block level determinants",
+  "stem": "Which factors increase the cephalad level of a spinal anesthetic?",
+  "options": {
+   "A": "Higher dose/volume, baricity and patient position, and conditions that reduce subarachnoid space volume (obesity, pregnancy, increased intraabdominal pressure)",
+   "B": "Only the brand of needle used",
+   "C": "Lower body temperature alone",
+   "D": "The patient's hair color"
+  },
+  "answer": "A",
+  "exp": "The cephalad level of a spinal block is increased by higher dose/volume, baricity together with patient position, and anatomic/physiologic factors that reduce subarachnoid-space volume — obesity, pregnancy, increased intraabdominal pressure, prior spine surgery, and abnormal curvature (elderly patients are also more sensitive). Needle brand (B), temperature (C), and hair color (D) are irrelevant.",
+  "hy": "Higher spinal level: ↑dose/volume, baricity+position, ↓CSF-space states (obesity/pregnancy).",
+  "src": "Sabiston Ch 14, \"Spinal Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.44",
+  "chapter": "Ch14",
+  "section": "Spinal complications",
+  "stem": "Which is a recognized complication of subarachnoid block?",
+  "options": {
+   "A": "Hypotension from sympathectomy (responsive to fluids/ephedrine), bradycardia, postdural puncture headache, and urinary retention",
+   "B": "Hypertensive crisis from sympathetic surge",
+   "C": "Hyperthermia and tachycardia",
+   "D": "Immediate respiratory alkalosis"
+  },
+  "answer": "A",
+  "exp": "Complications of subarachnoid block include hypotension from sympathectomy (usually responsive to fluids and small pressor doses such as ephedrine), bradycardia, postdural puncture headache, transient radicular neuropathy, backache, and urinary retention. It causes hypotension, not hypertension (B), and the other descriptions are incorrect.",
+  "hy": "Spinal complications: hypotension (sympathectomy), bradycardia, PDPH, urinary retention.",
+  "src": "Sabiston Ch 14, \"Spinal Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.45",
+  "chapter": "Ch14",
+  "section": "Postdural puncture headache",
+  "stem": "Which factors increase the incidence of postdural puncture headache?",
+  "options": {
+   "A": "Female gender, younger age, and larger needle size",
+   "B": "Male gender and older age",
+   "C": "Smaller (pencil-point) needles",
+   "D": "Use of epidural rather than spinal technique always prevents it"
+  },
+  "answer": "A",
+  "exp": "Postdural puncture headache is more common with female gender, younger age, and larger needle size. Male gender/older age (B), smaller pencil-point needles (C, which reduce risk), and the claim that epidural always prevents it (D, an inadvertent dural puncture leaves a larger rent) are all incorrect.",
+  "hy": "PDPH risk: female, younger, larger needle.",
+  "src": "Sabiston Ch 14, \"Spinal Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.46",
+  "chapter": "Ch14",
+  "section": "Epidural anesthesia",
+  "stem": "Which statement about epidural anesthesia/analgesia is correct?",
+  "options": {
+   "A": "Thoracic epidural analgesia provides superior pain control and pulmonary function than parenteral opioids and is associated with decreased postoperative pneumonia",
+   "B": "Epidural analgesia worsens pulmonary function compared with parenteral opioids",
+   "C": "Lumbar epidural is superior to thoracic for upper-abdominal/thoracic pain",
+   "D": "Epidural anesthesia has no effect on postoperative pneumonia rates"
+  },
+  "answer": "A",
+  "exp": "Thoracic epidural analgesia provides superior pain control, less sedation, and better pulmonary function than parenteral opioids and is associated with a decreased incidence of postoperative pneumonia (and, in some analyses, lower 0–30-day mortality). It does not worsen pulmonary function (B), thoracic (not lumbar) epidural speeds GI recovery for upper-abdominal/thoracic surgery (C), and it does affect pneumonia rates (D).",
+  "hy": "Thoracic epidural: better pain/pulmonary function, less pneumonia.",
+  "src": "Sabiston Ch 14, \"Epidural Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.47",
+  "chapter": "Ch14",
+  "section": "Antiemetics / Table 14.10",
+  "stem": "Which drug class and example are correctly paired for treating postoperative nausea and vomiting?",
+  "options": {
+   "A": "Serotonin (5-HT₃) receptor antagonist — ondansetron; corticosteroid — dexamethasone; anticholinergic — scopolamine",
+   "B": "Beta blocker — metoprolol",
+   "C": "Loop diuretic — furosemide",
+   "D": "Calcium-channel blocker — nicardipine"
+  },
+  "answer": "A",
+  "exp": "Effective antiemetic classes for PONV include serotonin (5-HT₃) receptor antagonists (ondansetron, dolasetron), corticosteroids (dexamethasone), antidopaminergics (phenothiazines, butyrophenones, metoclopramide), antihistamines, and anticholinergics (scopolamine). Beta blockers, loop diuretics, and calcium-channel blockers (B, C, D) are not antiemetics.",
+  "hy": "PONV agents: 5-HT₃ antagonists, dexamethasone, antidopaminergics, antihistamines, scopolamine.",
+  "src": "Sabiston Ch 14, Table 14.10",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.48",
+  "chapter": "Ch14",
+  "section": "Antiemetics / Table 14.10",
+  "stem": "Which statement about antiemetic agents is correct?",
+  "options": {
+   "A": "Droperidol carries an FDA \"black box\" warning for QT prolongation requiring ECG monitoring, and dexamethasone can cause glucose intolerance",
+   "B": "Ondansetron's main side effect is extrapyramidal dystonia",
+   "C": "Dexamethasone is contraindicated for PONV",
+   "D": "Antihistamines such as diphenhydramine cause tachycardia, not sedation"
+  },
+  "answer": "A",
+  "exp": "Droperidol carries an FDA black-box warning for QT prolongation/arrhythmia requiring ECG monitoring before and after administration, and dexamethasone (a corticosteroid antiemetic) can cause glucose intolerance. Ondansetron's main effect is headache, not dystonia (B); dexamethasone is used for PONV (C); and antihistamines cause sedation, not tachycardia (D).",
+  "hy": "Droperidol = QT black box; dexamethasone → glucose intolerance.",
+  "src": "Sabiston Ch 14, Table 14.10/\"PONV\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.49",
+  "chapter": "Ch14",
+  "section": "PONV strategy",
+  "stem": "What is the recommended approach for patients at high risk of postoperative nausea and vomiting?",
+  "options": {
+   "A": "A multimodal approach combining agents from different classes, and use of propofol (which lowers PONV) for induction",
+   "B": "A single high-dose antiemetic for all patients",
+   "C": "Routine deep neuromuscular blockade",
+   "D": "Avoiding antiemetics to prevent QT effects"
+  },
+  "answer": "A",
+  "exp": "For patients at high risk of PONV (or with a prior history), a multimodal approach combining agents from different mechanistic classes is most effective, and using propofol for induction (which lowers PONV) helps. A single agent for everyone (B), routine deep paralysis (C), and avoiding antiemetics (D) are not recommended.",
+  "hy": "High-risk PONV: multimodal antiemetics + propofol.",
+  "src": "Sabiston Ch 14, \"PONV\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.50",
+  "chapter": "Ch14",
+  "section": "Perioperative hypothermia",
+  "stem": "How is the perioperative-normothermia performance metric defined, and why does hypothermia matter?",
+  "options": {
+   "A": "Core temperature ≥36°C within 30 minutes of PACU arrival (for cases >1 hour); shivering increases oxygen consumption and can trigger myocardial ischemia",
+   "B": "Core temperature ≥38°C at the end of surgery",
+   "C": "Hypothermia improves coagulation and reduces wound infection",
+   "D": "Temperature has no measurable effect on oxygen consumption"
+  },
+  "answer": "A",
+  "exp": "Perioperative normothermia is defined by the performance metric as a core temperature ≥36°C within 30 minutes of PACU arrival (for procedures >1 hour); hypothermia matters because postoperative shivering raises oxygen consumption and can trigger myocardial ischemia (and it impairs coagulation and raises infection risk). The other options misstate the target or deny the effects.",
+  "hy": "Normothermia ≥36°C within 30 min of PACU; shivering → ↑O₂ use/ischemia.",
+  "src": "Sabiston Ch 14, \"Hypothermia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.51",
+  "chapter": "Ch14",
+  "section": "Active warming",
+  "stem": "Which is the most effective technique for active intraoperative warming?",
+  "options": {
+   "A": "Forced-air (and circulating-water) warmers; IV fluid and airway warmers minimize loss but do not actively warm",
+   "B": "Intravenous fluid warmers alone",
+   "C": "Airway humidification alone",
+   "D": "Lowering the operating-room ambient temperature"
+  },
+  "answer": "A",
+  "exp": "Forced-air and circulating-water warmers are the most effective techniques for active intraoperative warming; IV fluid warmers and airway warming devices minimize heat loss but do not actively warm, and preoperative warming helps for short cases. Fluid warmers alone (B) and airway humidification alone (C) are insufficient, and lowering room temperature (D) worsens hypothermia.",
+  "hy": "Forced-air/circulating-water = most effective active warming.",
+  "src": "Sabiston Ch 14, \"Hypothermia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.52",
+  "chapter": "Ch14",
+  "section": "Postoperative visual loss",
+  "stem": "Which statement about postoperative visual loss (POVL) is correct?",
+  "options": {
+   "A": "It is rare (~0.02%), occurs most often after prolonged prone spine or cardiac surgery, and includes ischemic optic neuropathy, retinal artery occlusion, and cortical blindness",
+   "B": "It occurs in roughly 5% of all surgical patients",
+   "C": "It is most common after brief outpatient procedures",
+   "D": "It is always fully reversible within 24 hours"
+  },
+  "answer": "A",
+  "exp": "Postoperative visual loss is rare (~0.02%), occurs most often after prolonged prone spine surgery or cardiac surgery, and its causes include ischemic optic neuropathy, central retinal artery occlusion, and cortical blindness; risk factors include obesity, prolonged surgery, high blood loss, and lack of colloid use. It is not common (B), not associated with brief procedures (C), and frequently not reversible (D).",
+  "hy": "POVL ~0.02%; prone spine/cardiac; ischemic optic neuropathy/retinal occlusion/cortical blindness.",
+  "src": "Sabiston Ch 14, \"Postoperative Visual Loss\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.53",
+  "chapter": "Ch14",
+  "section": "PACU airway obstruction",
+  "stem": "In the PACU, what is the most common cause of airway obstruction and the initial maneuver?",
+  "options": {
+   "A": "Obstruction of the oropharynx by the tongue/soft tissues from residual anesthetic effects; relieved by head-tilt/jaw-thrust ± an oral or nasopharyngeal airway",
+   "B": "Laryngeal tumor; relieved by emergency tracheostomy",
+   "C": "Bronchospasm; relieved by chest compressions",
+   "D": "Vocal cord paralysis; relieved by intubation only"
+  },
+  "answer": "A",
+  "exp": "The most common cause of PACU airway obstruction is occlusion of the oropharynx by the tongue or soft tissues from residual anesthetic, opioid, or relaxant effects; it is initially relieved by a head-tilt/jaw-thrust maneuver with or without an oral or nasopharyngeal airway. The other causes/maneuvers are less common or incorrect.",
+  "hy": "PACU obstruction: usually the tongue; treat with jaw-thrust ± airway.",
+  "src": "Sabiston Ch 14, \"Respiratory Complications\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.54",
+  "chapter": "Ch14",
+  "section": "Laryngospasm",
+  "stem": "What is the recommended management of postextubation laryngospasm in the PACU?",
+  "options": {
+   "A": "Apply continuous positive airway pressure; if ineffective, give a small dose of succinylcholine (≈10–20 mg)",
+   "B": "Immediate cricothyroidotomy",
+   "C": "High-dose epinephrine infusion",
+   "D": "Withhold oxygen until the spasm resolves"
+  },
+  "answer": "A",
+  "exp": "Postextubation laryngospasm is managed by applying continuous positive airway pressure; if that is ineffective, a small dose of succinylcholine (≈10–20 mg) is given to break the spasm. Immediate cricothyroidotomy (B), high-dose epinephrine (C), and withholding oxygen (D) are inappropriate.",
+  "hy": "Laryngospasm: CPAP, then succinylcholine 10–20 mg if needed.",
+  "src": "Sabiston Ch 14, \"Respiratory Complications\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.55",
+  "chapter": "Ch14",
+  "section": "Aspiration timing",
+  "stem": "Which statement about perioperative aspiration is supported by the chapter?",
+  "options": {
+   "A": "Aspiration is at least as common during emergence from anesthesia as during induction",
+   "B": "Aspiration occurs only during induction",
+   "C": "Aspiration never occurs under regional anesthesia",
+   "D": "Less than 1% of suspected aspirations cause any clinical concern"
+  },
+  "answer": "A",
+  "exp": "The chapter notes that aspiration is at least as common during emergence from anesthesia as during induction, so vigilance and airway-protective precautions are needed throughout, including at extubation. Aspiration is not limited to induction (B), can occur with regional techniques requiring rescue (C), and a substantial fraction of suspected aspirations cause injury (D).",
+  "hy": "Aspiration risk at emergence ≈ at induction.",
+  "src": "Sabiston Ch 14, \"Fasting Before Surgery\"/PACU",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.56",
+  "chapter": "Ch14",
+  "section": "Acute pain — routes",
+  "stem": "Which principle of analgesic route selection is correct?",
+  "options": {
+   "A": "The oral route is preferred when feasible; when parenteral therapy is needed, the IV route is preferred over intramuscular/subcutaneous (which give erratic absorption)",
+   "B": "Intramuscular injection is preferred for reliable, steady blood levels",
+   "C": "The subcutaneous route is first-line for severe acute pain",
+   "D": "Intravenous analgesia should be avoided in all postoperative patients"
+  },
+  "answer": "A",
+  "exp": "The oral route is preferred for analgesia when feasible; when parenteral therapy is required, the IV route is preferred over intramuscular/subcutaneous, which give painful, erratic absorption and variable blood levels. IM is not preferred for steady levels (B), subcutaneous is not first-line for severe pain (C), and IV analgesia is appropriate when needed (D).",
+  "hy": "Analgesia routes: oral preferred; IV over IM/SC when parenteral.",
+  "src": "Sabiston Ch 14, \"Acute Pain Management\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.57",
+  "chapter": "Ch14",
+  "section": "Preemptive analgesia",
+  "stem": "Which intervention has been shown to lower postoperative opioid requirements when given before incision (preemptive analgesia)?",
+  "options": {
+   "A": "Continuous ketamine infused before incision and continued through wound closure",
+   "B": "Withholding all analgesia until the patient reports severe pain",
+   "C": "A single dose of an antihistamine",
+   "D": "Routine intramuscular meperidine on arrival in the PACU"
+  },
+  "answer": "A",
+  "exp": "Ketamine infused continuously before incision and continued through wound closure significantly reduced postoperative morphine consumption (preemptive analgesia). Withholding analgesia (B), an antihistamine dose (C), and routine IM meperidine (D) do not provide preemptive benefit.",
+  "hy": "Preemptive ketamine (pre-incision) lowers postoperative opioid use.",
+  "src": "Sabiston Ch 14, \"Ketamine\"/Acute Pain",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.58",
+  "chapter": "Ch14",
+  "section": "Malignant hyperthermia triggers",
+  "stem": "Which anesthetic agents trigger malignant hyperthermia, and in whom should they be avoided?",
+  "options": {
+   "A": "Volatile halogenated agents and succinylcholine; avoid in patients with muscular dystrophy or a family history of malignant hyperthermia",
+   "B": "Propofol and opioids; avoid in asthmatics",
+   "C": "Nondepolarizing relaxants; avoid in renal failure",
+   "D": "Local anesthetics; avoid in cardiac disease"
+  },
+  "answer": "A",
+  "exp": "Malignant hyperthermia is triggered by volatile halogenated agents (sevoflurane, isoflurane, etc.) and the depolarizing relaxant succinylcholine; trigger agents should be avoided in patients with muscular dystrophy or a family history of MH, who should receive a trigger-free anesthetic. Propofol/opioids (B), nondepolarizers (C), and local anesthetics (D) are not MH triggers.",
+  "hy": "MH triggers: volatile agents + succinylcholine; avoid in MD/FH of MH.",
+  "src": "Sabiston Ch 14, \"Neuromuscular Blockers\"/MH",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.59",
+  "chapter": "Ch14",
+  "section": "Regional anesthesia hazards",
+  "stem": "Which set of hazards is specific to regional anesthesia and must be weighed against its benefits?",
+  "options": {
+   "A": "Postdural puncture headache, local anesthetic systemic toxicity, high neuraxial block, and peripheral nerve injury",
+   "B": "Malignant hyperthermia and adrenal suppression",
+   "C": "Compound A nephrotoxicity and carbon monoxide production",
+   "D": "Hyperkalemia from depolarizing blockers"
+  },
+  "answer": "A",
+  "exp": "Hazards specific to regional anesthesia include postdural puncture headache, local anesthetic systemic toxicity, high (excessive) neuraxial block, and peripheral nerve injury — which must be weighed against its benefits, and an inadequate block may require conversion to general anesthesia. The other hazard sets belong to MH/etomidate (B), volatile agents (C), and succinylcholine (D).",
+  "hy": "Regional hazards: PDPH, LAST, high block, nerve injury.",
+  "src": "Sabiston Ch 14, \"Regional Anesthesia\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.60",
+  "chapter": "Ch14",
+  "section": "Sevoflurane",
+  "stem": "Which statement about sevoflurane is correct?",
+  "options": {
+   "A": "Its low pungency and relatively low blood solubility make it pleasant and suitable for inhalational induction (e.g., in children), with rapid emergence; compound A formation is of theoretical, not clinically important, toxicity",
+   "B": "Its pungency precludes inhalational induction",
+   "C": "It has the slowest emergence of all volatile agents",
+   "D": "It markedly sensitizes the heart to catecholamines"
+  },
+  "answer": "A",
+  "exp": "Sevoflurane's low pungency and relatively low blood solubility make it pleasant and suitable for inhalational induction (notably in children), with rapid emergence and a lower incidence of PACU somnolence/nausea than isoflurane; its compound A metabolite is nephrotoxic in animals but its human toxicity is theoretical, not clinically important. The other statements describe desflurane/other agents.",
+  "hy": "Sevoflurane: pleasant mask induction (kids), rapid emergence; compound A only theoretical.",
+  "src": "Sabiston Ch 14, \"Sevoflurane\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.61",
+  "chapter": "Ch14",
+  "section": "Isoflurane",
+  "stem": "Which statement about isoflurane is correct?",
+  "options": {
+   "A": "It undergoes minimal metabolism and sensitizes the heart to catecholamines less than halothane, but its pungent odor precludes inhalational induction and it can cause tachycardia",
+   "B": "It is the most potent volatile agent and ideal for mask induction",
+   "C": "It is extensively metabolized (>20%) with significant fluoride release",
+   "D": "It markedly depresses cardiac output more than halothane"
+  },
+  "answer": "A",
+  "exp": "Isoflurane undergoes minimal metabolism (<2%) and sensitizes the myocardium to catecholamines less than halothane, but its pungent odor precludes inhalational induction and it can cause a variable tachycardia that raises myocardial oxygen consumption (use care in coronary disease). It is not the most potent agent or good for mask induction (B), is minimally metabolized (C), and depresses cardiac output less than halothane (D).",
+  "hy": "Isoflurane: minimal metabolism, less catecholamine sensitization than halothane, pungent (no mask induction), tachycardia.",
+  "src": "Sabiston Ch 14, \"Isoflurane\"",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.62",
+  "chapter": "Ch14",
+  "section": "Total intravenous anesthesia",
+  "stem": "Which combination is typically used to deliver total intravenous anesthesia (TIVA)?",
+  "options": {
+   "A": "Propofol combined with an opioid (and other adjuncts), with propofol also used as an infusion for procedural sedation (e.g., endoscopy)",
+   "B": "Nitrous oxide as the sole agent",
+   "C": "Succinylcholine infusion for maintenance",
+   "D": "A volatile agent delivered intravenously"
+  },
+  "answer": "A",
+  "exp": "Total intravenous anesthesia is delivered with propofol combined with an opioid and other adjuncts; propofol is also widely used as a continuous infusion for procedural sedation such as GI endoscopy. Nitrous oxide alone (B), a succinylcholine infusion (C), and a volatile agent given IV (D) are not how TIVA is delivered.",
+  "hy": "TIVA = propofol + opioid (± adjuncts); propofol also for endoscopy sedation.",
+  "src": "Sabiston Ch 14, \"Intravenous Agents\"/Induction",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
+ },
+ {
+  "id": "S14.63",
+  "chapter": "Ch14",
+  "section": "Endocarditis prophylaxis — allergy / Table 14.5",
+  "stem": "For a penicillin-allergic patient (able to take oral medication) who needs endocarditis prophylaxis before a dental procedure, which agent is appropriate?",
+  "options": {
+   "A": "Cephalexin, clindamycin, azithromycin, or clarithromycin (cephalosporins avoided if prior anaphylaxis/angioedema to penicillin)",
+   "B": "A higher dose of amoxicillin",
+   "C": "Oral vancomycin",
+   "D": "No alternative exists; the procedure must be cancelled"
+  },
+  "answer": "A",
+  "exp": "For a penicillin-allergic patient able to take oral medication, appropriate dental endocarditis prophylaxis is cephalexin (or another first/second-generation cephalosporin), clindamycin, azithromycin, or clarithromycin — but cephalosporins are avoided in anyone with a history of anaphylaxis, angioedema, or urticaria to penicillins/ampicillin. A higher amoxicillin dose (B) is contraindicated in allergy, oral vancomycin (C) is not used, and an alternative does exist (D).",
+  "hy": "Penicillin-allergic dental prophylaxis: cephalexin/clindamycin/azithromycin (avoid cephalosporins if anaphylaxis).",
+  "src": "Sabiston Ch 14, Table 14.5",
+  "book": "Sabiston",
+  "vol": "",
+  "chnum": "14",
+  "chname": "Anesthesiology Principles, Pain Management, and Conscious Sedation"
  }
 ]
