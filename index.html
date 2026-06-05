@@ -29,7 +29,7 @@
   .btn.secondary{background:var(--panel2);color:var(--text);border:1px solid var(--line)}
   .btn:disabled{opacity:.4}
   .filter{display:flex;gap:8px;margin-bottom:10px}
-  .filter select{flex:1;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font-size:15px}
+  .filter select{flex:1 1 0;min-width:0;max-width:100%;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .tag{display:inline-block;font-size:11px;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;margin-bottom:12px}
   .cardhead{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
   .star{flex:0 0 auto;background:none;border:none;font-size:24px;line-height:1;padding:2px 4px;color:var(--muted);transition:transform .12s}
@@ -53,6 +53,7 @@
   .progressbar>i{display:block;height:100%;background:var(--accent);width:0}
   .quiz-toprow{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;min-height:36px}
   .quiz-toprow .q-counter{color:var(--muted);font-size:13px;font-weight:600;margin-left:auto}
+  .quiz-toprow .q-phase{color:var(--muted);font-size:12px;font-weight:600;line-height:1.2}
   .btn-back{display:inline-block;width:auto;padding:7px 16px;font-size:14px;margin-top:0;border-radius:12px}
   .nav{position:fixed;left:0;right:0;bottom:0;background:rgba(15,23,42,.96);border-top:1px solid var(--line);display:flex;backdrop-filter:blur(8px);padding-bottom:env(safe-area-inset-bottom)}
   .nav button{flex:1;background:none;border:none;color:var(--muted);padding:12px 0;font-size:12px;position:relative}
@@ -104,6 +105,7 @@
         <select id="chap-filter"></select>
       </div>
       <button class="btn" id="start-due">Start due review</button>
+      <button class="btn secondary" id="start-due-only">Due reviews only</button>
       <button class="btn secondary" id="start-weak">Drill weak spots</button>
       <button class="btn secondary" id="start-ahead">Study ahead / fresh items</button>
       <button class="btn secondary" id="start-starred">⭐ Drill starred</button>
@@ -114,6 +116,7 @@
   <section id="view-quiz" class="hide">
     <div class="quiz-toprow">
       <button class="btn secondary btn-back hide" id="q-back">← Back</button>
+      <span class="q-phase" id="q-phase"></span>
       <span class="q-counter" id="q-counter"></span>
     </div>
     <div class="progressbar"><i id="qbar"></i></div>
@@ -178,7 +181,8 @@
 </nav>
 
 <script>
-const VERSION="v2.3", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v2.4", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
 function todayStr(d){d=d||new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
@@ -210,13 +214,16 @@ function populateVols(){const b=$("book-filter").value,s=$("vol-filter");const v
 function populateChaps(){const b=$("book-filter").value,v=$("vol-filter").value,s=$("chap-filter");const seen={},ch=[];QUESTIONS.forEach(q=>{if(b&&q.book!==b)return;if(v&&q.vol!==v)return;const k=q.book+"|"+q.vol+"|"+q.chnum;if(!seen[k]){seen[k]=1;ch.push({k,n:q.chnum,name:q.chname});}});ch.sort((a,b)=>(parseInt(a.n)||0)-(parseInt(b.n)||0));s.innerHTML='<option value="">All chapters</option>';ch.forEach(c=>{const o=document.createElement("option");o.value=c.k;o.textContent="Ch "+c.n+" — "+c.name;s.appendChild(o);});}
 function pool(){const b=$("book-filter").value,v=$("vol-filter").value,c=$("chap-filter").value;return QUESTIONS.filter(q=>{if(b&&q.book!==b)return false;if(v&&q.vol!==v)return false;if(c&&(q.book+"|"+q.vol+"|"+q.chnum)!==c)return false;return true;});}
 function dueList(){return pool().filter(q=>isDue(state.byId[q.id]));}
+function reviewDueList(){return pool().filter(q=>{const it=state.byId[q.id];return isDue(it)&&it.seen>0;});}
 function masteredCount(){return pool().filter(q=>isMastered(state.byId[q.id])).length;}
 function overallAcc(){let s=0,c=0;pool().forEach(q=>{const it=state.byId[q.id];s+=it.seen;c+=it.correct;});return s?Math.round(100*c/s):null;}
 function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.book+" Ch"+q.chnum+" · "+q.section;if(!m[k])m[k]={seen:0,correct:0,n:0,due:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;if(isDue(it))m[k].due++;});return Object.entries(m).map(([sec,v])=>({sec,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n,due:v.due}));}
 function weakSections(){return sectionStats().filter(s=>s.acc!==null&&s.seen>=1&&s.acc<70).sort((a,b)=>a.acc-b.acc);}
+function chapterStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.book+"|"+q.chnum+"|"+q.chname;if(!m[k])m[k]={book:q.book,chnum:q.chnum,chname:q.chname,seen:0,correct:0,n:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;});return Object.values(m).map(v=>({key:v.book+"|"+v.chnum,book:v.book,chnum:v.chnum,chname:v.chname,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n}));}
+function weakChapters(){return chapterStats().filter(c=>c.acc!==null&&c.seen>=1&&c.acc<70).sort((a,b)=>a.acc-b.acc);}
 function show(v){["home","quiz","done","stats","settings","saved"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
 function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
-function renderHome(){$("kpi-due").textContent=dueList().length;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";const n=dueList().length;$("start-due").disabled=n===0;$("start-due").textContent=n?("Start due review ("+n+")"):"Nothing due 🎉";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const ws=weakSections();$("weak-home").innerHTML=ws.length?'<h2 class="section" style="margin-top:0">Weak spots (&lt;70%)</h2>'+ws.map(s=>`<div class="row"><span class="lab">${s.sec} <span class="pill weak">weak</span></span><span class="acc lo">${s.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak spots yet. Sections under 70% will appear here as you drill.</p>';updateSavedBadge();}
+function renderHome(){const rev=reviewDueList().length;const allDue=dueList().length;$("kpi-due").textContent=rev;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";$("start-due").disabled=allDue===0;$("start-due").textContent=allDue?("Start review — due + new ("+allDue+")"):"Nothing due 🎉";$("start-due-only").disabled=rev===0;$("start-due-only").textContent=rev?("Due reviews only — no new ("+rev+")"):"No reviews due";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const wc=weakChapters();$("weak-home").innerHTML=wc.length?'<h2 class="section" style="margin-top:0">Weak chapters (&lt;70%)</h2>'+wc.map(c=>`<div class="row"><span class="lab">${c.book} · Ch ${c.chnum} ${c.chname} <span class="pill weak">weak</span></span><span class="acc lo">${c.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak chapters yet. Chapters under 70% will appear here as you drill.</p>';updateSavedBadge();}
 
 /* ---------- session state ---------- */
 /* sess[i] = { order: ["C","A","D","B"], chosen: null|"A", answered: false }
@@ -246,6 +253,7 @@ function renderCard(){
   /* progress bar */
   $("qbar").style.width=Math.round(100*sIdx/session.length)+"%";
   $("q-tag").textContent=q.book+" · Ch "+q.chnum+" "+q.chname+" · "+q.section;
+  {const _it=state.byId[q.id];$("q-phase").textContent="Phase: "+phaseName(_it.idx)+" · next: "+phaseName(Math.max(_it.idx,0)+1);}
   $("q-stem").textContent=q.stem;
   renderStarBtn();
   /* A2: render options in shuffled display order */
@@ -310,7 +318,8 @@ $("q-quit").onclick=finishSession;
 function finishSession(){$("done-body").textContent=dueList().length?(dueList().length+" item(s) still due. Keep going or come back later."):"All due items cleared. 🎉";show("done");setNav("home");}
 $("done-home").onclick=()=>{renderHome();show("home");setNav("home");};
 $("start-due").onclick=()=>startSession(dueList());
-$("start-weak").onclick=()=>{const ws=weakSections().map(s=>s.sec);let it=pool().filter(q=>ws.includes(q.chapter+" · "+q.section));if(!it.length)it=pool().slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);}).slice(0,10);startSession(it);};
+$("start-due-only").onclick=()=>startSession(reviewDueList());
+$("start-weak").onclick=()=>{const wc=weakChapters().map(c=>c.key);let it=pool().filter(q=>wc.includes(q.book+"|"+q.chnum));if(!it.length)it=pool().slice().sort((a,b)=>{const A=state.byId[a.id],B=state.byId[b.id];return (A.seen?A.correct/A.seen:1)-(B.seen?B.correct/B.seen:1);}).slice(0,10);startSession(it);};
 $("start-ahead").onclick=()=>{const it=pool().filter(q=>!isMastered(state.byId[q.id])).sort((a,b)=>state.byId[a.id].due<state.byId[b.id].due?-1:1).slice(0,15);startSession(it);};
 $("start-starred").onclick=()=>drillStarred();
 $("saved-drill").onclick=()=>drillStarred();
@@ -352,7 +361,7 @@ $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=14").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=15").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>
