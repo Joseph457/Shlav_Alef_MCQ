@@ -15718,5 +15718,2165 @@
   "vol": "I",
   "chnum": "3",
   "chname": "Applying Psychology to Routine Plastic Surgery Practice"
+ },
+ {
+  "id": "N-I-4.1",
+  "chapter": "Ch4",
+  "section": "Core ethical principles",
+  "stem": "A residency curriculum frames every clinical-ethics discussion around four moral principles first articulated by Beauchamp and Childress in 1979. Which set of four principles defines this framework (\"principlism\")?",
+  "options": {
+   "A": "Respect for autonomy, beneficence, nonmaleficence, and justice",
+   "B": "Confidentiality, fidelity, veracity, and consent",
+   "C": "Utility, equity, solidarity, and dignity",
+   "D": "Competence, compassion, advocacy, and stewardship"
+  },
+  "answer": "A",
+  "exp": "US medical ethics most commonly follows \"principlism,\" articulated by Beauchamp and Childress (1979), which reasons from four moral principles: respect for autonomy (the patient's right to self-determination and to accept or refuse care), beneficence (promoting the patient's good and preventing harm), nonmaleficence (not intentionally inflicting harm), and justice (fair, equal distribution of benefits, risks, and costs). The distractors borrow real concepts from elsewhere: the confidentiality/fidelity/veracity grouping names downstream professional duties rather than the four foundational principles; the utility/equity/solidarity set evokes public-health and bioethics vocabulary but is not principlism; and the competence/compassion set describes virtues/professionalism traits, not the Beauchamp–Childress framework.",
+  "hy": "Principlism = autonomy, beneficence, nonmaleficence, justice (Beauchamp & Childress, 1979).",
+  "src": "Neligan I.4 · Core ethical principles",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.2",
+  "chapter": "Ch4",
+  "section": "Core ethical principles",
+  "stem": "During informed-consent teaching a resident is asked which principle is violated when a surgeon *intentionally* inflicts harm on a patient. Which principle does this describe?",
+  "options": {
+   "A": "Nonmaleficence",
+   "B": "Beneficence",
+   "C": "Respect for autonomy",
+   "D": "Distributive justice"
+  },
+  "answer": "A",
+  "exp": "Nonmaleficence is the principle that a physician must not intentionally inflict harm — the classic \"first, do no harm.\" The distractors are the other three principles, each defined differently: beneficence is the positive duty to *do and promote good* (not merely avoid harm); respect for autonomy concerns the patient's right to self-determination and informed refusal; and distributive justice concerns the fair, equal distribution of benefits and burdens across patients. The discriminating point is that nonmaleficence is a *negative* duty (refrain from harming) whereas beneficence is its positive counterpart.",
+  "hy": "Nonmaleficence = do not intentionally inflict harm.",
+  "src": "Neligan I.4 · Core ethical principles",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.3",
+  "chapter": "Ch4",
+  "section": "Core ethical principles",
+  "stem": "A systematic review of the plastic surgery literature found the four core ethical principles are NOT given equal attention. According to the chapter, which principle is the most fully explored, and which the least?",
+  "options": {
+   "A": "Respect for autonomy is most explored; distributive justice is least",
+   "B": "Beneficence is most explored; respect for autonomy is least",
+   "C": "Nonmaleficence is most explored; beneficence is least",
+   "D": "Distributive justice is most explored; nonmaleficence is least"
+  },
+  "answer": "A",
+  "exp": "A systematic review of the plastic surgery literature found respect for autonomy to be the most fully explored core principle (it encompasses informed consent, photography, and marketing), while distributive justice is discussed least often — though it grows in importance with diversity, equity, and inclusion initiatives. The chapter ranks the middle two as beneficence (second most common) and nonmaleficence (third). The distractors invert or scramble this published ordering: beneficence, nonmaleficence, and justice are each named, but none is the *most* explored, and autonomy is never the least.",
+  "hy": "PS literature: autonomy explored most, distributive justice least.",
+  "src": "Neligan I.4 · Core ethical principles",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.4",
+  "chapter": "Ch4",
+  "section": "Core ethical principles",
+  "stem": "A surgeon weighs how to allocate limited operating-room time so that the benefits, risks, and costs of care are distributed equally and patients are treated similarly and fairly. Which ethical principle does this most directly invoke?",
+  "options": {
+   "A": "Distributive justice",
+   "B": "Respect for autonomy",
+   "C": "Beneficence",
+   "D": "Nonmaleficence"
+  },
+  "answer": "A",
+  "exp": "Distributive justice dictates that patients be treated similarly and fairly so that benefits, risks, and costs are distributed equally among them — exactly the lens for allocating a scarce resource like OR time. The distractors are the other three principles applied to different problems: respect for autonomy governs the individual patient's consent and self-determination; beneficence is the duty to promote a given patient's good; and nonmaleficence is the duty to avoid inflicting harm — none of which is fundamentally about *fair allocation across* patients.",
+  "hy": "Distributive justice = fair, equal allocation of benefits/risks/costs.",
+  "src": "Neligan I.4 · Core ethical principles",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.5",
+  "chapter": "Ch4",
+  "section": "History of ethics",
+  "stem": "The chapter illustrates early religious hostility to plastic surgery with the fate of one founding figure of the specialty, whose body was exhumed from consecrated ground after the Church excommunicated him posthumously. Who was this surgeon?",
+  "options": {
+   "A": "Gaspare Tagliacozzi",
+   "B": "Ambroise Paré",
+   "C": "Heinrich von Pfolspeundt",
+   "D": "Aulus Cornelius Celsus"
+  },
+  "answer": "A",
+  "exp": "The chapter uses Gaspare Tagliacozzi — widely considered one of the fathers of the specialty — to illustrate early religious hostility: church authorities excommunicated him after his death and exhumed his body from the church cemetery, reburying it in unconsecrated ground. The distractors are real historical surgeons with different stories: Paré was the Renaissance battlefield surgeon who abandoned boiling-oil cautery; von Pfolspeundt was a 15th-century German who described nose repair; and Celsus was the Roman author regarded as the earliest writer on plastic-surgical topics — none of whom suffered Tagliacozzi's posthumous excommunication.",
+  "hy": "Tagliacozzi excommunicated and exhumed — emblem of early religious objection to plastic surgery.",
+  "src": "Neligan I.4 · History of ethics",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.6",
+  "chapter": "Ch4",
+  "section": "History of ethics",
+  "stem": "According to the chapter, plastic surgery only gained true legitimacy as a specialty during which historical period?",
+  "options": {
+   "A": "The two World Wars, driven by the need for reconstructive procedures",
+   "B": "The Renaissance, with Tagliacozzi's published nasal reconstruction",
+   "C": "The late nineteenth century, with the advent of antisepsis and anesthesia",
+   "D": "The 1960s–70s, with the rise of microsurgery and replantation"
+  },
+  "answer": "A",
+  "exp": "The chapter states that the field only gained true legitimacy during the two World Wars, when the sheer need for reconstructive procedures for facial and limb injuries established plastic surgery as essential. The distractors name genuine milestones that did *not* confer that legitimacy in the chapter's account: Tagliacozzi's Renaissance work was met with religious objection rather than acceptance; antisepsis and anesthesia advanced surgery broadly but are not credited here with legitimizing the specialty; and microsurgery is a much later technical development.",
+  "hy": "Plastic surgery gained legitimacy during the two World Wars (reconstructive need).",
+  "src": "Neligan I.4 · History of ethics",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.7",
+  "chapter": "Ch4",
+  "section": "Informed consent",
+  "stem": "Reflecting evolving breast-implant regulation, the FDA now requires a specific step before prosthetic breast implantation to ensure the patient understands the risks. What does the FDA require?",
+  "options": {
+   "A": "A checklist completed by both the patient and the operating surgeon prior to implantation",
+   "B": "A mandatory 30-day waiting period between consent and surgery",
+   "C": "An independent second-surgeon opinion documented in the chart",
+   "D": "Annual serologic surveillance for implant-associated illness"
+  },
+  "answer": "A",
+  "exp": "Because regulators concluded that surgeons and device companies could not be relied upon to police themselves, the FDA now requires a checklist to be completed by *both* the patient and the operating surgeon before prosthetic breast implantation, to document shared understanding of the risks. The distractors are plausible regulatory mechanisms that the chapter does not describe: a fixed waiting period, a mandatory second-surgeon opinion, and routine serologic surveillance are all real-sounding safeguards but are not the FDA's stated requirement here.",
+  "hy": "FDA requires a patient-and-surgeon checklist before breast-implant surgery.",
+  "src": "Neligan I.4 · Informed consent",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.8",
+  "chapter": "Ch4",
+  "section": "Informed consent",
+  "stem": "When the FDA reviewed public comments related to breast implants, how were patients' chief concerns distributed?",
+  "options": {
+   "A": "Nearly half cited inadequacy of informed consent, about a third the content/language of forms, and about a quarter physician-provided education",
+   "B": "Nearly all comments praised the existing consent process as adequate",
+   "C": "The majority focused on implant cost rather than the consent process",
+   "D": "Concerns were evenly split one-third each among surgical skill, anesthesia, and cost"
+  },
+  "answer": "A",
+  "exp": "Reviewing public comments on its breast-implant website, the FDA found that nearly half expressed concern over inadequacy of informed consent, nearly one-third denigrated the content and language of existing forms, and about one-quarter disparaged physician-provided patient education — a portrait of widespread dissatisfaction with the consent *process*, not the implants alone. The distractors misrepresent this distribution: comments did not praise the process, did not center on cost, and were not split evenly across skill/anesthesia/cost.",
+  "hy": "FDA comments: ~½ consent inadequacy, ~⅓ form content, ~¼ physician education.",
+  "src": "Neligan I.4 · Informed consent",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.9",
+  "chapter": "Ch4",
+  "section": "Concurrent and overlapping surgery",
+  "stem": "A practice in which the *critical* portions of more than one operation occur simultaneously under a single senior surgeon has been curtailed, with only very limited emergency exceptions. What is this practice called?",
+  "options": {
+   "A": "Concurrent surgery",
+   "B": "Overlapping surgery",
+   "C": "Delegated surgery",
+   "D": "Tag-team surgery"
+  },
+  "answer": "A",
+  "exp": "Concurrent surgery — in which the *critical* portions of more than one procedure occur simultaneously under a single senior surgeon — has been curtailed, with only very limited emergency exceptions, because no patient should have the surgeon absent for the key part of their operation. The distractor \"overlapping surgery\" is the deliberately contrasted term (only *non-critical* portions coincide and it remains permissible with disclosure); \"delegated\" and \"tag-team\" surgery are not the chapter's defined terms. The discriminating point is the word *critical*: simultaneity of the critical portions is what makes it concurrent and impermissible.",
+  "hy": "Concurrent surgery = critical portions overlap → curtailed.",
+  "src": "Neligan I.4 · Concurrent and overlapping surgery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.10",
+  "chapter": "Ch4",
+  "section": "Concurrent and overlapping surgery",
+  "stem": "A senior surgeon begins closing one patient while a second patient is being positioned and prepped in an adjacent room, such that only *non-critical* portions of the two procedures coincide. Which term best describes this arrangement?",
+  "options": {
+   "A": "Overlapping surgery",
+   "B": "Concurrent surgery",
+   "C": "Ghost surgery",
+   "D": "Itinerant surgery"
+  },
+  "answer": "A",
+  "exp": "Overlapping surgery is the more nuanced, still-permissible practice in which only the *non-critical* portions of two procedures coincide (e.g., closing one case while the next is positioned), so the surgeon is present for each operation's critical part. The distractor \"concurrent surgery\" is its impermissible counterpart (critical portions overlap); \"ghost surgery\" (operating without the patient's knowledge of who is operating) and \"itinerant surgery\" (operating then leaving aftercare to others) are different ethical problems not used here.",
+  "hy": "Overlapping surgery = only non-critical portions overlap (permissible with disclosure).",
+  "src": "Neligan I.4 · Concurrent and overlapping surgery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.11",
+  "chapter": "Ch4",
+  "section": "Conflict of interest",
+  "stem": "The chapter notes that relationships with industry are pervasive in plastic surgery. Approximately what proportion of plastic surgeons are estimated to have such industry relationships?",
+  "options": {
+   "A": "Well over half",
+   "B": "Fewer than one in ten",
+   "C": "About one-quarter",
+   "D": "Essentially none, since disclosure rules prohibit them"
+  },
+  "answer": "A",
+  "exp": "The chapter states that estimates put well over half of plastic surgeons in relationships with industry, profit centers, or research efforts — making conflict of interest pervasive rather than exceptional. The distractors understate or deny this: fewer-than-one-in-ten and about-a-quarter both fall short of the cited majority, and the claim that disclosure rules eliminate such relationships is contradicted by the chapter, which notes routine *absence* of disclosure historically.",
+  "hy": "Well over half of plastic surgeons have industry relationships.",
+  "src": "Neligan I.4 · Conflict of interest",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.12",
+  "chapter": "Ch4",
+  "section": "Conflict of interest",
+  "stem": "A professional society is drafting a policy to address members' financial conflicts of interest. Consistent with the chapter's account of current best practice, what approach do most current policies emphasize?",
+  "options": {
+   "A": "Disclosure and management of conflicts (e.g., recusal, removal from discussion, abstention from voting) rather than their elimination",
+   "B": "Complete elimination of all industry relationships as a condition of membership",
+   "C": "Confidential internal reporting with no public disclosure of any conflict",
+   "D": "Reliance on individual surgeons to self-police without any society oversight"
+  },
+  "answer": "A",
+  "exp": "Current policy looks to *disclosure and management* of conflicts rather than their elimination — recognizing that industry relationships are pervasive and often productive. Management tools named include complete recusal, removal from discussion, and abstention from voting, and disclosure before/during presentations and in publications. The distractors describe approaches the chapter rejects or does not endorse: outright elimination of all relationships, purely confidential reporting with no public disclosure, and unsupervised self-policing (the very failure that prompted external regulation).",
+  "hy": "COI → disclose and manage (recuse/abstain), not eliminate.",
+  "src": "Neligan I.4 · Conflict of interest",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.13",
+  "chapter": "Ch4",
+  "section": "Conflict of interest",
+  "stem": "The chapter cites evidence that financial conflict of interest can bias the scientific record. What specific association is described?",
+  "options": {
+   "A": "Investigators with a financial COI were significantly more likely to publish positive conclusions than non-funded counterparts",
+   "B": "Funded investigators were significantly less likely to complete and publish their studies",
+   "C": "Financial COI had no measurable effect on the direction of published conclusions",
+   "D": "Funded studies were significantly more likely to report negative or null results"
+  },
+  "answer": "A",
+  "exp": "The chapter cites evidence that investigators with a financial COI were significantly more likely to publish positive conclusions than their non-funded counterparts — the core reason financial conflicts threaten the integrity of the literature (e.g., the breast-implant evidence base). The distractors invert or neutralize this finding: funding is not associated with *failure* to publish, does not leave conclusions unchanged, and does not bias toward negative/null results.",
+  "hy": "Financial COI → more positive published conclusions.",
+  "src": "Neligan I.4 · Conflict of interest",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.14",
+  "chapter": "Ch4",
+  "section": "Medical errors",
+  "stem": "Patient awareness of medical imperfection increased markedly after a landmark 2000 report on patient safety. Which report does the chapter credit with this shift?",
+  "options": {
+   "A": "The Institute of Medicine's *To Err Is Human: Building a Safer Health System*",
+   "B": "The Patient Safety and Quality Improvement Act",
+   "C": "*Forgive and Remember*, by Charles Bosk",
+   "D": "The Daubert Supreme Court opinion"
+  },
+  "answer": "A",
+  "exp": "The Institute of Medicine's 2000 report *To Err Is Human: Building a Safer Health System* is credited with sharply increasing patient (and professional) awareness of medical error and launching the modern patient-safety movement. The distractors are related but distinct: the Patient Safety and Quality Improvement Act is a 2005 *law* promoting error reporting; *Forgive and Remember* is Charles Bosk's sociological study of surgical error; and Daubert is the expert-testimony case — none is the landmark 2000 awareness report.",
+  "hy": "*To Err Is Human* (IOM, 2000) = landmark patient-safety report.",
+  "src": "Neligan I.4 · Medical errors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.15",
+  "chapter": "Ch4",
+  "section": "Medical errors",
+  "stem": "A sociologist who studied error in surgical training concluded that some level of medical error is inevitable and that maintaining a humane environment for patients and providers is essential. Who was this sociologist?",
+  "options": {
+   "A": "Charles Bosk",
+   "B": "Tom Beauchamp",
+   "C": "Atul Gawande",
+   "D": "Elizabeth Haiken"
+  },
+  "answer": "A",
+  "exp": "The sociologist Charles Bosk (author of *Forgive and Remember*) studied ways to reduce error in medicine and concluded that some level of error is inevitable, so maintaining a humane environment for patients and providers is essential. The distractors are other named figures with different roles: Beauchamp co-authored the principlism framework; Atul Gawande is the surgeon-author quoted in the chapter's epigraph; and Elizabeth Haiken is the historian cited on the specialty's troubled social history — none is the sociologist of medical error.",
+  "hy": "Charles Bosk: medical error is inevitable; keep care humane.",
+  "src": "Neligan I.4 · Medical errors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.16",
+  "chapter": "Ch4",
+  "section": "Medical errors",
+  "stem": "Among efforts to encourage error reporting for the purpose of education and quality improvement (rather than blame), the chapter specifically names which 2005 measure?",
+  "options": {
+   "A": "The Patient Safety and Quality Improvement Act of 2005",
+   "B": "The Affordable Care Act of 2005",
+   "C": "The Federal Rules of Evidence of 2005",
+   "D": "The Health Insurance Portability and Accountability Act of 2005"
+  },
+  "answer": "A",
+  "exp": "The chapter names the Patient Safety and Quality Improvement Act of 2005 as an effort to encourage error reporting for education and quality improvement rather than blame. The distractors are real or plausible statutes mismatched to this purpose and year: the Affordable Care Act addressed coverage (and is from 2010); the Federal Rules of Evidence govern expert testimony, not error reporting; and HIPAA (1996) governs privacy — none is the 2005 patient-safety reporting law.",
+  "hy": "Patient Safety and Quality Improvement Act of 2005 = blame-free error reporting.",
+  "src": "Neligan I.4 · Medical errors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.17",
+  "chapter": "Ch4",
+  "section": "Medical errors",
+  "stem": "Although many physicians fear that apologizing for an error will prompt litigation, the chapter notes increasing adoption of policies built around three linked actions to increase transparency. Which set of actions?",
+  "options": {
+   "A": "Disclosure, apology, and offer of compensation",
+   "B": "Documentation, deferral, and defense",
+   "C": "Denial, delay, and settlement",
+   "D": "Referral, recusal, and reassignment"
+  },
+  "answer": "A",
+  "exp": "Increasingly adopted policies pair three actions — disclosure of the error, apology, and an offer of compensation — to increase transparency, which may benefit both quality improvement and professional well-being, despite physicians' fear that apology invites litigation. The distractors describe the opposite, defensive postures the chapter contrasts against transparency: document/defer/defend, deny/delay/settle, and refer/recuse/reassign all avoid candid disclosure rather than embrace it.",
+  "hy": "Modern error policy = disclosure + apology + offer of compensation.",
+  "src": "Neligan I.4 · Medical errors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.18",
+  "chapter": "Ch4",
+  "section": "Expert witness testimony",
+  "stem": "A plaintiff's expert proposes to testify using a novel, untested analytic method. Under which 1993 U.S. Supreme Court decision did the Court set the standard for the admissibility of such expert testimony?",
+  "options": {
+   "A": "Daubert v. Merrell Dow Pharmaceuticals, Inc.",
+   "B": "Roe v. Wade",
+   "C": "Canterbury v. Spence",
+   "D": "Tarasoff v. Regents of the University of California"
+  },
+  "answer": "A",
+  "exp": "In Daubert v. Merrell Dow Pharmaceuticals, Inc. (1993) the US Supreme Court set the standard for the admissibility of expert testimony, giving courts guidelines to judge whether an expert's methodology is valid and to exclude unreliable \"junk science.\" The distractors are landmark cases on other issues: Roe v. Wade (abortion), Canterbury v. Spence (the informed-consent \"reasonable patient\" standard), and Tarasoff (the duty to warn/protect third parties) — none concerns the admissibility of expert scientific testimony.",
+  "hy": "Daubert (1993) = admissibility standard for expert testimony.",
+  "src": "Neligan I.4 · Expert witness testimony",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.19",
+  "chapter": "Ch4",
+  "section": "Expert witness testimony",
+  "stem": "Under the Daubert standard, a court weighs several factors to judge whether an expert's methodology is valid. Which of the following is one of the Daubert factors?",
+  "options": {
+   "A": "Whether the theory or technique has a known or potential error rate and has been subjected to peer review and publication",
+   "B": "Whether the expert is board-certified in the same subspecialty as the defendant",
+   "C": "Whether the expert charges a fee below a fixed statutory cap",
+   "D": "Whether a majority of a lay jury finds the testimony persuasive"
+  },
+  "answer": "A",
+  "exp": "A recognized Daubert factor is whether the theory or technique has a known or potential error rate and has been subjected to peer review and publication (other factors include testability, maintenance of operating standards, and general acceptance in the relevant scientific community) — all aimed at filtering out unreliable methods. The distractors are not Daubert factors: subspecialty board match, a fee cap, and lay-jury persuasiveness concern who may serve or how testimony lands, not whether the *methodology* is scientifically valid.",
+  "hy": "Daubert factors test the method (error rate, peer review, testability, acceptance).",
+  "src": "Neligan I.4 · Expert witness testimony",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.20",
+  "chapter": "Ch4",
+  "section": "Expert witness testimony",
+  "stem": "Under Federal Rule 702, on what basis may a person be qualified to offer expert opinion testimony?",
+  "options": {
+   "A": "Knowledge, skill, experience, training, or education, provided the testimony rests on sufficient facts and reliable methods applied reliably to the case",
+   "B": "Holding any current state medical license, regardless of field or experience",
+   "C": "Prior service as an expert witness in at least ten comparable cases",
+   "D": "Agreement by both parties' attorneys to waive challenges to the witness"
+  },
+  "answer": "A",
+  "exp": "Under Federal Rule 702, a person qualified by knowledge, skill, experience, training, or education may give expert opinion if the testimony will help the trier of fact, is based on sufficient facts or data, is the product of reliable principles and methods, and those methods are reliably applied to the case. The distractors substitute lesser proxies for that standard: a bare medical license, a count of prior testimony, or attorney agreement none of which, by itself, satisfies Rule 702's reliability requirements.",
+  "hy": "Rule 702: qualified by knowledge/skill/experience/training/education + reliable method reliably applied.",
+  "src": "Neligan I.4 · Expert witness testimony",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.21",
+  "chapter": "Ch4",
+  "section": "Medical malpractice",
+  "stem": "The chapter lists several areas from which malpractice liability can arise — negligence, insufficiently informed consent, purposeful misconduct, breach of contract, defamation, and breach of confidentiality. Which of these is identified as the *most common*?",
+  "options": {
+   "A": "Negligence",
+   "B": "Breach of contract",
+   "C": "Defamation",
+   "D": "Purposeful misconduct"
+  },
+  "answer": "A",
+  "exp": "Among the enumerated sources of malpractice liability — negligence, insufficiently informed consent, purposeful misconduct, breach of contract, defamation, breach of confidentiality, and failure to prevent foreseeable injury — negligence is identified as the most common. The distractors are genuine liability categories from the same list but are not the most frequent: breach of contract, defamation, and purposeful misconduct each arise in narrower circumstances than ordinary negligence.",
+  "hy": "Negligence = most common basis of malpractice liability.",
+  "src": "Neligan I.4 · Medical malpractice",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.22",
+  "chapter": "Ch4",
+  "section": "Medical malpractice",
+  "stem": "A patient sues after a technically sound elective procedure yields an unexpectedly poor cosmetic result. Applying the chapter's account of malpractice law, which statement is correct?",
+  "options": {
+   "A": "A poor outcome alone does not define malpractice; liability requires violation of the standard of care causally related to a distinct injury",
+   "B": "Any poor cosmetic outcome after elective surgery is, by definition, malpractice",
+   "C": "Standard of care is defined solely by the individual surgeon's personal best practice",
+   "D": "The surgeon must prove their own innocence beyond a reasonable doubt"
+  },
+  "answer": "A",
+  "exp": "A poor outcome alone does not define malpractice; the case hinges on violation of the standard of care (reasonable or ordinary care provided by local peers with similar practices) causally related to a distinct injury within a physician–patient relationship. The distractors misstate the law: a bad cosmetic result is not automatically malpractice; the standard of care is set by peer practice, not by one surgeon's personal ideal; and the burden is a civil preponderance on the plaintiff, not \"beyond a reasonable doubt\" on the defendant.",
+  "hy": "Poor outcome ≠ malpractice; need standard-of-care breach + causation + injury.",
+  "src": "Neligan I.4 · Medical malpractice",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.23",
+  "chapter": "Ch4",
+  "section": "Medical malpractice",
+  "stem": "In a malpractice case, the violation of the standard of care must be demonstrated to a particular evidentiary threshold. What is that threshold (\"preponderance of the evidence\")?",
+  "options": {
+   "A": "Greater than 50% (about 51%) likelihood — more likely than not",
+   "B": "Beyond a reasonable doubt (about 99%)",
+   "C": "Clear and convincing evidence (about 75%)",
+   "D": "Any non-zero probability that harm occurred"
+  },
+  "answer": "A",
+  "exp": "Civil malpractice is proven by a preponderance of the evidence — greater than 50% (about 51%), i.e., \"more likely than not.\" The distractors are the wrong evidentiary standards: \"beyond a reasonable doubt\" (~99%) is the *criminal* standard; \"clear and convincing evidence\" is an intermediate civil standard used for specific issues; and any non-zero probability is far below the required threshold.",
+  "hy": "Malpractice standard of proof = preponderance (>50%, ~51%).",
+  "src": "Neligan I.4 · Medical malpractice",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-4.24",
+  "chapter": "Ch4",
+  "section": "Social media and advertising",
+  "stem": "The chapter examines plastic surgeons' use of social media as a practice-building tool. Which statement reflects its assessment of the content actually posted?",
+  "options": {
+   "A": "A large majority of posts have been judged purely promotional rather than educational, and patient confidentiality is difficult to preserve when images are used",
+   "B": "The large majority of posts are rigorously educational and authored by board-certified plastic surgeons",
+   "C": "Social media content is reliably unbiased and easily regulated by professional societies",
+   "D": "Volume of posts weighs far more heavily toward medical professionals than toward patients"
+  },
+  "answer": "A",
+  "exp": "The chapter judges that a large majority of plastic surgery social-media posts are purely promotional rather than educational, and warns that patient confidentiality is very difficult to preserve when images are used (consent currency is hard to maintain). The distractors reverse the chapter's findings: posts are *not* mostly rigorous education by board-certified surgeons; social media is described as a wide, often biased spectrum that *defies* easy regulation; and the volume of posts weighs far more heavily toward *patients* than toward medical professionals.",
+  "hy": "Most PS social-media posts are promotional, not educational; confidentiality is hard to protect.",
+  "src": "Neligan I.4 · Social media and advertising",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "4",
+  "chname": "The Role of Ethics in Plastic Surgery and Medico-legal Issues"
+ },
+ {
+  "id": "N-I-5.1",
+  "chapter": "Ch5",
+  "section": "Strategy",
+  "stem": "A plastic surgery group wants to analyze the competitive environment of its local healthcare market — established rivals, potential new entrants, substitutes, suppliers, and buyers. Which classic framework does the chapter present as the most established model for this analysis?",
+  "options": {
+   "A": "Porter's 5-Forces model of competition",
+   "B": "The Boston Consulting Group growth–share matrix",
+   "C": "The McKinsey 7-S framework",
+   "D": "A SWOT (strengths/weaknesses/opportunities/threats) analysis"
+  },
+  "answer": "A",
+  "exp": "Porter's 5-Forces is presented as the most established and respected model of the business environment, analyzing established competitors, the threat of new entrants, the threat of substitutes, supplier bargaining power, and buyer bargaining power. The distractors are real strategy tools used for different purposes: the BCG growth–share matrix sorts a *portfolio* of products (stars/cash cows/dogs); the McKinsey 7-S framework examines *internal* organizational alignment; and SWOT is a general situational scan, not the five-force industry-structure model the chapter names.",
+  "hy": "Porter's 5-Forces = competitors, new entrants, substitutes, suppliers, buyers.",
+  "src": "Neligan I.5 · Strategy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.2",
+  "chapter": "Ch5",
+  "section": "Strategy",
+  "stem": "Rather than fighting rivals for a larger slice of a fixed, crowded market, a company discovers an uncontested but related market space, rendering competitors obsolete and generating new demand. The chapter calls this approach:",
+  "options": {
+   "A": "Blue ocean strategy",
+   "B": "Judo strategy",
+   "C": "Rising-tide strategy",
+   "D": "Loss-leader strategy"
+  },
+  "answer": "A",
+  "exp": "Blue ocean strategy seeks uncontested but related market space, rendering rivals obsolete and creating new demand — the opposite of fighting over a fixed market. The distractors are adjacent concepts from the same section: \"judo strategy\" is using focus/agility to undermine a dominant firm within the existing market; the \"rising tide\" describes attracting customers via a slowly growing market; and a \"loss leader\" is a mission-critical product run at negative margin — none is the uncontested-new-space idea.",
+  "hy": "Blue ocean strategy = create uncontested new market space.",
+  "src": "Neligan I.5 · Strategy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.3",
+  "chapter": "Ch5",
+  "section": "Strategy",
+  "stem": "The chapter describes the entire axis from supplier to consumer — inbound logistics, operations, outbound logistics, marketing/sales, and customer service — along which value is added at each step. What is this axis called?",
+  "options": {
+   "A": "The value chain",
+   "B": "The supply curve",
+   "C": "The income statement",
+   "D": "The hurdle rate"
+  },
+  "answer": "A",
+  "exp": "The value chain is the supplier-to-consumer axis along which primary activities (inbound logistics, operations, outbound logistics, marketing/sales, customer service) each add value, coordinated by support activities. The distractors are different constructs: the supply curve is an economics relationship of price to quantity supplied; the income statement is an accounting report of period transactions; and the hurdle rate is a finance threshold for accepting investments — none describes the value-adding activity axis.",
+  "hy": "Value chain = supplier→consumer axis where value is added at each step.",
+  "src": "Neligan I.5 · Strategy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.4",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "The rules used to prepare, present, and report financial statements — required of publicly-traded firms by the US Securities and Exchange Commission — are known by which name?",
+  "options": {
+   "A": "Generally Accepted Accounting Principles (GAAP)",
+   "B": "Managerial accounting standards",
+   "C": "The DMAIC standard",
+   "D": "Sarbanes–Oxley provisions"
+  },
+  "answer": "A",
+  "exp": "GAAP (Generally Accepted Accounting Principles) are the rules for preparing, presenting, and reporting financial statements; the SEC requires public firms to follow them. The distractors name real but different things: managerial accounting (used to allocate cost/overhead) explicitly does *not* follow GAAP; DMAIC is the Six Sigma improvement cycle; and Sarbanes–Oxley is a 2002 securities law, not the accounting-principles framework itself.",
+  "hy": "GAAP = SEC-mandated financial-reporting rules for public firms.",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.5",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "On a balance sheet, owner's equity (net worth) is defined in relation to assets and liabilities. Which equation expresses this relationship?",
+  "options": {
+   "A": "Equity = Assets − Liabilities (equivalently, Assets = Liabilities + Equity)",
+   "B": "Equity = Liabilities − Assets",
+   "C": "Equity = Assets + Liabilities",
+   "D": "Equity = Revenue − Operating costs"
+  },
+  "answer": "A",
+  "exp": "Owner's equity (net worth) is the difference between assets and liabilities, so Equity = Assets − Liabilities, conventionally rearranged as the balancing identity Assets = Liabilities + Equity (or Assets = Debt + Equity). The distractors break the identity: subtracting assets from liabilities, adding liabilities to assets, or using the revenue-minus-costs (income-statement) relationship all violate the balance-sheet equation that must always balance.",
+  "hy": "Assets = Liabilities + Equity (Equity = Assets − Liabilities).",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.6",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "A hospital administrator wants to know the value a specific procedure creates independent of overhead and fixed costs. The chapter highlights \"contribution margin\" for this. How is contribution margin defined?",
+  "options": {
+   "A": "Revenue minus variable costs",
+   "B": "Revenue minus all fixed and variable costs",
+   "C": "Net income divided by total assets",
+   "D": "Gross profit divided by revenue"
+  },
+  "answer": "A",
+  "exp": "Contribution margin is defined as revenue less *variable* costs; because it strips out fixed costs and overhead (which are often misallocated), it isolates the value a specific product or service creates and lets you compare service lines. The distractors are other metrics: revenue minus *all* costs is operating/net income; net income ÷ total assets is return on assets; and gross profit ÷ revenue is gross margin — none is contribution margin.",
+  "hy": "Contribution margin = revenue − variable costs.",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.7",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "The chapter contrasts the income statement with the balance sheet. Which statement correctly describes the balance sheet?",
+  "options": {
+   "A": "It is a snapshot of what the company owns and owes at a single point in time",
+   "B": "It describes financial transactions over a defined period such as a quarter or year",
+   "C": "It tracks only the inflow and outflow of cash across three activity categories",
+   "D": "It expresses the numerical relationship between two financial categories as a ratio"
+  },
+  "answer": "A",
+  "exp": "The balance sheet is a snapshot of what the company owns and owes at a single point in time (and shows little about operational performance). The distractors describe the *other* accounting instruments: a report of transactions over a defined period is the income statement; the inflow/outflow across three activity categories is the summary of cash flows; and a numerical relationship between two categories is a financial ratio.",
+  "hy": "Balance sheet = point-in-time snapshot of assets and liabilities.",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.8",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "The chapter stresses that \"profit is NOT the same as cash.\" Into which three categories does it subdivide a company's overall cash flows?",
+  "options": {
+   "A": "Operations, investing, and financing",
+   "B": "Revenue, expenses, and taxes",
+   "C": "Assets, liabilities, and equity",
+   "D": "Fixed, variable, and marginal"
+  },
+  "answer": "A",
+  "exp": "Because profit is not the same as cash, the chapter subdivides overall cash flows by their conduit into operations (CFO), investing (CFI), and financing (CFF), summing to total cash flow. The distractors borrow line items from other statements: revenue/expenses/taxes are income-statement components; assets/liabilities/equity are balance-sheet components; and fixed/variable/marginal are cost classifications — none is the three-way cash-flow split.",
+  "hy": "Cash flows = operations + investing + financing.",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.9",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "The chapter calls a particular measure \"the best source of capital for developing new products, acquiring companies, paying dividends, and reducing debt.\" How is free cash flow (FCF) defined in its simplest form?",
+  "options": {
+   "A": "Cash flow from operations minus capital expenditures",
+   "B": "Net income plus depreciation",
+   "C": "Revenue minus variable costs",
+   "D": "Total assets minus total liabilities"
+  },
+  "answer": "A",
+  "exp": "Free cash flow is defined simply as cash flow from operations minus capital expenditures — the cash a firm generates after funding the maintenance/growth of its asset base, and the best source of capital for new products, acquisitions, dividends, and debt reduction. The distractors are incomplete or different: net income plus depreciation is only part of the longer FCF expression; revenue minus variable costs is contribution margin; and assets minus liabilities is equity.",
+  "hy": "Free cash flow = CFO − capital expenditures.",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.10",
+  "chapter": "Ch5",
+  "section": "Accounting",
+  "stem": "On the income statement, the chapter pairs two non-cash charges: depreciation and amortization. What does each apply to?",
+  "options": {
+   "A": "Depreciation applies to assets; amortization applies to leases",
+   "B": "Depreciation applies to leases; amortization applies to assets",
+   "C": "Both apply only to inventory",
+   "D": "Depreciation applies to revenue; amortization applies to taxes"
+  },
+  "answer": "A",
+  "exp": "On the income statement the chapter pairs depreciation *of assets* with amortization *of leases* as the two non-cash charges against revenue. The distractors swap or misassign them: amortization is not applied to physical assets nor depreciation to leases; neither applies to inventory; and neither is charged against revenue or taxes in the way described.",
+  "hy": "Depreciation → assets; amortization → leases.",
+  "src": "Neligan I.5 · Accounting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.11",
+  "chapter": "Ch5",
+  "section": "Finance",
+  "stem": "\"A dollar today is worth slightly more tomorrow and a lot more in 10 years.\" Which financial concept does this express, and why does money carry it?",
+  "options": {
+   "A": "The time value of money — owing to postponement of consumption and expectations of inflation",
+   "B": "Opportunity cost — owing to the next-best forgone alternative",
+   "C": "Contribution margin — owing to variable cost behavior",
+   "D": "Price elasticity — owing to the responsiveness of demand to price"
+  },
+  "answer": "A",
+  "exp": "The time value of money holds that a dollar today is worth more than a dollar later; economists attribute this to postponement of consumption and expectations of inflation (interest rates hedge against that depreciation), captured by PV = FV/(1 + r)^n. The distractors are different finance/economics ideas: opportunity cost is the next-best forgone alternative; contribution margin is an accounting figure; and price elasticity measures demand's responsiveness to price — none explains why money appreciates over time.",
+  "hy": "Time value of money: PV = FV/(1+r)^n; driven by deferred consumption + inflation.",
+  "src": "Neligan I.5 · Finance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.12",
+  "chapter": "Ch5",
+  "section": "Finance",
+  "stem": "Before tying up time and money in a new project, a surgeon should weigh the benefit forgone by not investing those resources elsewhere. The chapter defines this as:",
+  "options": {
+   "A": "Opportunity cost — the potential benefit forgone from not following the financially optimal course of action",
+   "B": "Sunk cost — money already spent and unrecoverable",
+   "C": "Marginal cost — the cost of producing one additional unit",
+   "D": "The hurdle rate — the minimum acceptable rate of return"
+  },
+  "answer": "A",
+  "exp": "Opportunity cost is the potential benefit forgone from not following the financially optimal course of action — which is why, for a surgeon, any activity that takes them out of the OR should be weighed against what they could earn by operating. The distractors are other cost concepts: a sunk cost is already spent and irrecoverable; a marginal cost is the cost of one more unit; and the hurdle rate is a required rate of return — none is the forgone-next-best-alternative idea.",
+  "hy": "Opportunity cost = benefit forgone from the next-best alternative.",
+  "src": "Neligan I.5 · Finance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.13",
+  "chapter": "Ch5",
+  "section": "Finance",
+  "stem": "A practice evaluates a capital purchase by summing the time-series of discounted future cash flows to obtain a net present value (NPV). According to the chapter's decision rule, when should the project be accepted?",
+  "options": {
+   "A": "When NPV > 0, because the investment would add value to the firm",
+   "B": "When NPV < 0, because a negative figure signals tax advantages",
+   "C": "When NPV equals the purchase price exactly",
+   "D": "Only when NPV equals the internal rate of return"
+  },
+  "answer": "A",
+  "exp": "The NPV decision rule: if NPV > 0 the investment adds value and may be accepted; if NPV < 0 it subtracts value and should be rejected. The distractors invert or distort the rule: a negative NPV is a reason to reject (not a tax benefit), and the project decision does not hinge on NPV equaling the purchase price or matching the IRR exactly.",
+  "hy": "Accept when NPV > 0; reject when NPV < 0.",
+  "src": "Neligan I.5 · Finance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.14",
+  "chapter": "Ch5",
+  "section": "Finance",
+  "stem": "In an NPV calculation, the discount rate selected is often the firm's blended cost of debt and equity. What is this blended rate called?",
+  "options": {
+   "A": "The weighted average cost of capital (WACC)",
+   "B": "The internal rate of return (IRR)",
+   "C": "The price elasticity coefficient",
+   "D": "The payback period"
+  },
+  "answer": "A",
+  "exp": "The discount rate in an NPV calculation is often the firm's weighted average cost of capital (WACC), which blends the cost of debt (borrowing) with the cost of equity (shareholders' expected returns). The distractors are related but distinct: the IRR is the return the cash flows themselves imply (compared *against* the hurdle rate/WACC); price elasticity is an economics coefficient; and the payback period is a separate, simpler ROI measure.",
+  "hy": "WACC = blended cost of debt + equity; the usual discount rate.",
+  "src": "Neligan I.5 · Finance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.15",
+  "chapter": "Ch5",
+  "section": "Finance",
+  "stem": "The chapter describes the internal rate of return (IRR) as an alternative to assuming a discount rate. Conceptually, what does the IRR represent?",
+  "options": {
+   "A": "The hurdle rate that would make the project's NPV equal to zero",
+   "B": "The time required for cash flow to repay the original investment",
+   "C": "The gain from investment divided by its cost, expressed as a percentage",
+   "D": "The blended cost of debt and equity for the firm"
+  },
+  "answer": "A",
+  "exp": "The chapter states that IRR represents the hurdle rate that would make NPV equal to zero — i.e., the actual return implied by the projected cash flows, then compared with the firm's hurdle rate. The distractors describe *other* ROI tools from the same passage: time to repay the original investment is the payback method; gain-over-cost as a percentage is yield; and the blended cost of debt and equity is WACC.",
+  "hy": "IRR = the rate that makes NPV = 0.",
+  "src": "Neligan I.5 · Finance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.16",
+  "chapter": "Ch5",
+  "section": "Economics",
+  "stem": "The chapter quantifies how quantity demanded changes with price using the coefficient of price elasticity of demand (Ed). Which interpretation is correct?",
+  "options": {
+   "A": "Ed < −1 indicates elastic demand, whereas Ed = 0 indicates perfectly inelastic demand",
+   "B": "Ed = 0 indicates elastic demand, whereas Ed < −1 indicates perfectly inelastic demand",
+   "C": "Ed = −1 indicates perfectly elastic demand with no response to price",
+   "D": "A higher absolute Ed means demand is less responsive to price changes"
+  },
+  "answer": "A",
+  "exp": "Using the chapter's elasticity scale, Ed < −1 is elastic demand (small price change → large quantity change) and Ed = 0 is perfectly inelastic (quantity does not respond to price). The distractors reverse or misread the scale: Ed = 0 is *not* elastic, Ed < −1 is *not* perfectly inelastic, Ed = −1 is unitary (not perfectly elastic), and a higher absolute Ed means *more* responsiveness, not less.",
+  "hy": "Ed = 0 perfectly inelastic; Ed < −1 elastic; |Ed| up = more responsive.",
+  "src": "Neligan I.5 · Economics",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.17",
+  "chapter": "Ch5",
+  "section": "Economics",
+  "stem": "A patient whose surgery is fully paid by third-party insurance is relatively insensitive to its price. According to the chapter, how does third-party payment affect the price elasticity of demand for healthcare?",
+  "options": {
+   "A": "It makes demand relatively inelastic; adding a copay or deductible increases elasticity",
+   "B": "It makes demand perfectly elastic, since price no longer matters at all",
+   "C": "It has no effect on elasticity, which depends only on the good itself",
+   "D": "It makes demand more elastic, because patients shop more aggressively"
+  },
+  "answer": "A",
+  "exp": "When a third party (insurer) pays, the consumer does not feel the price, so demand for healthcare becomes relatively inelastic; adding a copay or deductible shifts some cost to the consumer and raises elasticity. The distractors overstate or deny the effect: third-party payment does not make demand *perfectly* elastic, does not leave elasticity unchanged, and does not make patients more price-sensitive (the opposite is true).",
+  "hy": "Third-party payment → inelastic demand; cost-sharing raises elasticity.",
+  "src": "Neligan I.5 · Economics",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.18",
+  "chapter": "Ch5",
+  "section": "Economics",
+  "stem": "The chapter notes that the textbook supply-and-demand model requires \"perfect competition,\" a condition it says does not actually exist. Which set of assumptions defines perfect competition?",
+  "options": {
+   "A": "Identical products, no strategic manipulation, rational and fully-informed participants, and no barriers to entry or exit",
+   "B": "A single dominant firm setting prices, with high barriers to entry protecting it",
+   "C": "Heavily differentiated products and asymmetric information favoring sellers",
+   "D": "Government price-setting that fixes both supply and demand"
+  },
+  "answer": "A",
+  "exp": "Perfect competition (which the chapter says does not actually exist) requires identical products, no strategic manipulation of supply/demand, rational and fully-informed participants, and no barriers to entry or exit. The distractors describe *imperfect* markets: a single dominant price-setter with entry barriers is monopoly; differentiated products with asymmetric information is monopolistic/real-world competition; and government price-fixing is direct intervention — none meets the perfect-competition assumptions.",
+  "hy": "Perfect competition = identical goods, no manipulation, rational/informed players, free entry/exit.",
+  "src": "Neligan I.5 · Economics",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.19",
+  "chapter": "Ch5",
+  "section": "Marketing",
+  "stem": "The chapter reviews marketing strategy through a classic, if oversimplified, framework. What are the \"4 Ps\" of marketing?",
+  "options": {
+   "A": "Product, price, promotion, and placement",
+   "B": "People, planet, profit, and purpose",
+   "C": "Plan, produce, promote, and profit",
+   "D": "Position, package, publicize, and price"
+  },
+  "answer": "A",
+  "exp": "The classic (if oversimplified) marketing framework is the 4 Ps: product, price, promotion, and placement. The distractors borrow from other frameworks: people/planet/profit is the sustainability triple bottom line; plan/produce/promote/profit and position/package/publicize/price are invented look-alikes that do not match the chapter's 4 Ps.",
+  "hy": "4 Ps = product, price, promotion, placement.",
+  "src": "Neligan I.5 · Marketing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.20",
+  "chapter": "Ch5",
+  "section": "Marketing",
+  "stem": "To find how many units must be sold to cover costs, the chapter gives a break-even formula. Break-even unit volume equals:",
+  "options": {
+   "A": "Fixed costs ÷ (sales price − variable costs)",
+   "B": "Variable costs ÷ (sales price − fixed costs)",
+   "C": "Fixed costs × (sales price − variable costs)",
+   "D": "(Sales price − variable costs) ÷ fixed costs"
+  },
+  "answer": "A",
+  "exp": "Break-even unit volume = fixed costs ÷ (sales price − variable costs); the denominator (price minus variable cost) is the per-unit contribution that pays down fixed costs. The distractors scramble the formula: dividing variable costs by (price − fixed costs), multiplying rather than dividing, or inverting the ratio all give nonsensical results that don't yield a unit count to cover fixed costs.",
+  "hy": "Break-even units = fixed costs ÷ (price − variable cost).",
+  "src": "Neligan I.5 · Marketing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.21",
+  "chapter": "Ch5",
+  "section": "Operations",
+  "stem": "A production system targets the elimination of any expenditure that does not add value to the customer, attacking seven sources of waste (overproduction, transportation, inventory, motion, defects, over-processing, and waiting). What is this approach, and which company originated it?",
+  "options": {
+   "A": "Lean manufacturing, originally developed by Toyota",
+   "B": "Six Sigma, originally developed by Motorola",
+   "C": "The theory of constraints, originally developed by Apple",
+   "D": "Total quality management, originally developed by Ford"
+  },
+  "answer": "A",
+  "exp": "Lean manufacturing, originated by Toyota, targets elimination of anything that does not add customer value, attacking seven wastes (overproduction, transportation, inventory, motion, defects, over-processing, waiting). The distractors are real but different: Six Sigma (Motorola) reduces defect *variability*; the theory of constraints addresses bottlenecks (and was not an Apple creation); and TQM is a separate quality philosophy not credited to Ford here.",
+  "hy": "Lean (Toyota) = eliminate the 7 wastes.",
+  "src": "Neligan I.5 · Operations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.22",
+  "chapter": "Ch5",
+  "section": "Operations",
+  "stem": "A quality methodology uses the DMAIC model (Define, Measure, Analyze, Improve, Control) and aims to reduce defects to fewer than ~3.4 per million (six standard deviations from target). What is it, and where did it originate?",
+  "options": {
+   "A": "Six Sigma, originally developed by Motorola",
+   "B": "Lean manufacturing, originally developed by Toyota",
+   "C": "Queueing theory, originally developed by Bell Labs",
+   "D": "Kaizen, originally developed by Honda"
+  },
+  "answer": "A",
+  "exp": "Six Sigma, developed by Motorola, uses the DMAIC cycle (Define, Measure, Analyze, Improve, Control) and drives defects below ~3.4 per million (six standard deviations from target). The distractors misattribute or mismatch: Lean (Toyota) eliminates waste rather than statistically minimizing defects; queueing theory models waiting lines; and \"Kaizen\" (continuous improvement) is not the DMAIC/3.4-per-million method described.",
+  "hy": "Six Sigma (Motorola) = DMAIC, <3.4 defects/million (6σ).",
+  "src": "Neligan I.5 · Operations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.23",
+  "chapter": "Ch5",
+  "section": "Operations",
+  "stem": "The chapter gives a relationship stating that inventory equals the average flow rate multiplied by the average flow time. By what name is this principle known?",
+  "options": {
+   "A": "Little's Law",
+   "B": "Moore's Law",
+   "C": "The Pareto principle",
+   "D": "The bullwhip effect"
+  },
+  "answer": "A",
+  "exp": "Little's Law states that inventory equals average flow rate multiplied by average flow time (Inventory = flow rate × flow time). The distractors are unrelated laws/effects: Moore's Law concerns transistor density doubling; the Pareto principle is the 80/20 rule; and the bullwhip effect describes amplifying demand variability along a supply chain — none is the inventory relationship.",
+  "hy": "Little's Law: Inventory = flow rate × flow time.",
+  "src": "Neligan I.5 · Operations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.24",
+  "chapter": "Ch5",
+  "section": "Operations",
+  "stem": "When matching supply with demand, the chapter warns that running stations at nearly 100% capacity is unsustainable. What utilization level does it offer as a reasonable target, and how is a bottleneck defined?",
+  "options": {
+   "A": "About 80% utilization; the bottleneck is the resource with the lowest capacity",
+   "B": "About 95% utilization; the bottleneck is the resource with the highest capacity",
+   "C": "About 50% utilization; the bottleneck is whichever station has the most workers",
+   "D": "About 100% utilization; there is no single bottleneck in a balanced system"
+  },
+  "answer": "A",
+  "exp": "The chapter gives ~80% utilization as a reasonable target (running near 100% is unsustainable) and defines the bottleneck as the resource with the lowest capacity — a process technically has only one at a time. The distractors misstate both: 95% or 100% utilization is not sustainable, the bottleneck is the lowest-capacity (not highest-capacity or most-staffed) station, and even a \"balanced\" system has a constraining resource.",
+  "hy": "~80% utilization target; bottleneck = lowest-capacity resource.",
+  "src": "Neligan I.5 · Operations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.25",
+  "chapter": "Ch5",
+  "section": "Innovation",
+  "stem": "The chapter describes the sequence by which a new technology spreads through a market and warns that most companies fail at \"crossing the chasm.\" Which sequence of adopter groups does it use?",
+  "options": {
+   "A": "Innovators, early adopters, early majority, late majority, and laggards",
+   "B": "Pioneers, settlers, migrants, defectors, and laggards",
+   "C": "Apostles, loyalists, mercenaries, hostages, and terrorists",
+   "D": "Start-ups, scale-ups, shape-ups, and stand-ups"
+  },
+  "answer": "A",
+  "exp": "The diffusion-of-innovation sequence the chapter uses is innovators → early adopters → early majority → late majority → laggards, with \"crossing the chasm\" (early adoption → market penetration) being where most companies fail. The distractors are other taxonomies from the chapter: pioneers/settlers/migrants come from the market-space discussion; apostles/loyalists/mercenaries/hostages/terrorists are the customer-loyalty groups; and start-ups/scale-ups/shape-ups/stand-ups are the entrepreneurship business-model categories.",
+  "hy": "Adopters: innovators, early adopters, early/late majority, laggards; failure point = crossing the chasm.",
+  "src": "Neligan I.5 · Innovation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.26",
+  "chapter": "Ch5",
+  "section": "Innovation",
+  "stem": "The chapter cites Peter Drucker's claim that only two functions of a company create real value, while all other processes are costs. Which two functions did Drucker name?",
+  "options": {
+   "A": "Innovation and marketing",
+   "B": "Finance and operations",
+   "C": "Accounting and human resources",
+   "D": "Strategy and leadership"
+  },
+  "answer": "A",
+  "exp": "The chapter quotes Drucker that the two essential functions of a company are innovation and marketing, because these create real value while all other processes are costs. The distractors pair real business functions that Drucker did *not* name as the value-creating two: finance/operations, accounting/HR, and strategy/leadership are all important but, in this framing, fall under \"costs\" rather than the value-creating pair.",
+  "hy": "Drucker: innovation + marketing create value; the rest are costs.",
+  "src": "Neligan I.5 · Innovation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.27",
+  "chapter": "Ch5",
+  "section": "Sustainable enterprise",
+  "stem": "\"Green business,\" or sustainable enterprise, is described as meeting a new \"triple bottom line.\" What three elements make up this triple bottom line?",
+  "options": {
+   "A": "People, planet, and profit",
+   "B": "Price, place, and promotion",
+   "C": "Quality, access, and cost",
+   "D": "Reduce, reuse, and recycle"
+  },
+  "answer": "A",
+  "exp": "Sustainable (\"green\") enterprise is built around a triple bottom line of people, planet, and profit. The distractors are other trios from the book: price/place/promotion are three of the marketing 4 Ps; quality/access/cost are the dimensions of healthcare value; and reduce/reuse/recycle is the older environmental slogan the chapter says has been superseded by the triple bottom line.",
+  "hy": "Triple bottom line = people, planet, profit.",
+  "src": "Neligan I.5 · Sustainable enterprise",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.28",
+  "chapter": "Ch5",
+  "section": "Legal and regulatory",
+  "stem": "Reviewing basic forms of business ownership, the chapter notes a tax disadvantage shared by corporations and cooperatives that proprietorships and partnerships avoid. What is this disadvantage?",
+  "options": {
+   "A": "Double taxation — profit is taxed once as entity net income and again as returns to stakeholders",
+   "B": "Personal liability of every owner for all business debts",
+   "C": "A legal prohibition on having more than one shareholder",
+   "D": "Mandatory dissolution of the entity each fiscal year"
+  },
+  "answer": "A",
+  "exp": "Corporations and cooperatives suffer double taxation: profit is taxed once as the entity's net income and again as returns to stakeholders (dividends, capital gains), whereas a sole proprietorship or partnership is taxed only once. The distractors describe other ownership features: unlimited personal liability is the hallmark of proprietorships/partnerships (not the corporate disadvantage asked about); corporations require *multiple* shareholders (not a prohibition on more than one); and entities are not dissolved annually.",
+  "hy": "Corporations/cooperatives → double taxation (entity + stakeholder).",
+  "src": "Neligan I.5 · Legal and regulatory",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.29",
+  "chapter": "Ch5",
+  "section": "Negotiation",
+  "stem": "The chapter teaches that negotiation begins by defining your \"walk-away position\" — the lowest you will go if no agreement is reached — before negotiations start. What is this position called?",
+  "options": {
+   "A": "The BATNA — the best alternative to a negotiated agreement",
+   "B": "The ZOPA — the zone of possible agreement",
+   "C": "The reservation premium",
+   "D": "The anchor point"
+  },
+  "answer": "A",
+  "exp": "The walk-away position — the lowest you will go, set before negotiating — is the BATNA, the best alternative to a negotiated agreement. The distractors are adjacent negotiation terms not used here for the walk-away: the ZOPA is the overlap range where a deal is possible; \"reservation premium\" is a made-up term; and the anchor point is an opening figure meant to shape the counterpart's expectations, not your walk-away floor.",
+  "hy": "BATNA = best alternative to a negotiated agreement (your walk-away).",
+  "src": "Neligan I.5 · Negotiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-5.30",
+  "chapter": "Ch5",
+  "section": "Negotiation",
+  "stem": "The chapter cites *Getting to Yes* (Fisher, Ury, and Patton) for the principles of \"principled\" negotiation. Which set of four principles does it list?",
+  "options": {
+   "A": "Separate the people from the problem; focus on interests not positions; invent options for mutual gain; insist on objective criteria",
+   "B": "Win at all costs; never reveal your position; split the difference; accept the first offer",
+   "C": "Anchor high; concede slowly; bluff when necessary; outlast your opponent",
+   "D": "Define, measure, analyze, and improve the deal terms"
+  },
+  "answer": "A",
+  "exp": "*Getting to Yes* (Fisher, Ury, and Patton) gives four principles of principled negotiation: separate the people from the problem; focus on interests not positions; invent options for mutual gain; and insist on objective criteria. The distractors are the opposite of principled negotiation: hard-bargaining/positional tactics (win at all costs, bluff, anchor-and-concede) are what the method is designed to replace, and the DMAIC-style \"define/measure/analyze/improve\" belongs to Six Sigma, not negotiation.",
+  "hy": "Principled negotiation: people≠problem, interests not positions, options for mutual gain, objective criteria.",
+  "src": "Neligan I.5 · Negotiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "5",
+  "chname": "Business Principles for Plastic Surgeons"
+ },
+ {
+  "id": "N-I-6.1",
+  "chapter": "Ch6",
+  "section": "Introduction",
+  "stem": "First articulated by Michael Porter in a 2010 *New England Journal of Medicine* article, the central concept of value-based care can be summarized by which formulation?",
+  "options": {
+   "A": "Maximizing health outcomes achieved per unit of cost",
+   "B": "Maximizing the volume of procedures performed per provider",
+   "C": "Minimizing length of stay regardless of outcome",
+   "D": "Maximizing revenue per relative value unit (RVU)"
+  },
+  "answer": "A",
+  "exp": "Value-based care, as Michael Porter framed it in his 2010 *NEJM* article, is maximizing health outcomes achieved per unit of cost — so value rises by improving outcomes, lowering cost, or ideally both. The distractors describe the *volume*-based world value-based care is meant to replace: maximizing procedure volume or revenue per RVU rewards throughput regardless of outcome, and minimizing length of stay alone ignores the outcome side of the equation.",
+  "hy": "Value = outcomes ÷ cost (Porter, 2010 NEJM).",
+  "src": "Neligan I.6 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.2",
+  "chapter": "Ch6",
+  "section": "Defining value",
+  "stem": "The chapter expresses value within plastic surgery as a ratio. What constitutes the numerator and the denominator of the value equation?",
+  "options": {
+   "A": "Numerator = clinical outcomes plus patient-reported outcomes; denominator = cost of services rendered",
+   "B": "Numerator = total revenue; denominator = number of procedures",
+   "C": "Numerator = cost of services; denominator = patient satisfaction",
+   "D": "Numerator = complication rate; denominator = length of stay"
+  },
+  "answer": "A",
+  "exp": "Within plastic surgery the value ratio places clinical outcomes plus patient-reported outcomes in the numerator and the full cost of services rendered (including financial toxicity — lost wages, out-of-pocket and opportunity costs) in the denominator. The distractors invert or corrupt the ratio: putting cost or complications in the numerator, or revenue over procedure count, describes productivity/volume metrics, not value.",
+  "hy": "Value = (clinical + patient-reported outcomes) ÷ cost.",
+  "src": "Neligan I.6 · Defining value",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.3",
+  "chapter": "Ch6",
+  "section": "Introduction",
+  "stem": "The traditional US reimbursement environment that the value-based movement seeks to move away from is best described as:",
+  "options": {
+   "A": "Fee-for-service, in which payment is tied to volume of services",
+   "B": "Capitation, in which a fixed sum is paid per enrolled patient",
+   "C": "A bundled payment tied to a complete episode of care",
+   "D": "Reference-based pricing benchmarked to Medicare rates"
+  },
+  "answer": "A",
+  "exp": "Fee-for-service ties payment to the *volume* of services and is the predominant, misaligned-incentive environment the value movement seeks to move away from toward value-based reimbursement. The distractors are alternative models, not the volume-based status quo: capitation pays a fixed sum per patient, a bundled payment covers a whole episode, and reference-based pricing benchmarks to a set rate — each is a step *toward* value, not the fee-for-service baseline.",
+  "hy": "Fee-for-service = volume-based reimbursement (the model VBC replaces).",
+  "src": "Neligan I.6 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.4",
+  "chapter": "Ch6",
+  "section": "Defining value",
+  "stem": "The chapter argues that value-based reimbursement will favor high-volume, specialized centers that harness economies of scale and focus on one condition (e.g., breast cancer, cleft lip/palate). What does it call these centers?",
+  "options": {
+   "A": "Integrated practice units (IPUs)",
+   "B": "Accountable care organizations (ACOs)",
+   "C": "Health maintenance organizations (HMOs)",
+   "D": "Ambulatory surgical centers (ASCs)"
+  },
+  "answer": "A",
+  "exp": "Integrated practice units (IPUs) are high-volume, specialized centers that harness economies of scale and focus on one condition (breast cancer, cleft lip/palate) rather than offering isolated services, and are favored under value-based reimbursement. The distractors are different organizational entities: ACOs are accountable-care payment networks, HMOs are insurance/managed-care structures, and ASCs are outpatient surgical facilities — none is Porter's condition-focused IPU.",
+  "hy": "IPUs = condition-focused, high-volume integrated centers.",
+  "src": "Neligan I.6 · Defining value",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.5",
+  "chapter": "Ch6",
+  "section": "The numerator",
+  "stem": "The chapter emphasizes condition-specific patient-reported outcome measures (PROMs). Which instrument is correctly matched to its domain?",
+  "options": {
+   "A": "BREAST-Q for breast surgery, FACE-Q for facial surgery, BODY-Q for body contouring, CLEFT-Q for cleft lip/palate",
+   "B": "FACE-Q for breast surgery and BREAST-Q for facial surgery",
+   "C": "BODY-Q for cleft procedures and CLEFT-Q for body contouring",
+   "D": "The SF-36 generic survey for all plastic surgery conditions"
+  },
+  "answer": "A",
+  "exp": "The condition-specific PROMs named in the chapter map cleanly: BREAST-Q for breast (oncologic and aesthetic) surgery, FACE-Q for facial surgery, BODY-Q for body contouring, and CLEFT-Q for cleft lip/palate. The distractors swap the instruments (FACE-Q is not for breast, CLEFT-Q is not for body contouring) or substitute the SF-36, which is a *generic* health survey — the chapter stresses that *condition-specific* PROMs give the granular, valuable outcome detail.",
+  "hy": "BREAST-Q/FACE-Q/BODY-Q/CLEFT-Q = condition-specific PROMs.",
+  "src": "Neligan I.6 · The numerator",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.6",
+  "chapter": "Ch6",
+  "section": "The denominator",
+  "stem": "In subdividing the cost of care, the chapter distinguishes fixed from variable costs. Which statement correctly characterizes variable costs?",
+  "options": {
+   "A": "They depend on the amount and intensity of care and include implants, medications, and supplies — often preference-sensitive and modifiable for short-term savings",
+   "B": "They are constant regardless of care volume and are renegotiated only rarely",
+   "C": "They consist solely of administrative overhead and real estate",
+   "D": "They cannot be influenced by the clinician under any circumstances"
+  },
+  "answer": "A",
+  "exp": "Variable costs depend on the amount and intensity of care — implants, medications, supplies — and because many are preference-sensitive to the clinician, they can be modified by administration to yield short-term savings. The distractors describe fixed costs instead (constant regardless of volume, renegotiated rarely, e.g., overhead/real estate) or wrongly claim the clinician can never influence them — the opposite of the preference-sensitive point.",
+  "hy": "Variable costs = care-dependent, preference-sensitive (implants/meds/supplies).",
+  "src": "Neligan I.6 · The denominator",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.7",
+  "chapter": "Ch6",
+  "section": "The denominator",
+  "stem": "To estimate the true cost of an episode of care more accurately than traditional costing, the chapter recommends a method proposed by Robert Kaplan of Harvard Business School. What is this method?",
+  "options": {
+   "A": "Time-Driven Activity-Based Costing (TDABC)",
+   "B": "Diagnosis-related group (DRG) weighting",
+   "C": "Relative value unit (RVU) accounting",
+   "D": "Charge-to-cost ratio estimation"
+  },
+  "answer": "A",
+  "exp": "Time-Driven Activity-Based Costing (TDABC), proposed by Robert Kaplan of Harvard Business School, measures the actual resources and time staff spend delivering care across an episode, giving more precise cost estimates than traditional methods (validated in cardiac, orthopedic, urologic, and craniofacial surgery). The distractors are coarser, charge-based or unit-based accounting tools: DRG weighting, RVU accounting, and charge-to-cost ratios do not trace true resource consumption the way TDABC does.",
+  "hy": "TDABC (Kaplan) = time-and-resource-based true cost estimation.",
+  "src": "Neligan I.6 · The denominator",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.8",
+  "chapter": "Ch6",
+  "section": "Cosmetic surgery as a model",
+  "stem": "The chapter argues that, from a value-based standpoint, cosmetic surgery inherently achieves high value. What feature is given as the principal reason?",
+  "options": {
+   "A": "Prices are completely transparent because patients pay directly, creating a market where they can shop between surgeons",
+   "B": "A third-party payer absorbs most of the cost, shielding patients from price",
+   "C": "Cosmetic procedures are medically urgent and therefore tightly regulated",
+   "D": "Outcomes are unimportant since the procedures are elective"
+  },
+  "answer": "A",
+  "exp": "Cosmetic surgery achieves inherently high value because prices are completely transparent — patients pay directly, can shop between surgeons, and surgeons compete to deliver safe, quality care at the lowest cost. The distractors describe the *opposite* dynamics that erode value in insured care: a third-party payer shrouds price and removes shopping, and the claims that cosmetic work is urgent/regulated or that outcomes don't matter contradict the chapter.",
+  "hy": "Cosmetic surgery = transparent direct-pay market → high value.",
+  "src": "Neligan I.6 · Cosmetic surgery model",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.9",
+  "chapter": "Ch6",
+  "section": "Cosmetic surgery as a model",
+  "stem": "The chapter invokes \"moral hazard\" when a third-party payer covers most costs. What does moral hazard describe in this context?",
+  "options": {
+   "A": "Patients are enticed to overutilize health services because they bear little of the financial responsibility",
+   "B": "Surgeons intentionally conceal complication rates from payers",
+   "C": "Insurers deny claims to maximize their own profit",
+   "D": "Patients avoid all care because they fear hidden costs"
+  },
+  "answer": "A",
+  "exp": "Moral hazard here means patients are enticed to overutilize services because a third-party payer bears most of the cost, so they feel little financial responsibility (especially once deductibles are met). The distractors describe other problems — surgeons hiding complication data, insurer claim denial, or patients avoiding care from fear of cost — none of which is the overutilization-from-insulation mechanism that defines moral hazard.",
+  "hy": "Moral hazard = insulation from cost → overutilization.",
+  "src": "Neligan I.6 · Cosmetic surgery model",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.10",
+  "chapter": "Ch6",
+  "section": "Tools — shared decision-making",
+  "stem": "The chapter describes a process that replaces paternalistic, information-asymmetric care by placing patients on equal footing to weigh risks, benefits, trade-offs, and cost. What is this process, and what concrete tool emerges from it?",
+  "options": {
+   "A": "Shared decision-making, which yields validated decision aids",
+   "B": "Informed refusal, which yields liability waivers",
+   "C": "Managed care, which yields utilization-review checklists",
+   "D": "Capitation, which yields per-member budgets"
+  },
+  "answer": "A",
+  "exp": "Shared decision-making replaces paternalistic, information-asymmetric care by putting patients on equal footing to deliberate over risks, benefits, trade-offs, and cost, and the concrete tool it yields is the validated decision aid (used in breast-cancer prophylactic-mastectomy/reconstruction and hand-surgery decisions). The distractors pair the wrong process with the wrong tool: informed refusal/waivers, managed care/utilization review, and capitation/per-member budgets are unrelated to the deliberative decision-aid concept.",
+  "hy": "Shared decision-making → validated decision aids.",
+  "src": "Neligan I.6 · Shared decision-making",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.11",
+  "chapter": "Ch6",
+  "section": "Tools — cost-effectiveness",
+  "stem": "Health economists express the cost-effectiveness of an innovation against a \"willingness to pay\" (WTP) per quality-adjusted life year (QALY). What WTP range per QALY does the chapter cite?",
+  "options": {
+   "A": "Approximately $100,000–150,000 per QALY",
+   "B": "Approximately $5,000–10,000 per QALY",
+   "C": "Approximately $500,000–1,000,000 per QALY",
+   "D": "Approximately $25,000–50,000 per QALY"
+  },
+  "answer": "A",
+  "exp": "The chapter cites a willingness-to-pay threshold of roughly $100,000–150,000 per QALY as the range health economists consider acceptable to society. The distractors are off by an order of magnitude in either direction ($5–10k or $25–50k are too low; $500k–1M is far too high) and do not match the figure the chapter gives.",
+  "hy": "WTP ≈ $100,000–150,000 per QALY.",
+  "src": "Neligan I.6 · Cost-effectiveness",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.12",
+  "chapter": "Ch6",
+  "section": "Tools — cost-effectiveness",
+  "stem": "In cost-effectiveness analysis, the chapter describes a rare, ideal scenario in which a new technology is \"dominant.\" What does a dominant innovation achieve?",
+  "options": {
+   "A": "Better outcomes at reduced cost",
+   "B": "Better outcomes at higher cost",
+   "C": "Equivalent outcomes at the same cost",
+   "D": "Worse outcomes but at a much lower cost"
+  },
+  "answer": "A",
+  "exp": "A \"dominant\" innovation is the rare, ideal case that achieves better outcomes at reduced cost — unambiguously worth adopting. The distractors describe the far more common or undesirable situations: better outcomes at higher cost (the usual trade-off requiring a WTP judgment), equivalent outcomes at equal cost (no value gain), or worse outcomes more cheaply (not \"dominant\").",
+  "hy": "Dominant innovation = better outcomes AND lower cost.",
+  "src": "Neligan I.6 · Cost-effectiveness",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.13",
+  "chapter": "Ch6",
+  "section": "Tools — cost-effectiveness",
+  "stem": "The chapter contrasts cost-effectiveness analysis with a related method that evaluates outcomes and costs at the level of an individual health system rather than society. What is this method called?",
+  "options": {
+   "A": "Budget-impact analysis",
+   "B": "Time-Driven Activity-Based Costing",
+   "C": "Sensitivity analysis",
+   "D": "Markov modeling"
+  },
+  "answer": "A",
+  "exp": "Budget-impact analysis is the variant of cost-effectiveness analysis that evaluates outcomes and costs at the level of an individual health system rather than society at large. The distractors are different analytic tools: TDABC is a costing method, sensitivity analysis tests how results vary with assumptions, and Markov modeling simulates disease-state transitions — none is the health-system-level budget lens described.",
+  "hy": "Budget-impact analysis = cost-effectiveness at the individual health-system level.",
+  "src": "Neligan I.6 · Cost-effectiveness",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.14",
+  "chapter": "Ch6",
+  "section": "Implementation science",
+  "stem": "The field dedicated to understanding why providers and systems do or do not adopt current best evidence uses a named framework with multiple domains (intervention, evidence, context, individuals). Which framework does the chapter cite?",
+  "options": {
+   "A": "The Consolidated Framework for Implementation Research (CFIR)",
+   "B": "The Plan-Do-Study-Act (PDSA) cycle",
+   "C": "The Donabedian structure–process–outcome model",
+   "D": "The RE-AIM evaluation framework"
+  },
+  "answer": "A",
+  "exp": "The Consolidated Framework for Implementation Research (CFIR) is the named, multi-domain framework (the intervention and its evidence, the context, and the individuals involved) the chapter uses to understand why best evidence is or isn't adopted. The distractors are other QI/evaluation models: PDSA is a rapid-cycle improvement loop, Donabedian's structure–process–outcome is a quality-assessment triad, and RE-AIM evaluates dissemination — none is CFIR.",
+  "hy": "CFIR = framework for understanding evidence adoption.",
+  "src": "Neligan I.6 · Implementation science",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.15",
+  "chapter": "Ch6",
+  "section": "Implementation science",
+  "stem": "The chapter gives a concrete \"implementation gap\" example where routine practice contradicts level I evidence. Which example is it?",
+  "options": {
+   "A": "Surgeons routinely prescribe antibiotics after breast prosthesis placement despite evidence that prolonged prophylaxis does not prevent implant infection",
+   "B": "Surgeons routinely omit perioperative antibiotics despite evidence they prevent infection",
+   "C": "Surgeons routinely use drains despite evidence they increase infection",
+   "D": "Surgeons routinely avoid indocyanine green despite proven cost savings"
+  },
+  "answer": "A",
+  "exp": "The chapter's implementation-gap example is that many surgeons continue to prescribe antibiotics after breast-prosthesis placement even though level I evidence shows prolonged post-perioperative prophylaxis does not prevent implant infection. The distractors reverse the evidence or substitute unrelated practices: omitting effective perioperative antibiotics, drain-related infection, and indocyanine green cost savings are not the antibiotic-overuse gap the chapter highlights.",
+  "hy": "Antibiotics after breast implants persist despite level I evidence of no benefit.",
+  "src": "Neligan I.6 · Implementation science",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.16",
+  "chapter": "Ch6",
+  "section": "Future directions",
+  "stem": "The chapter urges plastic surgery societies to identify and \"de-implement\" services that raise the cost of care with no known benefit (e.g., preoperative testing for low-risk procedures, routine EMG for carpal tunnel). Which national campaign exemplifies this de-implementation effort?",
+  "options": {
+   "A": "Choosing Wisely",
+   "B": "Getting to Yes",
+   "C": "The Joint Commission core measures",
+   "D": "Meaningful Use"
+  },
+  "answer": "A",
+  "exp": "Choosing Wisely is the national campaign exemplifying de-implementation — identifying tests/treatments that add cost without benefit (e.g., preoperative testing for low-risk procedures, routine EMG for carpal tunnel) — which the chapter urges plastic societies to embrace. The distractors are unrelated: Getting to Yes is a negotiation text, Joint Commission core measures and Meaningful Use are reporting/EHR programs, not low-value-care de-implementation campaigns.",
+  "hy": "Choosing Wisely = de-implement low-value care.",
+  "src": "Neligan I.6 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.17",
+  "chapter": "Ch6",
+  "section": "Future directions",
+  "stem": "The chapter encourages participation in physician-developed alternative payment models (APMs) incentivized by a specific statute. Which statute, and roughly what share of Medicare expenditures is now tied to an APM mechanism?",
+  "options": {
+   "A": "MACRA (Medicare Access and CHIP Reauthorization Act); nearly 40% of Medicare expenditures",
+   "B": "HIPAA; nearly 75% of Medicare expenditures",
+   "C": "EMTALA; nearly 10% of Medicare expenditures",
+   "D": "The Affordable Care Act; nearly 90% of Medicare expenditures"
+  },
+  "answer": "A",
+  "exp": "The statute incentivizing physician-developed alternative payment models is MACRA (the Medicare Access and CHIP Reauthorization Act), and the chapter states nearly 40% of Medicare expenditures are now tied to an APM mechanism, a share expected to grow. The distractors misname the law and the figure: HIPAA governs privacy, EMTALA governs emergency care, and the ACA is insurance reform — and 75%, 10%, and 90% do not match the cited ~40%.",
+  "hy": "MACRA drives APMs; ~40% of Medicare tied to an APM.",
+  "src": "Neligan I.6 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.18",
+  "chapter": "Ch6",
+  "section": "Future directions",
+  "stem": "Which set of payment mechanisms does the chapter list as examples of alternative payment models (APMs)?",
+  "options": {
+   "A": "Global budgets, accountable care organizations, bundled payments, and reference-based pricing",
+   "B": "Fee-for-service, balance billing, and cash-only pricing",
+   "C": "Health savings accounts, copays, and deductibles",
+   "D": "Relative value units, charge masters, and DRG weights"
+  },
+  "answer": "A",
+  "exp": "The APM examples the chapter lists are global budgets, accountable care organizations, bundled payments, and reference-based pricing — mechanisms that tie payment to value/episodes rather than volume. The distractors are the opposite: fee-for-service/balance billing/cash-only are volume- or charge-based; HSAs/copays/deductibles are cost-sharing tools; and RVUs/charge masters/DRG weights are fee-setting units — none is an APM.",
+  "hy": "APMs = global budgets, ACOs, bundled payments, reference-based pricing.",
+  "src": "Neligan I.6 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.19",
+  "chapter": "Ch6",
+  "section": "Future directions",
+  "stem": "The chapter singles out bundled payments as the APM most associated with surgical care. Which two core elements characterize a bundled payment?",
+  "options": {
+   "A": "An agreed-upon target price covering all services in a care episode, plus an accountable entity bearing the spending and outcome risk",
+   "B": "A per-visit fee with no cap, plus full indemnity for the surgeon",
+   "C": "A capitated monthly premium, plus unlimited specialist referrals",
+   "D": "A discount off charges, plus retrospective fee-for-service reconciliation"
+  },
+  "answer": "A",
+  "exp": "A bundled payment is defined by two core elements: an agreed-upon target price (a lump sum or cap) covering all services across the sites of a care episode, and an accountable entity (surgeon or hospital) that bears the spending and clinical-outcome risk. The distractors describe non-bundled arrangements: an uncapped per-visit fee with indemnity, a capitated premium with unlimited referrals, and a charge discount with retrospective fee-for-service reconciliation are not episode-based target-price-plus-risk bundles.",
+  "hy": "Bundle = target price for the episode + accountable risk-bearing entity.",
+  "src": "Neligan I.6 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.20",
+  "chapter": "Ch6",
+  "section": "Introduction",
+  "stem": "Underscoring why value matters to surgery, the chapter cites recent estimates of surgical care's share of Medicare spending. Approximately what fraction of all Medicare spending does surgical care account for?",
+  "options": {
+   "A": "About 51%",
+   "B": "About 10%",
+   "C": "About 25%",
+   "D": "About 80%"
+  },
+  "answer": "A",
+  "exp": "The chapter cites recent estimates that surgical care accounts for about 51% of all Medicare spending, underscoring why value-based care is salient to surgery. The distractors (10%, 25%, 80%) do not match the cited figure; 51% is the specific number tied to surgical care's share.",
+  "hy": "Surgical care ≈ 51% of Medicare spending.",
+  "src": "Neligan I.6 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.21",
+  "chapter": "Ch6",
+  "section": "Introduction",
+  "stem": "What figure does the chapter give for US healthcare spending as a share of GDP (2017), in international context?",
+  "options": {
+   "A": "Nearly 18% of GDP — nearly double that of any other industrialized country",
+   "B": "About 5% of GDP — comparable to most industrialized countries",
+   "C": "About 35% of GDP — roughly triple the next-highest country",
+   "D": "About 9% of GDP — slightly below the OECD average"
+  },
+  "answer": "A",
+  "exp": "The chapter states the US spent nearly 18% of GDP on healthcare in 2017 — nearly double that of any other industrialized country — motivating the push for value. The distractors understate or wildly overstate this: ~5% or ~9% would put the US near or below peers (it is not), and ~35% triples the real figure.",
+  "hy": "US ≈ 18% of GDP on healthcare (2017), ~double peer nations.",
+  "src": "Neligan I.6 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.22",
+  "chapter": "Ch6",
+  "section": "Introduction",
+  "stem": "The chapter underscores the personal financial burden of healthcare costs in the US. Which statement does it make about medical bills?",
+  "options": {
+   "A": "Financial obligations from medical care are the leading cause of individual bankruptcy in the US",
+   "B": "Medical bills are a negligible contributor to personal bankruptcy",
+   "C": "Medical bankruptcy occurs only among the uninsured",
+   "D": "Bankruptcy from medical bills has been eliminated by the Affordable Care Act"
+  },
+  "answer": "A",
+  "exp": "The chapter states that financial obligations from medical care are the leading cause of individual bankruptcy in the US, part of the escalating economic strain motivating value-based reform. The distractors minimize or misattribute this: medical bills are not a negligible contributor, medical bankruptcy is not limited to the uninsured, and it has not been eliminated by the ACA.",
+  "hy": "Medical bills = leading cause of personal bankruptcy in the US.",
+  "src": "Neligan I.6 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.23",
+  "chapter": "Ch6",
+  "section": "Future directions",
+  "stem": "According to Fig. 6.1, fairly benchmarking reimbursement for procedural bundling requires that a service line have which characteristics?",
+  "options": {
+   "A": "Predictability in both cost and complications, with risk adjustment to attribute downside risk equitably",
+   "B": "The highest possible procedural volume, regardless of complication variability",
+   "C": "A single surgeon performing every step of care",
+   "D": "Complete absence of any postoperative complications"
+  },
+  "answer": "A",
+  "exp": "Per Fig. 6.1, fair benchmarking for procedural bundling requires predictability in both cost and complications, with risk adjustment so downside risk is attributed equitably — which is why predictable service lines (cosmetic, routine hand, breast reconstruction) bundle more readily than trauma/burn. The distractors miss this: chasing volume despite variable complications, single-surgeon care, or demanding zero complications are not the cost-and-complication-predictability criterion the figure depicts.",
+  "hy": "Bundling needs predictability in cost AND complications (+ risk adjustment).",
+  "src": "Neligan I.6 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-6.24",
+  "chapter": "Ch6",
+  "section": "Introduction",
+  "stem": "The chapter argues surgical care is especially suited to a value-based framework. Which feature does it cite as supporting this, alongside its episodic nature and high cost variation?",
+  "options": {
+   "A": "An established culture of outcomes measurement through registries such as ACS-NSQIP and the STS Cardiac Surgery Registry",
+   "B": "The absence of any interdisciplinary involvement in surgical care",
+   "C": "Reimbursement that is already entirely value-based",
+   "D": "A lack of measurable complications in most operations"
+  },
+  "answer": "A",
+  "exp": "The chapter says surgical care suits a value-based framework partly because of an established culture of outcomes measurement through registries such as ACS-NSQIP, the STS Cardiac Surgery Registry, and TOPS — alongside its episodic nature, interdisciplinary delivery, and high cost/outcome variation. The distractors contradict the text: surgery is highly interdisciplinary (not devoid of it), is *not* already fully value-based, and does have measurable complications (the basis for the registries).",
+  "hy": "Surgery suits VBC: episodic, interdisciplinary, outcomes-registry culture (ACS-NSQIP/STS/TOPS), high variation.",
+  "src": "Neligan I.6 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "6",
+  "chname": "Value-Based Healthcare"
+ },
+ {
+  "id": "N-I-7.1",
+  "chapter": "Ch7",
+  "section": "Synopsis",
+  "stem": "The chapter frames clinical photography's role in plastic surgery in the strongest possible terms. Which statement reflects its stance?",
+  "options": {
+   "A": "Photography is the standard of care and a sine qua non for proper practice in plastic surgery",
+   "B": "Photography is an optional adjunct best reserved for aesthetic cases",
+   "C": "Photography is primarily a marketing tool with little documentary value",
+   "D": "Photography is being rendered obsolete by the written operative note"
+  },
+  "answer": "A",
+  "exp": "The chapter's synopsis states unequivocally that photography is standard of care and a sine qua non for proper plastic surgery practice, because the specialty is highly visual and depends on accurate representation of form and function to diagnose, plan, treat, and track outcomes. The distractors understate this: photography is not merely optional, not primarily promotional, and is not being replaced by the operative note — the image carries far more information (color, texture, contour) than words can.",
+  "hy": "Clinical photography = standard of care / sine qua non in plastic surgery.",
+  "src": "Neligan I.7 · Synopsis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.2",
+  "chapter": "Ch7",
+  "section": "Standards in capturing images",
+  "stem": "To standardize magnification, the chapter specifies particular lens equivalents for facial versus body photographs. Which pairing is correct (in 35 mm film terms)?",
+  "options": {
+   "A": "Facial photos at the 100 mm lens equivalent; body photos at the 50 mm equivalent",
+   "B": "Facial photos at the 50 mm equivalent; body photos at the 100 mm equivalent",
+   "C": "Both facial and body photos at the 35 mm equivalent",
+   "D": "Facial photos at the 200 mm equivalent; body photos at the 24 mm equivalent"
+  },
+  "answer": "A",
+  "exp": "The standard is facial photographs at the 35 mm-film 100 mm-lens equivalent and body images at the 50 mm equivalent, which control magnification and minimize distortion. The distractors swap the values (50 for face / 100 for body is reversed), collapse both to 35 mm, or use extreme focal lengths (200/24 mm) the chapter does not endorse.",
+  "hy": "Face = 100 mm equiv; body = 50 mm equiv.",
+  "src": "Neligan I.7 · Standards in capturing images",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.3",
+  "chapter": "Ch7",
+  "section": "Key principles",
+  "stem": "To avoid motion blur from subject movement, the chapter sets a minimum shutter speed for clinical photographs. What is it?",
+  "options": {
+   "A": "1/60 of a second or faster",
+   "B": "1/4 of a second or faster",
+   "C": "1/2 of a second or faster",
+   "D": "2 seconds or faster"
+  },
+  "answer": "A",
+  "exp": "To prevent blur from subject movement, shutter speed should be 1/60 of a second or faster (with adequate lighting to allow it). The distractors are far too slow: 1/4 s, 1/2 s, and 2 s would all produce motion blur in a standing clinical subject.",
+  "hy": "Shutter speed ≥ 1/60 s.",
+  "src": "Neligan I.7 · Key principles",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.4",
+  "chapter": "Ch7",
+  "section": "Lens aperture",
+  "stem": "The chapter advises a particular aperture range to keep adequate depth of field. Which statement is correct?",
+  "options": {
+   "A": "An f-stop of 16 or higher (narrow aperture) should be used, as a narrow aperture increases depth of field",
+   "B": "An f-stop of 1.4 (wide aperture) should be used, as a wide aperture increases depth of field",
+   "C": "Aperture has no effect on depth of field, only on shutter speed",
+   "D": "A wide aperture (low f-stop) is preferred to capture the crow's feet and submentum simultaneously"
+  },
+  "answer": "A",
+  "exp": "A narrow aperture means a high f-stop, which increases depth of field; the chapter advises an f-stop of 16 or higher and consistency across pre- and postoperative images (darker skin may need a larger f-stop to avoid underexposure). The distractors invert the optics: f1.4 is a *wide* aperture that gives *shallow* depth of field; aperture certainly affects depth of field; and a wide aperture would blur, not sharpen, simultaneous near-and-far features like crow's feet and submentum.",
+  "hy": "f-stop ≥16 (narrow aperture) → greater depth of field.",
+  "src": "Neligan I.7 · Lens aperture and shutter speed",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.5",
+  "chapter": "Ch7",
+  "section": "Key principles",
+  "stem": "Regarding sensor resolution, what does the chapter conclude is needed for clinical plastic surgery photographs?",
+  "options": {
+   "A": "More than ~6 megapixels are generally not required, though most modern cameras capture ≥20",
+   "B": "A minimum of 50 megapixels is required for adequate documentation",
+   "C": "Fewer than 1 megapixel is sufficient for all clinical purposes",
+   "D": "Resolution is irrelevant; any phone camera meets the standard of care"
+  },
+  "answer": "A",
+  "exp": "The chapter concludes that more than ~6 megapixels are generally not required for clinical photographs, even though most modern cameras capture ≥20 MP (and minimum arrays are now >3000 × 2000 = 6 MP). The distractors overstate the need (50 MP), understate it absurdly (<1 MP), or wrongly claim a phone meets the standard of care — the text says phone cameras remain inadequate.",
+  "hy": ">6 MP not required (most cameras ≥20).",
+  "src": "Neligan I.7 · Key principles",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.6",
+  "chapter": "Ch7",
+  "section": "Background",
+  "stem": "The chapter specifies the optimal photographic background for the best skin tones and least exposure interference. Which background is recommended?",
+  "options": {
+   "A": "Medium blue or 18% gray, featureless",
+   "B": "Pure white, to maximize brightness",
+   "C": "Pure black, for maximum contrast",
+   "D": "Green surgical towels"
+  },
+  "answer": "A",
+  "exp": "A medium-blue or 18% gray featureless background gives the best skin tones and least exposure interference (standard blue surgical towels are close enough to ideal). The distractors are explicitly cautioned against: pure white and pure black skew metering and don't render natural skin color, and green surgical towels are specifically called unsuitable.",
+  "hy": "Background = medium blue or 18% gray.",
+  "src": "Neligan I.7 · Background",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.7",
+  "chapter": "Ch7",
+  "section": "Composition — full face",
+  "stem": "In the anterior–posterior facial view, how does the chapter say the frame should be bounded superiorly and inferiorly?",
+  "options": {
+   "A": "About 2 cm (≈10% of image height) of background above the vertex; the inferior border stops just below the suprasternal notch",
+   "B": "The frame is cropped exactly at the hairline above and the chin below",
+   "C": "The superior border cuts the top of the skull; the inferior border ends at the lips",
+   "D": "The whole body must be included from vertex to feet"
+  },
+  "answer": "A",
+  "exp": "In the AP facial view, leave about 2 cm (≈10% of the image's vertical height) of background above the vertex, and stop the inferior border just below the suprasternal notch. The distractors crop too tightly (hairline-to-chin or skull-top-to-lips) or far too widely (whole body), none matching the chapter's vertex-to-suprasternal-notch framing.",
+  "hy": "AP face: ~2 cm above vertex → just below suprasternal notch.",
+  "src": "Neligan I.7 · Composition and positioning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.8",
+  "chapter": "Ch7",
+  "section": "Composition — full face",
+  "stem": "The chapter uses a specific anatomic reference plane, kept parallel to the floor, to standardize head positioning. Which plane is it, and how is it defined?",
+  "options": {
+   "A": "The Frankfort horizontal plane, connecting the infra-orbital rim to the tragus",
+   "B": "The Camper plane, connecting the nasal tip to the earlobe",
+   "C": "The occlusal plane, connecting the upper and lower incisal edges",
+   "D": "The Reid plane, connecting the glabella to the menton"
+  },
+  "answer": "A",
+  "exp": "The Frankfort horizontal plane — connecting the infra-orbital rim to the tragus — is kept parallel to the floor to standardize head position. The distractors invent or misdefine planes: \"Camper,\" \"occlusal,\" and \"Reid\" are named for other landmarks, and only the Frankfort plane (infra-orbital rim ↔ tragus) is the standard used here.",
+  "hy": "Frankfort plane = infra-orbital rim to tragus, parallel to floor.",
+  "src": "Neligan I.7 · Composition and positioning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.9",
+  "chapter": "Ch7",
+  "section": "Composition — full face",
+  "stem": "What is the standard basic set of facial views the chapter prescribes?",
+  "options": {
+   "A": "Five views — anterior–posterior, two obliques (right and left), and two laterals (right and left)",
+   "B": "Two views — anterior–posterior and a single lateral",
+   "C": "Three views — anterior–posterior, right lateral, and posterior",
+   "D": "A single anterior–posterior view supplemented by close-ups"
+  },
+  "answer": "A",
+  "exp": "The basic facial set is five views: anterior–posterior, right and left obliques, and right and left laterals. The distractors give incomplete sets (two or three views, or a single AP with close-ups) that omit the standardized oblique/lateral pairs.",
+  "hy": "Standard face = 5 views (AP, 2 oblique, 2 lateral).",
+  "src": "Neligan I.7 · Composition and positioning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.10",
+  "chapter": "Ch7",
+  "section": "Focal length and distortion",
+  "stem": "The chapter corrects a common misconception about facial photography. Which statement is correct about perspective distortion?",
+  "options": {
+   "A": "Perspective distortion is determined exclusively by subject-to-camera distance; focal length affects subject size in the frame but not perspective",
+   "B": "Perspective distortion is determined exclusively by the lens focal length, independent of distance",
+   "C": "Perspective distortion is eliminated entirely by using a wide-angle lens up close",
+   "D": "Perspective and optical distortion are the same phenomenon"
+  },
+  "answer": "A",
+  "exp": "The key correction: perspective distortion is determined *exclusively* by subject-to-camera distance, while focal length only changes the subject's size within the frame — changing focal length affects perspective only *indirectly*, because you must move to keep framing constant. The distractors embody the very misconception the chapter debunks (blaming focal length), claim a wide-angle lens up close removes distortion (it worsens it), or conflate perspective with optical distortion.",
+  "hy": "Perspective distortion = subject distance, NOT focal length.",
+  "src": "Neligan I.7 · Focal length and distortion",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.11",
+  "chapter": "Ch7",
+  "section": "Focal length and distortion",
+  "stem": "The chapter distinguishes optical distortion from perspective distortion. Which statement correctly characterizes optical distortion?",
+  "options": {
+   "A": "It is a lens artifact (e.g., barrel stretch from wide-angle lenses) that can usually be corrected in software and rarely affects facial distortion at normal distances",
+   "B": "It is caused solely by the subject standing too far from the camera",
+   "C": "It is impossible to correct and always dominates facial photographs",
+   "D": "It is identical to perspective distortion and varies only with subject distance"
+  },
+  "answer": "A",
+  "exp": "Optical distortion is a lens artifact — most notably barrel stretch from wide-angle lenses — that can usually be corrected in software and rarely affects facial distortion at normal shooting distances. The distractors misassign it: distance-driven stretch is *perspective* distortion, optical distortion is correctable (not always dominant), and it is not identical to perspective distortion.",
+  "hy": "Optical distortion = correctable lens artifact (≠ perspective distortion).",
+  "src": "Neligan I.7 · Focal length and distortion",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.12",
+  "chapter": "Ch7",
+  "section": "Composition",
+  "stem": "When imaging the malar eminence, which viewpoint does the chapter say is generally preferred?",
+  "options": {
+   "A": "The bird's-eye view is generally preferred over the worm's-eye view",
+   "B": "The worm's-eye view is always preferred over the bird's-eye view",
+   "C": "Only a strict lateral view should ever be used",
+   "D": "The viewpoint is irrelevant for the malar eminence"
+  },
+  "answer": "A",
+  "exp": "For the malar eminence, the chapter says the bird's-eye view is generally preferred over the worm's-eye view (unless a particular anatomic feature dictates otherwise). The distractors over-state the worm's-eye view, restrict imaging to a strict lateral, or wrongly call viewpoint irrelevant.",
+  "hy": "Malar eminence → bird's-eye preferred over worm's-eye.",
+  "src": "Neligan I.7 · Composition and positioning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.13",
+  "chapter": "Ch7",
+  "section": "White balance",
+  "stem": "The chapter explains why a single on-camera flash is problematic for clinical photography. What is the issue, and what is preferred?",
+  "options": {
+   "A": "A single on-camera flash causes harsh shadowing in all backgrounds except black; a multiple-flash studio system gives consistent flesh tones",
+   "B": "A single on-camera flash overexposes only black backgrounds; ambient fluorescent light is preferred",
+   "C": "On-camera flash is ideal and a multi-flash system offers no advantage",
+   "D": "Flash should never be used; auto white balance under fluorescent light is most consistent"
+  },
+  "answer": "A",
+  "exp": "A single on-camera flash produces harsh shadowing in every background except black, so a multiple-flash system in a dedicated studio is preferred to capture flesh tones consistently (flash also forces smaller aperture, lower ISO, shorter exposure, minimizing ambient-light variation). The distractors get the physics backwards: the problem is shadowing across backgrounds (not just black), on-camera flash is *not* ideal, and auto white balance under pulsating fluorescent light is specifically called a source of image-to-image variation.",
+  "hy": "Single on-camera flash → harsh shadows; use multi-flash studio.",
+  "src": "Neligan I.7 · White balance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.14",
+  "chapter": "Ch7",
+  "section": "Background",
+  "stem": "Why does the chapter caution against pure white or black backgrounds with the default camera metering mode?",
+  "options": {
+   "A": "White/black backgrounds skew the default matrix metering, so the mode must be switched to spot metering on the skin in the center of the field",
+   "B": "White/black backgrounds are ideal and require no metering change",
+   "C": "They cause the autofocus to fail completely",
+   "D": "They are forbidden by HIPAA for medical photographs"
+  },
+  "answer": "A",
+  "exp": "Pure white or black backgrounds bias the default matrix metering, so the photographer must switch to spot metering on the skin in the center of the field (and even then the sharp contrast won't render natural skin color). The distractors wrongly call white/black ideal, blame autofocus, or invoke HIPAA — none is the metering issue described.",
+  "hy": "White/black backgrounds → switch to spot metering on skin.",
+  "src": "Neligan I.7 · Background",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.15",
+  "chapter": "Ch7",
+  "section": "Archiving — cameras",
+  "stem": "Most digital cameras filter light using a checkerboard color pattern. Which pattern does the chapter name as most common, and how is it arranged?",
+  "options": {
+   "A": "The Bayer pattern — every other pixel is green, while one in four is red or blue",
+   "B": "The Foveon pattern — every pixel records all three colors in stacked layers",
+   "C": "The RGB-stripe pattern — equal vertical stripes of red, green, blue",
+   "D": "A pattern in which every pixel is gray and color is added in software"
+  },
+  "answer": "A",
+  "exp": "The Bayer pattern is the most common digital color filter array: every other pixel is green, while one in four is red or blue (mimicking the eye's green sensitivity). The distractors describe other or invented schemes: Foveon's stacked full-color pixels, an RGB-stripe arrangement, and an all-gray sensor are not the Bayer mosaic the chapter names.",
+  "hy": "Bayer pattern = ½ green, ¼ red, ¼ blue.",
+  "src": "Neligan I.7 · Archiving — cameras",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.16",
+  "chapter": "Ch7",
+  "section": "Archiving — cameras",
+  "stem": "The chapter contrasts the two main image-sensor technologies. Which pairing is correct?",
+  "options": {
+   "A": "CCD (charge-coupled device) and CMOS (complementary metal-oxide semiconductor) — both can capture excellent images",
+   "B": "CCD and LED are the two competing sensor types",
+   "C": "CMOS sensors use light-sensitive silver halides like film",
+   "D": "Only CCD sensors exist in modern cameras; CMOS is obsolete"
+  },
+  "answer": "A",
+  "exp": "The two main sensor technologies are the CCD (charge-coupled device) and the CMOS (complementary metal-oxide semiconductor); the chapter notes well-designed cameras of either type capture excellent images. The distractors are wrong: LED is not an image sensor, CMOS does not use silver halides (that is film), and CCD is not the only modern sensor (CMOS is widespread).",
+  "hy": "Image sensors = CCD vs CMOS (both excellent).",
+  "src": "Neligan I.7 · Archiving — cameras",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.17",
+  "chapter": "Ch7",
+  "section": "Table 7.1",
+  "stem": "In Table 7.1, the \"full frame\" sensor format is the reference standard. What crop factor and physical size does the chapter assign it?",
+  "options": {
+   "A": "Crop factor 1×, 36 × 24 mm",
+   "B": "Crop factor 1.5×, 23.6 × 15.7 mm",
+   "C": "Crop factor 0.79×, 44 × 33 mm",
+   "D": "Crop factor 2×, 17.3 × 13 mm"
+  },
+  "answer": "A",
+  "exp": "In Table 7.1 the full-frame format is the 1× reference, sized 36 × 24 mm (the classic 35 mm-film frame). The distractors are *other* rows of the same table: 1.5× / 23.6 × 15.7 mm is APS-C, 0.79× / 44 × 33 mm is medium format, and 2× / 17.3 × 13 mm is Micro Four Thirds — none is full frame.",
+  "hy": "Full frame = 1× crop, 36 × 24 mm (Table 7.1).",
+  "src": "Neligan I.7 · Table 7.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.18",
+  "chapter": "Ch7",
+  "section": "Table 7.1",
+  "stem": "Based on Table 7.1, how does a sensor's crop factor relate to its physical size?",
+  "options": {
+   "A": "Crop factor rises as sensor size falls — e.g., APS-C (≈1.5×) is smaller than full frame (1×), and medium format (0.79×) is larger",
+   "B": "Crop factor rises as sensor size rises — larger sensors have larger crop factors",
+   "C": "All listed formats share the same 1× crop factor",
+   "D": "Crop factor depends only on megapixel count, not physical size"
+  },
+  "answer": "A",
+  "exp": "Reading across Table 7.1, crop factor moves *inversely* to sensor size: smaller sensors have larger crop factors (APS-C ≈1.5× is smaller than full frame's 1×), and the larger medium-format sensor has a crop factor below 1 (0.79×). The distractors reverse the relationship, claim all formats share 1×, or attribute crop factor to megapixels rather than physical sensor size.",
+  "hy": "Smaller sensor → larger crop factor (inverse relationship).",
+  "src": "Neligan I.7 · Table 7.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.19",
+  "chapter": "Ch7",
+  "section": "File formats",
+  "stem": "The chapter recommends a particular file format as best for print reproduction, supporting 24-bit color and lossless (LZW) compression. Which format?",
+  "options": {
+   "A": "TIFF",
+   "B": "JPEG",
+   "C": "GIF",
+   "D": "RAW"
+  },
+  "answer": "A",
+  "exp": "TIFF (Tagged Image File Format) is recommended for print reproduction: a bit-mapped/raster format supporting 24-bit color with header-tagged attributes and safe lossless LZW compression. The distractors differ: JPEG is lossy, GIF uses a limited palette for graphics, and RAW is an unprocessed \"digital negative\" — none is the print-oriented lossless TIFF.",
+  "hy": "TIFF = lossless, print reproduction (LZW).",
+  "src": "Neligan I.7 · File formats",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.20",
+  "chapter": "Ch7",
+  "section": "File formats",
+  "stem": "The chapter calls one format \"perhaps the most common file type\" and notes it is \"lossy,\" with selectable compression that trades file size against image quality. Which format?",
+  "options": {
+   "A": "JPEG (JPG)",
+   "B": "TIFF",
+   "C": "PSD (Photoshop)",
+   "D": "RAW"
+  },
+  "answer": "A",
+  "exp": "JPEG (JPG) is described as perhaps the most common file type and is \"lossy,\" with selectable compression (none up to ~90%) that trades file size against fidelity — ideal for quick email exchange. The distractors are not the common lossy format: TIFF is lossless print, PSD is Adobe's proprietary layered format, and RAW is the unprocessed digital negative.",
+  "hy": "JPEG = most common, lossy, selectable compression.",
+  "src": "Neligan I.7 · File formats",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.21",
+  "chapter": "Ch7",
+  "section": "File formats",
+  "stem": "The chapter likens one format to a \"digital negative.\" Which format, and why?",
+  "options": {
+   "A": "RAW — it is the truest image, with no white balance, color processing, compression, or sharpening applied, though files are 2–6× larger than JPEG",
+   "B": "JPEG — because it compresses the image like a developed print",
+   "C": "GIF — because it stores a fixed palette like a film negative",
+   "D": "PSD — because it is Adobe's proprietary negative format"
+  },
+  "answer": "A",
+  "exp": "RAW is the \"digital negative\": the truest image, with no white balance, color processing, compression, or sharpening applied, fulfilling the role film negatives once did — at the cost of files 2–6× larger than JPEG and a need for specialized software. The distractors misassign the analogy: JPEG is a compressed/processed format (like a print, not a negative), GIF is a palette format, and PSD is Adobe's editing format, not the unprocessed capture.",
+  "hy": "RAW = unprocessed \"digital negative,\" 2–6× larger than JPEG.",
+  "src": "Neligan I.7 · File formats",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.22",
+  "chapter": "Ch7",
+  "section": "Metadata",
+  "stem": "Modern cameras embed technical capture data (camera, lens, date, shutter, aperture) in a standard image-metadata format. What is it called?",
+  "options": {
+   "A": "EXIF",
+   "B": "DICOM",
+   "C": "ICD-10",
+   "D": "CODEC"
+  },
+  "answer": "A",
+  "exp": "EXIF is the standard metadata format modern cameras use to record camera type, lens, date, time, shutter, aperture, and other technical capture data. The distractors are different standards: DICOM is the medical-imaging (radiology) standard, ICD-10 is a diagnosis-coding system, and a CODEC is a video coder-decoder — none is the still-image capture-metadata format.",
+  "hy": "EXIF = camera capture metadata.",
+  "src": "Neligan I.7 · Image attributes and metadata",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.23",
+  "chapter": "Ch7",
+  "section": "Metadata and privacy",
+  "stem": "Which 1996 federal law does the chapter cite as driving increased emphasis on patient privacy across the medical record, including photographs?",
+  "options": {
+   "A": "The Health Insurance Portability and Accountability Act (HIPAA)",
+   "B": "The American Recovery and Reinvestment Act",
+   "C": "The Sarbanes–Oxley Act",
+   "D": "The Patient Safety and Quality Improvement Act"
+  },
+  "answer": "A",
+  "exp": "The chapter cites the Health Insurance Portability and Accountability Act of 1996 (HIPAA, PL 104-91) as driving increased emphasis on patient privacy across the entire medical record, including photographs (later extended to business associates by the 2009 ARRA). The distractors are real laws with other purposes: ARRA is the 2009 stimulus that *extended* HIPAA, Sarbanes–Oxley is corporate-accounting reform, and the Patient Safety and Quality Improvement Act addresses error reporting — none is the 1996 privacy law.",
+  "hy": "HIPAA (1996) = patient-privacy law covering photographs.",
+  "src": "Neligan I.7 · Image attributes and metadata",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.24",
+  "chapter": "Ch7",
+  "section": "Digital image characteristics",
+  "stem": "Parker et al. documented four basic ways inconsistency is introduced into clinical photography. Which set matches their scheme?",
+  "options": {
+   "A": "Photographer-based, publisher-based, combined, and patient-based",
+   "B": "Lens-based, sensor-based, software-based, and printer-based",
+   "C": "Pre-operative, intra-operative, post-operative, and archival",
+   "D": "Lighting, metering, depth of field, and color temperature"
+  },
+  "answer": "A",
+  "exp": "Parker et al. classified inconsistency into four sources: photographer-based, publisher-based, combined, and patient-based. The distractors are plausible-sounding but invented groupings (hardware-based lists, phase-of-care lists, or the lighting/metering/depth/color set, which actually belongs to Galdino's indirect-variable scheme) — none is Parker's four-category model.",
+  "hy": "Parker: photographer / publisher / combined / patient sources of inconsistency.",
+  "src": "Neligan I.7 · Digital image characteristics",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.25",
+  "chapter": "Ch7",
+  "section": "Composition — eyes",
+  "stem": "Beyond the standard five views, the chapter lists additional dedicated eye views. Which set does it specify?",
+  "options": {
+   "A": "Closed-eye (superior tarsal sulcus/fold), upward gaze (inferior orbital fat), and squinting views",
+   "B": "Only a single anterior close-up of each eye",
+   "C": "Worm's-eye and bird's-eye views exclusively",
+   "D": "A Frankfort-plane view and an occlusal-plane view"
+  },
+  "answer": "A",
+  "exp": "Beyond the standard five views, the dedicated eye views are the closed-eye view (highlighting the superior tarsal sulcus and fold), the upward-gaze view (inferior orbital fat pockets/lower lid), and a squinting view (orbicularis action) — with a tightly-closed-lid view occasionally added. The distractors are inadequate or wrong: a single anterior close-up omits the functional views, worm's/bird's-eye are facial-contour viewpoints, and Frankfort/occlusal planes are positioning references, not eye views.",
+  "hy": "Eye views: closed-eye, upward gaze, squinting.",
+  "src": "Neligan I.7 · Composition — eyes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.26",
+  "chapter": "Ch7",
+  "section": "Purpose",
+  "stem": "The chapter notes that morphing/simulation software carries an important default disclaimer to avoid implying a guaranteed result. Which disclaimer does it cite (from the Mirror Image program)?",
+  "options": {
+   "A": "\"Simulation only: Actual results may differ\"",
+   "B": "\"Results guaranteed as shown\"",
+   "C": "\"For entertainment purposes only\"",
+   "D": "\"Not a medical record\""
+  },
+  "answer": "A",
+  "exp": "The chapter cites the Mirror Image program's important default disclaimer — \"Simulation only: Actual results may differ\" — to avoid implying a guaranteed outcome when showing morphed postoperative previews. The distractors are the opposite of safe practice: guaranteeing results, calling it entertainment, or denying it is a medical record would all create medico-legal exposure rather than mitigate it.",
+  "hy": "Simulation disclaimer: \"Simulation only: Actual results may differ.\"",
+  "src": "Neligan I.7 · Purpose",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.27",
+  "chapter": "Ch7",
+  "section": "New frontiers — 3D",
+  "stem": "The chapter describes a 3D technology that gives patients a simulated postoperative view of their own anatomy. Which technology does it name?",
+  "options": {
+   "A": "Physics-based finite element analysis (FEA) 3D surface imaging",
+   "B": "Two-dimensional matrix metering",
+   "C": "Lossless LZW compression",
+   "D": "Spot-meter morphometry"
+  },
+  "answer": "A",
+  "exp": "The chapter names physics-based finite element analysis (FEA) 3D surface imaging as the technology that gives patients a simulated, manipulable postoperative view of their own anatomy from varying angles, improving communication. The distractors are unrelated photographic concepts: matrix metering, LZW compression, and spot metering are capture/file techniques, not 3D simulation.",
+  "hy": "3D simulation = physics-based FEA surface imaging.",
+  "src": "Neligan I.7 · New frontiers — 3D",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.28",
+  "chapter": "Ch7",
+  "section": "New frontiers — planning",
+  "stem": "The chapter discusses computer-based virtual surgical planning (VSP) available from commercial companies. Which downstream technology does it pair with VSP as potentially \"revolutionizing\" implants?",
+  "options": {
+   "A": "3D printing of customized implants and prostheses",
+   "B": "Floppy-disk archival storage",
+   "C": "Single on-camera flash photography",
+   "D": "GIF-based image compression"
+  },
+  "answer": "A",
+  "exp": "Virtual surgical planning (VSP) is paired with 3D printing of customized implants and prostheses, which — by integrating precise anatomical topography into preoperative planning — the chapter says could revolutionize implants in plastic surgery. The distractors are obsolete or unrelated: floppy-disk storage, on-camera flash, and GIF compression have nothing to do with VSP-driven custom implants.",
+  "hy": "VSP + 3D printing → customized implants.",
+  "src": "Neligan I.7 · New frontiers — planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.29",
+  "chapter": "Ch7",
+  "section": "New frontiers — manipulation",
+  "stem": "The chapter warns about AI-generated falsified images created with generative adversarial networks. What term does it use for these realistic fake still images and videos?",
+  "options": {
+   "A": "Deepfakes",
+   "B": "Morphs",
+   "C": "Raster artifacts",
+   "D": "Codecs"
+  },
+  "answer": "A",
+  "exp": "AI-generated, highly realistic fake still images and videos — created with generative adversarial networks (a neural-network method) — are termed \"deepfakes,\" which the chapter flags as a threat to outcome transparency (falsified results/testimonials). The distractors are different concepts: a \"morph\" is interpolation between two images, \"raster artifacts\" are compression flaws, and a \"codec\" is a video coder-decoder — none is the GAN-generated deepfake.",
+  "hy": "GAN-generated fake images/videos = deepfakes.",
+  "src": "Neligan I.7 · New frontiers — manipulation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-7.30",
+  "chapter": "Ch7",
+  "section": "Archiving — storage",
+  "stem": "What backup discipline does the chapter recommend for digital image archives?",
+  "options": {
+   "A": "At least two copies onsite and another offsite at a remote location, to guard against fire, water, or earthquake damage",
+   "B": "A single copy on the camera's memory card is sufficient",
+   "C": "One copy on a floppy disk, refreshed yearly",
+   "D": "Cloud storage only, with no local copies"
+  },
+  "answer": "A",
+  "exp": "The recommended backup discipline is at least two copies onsite plus another offsite at a remote location, to survive water, fire, or earthquake damage (digital files can fail catastrophically, unlike a merely scratched transparency). The distractors are unsafe: a single memory-card copy, a single yearly-refreshed floppy, or cloud-only with no local copy all leave the archive vulnerable to a single point of failure.",
+  "hy": "Backup = ≥2 copies onsite + 1 offsite.",
+  "src": "Neligan I.7 · Archiving — storage",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "7",
+  "chname": "Digital Photography in Plastic Surgery"
  }
 ]
