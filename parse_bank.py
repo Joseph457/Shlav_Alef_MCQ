@@ -34,9 +34,10 @@ def parse_bank(path):
         chname[m.group(1)] = re.sub(r'\s*\(Vol[^)]*\)\s*$', '', m.group(2)).strip()
 
     items = {}
-    qre = re.compile(r'^\*\*([A-Za-z0-9.\-]+)\*\*\s*\*\[(.*?)\]\*\s*(.*?)\n((?:- [A-D]\..*\n?)+)', re.M)
+    # optional markdown image line between stem and options: ![caption](images/<id>.jpg)
+    qre = re.compile(r'^\*\*([A-Za-z0-9.\-]+)\*\*\s*\*\[(.*?)\]\*\s*(.*?)\n(?:!\[([^\]]*)\]\(\s*([^)\s]+)\s*\)\s*\n)?((?:- [A-D]\..*\n?)+)', re.M)
     for m in qre.finditer(qpart):
-        qid, tag, stem, opts = m.groups()
+        qid, tag, stem, imgcap, imgpath, opts = m.groups()
         cm = re.match(r'Ch\s*(\d+)\s*·\s*(.*)', tag)
         chnum = cm.group(1) if cm else ""
         section = (cm.group(2).strip() if cm else tag.strip())
@@ -44,9 +45,13 @@ def parse_bank(path):
         vol = ""
         vm = re.match(r'[A-Z]-([IVX]+)-', qid)
         if vm: vol = vm.group(1)
-        items[qid] = {'id':qid,'chapter':'Ch'+chnum,'section':section,'stem':stem.strip(),
+        it = {'id':qid,'chapter':'Ch'+chnum,'section':section,'stem':stem.strip(),
                       'options':options,'book':book,'vol':vol,'chnum':chnum,
                       'chname':chname.get(chnum,'')}
+        if imgpath:
+            it['image'] = imgpath.strip()
+            if imgcap and imgcap.strip(): it['imgcap'] = imgcap.strip()
+        items[qid] = it
 
     are = re.compile(r'^\*\*([A-Za-z0-9.\-]+)\s*[—\-]\s*([A-D])\.\*\*\s*(.*?)\s*🔑\s*(.*?)\s*📖\s*(.*?)\s*$', re.M)
     for m in are.finditer(apart):
@@ -71,13 +76,18 @@ def main():
         for qid, it in items.items():
             if qid in have:
                 continue
-            missing = [k for k in SCHEMA if k not in it or it[k] in (None, "", {})]
+            # vol is legitimately empty for non-Neligan books (Sabiston/Bologna have no volume)
+            required = [k for k in SCHEMA if k != 'vol']
+            missing = [k for k in required if k not in it or it[k] in (None, "", {})]
             if 'options' in it and len(it['options']) == 4 and all(it['options'].get(k) for k in "ABCD"):
                 missing = [k for k in missing if k != 'options']
             if missing:
                 sys.exit(f"ABORT: new item {qid} is incomplete (missing/empty {missing}) -- "
                          f"likely a truncated bank read. Do NOT push.")
-            new.append({k: it[k] for k in SCHEMA})
+            rec = {k: it[k] for k in SCHEMA}
+            for opt in ('image','imgcap'):
+                if it.get(opt): rec[opt] = it[opt]
+            new.append(rec)
             have.add(qid)
 
     merged = existing + new

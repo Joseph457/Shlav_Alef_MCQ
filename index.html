@@ -49,6 +49,14 @@
   .reveal .why-item{font-size:14px;margin-bottom:5px;line-height:1.5}
   .reveal .hy{background:rgba(56,189,248,.1);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-top:10px;font-size:15px}
   .reveal .src{color:var(--muted);font-size:12px;margin-top:8px}
+  .qimg{margin:0 0 16px;display:none}
+  .qimg img{width:100%;max-height:46vh;object-fit:contain;background:#0a0e14;border:1px solid var(--line);border-radius:12px;cursor:zoom-in;display:block}
+  .qimg .cap{color:var(--muted);font-size:12px;margin-top:6px;text-align:center;line-height:1.4}
+  #lightbox{position:fixed;inset:0;background:rgba(0,0,0,.93);display:none;align-items:center;justify-content:center;z-index:1000;cursor:zoom-out;padding:12px}
+  #lightbox.on{display:flex}
+  #lightbox img{max-width:100%;max-height:100%;object-fit:contain}
+  .saved-item .qimg{display:block;margin:8px 0}
+  .saved-item .qimg img{max-height:30vh}
   .progressbar{height:6px;background:var(--panel2);border-radius:999px;overflow:hidden;margin-bottom:16px}
   .progressbar>i{display:block;height:100%;background:var(--accent);width:0}
   .quiz-toprow{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;min-height:36px}
@@ -126,6 +134,7 @@
         <button class="star" id="q-star" title="Star this question to save it">☆</button>
       </div>
       <div class="stem" id="q-stem"></div>
+      <div class="qimg" id="q-img"></div>
       <div id="q-opts"></div>
       <div class="reveal" id="q-reveal">
         <h4>Answer</h4><div class="key" id="q-key"></div>
@@ -181,7 +190,7 @@
 </nav>
 
 <script>
-const VERSION="v3.0", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v3.1", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
 function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
@@ -202,7 +211,7 @@ function repairAdj(arr){for(let i=0;i<arr.length-1;i++){if(secKey(arr[i])===secK
 
 /* ---------- starring / saved ---------- */
 function isStarred(id){return !!(state.starred&&state.starred[id]);}
-function toggleStar(q){if(!state.starred)state.starred={};if(state.starred[q.id]){delete state.starred[q.id];}else{state.starred[q.id]={ts:Date.now(),snap:{stem:q.stem,answer:q.answer,exp:q.exp,hy:q.hy,src:q.src,book:q.book,vol:q.vol,chnum:q.chnum,chname:q.chname,section:q.section}};}save();updateSavedBadge();}
+function toggleStar(q){if(!state.starred)state.starred={};if(state.starred[q.id]){delete state.starred[q.id];}else{state.starred[q.id]={ts:Date.now(),snap:{stem:q.stem,answer:q.answer,exp:q.exp,hy:q.hy,src:q.src,book:q.book,vol:q.vol,chnum:q.chnum,chname:q.chname,section:q.section,image:q.image,imgcap:q.imgcap}};}save();updateSavedBadge();}
 function starredIds(){return Object.keys(state.starred||{});}
 function starredQuestions(){return starredIds().filter(id=>byIdQ[id]).map(id=>byIdQ[id]).sort((a,b)=>(state.starred[b.id].ts||0)-(state.starred[a.id].ts||0));}
 function starredRecords(){return starredIds().map(id=>{const live=byIdQ[id];const snap=state.starred[id].snap||{};const q=live||Object.assign({id},snap);return{id,q,live:!!live,ts:state.starred[id].ts||0};}).sort((a,b)=>b.ts-a.ts);}
@@ -297,6 +306,7 @@ function renderCard(){
   $("q-tag").textContent=q.book+" · Ch "+q.chnum+" "+q.chname+" · "+q.section;
   {const _it=state.byId[q.id];$("q-phase").textContent="Phase: "+phaseName(_it.idx)+" · next: "+phaseName(Math.max(_it.idx,0)+1);}
   $("q-stem").textContent=q.stem;
+  {const _ib=$("q-img");if(q.image){_ib.innerHTML='<img src="'+q.image+'" alt="'+esc(q.imgcap||"figure")+'" loading="lazy">'+(q.imgcap?'<div class="cap">'+esc(q.imgcap)+'</div>':"");_ib.style.display="block";}else{_ib.innerHTML="";_ib.style.display="none";}}
   renderStarBtn();
   /* A2: render options in shuffled display order */
   const o=$("q-opts");o.innerHTML="";
@@ -372,6 +382,7 @@ function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replac
 function renderSaved(){const recs=starredRecords();const box=$("saved-list");$("saved-drill").disabled=recs.length===0;if(!recs.length){box.innerHTML='<div class="card center"><div class="big">⭐</div><p class="muted">No saved questions yet.<br>Tap the ☆ on any question while reviewing to save it here.</p></div>';return;}box.innerHTML=recs.map(r=>{const q=r.q;const tag=esc((q.book||"")+" · Ch "+(q.chnum||"?")+" "+(q.chname||"")+" · "+(q.section||""));const opts=(q.options&&q.answer&&q.options[q.answer])?(" — "+esc(q.options[q.answer])):"";return `<div class="card saved-item" data-id="${esc(r.id)}">
   <div class="cardhead"><span class="tag">${tag}</span><button class="star on" data-unstar="${esc(r.id)}" title="Remove from saved">★</button></div>
   <div class="stem" style="font-size:16px">${esc(q.stem)}</div>
+  ${q.image?`<div class="qimg"><img src="${esc(q.image)}" alt="${esc(q.imgcap||"figure")}" loading="lazy">${q.imgcap?`<div class="cap">${esc(q.imgcap)}</div>`:""}</div>`:""}
   <div class="key">Answer: <b>${esc(q.answer||"?")}</b>${opts}</div>
   ${q.exp?`<div class="exp">${esc(q.exp)}</div>`:""}
   ${q.hy?`<div class="hy" style="margin-top:10px">🔑 ${esc(q.hy)}</div>`:""}
@@ -403,8 +414,12 @@ $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=21").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=22").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){var lb=document.getElementById("lightbox");document.addEventListener("click",function(e){var im=e.target.closest&&e.target.closest(".qimg img");if(im){lb.querySelector("img").src=im.getAttribute("src");lb.classList.add("on");}else if(e.target.closest&&e.target.closest("#lightbox")){lb.classList.remove("on");lb.querySelector("img").removeAttribute("src");}});document.addEventListener("keydown",function(e){if(e.key==="Escape")lb.classList.remove("on");});})();
 </script>
 </body>
 </html>
