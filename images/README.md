@@ -36,11 +36,13 @@ and globally unique, mirroring the ID scheme.
 Prefer `.jpg` for photos, `.png`/`.svg` for diagrams. Keep files small
 (long edge ~1200 px, < ~300 KB) so the PWA stays light.
 
-## Copyright
+## Usage — personal study tool
 
-This repo is **public**. Do **not** commit raw textbook scans (Neligan /
-Bologna / Sabiston figures are copyrighted). Use original/redrawn schematic
-diagrams, openly-licensed clinical images, or describe the finding in the stem
-text when a figure isn't strictly required. When an image is genuinely needed
-for recognition (lesion morphology, flap geometry), prefer a redrawn diagram or
-a properly-licensed photo.
+This app is **Yossi's personal exam-prep tool**, so use the **actual Neligan /
+Bologna / Sabiston figures**: crop the specific figure from the chapter PDF
+(e.g. with `pdftoppm`/`pdfimages` or a screenshot), name it per the convention
+above, and drop the file in this folder.
+
+Note: the GitHub repo is currently **public**, so files here are reachable by
+anyone with the URL. If true privacy is wanted, make the repo private (GitHub
+Pages then requires a paid plan) — separate decision, doesn't affect this folder.
