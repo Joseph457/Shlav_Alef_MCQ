@@ -17878,5 +17878,791 @@
   "vol": "I",
   "chnum": "7",
   "chname": "Digital Photography in Plastic Surgery"
+ },
+ {
+  "id": "N-I-8.1",
+  "chapter": "Ch8",
+  "section": "Three-dimensional photography",
+  "stem": "Modern 3D clinical photography is rooted in stereophotogrammetry. Which statement best describes the principle?",
+  "options": {
+   "A": "3D surface coordinates are estimated from two or more photographs taken from different positions, recreating how horizontally-offset human eyes perceive depth",
+   "B": "A single high-resolution photograph is computationally inflated into a 3D mesh using a generic head model",
+   "C": "A laser rangefinder sweeps the surface and depth is read from time-of-flight, with no cameras involved",
+   "D": "Cross-sectional CT slices are stacked to render the external surface in three dimensions"
+  },
+  "answer": "A",
+  "exp": "Modern 3D photography is rooted in stereophotogrammetry — estimating 3D surface coordinates from two or more photographs taken from different positions, recreating how our horizontally-offset eyes perceive depth. This surface technique excels at external contour, which cross-sectional imaging captures poorly.",
+  "hy": "Stereophotogrammetry = 3D coordinates from ≥2 offset images.",
+  "src": "Neligan I.8 · Three-dimensional photography",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — defines stereophotogrammetry: 3D coordinates from ≥2 photographs at different positions, mimicking binocular vision.",
+   "B": "Wrong — inflating a single image with a generic model is model-based morphing, not stereophotogrammetry's multi-view geometry.",
+   "C": "Wrong — time-of-flight laser ranging is a different depth method; stereophotogrammetry uses cameras, not a rangefinder.",
+   "D": "Wrong — stacking CT slices renders internal anatomy and is poor at external surface; that is cross-sectional imaging, not 3D photography."
+  }
+ },
+ {
+  "id": "N-I-8.2",
+  "chapter": "Ch8",
+  "section": "Stereophotogrammetry — active vs passive",
+  "stem": "A 3D imaging system projects a structured pattern of light onto the face and uses two cameras to capture its reflection. Which approach is this, and what is its main advantage?",
+  "options": {
+   "A": "Active stereophotogrammetry — projected patterned light eases identification of corresponding points and is less affected by ambient light",
+   "B": "Passive stereophotogrammetry — it relies on the skin's natural texture and is therefore unaffected by ambient light",
+   "C": "Hybrid stereophotogrammetry — it uses neither structured light nor surface texture, only motion parallax",
+   "D": "Active stereophotogrammetry — its advantage is that it needs only one camera and no computation"
+  },
+  "answer": "A",
+  "exp": "Active stereophotogrammetry projects patterned (structured) light onto the surface and captures its reflection with two or more cameras; the projected pattern makes corresponding points easy to identify and renders the system less sensitive to ambient light. Passive systems instead rely on natural skin texture and are more vulnerable to ambient lighting, while hybrid systems combine both.",
+  "hy": "Active = structured light (ambient-resistant); passive = surface texture.",
+  "src": "Neligan I.8 · Stereophotogrammetry",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — structured-light projection with multiple cameras defines active stereophotogrammetry and eases point-matching while resisting ambient light.",
+   "B": "Wrong — describes passive stereophotogrammetry (natural texture), which is actually more affected by ambient light.",
+   "C": "Wrong — hybrid combines structured light AND texture; it is not \"neither,\" and motion parallax is not the mechanism.",
+   "D": "Wrong — active systems use two or more cameras and computation, not a single camera with none."
+  }
+ },
+ {
+  "id": "N-I-8.3",
+  "chapter": "Ch8",
+  "section": "3D photography systems",
+  "stem": "The 3dMD software suite can overlay cross-sectional imaging on a 3D photograph and simulate soft-tissue procedures. What is its stated limitation?",
+  "options": {
+   "A": "It cannot simulate changes to the underlying bony structure",
+   "B": "It cannot capture external surface anatomy at all",
+   "C": "It requires ionizing radiation for every capture",
+   "D": "It works only for breast augmentation and no other region"
+  },
+  "answer": "A",
+  "exp": "The 3dMD software suite can overlay cross-sectional imaging onto a 3D photograph and simulate a range of soft-tissue procedures, but it explicitly cannot simulate changes to the underlying bony structure.",
+  "hy": "3dMD simulates soft tissue but not bony change.",
+  "src": "Neligan I.8 · 3D photography systems",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — the stated limitation is inability to model underlying bony changes.",
+   "B": "Wrong — capturing external surface anatomy is exactly what 3D photography does well.",
+   "C": "Wrong — 3D photography is radiation-free; no ionizing radiation is used.",
+   "D": "Wrong — 3dMD has six hardware systems (face, head, hand, body, foot, modular), not breast only."
+  }
+ },
+ {
+  "id": "N-I-8.4",
+  "chapter": "Ch8",
+  "section": "3D photography systems",
+  "stem": "Which feature distinguishes the Crisalix 3D system from 3dMD and Vectra?",
+  "options": {
+   "A": "It is purely software-based, generating 3D images from ordinary consumer-camera photos plus distance measurements, with no dedicated hardware required",
+   "B": "It is the only system that uses active structured-light projection for sub-millimeter bony detail",
+   "C": "It is a hardware-only system with no simulation software suite",
+   "D": "It is the only one validated to simulate changes to underlying bone"
+  },
+  "answer": "A",
+  "exp": "Crisalix is purely software-based: it builds 3D images from photographs taken with any consumer camera plus physical distance measurements, requiring no dedicated hardware, which lowers the barrier to entry (at the cost of sensitivity to photo quality and lighting).",
+  "hy": "Crisalix = software-only 3D from consumer photos.",
+  "src": "Neligan I.8 · 3D photography systems",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — Crisalix needs no hardware, using consumer-camera photos and distance measurements.",
+   "B": "Wrong — that describes active structured-light hardware systems (e.g., 3dMD), not the software-only Crisalix.",
+   "C": "Wrong — Crisalix does offer simulation software suites (breast and facial); it is software, not hardware-only.",
+   "D": "Wrong — no system here reliably simulates underlying bone (3dMD explicitly cannot), and this is not Crisalix's distinguishing feature."
+  }
+ },
+ {
+  "id": "N-I-8.5",
+  "chapter": "Ch8",
+  "section": "Diagnostic ultrasound",
+  "stem": "Compared with CT and MRI, which set of advantages does diagnostic ultrasound offer for plastic surgery?",
+  "options": {
+   "A": "Low cost, real-time image acquisition, no ionizing radiation, and noninvasive portability",
+   "B": "Superior bony cortical detail and a complete radiation-free survey of deep abdominal viscera",
+   "C": "Operator-independent images with the highest spatial resolution of any modality",
+   "D": "Built-in quantification of flap metabolic rate without any probe contact"
+  },
+  "answer": "A",
+  "exp": "Ultrasound's advantages are relatively low cost, real-time image acquisition, absence of ionizing radiation, and noninvasive portability (some probes connect to a smartphone). Doppler ultrasound adds blood-flow detection via the Doppler frequency shift.",
+  "hy": "US = cheap, real-time, no radiation, portable.",
+  "src": "Neligan I.8 · Diagnostic ultrasound",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — lists the chapter's stated ultrasound advantages.",
+   "B": "Wrong — bony cortical detail and deep visceral survey are CT strengths; US is poor through bone and gas.",
+   "C": "Wrong — ultrasound is notably operator-dependent and is not the highest-resolution modality.",
+   "D": "Wrong — quantifying flap metabolic rate without contact describes thermography/optical methods, not ultrasound."
+  }
+ },
+ {
+  "id": "N-I-8.6",
+  "chapter": "Ch8",
+  "section": "Ultrasound — BIA-ALCL",
+  "stem": "Ultrasound is an essential first study in the work-up of breast implant-associated anaplastic large cell lymphoma (BIA-ALCL). What is its specific role?",
+  "options": {
+   "A": "Detecting late peri-implant seromas and guiding aspiration of fluid for cytologic analysis",
+   "B": "Staging distant nodal and visceral metastases throughout the body",
+   "C": "Confirming the genetic translocation that defines the lymphoma",
+   "D": "Measuring implant-shell integrity to diagnose silent rupture"
+  },
+  "answer": "A",
+  "exp": "In suspected BIA-ALCL, ultrasound is the essential first study to detect late peri-implant seromas and to guide aspiration of the fluid for cytologic analysis.",
+  "hy": "US in BIA-ALCL = detect late seroma + guide aspiration.",
+  "src": "Neligan I.8 · Diagnostic ultrasound",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — ultrasound detects the late seroma and guides diagnostic fluid aspiration.",
+   "B": "Wrong — whole-body metastatic staging is a role for CT/MRI/PET, not first-line ultrasound.",
+   "C": "Wrong — the defining pathology is established on cytology/immunostaining of aspirate, not by ultrasound itself.",
+   "D": "Wrong — implant-shell rupture surveillance is an MRI role; ultrasound here targets the seroma."
+  }
+ },
+ {
+  "id": "N-I-8.7",
+  "chapter": "Ch8",
+  "section": "Computed tomography angiography",
+  "stem": "A 34-year-old man has an open tibia–fibula fracture with diminished distal pulses and is planned for free-flap coverage. The study shown is obtained to map the lower-limb vasculature. Which modality—largely replacing digital subtraction angiography for this role—is shown?",
+  "options": {
+   "A": "CT angiography (CTA)",
+   "B": "Digital subtraction angiography (DSA)",
+   "C": "Color duplex ultrasonography",
+   "D": "MR angiography (MRA)"
+  },
+  "answer": "A",
+  "exp": "CT angiography has emerged as the frontrunner over digital subtraction angiography: it gives rapid arterial and venous phases, is minimally invasive, costs less, and simultaneously images adjacent bone, soft tissue, and hardware — though it still requires ionizing radiation and IV contrast similar to DSA. The image is an axial CTA of both legs.",
+  "hy": "CTA replaced DSA: fast, minimally invasive, images bone+soft tissue (still radiation+contrast).",
+  "src": "Neligan I.8 · Computed tomography angiography",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "image": "images/N-I-8-7.jpg",
+  "imgcap": "Axial CT angiogram of both legs before free-flap reconstruction after an open tibia–fibula fracture (Neligan Fig 8.1)",
+  "why": {
+   "A": "Correct — CTA is the modality shown and the stated frontrunner over DSA for vascular mapping.",
+   "B": "Wrong — DSA is the invasive historical standard (arterial puncture, pseudoaneurysm, contrast nephropathy) that CTA replaced.",
+   "C": "Wrong — duplex ultrasonography is noninvasive but operator-dependent and lacks the simultaneous bony road map shown here.",
+   "D": "Wrong — MRA avoids radiation but is slower, costlier, and metal-incompatible, and is not the axial CT image shown."
+  }
+ },
+ {
+  "id": "N-I-8.8",
+  "chapter": "Ch8",
+  "section": "CTA — incidental findings",
+  "stem": "As preoperative CTA (e.g., for DIEP flaps) has become routine, incidental findings have risen. Which figures does the chapter cite?",
+  "options": {
+   "A": "Incidental findings occur in roughly 12–76% of scans, and about 0.6% of patients are found to have metastatic disease",
+   "B": "Incidental findings occur in under 1% of scans, none of which alter management",
+   "C": "Incidental findings occur in essentially every scan and half prove malignant",
+   "D": "Incidental findings occur in ~30% of scans, of which 50% are metastatic disease"
+  },
+  "answer": "A",
+  "exp": "With routine preoperative CTA, incidental findings are reported in roughly 12–76% of scans; most are benign, but about 1–2% alter management and, in pooled analysis, ~0.6% of patients are found to have metastatic disease.",
+  "hy": "CTA incidental findings 12–76%; ~0.6% metastatic.",
+  "src": "Neligan I.8 · Computed tomography angiography",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — matches the cited 12–76% incidental rate and 0.6% metastatic figure.",
+   "B": "Wrong — understates both the frequency and the management impact the chapter reports.",
+   "C": "Wrong — incidental findings are common but the majority are benign, not 50% malignant.",
+   "D": "Wrong — invents a 30%/50% split not supported by the text."
+  }
+ },
+ {
+  "id": "N-I-8.9",
+  "chapter": "Ch8",
+  "section": "Magnetic resonance imaging",
+  "stem": "By what physical principle does MRI generate its cross-sectional images?",
+  "options": {
+   "A": "Excitation of hydrogen atoms in a strong magnetic field and detection of energy released as they return to ground state, mapping tissue water and lipid",
+   "B": "Attenuation of a rotating X-ray beam by tissues of differing electron density",
+   "C": "Reflection of high-frequency mechanical sound waves at tissue interfaces",
+   "D": "Detection of positrons emitted by a radiolabeled glucose analogue"
+  },
+  "answer": "A",
+  "exp": "MRI excites hydrogen atoms in a strong magnetic field and detects the energy released as they relax to ground state, effectively mapping the body's water and lipid (hydrogen-rich) distribution; this underlies its superb soft-tissue discrimination without ionizing radiation.",
+  "hy": "MRI = hydrogen excitation/relaxation mapping water & lipid.",
+  "src": "Neligan I.8 · Magnetic resonance imaging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — describes MRI physics: hydrogen excitation/relaxation mapping water and lipid.",
+   "B": "Wrong — X-ray-beam attenuation by electron density is the principle of CT, not MRI.",
+   "C": "Wrong — reflection of mechanical sound waves is ultrasound.",
+   "D": "Wrong — positron emission from a radiotracer is PET."
+  }
+ },
+ {
+  "id": "N-I-8.10",
+  "chapter": "Ch8",
+  "section": "MRI — breast implant surveillance",
+  "stem": "For asymptomatic silicone breast implants, what MRI surveillance schedule for rupture does the chapter cite?",
+  "options": {
+   "A": "Begin at 5 years after implantation, then every 2–3 years thereafter",
+   "B": "Begin at 1 year, then annually for life",
+   "C": "Begin at 10 years, then once only",
+   "D": "Begin immediately postoperatively, then every 6 months"
+  },
+  "answer": "A",
+  "exp": "For asymptomatic silicone implants, MRI surveillance for rupture is recommended to begin 5 years after implantation and then every 2–3 years thereafter.",
+  "hy": "Implant MRI: start at 5 yr, then q2–3 yr.",
+  "src": "Neligan I.8 · Magnetic resonance imaging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — the cited schedule: begin at 5 years, then every 2–3 years.",
+   "B": "Wrong — annual imaging from year 1 is not the recommended interval.",
+   "C": "Wrong — starting at 10 years (once) is later and less frequent than recommended.",
+   "D": "Wrong — immediate and 6-monthly imaging is far more frequent than the guideline."
+  }
+ },
+ {
+  "id": "N-I-8.11",
+  "chapter": "Ch8",
+  "section": "Virtual surgical planning",
+  "stem": "Computer-assisted design lets a virtual surgical plan be manipulated with \"6 degrees of freedom.\" What does this refer to?",
+  "options": {
+   "A": "Translation along the X-, Y-, and Z-axes plus rotation in yaw, pitch, and roll",
+   "B": "Six separate osteotomy cuts that the software can model simultaneously",
+   "C": "Six cephalometric landmarks that must each be registered before planning",
+   "D": "Six tissue layers (skin to bone) that the software segments independently"
+  },
+  "answer": "A",
+  "exp": "\"Six degrees of freedom\" means a virtual segment can be translated along the X-, Y-, and Z-axes and rotated in yaw, pitch, and roll — the full rigid-body motion CAD/VSP allows when modeling osteotomies.",
+  "hy": "6 DOF = XYZ translation + yaw/pitch/roll rotation.",
+  "src": "Neligan I.8 · Virtual surgical planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — defines the six rigid-body degrees of freedom.",
+   "B": "Wrong — it refers to motion axes, not a count of osteotomy cuts.",
+   "C": "Wrong — it is not a number of cephalometric landmarks to register.",
+   "D": "Wrong — it is not a count of segmented tissue layers."
+  }
+ },
+ {
+  "id": "N-I-8.12",
+  "chapter": "Ch8",
+  "section": "VSP — orthognathic accuracy",
+  "stem": "What level of accuracy does the chapter cite for virtual surgical planning in orthognathic surgery?",
+  "options": {
+   "A": "Less than 1 mm difference between planned and actual cephalometric point locations",
+   "B": "Roughly 5 mm difference between planned and actual positions",
+   "C": "Accuracy equivalent to freehand planning, with no measurable improvement",
+   "D": "Within 1 cm, sufficient only for gross asymmetry correction"
+  },
+  "answer": "A",
+  "exp": "VSP in orthognathic surgery achieves less than 1 mm difference between planned and actual cephalometric point locations, reflecting its high precision in aligning mobile bony segments.",
+  "hy": "Orthognathic VSP accuracy <1 mm.",
+  "src": "Neligan I.8 · Virtual surgical planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — cited accuracy is <1 mm planned-vs-actual.",
+   "B": "Wrong — 5 mm overstates the error; VSP is sub-millimeter.",
+   "C": "Wrong — VSP demonstrably improves on freehand, not equivalent.",
+   "D": "Wrong — 1 cm is far coarser than the cited sub-millimeter accuracy."
+  }
+ },
+ {
+  "id": "N-I-8.13",
+  "chapter": "Ch8",
+  "section": "VSP — orthognathic segments",
+  "stem": "In the virtual surgical plan shown, the maxillary segment, genioplasty segment, and genioplasty cutting guide are each rendered in a different color. What core capability of VSP does such color-coded modeling represent?",
+  "options": {
+   "A": "Mobile bony segments can be repositioned virtually and translated into intraoperative cutting guides and splints",
+   "B": "It records real-time intraoperative blood perfusion of each bony segment",
+   "C": "It measures the metabolic activity of the genioglossus during the simulation",
+   "D": "It substitutes for the actual osteotomy, which is then performed without instruments"
+  },
+  "answer": "A",
+  "exp": "The color-coded plan illustrates VSP's core capability: mobile bony segments (maxilla, genioplasty segment) are repositioned virtually with their cutting guides, then translated into physical intraoperative osteotomy guides and occlusal splints.",
+  "hy": "VSP → virtual segment repositioning → intraoperative cutting guides/splints.",
+  "src": "Neligan I.8 · Virtual surgical planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "image": "images/N-I-8-13.jpg",
+  "imgcap": "Virtual surgical plan for orthognathic surgery: maxillary segment (green), genioplasty segment (blue), and genioplasty cutting guide (orange) (Neligan Fig 8.4)",
+  "why": {
+   "A": "Correct — VSP repositions segments virtually and produces real cutting guides/splints, as the colors depict.",
+   "B": "Wrong — perfusion of segments is an ICG/thermography role, not what VSP color-coding shows.",
+   "C": "Wrong — genioglossus metabolic activity is not measured by VSP; soft-tissue effects are modeled geometrically.",
+   "D": "Wrong — VSP guides the osteotomy; it does not replace performing it with instruments."
+  }
+ },
+ {
+  "id": "N-I-8.14",
+  "chapter": "Ch8",
+  "section": "VSP — mandibular reconstruction",
+  "stem": "Mandibular reconstruction with a fibula free flap (the gold standard since 1989) is technically demanding. Which advantage of applying VSP does the chapter cite?",
+  "options": {
+   "A": "Decreased intra-operative time, decreased fibula ischemia time, improved bone-on-bone contact, and more precise construct positioning",
+   "B": "Elimination of the need for a microvascular anastomosis",
+   "C": "Conversion of the procedure into a pedicled, non-microsurgical reconstruction",
+   "D": "Avoidance of any osteotomies of the fibula"
+  },
+  "answer": "A",
+  "exp": "Applying VSP to fibula-flap mandibular reconstruction yields decreased intra-operative time, decreased fibula ischemia time, improved bone-on-bone contact, and more precise positioning of the mandibular construct.",
+  "hy": "VSP mandible: less OR time, less ischemia, better bone contact, precise position.",
+  "src": "Neligan I.8 · Virtual surgical planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — lists the cited VSP advantages for fibula mandibular reconstruction.",
+   "B": "Wrong — it remains a free flap; VSP does not remove the microvascular anastomosis.",
+   "C": "Wrong — the fibula flap stays microsurgical; VSP does not convert it to a pedicled flap.",
+   "D": "Wrong — VSP plans the fibular osteotomies precisely rather than avoiding them."
+  }
+ },
+ {
+  "id": "N-I-8.15",
+  "chapter": "Ch8",
+  "section": "3D printing — perforator model",
+  "stem": "How can a standard abdominal CTA be combined with 3D printing to aid DIEP flap surgery?",
+  "options": {
+   "A": "Printing a to-scale tactile model of the intermuscular perforators to facilitate intra-operative dissection",
+   "B": "Printing a custom titanium plate to bridge the donor fascial defect",
+   "C": "Printing a resorbable nerve conduit for the perforator's sensory branch",
+   "D": "Printing a silicone implant sized to the harvested flap"
+  },
+  "answer": "A",
+  "exp": "A standard abdominal CTA can be used to 3D-print a to-scale model of the intermuscular DIEP perforators, giving surgeons a tactile, multi-angle aid for the difficult intramuscular dissection.",
+  "hy": "CTA → 3D-printed perforator model for DIEP dissection.",
+  "src": "Neligan I.8 · 3D printing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — the chapter describes printing a to-scale perforator model from CTA to aid dissection.",
+   "B": "Wrong — bridging the donor fascia with titanium is not the described application.",
+   "C": "Wrong — a nerve conduit is unrelated to perforator dissection mapping.",
+   "D": "Wrong — printing a flap-sized silicone implant is not the perforator-model use described."
+  }
+ },
+ {
+  "id": "N-I-8.16",
+  "chapter": "Ch8",
+  "section": "3D printing — custom implants",
+  "stem": "3D \"powder printing\" with a biocompatible calcium-phosphate cement is proposed for custom craniofacial implants. Which property does the chapter highlight?",
+  "options": {
+   "A": "It degrades after implantation and has a density similar to bone, so it does not interfere with later imaging",
+   "B": "It is permanent, radiopaque metal that must never be burred in the operating room",
+   "C": "It conducts electricity, allowing intra-operative nerve stimulation through the implant",
+   "D": "It can only be produced over several weeks, precluding same-admission use"
+  },
+  "answer": "A",
+  "exp": "3D powder printing with biocompatible calcium-phosphate cement produces custom craniofacial implants that degrade in vivo over months and have a density similar to bone, so they do not interfere with later imaging; printers reach 0.2 mm resolution and fabricate within 3–4 hours.",
+  "hy": "Ca-phosphate powder-printed implants: degrade, bone-like density, imaging-neutral.",
+  "src": "Neligan I.8 · 3D printing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — degradation, bone-like density, and imaging compatibility are the cited properties.",
+   "B": "Wrong — describes prefabricated titanium splints (permanent, not bone-replacing); these implants can in fact be burred in the OR.",
+   "C": "Wrong — electrical conduction/nerve stimulation through the implant is not a described property.",
+   "D": "Wrong — these are fabricated in hours (within 3–4 h), not weeks."
+  }
+ },
+ {
+  "id": "N-I-8.17",
+  "chapter": "Ch8",
+  "section": "Indocyanine green",
+  "stem": "Which combination of properties makes indocyanine green (ICG) well suited to intra-operative perfusion fluoroscopy?",
+  "options": {
+   "A": "Rapid uptake and excretion, confinement to the intravascular space with minimal leakage, low toxicity, and fluorescence detectable through several millimeters of tissue",
+   "B": "Slow hepatic accumulation allowing delayed imaging hours later, with deep tissue penetration of many centimeters",
+   "C": "Avid binding to extravascular collagen, which highlights interstitial edema",
+   "D": "Emission of ionizing radiation that is read by a gamma probe"
+  },
+  "answer": "A",
+  "exp": "ICG suits intra-operative fluoroscopy because of rapid uptake and excretion, confinement to the intravascular space with minimal leakage, low toxicity, and near-infrared fluorescence detectable through several millimeters of tissue (with portable detectors such as SPY).",
+  "hy": "ICG: fast in/out, intravascular, low-tox, fluoresces mm-deep.",
+  "src": "Neligan I.8 · Indocyanine green",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — lists ICG's stated favorable properties.",
+   "B": "Wrong — ICG has rapid (not slow) clearance and penetrates only several millimeters, not centimeters.",
+   "C": "Wrong — ICG stays intravascular with minimal leakage; it does not bind extravascular collagen.",
+   "D": "Wrong — ICG fluoresces; it does not emit ionizing radiation for a gamma probe (that is a radiotracer)."
+  }
+ },
+ {
+  "id": "N-I-8.18",
+  "chapter": "Ch8",
+  "section": "ICG — mastectomy skin flaps",
+  "stem": "In implant-based reconstruction, ICG angiography predicts mastectomy skin-flap necrosis. What performance does the chapter cite?",
+  "options": {
+   "A": "Sensitivity ~90% and specificity ~100%, more reliable than clinical examination alone",
+   "B": "Sensitivity ~50% and specificity ~50%, no better than a coin toss",
+   "C": "Sensitivity ~100% but specificity near zero, so it overcalls necrosis",
+   "D": "Performance inferior to clinical examination, so it is not recommended"
+  },
+  "answer": "A",
+  "exp": "For mastectomy skin-flap viability in implant-based reconstruction, ICG angiography has ~90% sensitivity and ~100% specificity for predicting skin necrosis and is more reliable than clinical examination alone.",
+  "hy": "ICG mastectomy flap: ~90% sens, ~100% spec.",
+  "src": "Neligan I.8 · Indocyanine green",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — matches the cited 90%/100% performance, superior to clinical exam.",
+   "B": "Wrong — 50/50 grossly understates ICG's demonstrated accuracy.",
+   "C": "Wrong — specificity is ~100%, so it does not indiscriminately overcall necrosis.",
+   "D": "Wrong — ICG outperforms clinical exam here, so it is recommended, not discouraged."
+  }
+ },
+ {
+  "id": "N-I-8.19",
+  "chapter": "Ch8",
+  "section": "ICG — DIEP zones",
+  "stem": "Intra-operative ICG is used to delineate the perfusion zones of a DIEP flap. Which classic relationship does the chapter state?",
+  "options": {
+   "A": "Zone I has excellent perfusion and zone IV the poorest, while zones II and III are variable",
+   "B": "Zone IV has the best perfusion and zone I the poorest",
+   "C": "All four zones are equally perfused, so ICG adds nothing",
+   "D": "Only zone III is reliably perfused; zones I, II, and IV are always discarded"
+  },
+  "answer": "A",
+  "exp": "In a DIEP flap, zone I (over the pedicle) has excellent perfusion and zone IV the poorest, while zones II and III are variable; ICG helps define which parts of zones II/III are safe to keep.",
+  "hy": "DIEP: zone I best, zone IV worst, II/III variable.",
+  "src": "Neligan I.8 · Indocyanine green",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — states the classic DIEP perfusion gradient.",
+   "B": "Wrong — reverses the gradient; zone IV is the worst, not the best.",
+   "C": "Wrong — zones are not equally perfused; that is why ICG is useful.",
+   "D": "Wrong — zone III is not uniquely reliable; the gradient runs I > II/III > IV."
+  }
+ },
+ {
+  "id": "N-I-8.20",
+  "chapter": "Ch8",
+  "section": "ICG — lymphatic mapping",
+  "stem": "ICG lymphography in lymphedema reveals characteristic dermal backflow patterns that correspond to disease severity. Which set of patterns does the chapter name?",
+  "options": {
+   "A": "Splash, stardust, and diffuse",
+   "B": "Tram-track, target, and halo",
+   "C": "Cobblestone, comedo, and reticular",
+   "D": "Starburst, lattice, and plaque"
+  },
+  "answer": "A",
+  "exp": "ICG lymphography identifies dermal backflow patterns — splash, stardust, and diffuse — that correspond to progressively more severe lymphedema and can appear even in subclinical disease.",
+  "hy": "ICG backflow: splash → stardust → diffuse (worsening lymphedema).",
+  "src": "Neligan I.8 · Indocyanine green",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — names the splash/stardust/diffuse backflow patterns.",
+   "B": "Wrong — tram-track/target/halo are not the ICG lymphatic patterns described.",
+   "C": "Wrong — cobblestone/comedo/reticular are dermatologic/morphologic terms, not ICG backflow stages.",
+   "D": "Wrong — starburst/lattice/plaque are invented labels here."
+  }
+ },
+ {
+  "id": "N-I-8.21",
+  "chapter": "Ch8",
+  "section": "Laser Doppler",
+  "stem": "Laser Doppler imaging (LDI) evolved from laser Doppler flowmetry. Which statement is correct?",
+  "options": {
+   "A": "LDI scans the target at a distance (non-contact) and, for abdominal perforator mapping, avoids the pitfall of misidentifying subfascial vessels as perforators",
+   "B": "LDI requires direct, sometimes painful probe contact with the skin, unlike flowmetry",
+   "C": "LDI uses ultrasound waves rather than laser light",
+   "D": "LDI measures absolute perfusion values that can be compared directly between patients"
+  },
+  "answer": "A",
+  "exp": "Laser Doppler imaging (LDI) scans the target at a distance without probe contact; for abdominal perforator mapping it offers superior sensitivity to standard Doppler and avoids misidentifying subfascial vessels as true perforators (resolution ~3 mm).",
+  "hy": "LDI = non-contact; avoids subfascial false-perforators.",
+  "src": "Neligan I.8 · Laser Doppler",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — LDI is non-contact and avoids the subfascial-vessel pitfall of standard Doppler.",
+   "B": "Wrong — the contact, sometimes painful probe is flowmetry (LDF); LDI was developed to scan at a distance.",
+   "C": "Wrong — LDI uses laser light (shorter wavelength), not ultrasound waves.",
+   "D": "Wrong — perfusion values vary with physiology/artifact, so trends (not absolute cross-patient values) are used."
+  }
+ },
+ {
+  "id": "N-I-8.22",
+  "chapter": "Ch8",
+  "section": "Laser Doppler — flap monitoring",
+  "stem": "When LDI is used for postoperative free-flap monitoring, how should its output be interpreted?",
+  "options": {
+   "A": "The trend in perfusion values—not absolute numbers—should guide decisions, and LDI can flag compromise 1–3 hours before other clinical signs",
+   "B": "A single absolute perfusion value below a universal cutoff confirms flap failure",
+   "C": "It detects flap compromise only after frank clinical signs are already present",
+   "D": "It is useful preoperatively but provides no postoperative monitoring value"
+  },
+  "answer": "A",
+  "exp": "For postoperative flap monitoring, the trend in LDI perfusion values — not absolute numbers — should guide decisions, and LDI can detect microvascular compromise 1–3 hours before other clinical signs appear.",
+  "hy": "LDI flap monitoring: follow trend; warns 1–3 h early.",
+  "src": "Neligan I.8 · Laser Doppler",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — trend-based interpretation and the 1–3 h early-warning window are both cited.",
+   "B": "Wrong — no universal absolute cutoff applies, because values vary between patients.",
+   "C": "Wrong — LDI's value is precisely that it precedes overt clinical signs.",
+   "D": "Wrong — LDI is used for continuous postoperative monitoring, not only preoperatively."
+  }
+ },
+ {
+  "id": "N-I-8.23",
+  "chapter": "Ch8",
+  "section": "Dynamic infrared thermography",
+  "stem": "What distinguishes dynamic infrared thermography (DIRT) from static infrared thermography?",
+  "options": {
+   "A": "DIRT applies a thermal challenge (e.g., a cooling fan) and observes how the tissue returns to equilibrium temperature, rather than simply observing baseline temperature",
+   "B": "DIRT uses an injected radiotracer, whereas static IRT does not",
+   "C": "DIRT measures absolute blood flow in mL/min, whereas static IRT measures temperature",
+   "D": "DIRT requires direct contact with the skin, whereas static IRT is non-contact"
+  },
+  "answer": "A",
+  "exp": "Static infrared thermography simply observes baseline temperature, whereas dynamic IRT (DIRT) applies a thermal challenge (e.g., a cooling fan, heat, or water immersion) and observes how the tissue returns to equilibrium — added information that has made DIRT more widely adopted.",
+  "hy": "DIRT = thermal challenge + recovery; static = baseline only.",
+  "src": "Neligan I.8 · Dynamic infrared thermography",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — DIRT's defining feature is the thermal challenge and observed recovery.",
+   "B": "Wrong — IRT uses no radiotracer; it reads emitted infrared heat.",
+   "C": "Wrong — IRT measures temperature/infrared emission, not absolute mL/min flow.",
+   "D": "Wrong — infrared thermography is non-contact for both static and dynamic forms."
+  }
+ },
+ {
+  "id": "N-I-8.24",
+  "chapter": "Ch8",
+  "section": "DIRT — perforator mapping",
+  "stem": "How do DIRT and ultrasound compare for abdominal perforator mapping, per the chapter?",
+  "options": {
+   "A": "DIRT \"hot spots\" reliably localize perforators just beneath the skin while ultrasound identifies them at the muscular fascia, making the two complementary",
+   "B": "DIRT and ultrasound identify perforators at exactly the same depth, so one is redundant",
+   "C": "DIRT localizes deep subfascial vessels that ultrasound cannot, and ultrasound adds nothing",
+   "D": "Neither can localize perforators; both are purely research tools"
+  },
+  "answer": "A",
+  "exp": "DIRT \"hot spots\" reliably localize perforators lying directly beneath the skin, while ultrasound identifies them at the level of the muscular fascia — so the two techniques are complementary rather than redundant.",
+  "hy": "DIRT (subdermal hot spots) + US (fascial level) = complementary.",
+  "src": "Neligan I.8 · Dynamic infrared thermography",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — the chapter calls DIRT and US complementary because they localize perforators at different depths.",
+   "B": "Wrong — they identify perforators at different depths, which is why both add value.",
+   "C": "Wrong — DIRT is best for vessels just beneath the skin, not deep subfascial ones.",
+   "D": "Wrong — both do localize perforators; neither is merely a research curiosity here."
+  }
+ },
+ {
+  "id": "N-I-8.25",
+  "chapter": "Ch8",
+  "section": "Burn depth — Doppler vs DIRT",
+  "stem": "For assessing burn depth, how do laser Doppler and DIRT compare?",
+  "options": {
+   "A": "Laser Doppler has borne out as the superior method; DIRT loses accuracy beyond post-injury day 3 as wounds granulate",
+   "B": "DIRT is the established superior method and is accurate for weeks after injury",
+   "C": "The two are identical in accuracy and timing",
+   "D": "Neither correlates with healing time, so serial clinical exam is abandoned"
+  },
+  "answer": "A",
+  "exp": "Laser Doppler has borne out as the superior method for burn-depth evaluation; DIRT is a useful, easy adjunct but loses accuracy beyond post-injury day 3 as wounds granulate (and is confounded by evaporative and ambient heat loss).",
+  "hy": "Burn depth: laser Doppler > DIRT (DIRT fades after day 3).",
+  "src": "Neligan I.8 · Dynamic infrared thermography",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — laser Doppler is the cited superior method; DIRT degrades after day 3.",
+   "B": "Wrong — reverses the comparison and overstates DIRT's temporal accuracy.",
+   "C": "Wrong — they are not identical; laser Doppler is superior for burns.",
+   "D": "Wrong — these tools correlate with healing and supplement (not replace) serial clinical exam."
+  }
+ },
+ {
+  "id": "N-I-8.26",
+  "chapter": "Ch8",
+  "section": "Surgical navigation",
+  "stem": "Surgical navigation systems are broadly image-based or model-based. Which contrast is correct?",
+  "options": {
+   "A": "Image-based systems match preoperative imaging to the patient (common in neurosurgery); model-based systems use intraoperative bony landmarks with no preoperative imaging (common in orthopedics)",
+   "B": "Image-based systems use no preoperative imaging; model-based systems are built entirely from preoperative CT",
+   "C": "Both types require intraoperative CT for every case",
+   "D": "The two terms are interchangeable and describe the same workflow"
+  },
+  "answer": "A",
+  "exp": "Image-based navigation matches preoperative imaging to the patient's intraoperative position (common in neurosurgery), whereas model-based navigation uses no preoperative imaging and instead computes anatomy from intraoperative bony landmarks (common in orthopedics).",
+  "hy": "Image-based (preop imaging, neurosurg) vs model-based (intraop landmarks, ortho).",
+  "src": "Neligan I.8 · Surgical navigation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — correctly pairs image-based/neurosurgery and model-based/orthopedics.",
+   "B": "Wrong — it reverses which system uses preoperative imaging.",
+   "C": "Wrong — model-based navigation specifically avoids the need for preoperative (or intraoperative CT) imaging.",
+   "D": "Wrong — the two terms denote genuinely different workflows."
+  }
+ },
+ {
+  "id": "N-I-8.27",
+  "chapter": "Ch8",
+  "section": "Navigation — maxillofacial trauma",
+  "stem": "How is surgical navigation classically applied in unilateral orbital and midface trauma?",
+  "options": {
+   "A": "The uninjured contralateral side is mirrored to create a model that guides repair and implant shaping on the injured side",
+   "B": "The injured side is scanned and used as the template for the contralateral orbit",
+   "C": "Navigation replaces imaging entirely, relying on palpation alone",
+   "D": "It is used only after hardware placement to document the result"
+  },
+  "answer": "A",
+  "exp": "In unilateral midface/orbit trauma, navigation mirrors the uninjured contralateral side to build a model that guides repair and the shaping/placement of the orbital implant on the injured side, yielding a more symmetric reconstruction.",
+  "hy": "Navigation: mirror uninjured side to guide injured-side repair.",
+  "src": "Neligan I.8 · Surgical navigation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — the uninjured side is mirrored as the template for the injured side.",
+   "B": "Wrong — the injured, comminuted side is not the template; the normal side is.",
+   "C": "Wrong — navigation depends on imaging-derived models, not palpation alone.",
+   "D": "Wrong — it guides the repair itself, not merely post-hoc documentation."
+  }
+ },
+ {
+  "id": "N-I-8.28",
+  "chapter": "Ch8",
+  "section": "Mixed reality",
+  "stem": "The chapter contrasts virtual reality (VR) and augmented reality (AR). Which description is correct?",
+  "options": {
+   "A": "VR (e.g., Vive, Oculus) takes over the entire visual field for an immersive experience, whereas AR (e.g., Google Glass, HoloLens) overlays digital data onto the real visual field",
+   "B": "AR fully replaces natural vision, whereas VR only overlays small data points",
+   "C": "Both VR and AR completely block the user's view of the real world",
+   "D": "VR and AR both overlay data while leaving the real world as the primary focus"
+  },
+  "answer": "A",
+  "exp": "Virtual reality (e.g., Vive, Oculus) takes over the entire visual field for an immersive experience meant to supplant natural vision, whereas augmented reality (e.g., Google Glass, HoloLens) overlays digital data onto the user's real visual field, keeping the real world as the focus.",
+  "hy": "VR = immersive/replaces vision; AR = overlay on real world.",
+  "src": "Neligan I.8 · Mixed reality",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — correctly contrasts immersive VR with overlay AR and their example devices.",
+   "B": "Wrong — reverses the definitions; AR overlays, VR immerses.",
+   "C": "Wrong — AR does not block the real world; only VR is fully immersive.",
+   "D": "Wrong — VR does not overlay onto the real world; it replaces it."
+  }
+ },
+ {
+  "id": "N-I-8.29",
+  "chapter": "Ch8",
+  "section": "Mixed reality — applications",
+  "stem": "Which paired statement about mixed-reality applications is correct?",
+  "options": {
+   "A": "AR overlays can cause \"inattention blindness\" to unexpected findings, while immersive VR has been used to reduce pain during burn dressing changes",
+   "B": "AR overlays improve detection of all unexpected findings, while VR worsens procedural pain",
+   "C": "VR is used for surgical navigation overlays, while AR fully immerses the patient to block pain",
+   "D": "Neither VR nor AR has any demonstrated patient-care application"
+  },
+  "answer": "A",
+  "exp": "Because AR draws attention to overlaid data, it can cause \"inattention blindness\" and reduced recognition of unexpected findings; separately, immersive VR has been used to divert attention and reduce pain during burn dressing changes and other painful procedures.",
+  "hy": "AR risk = inattention blindness; VR = burn-pain distraction.",
+  "src": "Neligan I.8 · Mixed reality",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "why": {
+   "A": "Correct — pairs AR's inattention-blindness risk with VR's analgesic distraction in burns.",
+   "B": "Wrong — reverses both: AR can miss unexpected findings, and VR reduces (not worsens) pain.",
+   "C": "Wrong — swaps the roles of VR and AR.",
+   "D": "Wrong — both have demonstrated patient-care applications in the chapter."
+  }
+ },
+ {
+  "id": "N-I-8.30",
+  "chapter": "Ch8",
+  "section": "Eye tracking",
+  "stem": "The image shows an eye-tracking heat map over a breast reconstruction result. What does eye-tracking technology measure, and why is it used in plastic surgery?",
+  "options": {
+   "A": "It tracks the position and movement of a viewer's gaze to quantify which areas of interest capture attention, making otherwise subjective aesthetic outcomes measurable",
+   "B": "It measures the patient's own visual acuity before and after surgery",
+   "C": "It records the surgeon's hand tremor to grade technical skill",
+   "D": "It maps cutaneous blood flow by following infrared emission from the skin"
+  },
+  "answer": "A",
+  "exp": "Eye tracking records the position and movement of a viewer's gaze to quantify which areas of interest capture attention, turning otherwise subjective aesthetic judgments (e.g., distraction by scars or an absent nipple) into measurable data, as the heat map illustrates.",
+  "hy": "Eye tracking quantifies gaze/attention → objective aesthetic outcomes.",
+  "src": "Neligan I.8 · Eye tracking",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "8",
+  "chname": "Pre- and Intra-operative Imaging for Plastic Surgery",
+  "image": "images/N-I-8-30.jpg",
+  "imgcap": "Eye-tracking heat map over a free-flap breast reconstruction, gaze concentrating on the nipple–areolar complex and skin paddle (Neligan Fig 8.8)",
+  "why": {
+   "A": "Correct — eye tracking quantifies viewer gaze/areas of interest to objectify aesthetic outcomes.",
+   "B": "Wrong — it tracks an external viewer's gaze, not the patient's own visual acuity.",
+   "C": "Wrong — recording surgeon hand tremor is a different skill-assessment method.",
+   "D": "Wrong — mapping skin blood flow via infrared is thermography, not eye tracking."
+  }
  }
 ]
