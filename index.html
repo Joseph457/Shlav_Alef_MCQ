@@ -181,7 +181,7 @@
 </nav>
 
 <script>
-const VERSION="v2.7", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v2.8", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
 function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
@@ -229,6 +229,48 @@ function renderHome(){const rev=reviewDueList().length;const allDue=dueList().le
 /* sess[i] = { order: ["C","A","D","B"], chosen: null|"A", answered: false }
    order[i] maps display slot i (0=A,1=B,2=C,3=D) → original option key */
 const DISP=["A","B","C","D"];
+/* ---------- explanation letter remap (A2 fix) ----------
+   Options are shown in a shuffled order, so the original A/B/C/D letters
+   used inside q.exp ("B is wrong", "C, Taylor, ...") no longer line up with
+   what's on screen. Remap ONLY genuine option-letter references to the
+   display letter, using high-precision patterns so medical text
+   (C. difficile, amphotericin B, 31°C, Child-Pugh class A, hepatitis B,
+   ranges like B–D) is never touched. order[i] = original key at display slot i. */
+const _RVERB=/^\s+(is|are|was|were|describes?|defines?|reverses?|inverts?|swaps?|miscasts?|mislabels?|conflates?|assigns?|treats?|names?|gives?|lists?|denotes?|refers?|applies|wrongly|wrong|incorrect)(?![A-Za-z0-9])/;
+const _RDISEASE=/(h(?:a)?emophilia|hepatitis|vitamin)/i;
+const _RDOMAIN=/(class|classes|type|grade|stage|amphotericin|factor|child|pugh|coag|phospholipase|sphingomyelinase|streptococc|complement|apgar|nyha|asa)\w*\s*$/i;
+function _isWordChar(c){return !!c && /[A-Za-z0-9]/.test(c);}
+function remapExp(text, order){
+  if(!text||!order) return text||"";
+  const map={}; for(let i=0;i<DISP.length;i++) map[order[i]]=DISP[i];
+  const n=text.length, repl={};
+  for(let idx=0; idx<n; idx++){
+    const ch=text[idx];
+    if("ABCD".indexOf(ch)<0) continue;
+    const prev= idx>0?text[idx-1]:'';
+    if(_isWordChar(prev)||prev==='°'||prev==='-'||prev==='–'||prev==='/') continue;
+    const nxt= idx+1<n?text[idx+1]:'';
+    if(_isWordChar(nxt)) continue;
+    const rest=text.slice(idx);
+    if(/^[A-D]\s*=/.test(rest)) continue;                      // 'B = 7-9' definition
+    if(/^[A-D]\s*[-–/]\s*[A-D]/.test(rest)) continue;     // range/slash 'B-D','B/C/D'
+    if(/^[A-D]\.\s+[A-Z]/.test(rest)) continue;                // 'C. difficile' / 'C. Miller'
+    if(_RDOMAIN.test(text.slice(Math.max(0,idx-32), idx))) continue;
+    if(_RDISEASE.test(text.slice(Math.max(0,idx-20), idx))) continue;
+    const before=text.slice(0,idx), after=text.slice(idx+1); let ok=false;
+    if(/option[s]?\s*$/i.test(before)) ok=true;                // 'option B'
+    else if(/^\s*\(\*\*/.test(after)) ok=true;                 // 'B (**...'
+    else if(_RVERB.test(after)) ok=true;                       // 'B is wrong'
+    else if(/^,\s+((von|van|de|der|la|le)\s|[A-Z][a-z])/.test(after)) ok=true; // 'B, Surname'
+    else if(/^,\s*[A-D](?![A-Za-z0-9])/.test(after)) ok=true;  // 'B, C'
+    else if(/,\s$/.test(before) && (/^[,.;:) ]/.test(after) || /^\s+(and|or)\b/.test(after))) ok=true; // ', C ...'
+    else if(/^\s+(and|or)\s+[A-D](?![A-Za-z0-9])/.test(after)) ok=true;        // 'B and C'
+    if(ok && map[ch]) repl[idx]=map[ch];
+  }
+  if(!Object.keys(repl).length) return text;
+  let out=""; for(let j=0;j<n;j++) out += (repl[j]||text[j]); return out;
+}
+
 let session=[],sess=[],sIdx=0;
 
 function startSession(items){
@@ -279,13 +321,13 @@ function renderCard(){
     $("q-key").innerHTML="Key: <b>"+correctDisp+"</b> — "+(s.chosen===correctDisp?'<span style="color:var(--good)">correct ✓</span>':'<span style="color:var(--bad)">you chose '+s.chosen+' ✗</span>');
     /* A4: exp + optional per-option why */
     if(q.why){
-      let html=q.exp?`<p style="margin:0 0 6px">${esc(q.exp)}</p>`:"";
+      let html=q.exp?`<p style="margin:0 0 6px">${esc(remapExp(q.exp,s.order))}</p>`:"";
       html+='<div class="why-list">';
       DISP.forEach((dispL,i)=>{const origKey=s.order[i];const txt=q.why[origKey];if(txt)html+=`<div class="why-item"><b style="color:var(--accent)">${dispL}.</b> ${esc(txt)}</div>`;});
       html+='</div>';
       $("q-exp").innerHTML=html;
     } else {
-      $("q-exp").textContent=q.exp||"";
+      $("q-exp").textContent=remapExp(q.exp||"",s.order);
     }
     $("q-hy").textContent=q.hy?("🔑 "+q.hy):"";
     $("q-src").textContent=q.src?("📖 "+q.src):"";
@@ -361,7 +403,7 @@ $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=18").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=19").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>
