@@ -19808,5 +19808,1565 @@
    "C": "Wrong — liposomal bupivacaine lasts ~72 h, longer than plain bupivacaine.",
    "D": "Wrong — dexamethasone improves, not worsens, postoperative nausea/vomiting."
   }
+ },
+ {
+  "id": "N-I-10.1",
+  "chapter": "Ch10",
+  "section": "Pain classification",
+  "stem": "A patient reports persistent burning pain in a reconstructed limb months after the wound has healed. How is this pain best classified, and how does it differ from acute surgical pain?",
+  "options": {
+   "A": "Pathologic (neuropathic) pain — it persists beyond healing and is nonprotective/maladaptive, unlike physiologic nociceptive pain",
+   "B": "Physiologic nociceptive pain — it serves a protective warning function and promotes healing",
+   "C": "Referred visceral pain — it arises from an internal organ and is projected to the limb",
+   "D": "Psychogenic pain — it has no neural basis and is purely an emotional response"
+  },
+  "answer": "A",
+  "exp": "Pain that persists beyond the period of healing is pathologic (e.g., neuropathic) pain — it no longer serves a protective purpose and is maladaptive, in contrast to physiologic/nociceptive pain, which is acute, protective, and promotes healing. The chronic burning quality and persistence after the wound has healed identify it as pathologic. Multimodal analgesia may reduce the chance such persistent pain develops.",
+  "hy": "Physiologic = protective acute; pathologic/neuropathic = persists past healing, maladaptive.",
+  "src": "Neligan I.10 · Pain classification",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — persistence beyond healing defines pathologic/neuropathic pain.",
+   "B": "Wrong — nociceptive pain is acute and protective, not the chronic maladaptive picture here.",
+   "C": "Wrong — referred visceral pain arises from organs, not a healed reconstructed limb.",
+   "D": "Wrong — neuropathic pain has a clear neural basis; \"no neural basis\" is incorrect."
+  }
+ },
+ {
+  "id": "N-I-10.2",
+  "chapter": "Ch10",
+  "section": "Inadequate pain control",
+  "stem": "Approximately what proportion of patients report acute pain after surgery, and what is the chapter's central strategy to address it?",
+  "options": {
+   "A": "~80%, addressed by a multimodal, multi-targeted analgesic approach rather than single agents",
+   "B": "~20%, addressed by escalating opioid monotherapy to comfort",
+   "C": "~50%, addressed by routine general anesthesia extension into recovery",
+   "D": "~10%, addressed by withholding analgesia until pain is severe"
+  },
+  "answer": "A",
+  "exp": "Approximately 80% of patients report acute pain after surgery, most of it moderate-to-severe, which is why the chapter advocates a multimodal, multi-targeted strategy (peripheral nociceptors, peripheral nerves, spinal and supraspinal sites) rather than single-agent therapy. Multimodal analgesia maximizes efficacy while limiting the adverse effects of any one drug class. Opioid monotherapy and withholding analgesia run counter to this approach.",
+  "hy": "~80% have acute postop pain → multimodal, opioid-sparing analgesia.",
+  "src": "Neligan I.10 · Clinical consequences of inadequate pain relief",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — ~80% report acute pain; multimodal analgesia is the strategy.",
+   "B": "Wrong — the figure is ~80%, and opioid monotherapy is what the chapter moves away from.",
+   "C": "Wrong — wrong percentage and not the recommended approach.",
+   "D": "Wrong — withholding analgesia until severe is explicitly poor practice."
+  }
+ },
+ {
+  "id": "N-I-10.3",
+  "chapter": "Ch10",
+  "section": "Table 10.1 consequences",
+  "stem": "Per Table 10.1, inadequate postoperative pain control produces which pulmonary consequence?",
+  "options": {
+   "A": "Increased splinting with decreased ambulation and vital capacity → atelectasis, hypoventilation, and pulmonary infection",
+   "B": "Bronchodilation with increased vital capacity and improved gas exchange",
+   "C": "Central respiratory depression from unopposed vagal tone",
+   "D": "Pleural effusion from increased pulmonary capillary pressure"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.1, inadequate pain control causes increased splinting with decreased ambulation and vital capacity, leading to atelectasis, hypoventilation, and pulmonary infection. Pain-driven guarding reduces effective ventilation. The bronchodilation, central depression, and effusion options describe the opposite or unrelated processes.",
+  "hy": "Pain → splinting → atelectasis/hypoventilation/pneumonia.",
+  "src": "Neligan I.10 · Table 10.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — splinting and reduced vital capacity drive atelectasis and infection.",
+   "B": "Wrong — pain causes splinting and reduced vital capacity, not bronchodilation/improvement.",
+   "C": "Wrong — the pulmonary effect is mechanical (splinting), not central vagal depression.",
+   "D": "Wrong — Table 10.1 lists atelectasis/infection, not effusion from capillary pressure."
+  }
+ },
+ {
+  "id": "N-I-10.4",
+  "chapter": "Ch10",
+  "section": "Table 10.1 consequences",
+  "stem": "Per Table 10.1, which organ-system effect is correctly paired with inadequate pain control?",
+  "options": {
+   "A": "Hematologic — decreased ambulation → venostasis and increased DVT risk",
+   "B": "Renal — direct nephrotoxicity from circulating pain mediators",
+   "C": "Hepatic — cholestasis and transaminitis from catecholamine surge",
+   "D": "Endocrine — suppression of cortisol and a hypometabolic state"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.1, the hematologic consequence is decreased ambulation leading to venostasis and increased DVT risk — the link between poorly controlled pain and thromboembolism. The renal, hepatic, and endocrine pairings are not the table's listed responses (and the cortisol effect is actually an increase, driving hyperglycemia/catabolism, not suppression).",
+  "hy": "Pain → ↓ambulation → venostasis → DVT (Table 10.1 hematologic row).",
+  "src": "Neligan I.10 · Table 10.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — reduced ambulation causes venostasis and DVT, the hematologic row.",
+   "B": "Wrong — Table 10.1 does not list direct renal nephrotoxicity from pain mediators.",
+   "C": "Wrong — no cholestasis/transaminitis row appears in Table 10.1.",
+   "D": "Wrong — Table 10.1 lists no endocrine row; the surgical stress response actually raises cortisol (hypermetabolic), the opposite of this option."
+  }
+ },
+ {
+  "id": "N-I-10.5",
+  "chapter": "Ch10",
+  "section": "Persistent postoperative pain",
+  "stem": "Persistent pain one year after breast surgery (mastectomy, reduction, augmentation) has been reported in approximately what range, and what may reduce it?",
+  "options": {
+   "A": "22–49%, potentially reduced by multimodal analgesia",
+   "B": "1–3%, essentially eliminated by opioid monotherapy",
+   "C": "70–90%, unaffected by any analgesic strategy",
+   "D": "<1%, reduced only by avoiding all regional blocks"
+  },
+  "answer": "A",
+  "exp": "Persistent pain one year after breast surgery has been reported in 22–49% of patients, with a multifactorial etiology (nerve injury, radiation, chemotherapy, phantom breast pain), and multimodal analgesia may reduce its incidence. The 1–3%, 70–90%, and <1% options misstate the cited range. This is a high-yield counseling figure for breast patients.",
+  "hy": "Persistent post-breast-surgery pain 22–49% at 1 yr; multimodal analgesia may lower it.",
+  "src": "Neligan I.10 · Clinical consequences of inadequate pain relief",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 22–49% at one year, reducible by multimodal analgesia.",
+   "B": "Wrong — far understates the incidence and overstates opioid benefit.",
+   "C": "Wrong — 70–90% overstates it and ignores the multimodal effect.",
+   "D": "Wrong — <1% is far below the cited 22–49%."
+  }
+ },
+ {
+  "id": "N-I-10.6",
+  "chapter": "Ch10",
+  "section": "Surgical stress response",
+  "stem": "Inadequate analgesia amplifies the surgical stress response. Which mechanism explains how this can impair wound healing in plastic surgery?",
+  "options": {
+   "A": "Surgical stress raises cortisol and humoral mediators → hyperglycemia, catabolism, and impaired immune function",
+   "B": "Surgical stress lowers cortisol → hypoglycemia and excessive anabolism",
+   "C": "Surgical stress directly lyses fibroblasts at the wound edge",
+   "D": "Surgical stress increases tissue oxygen delivery, accelerating healing"
+  },
+  "answer": "A",
+  "exp": "Inadequate analgesia heightens the surgical stress response: increased cortisol and humoral mediators produce hyperglycemia, catabolism, and impaired immune function and wound healing — particularly concerning for wound infection in plastic surgery. Adequate analgesia can mitigate this detrimental cascade. The hypoglycemia/anabolism, fibroblast-lysis, and increased-oxygen-delivery options invert or misstate the physiology.",
+  "hy": "Poor analgesia → ↑cortisol/stress → hyperglycemia, catabolism, impaired immunity/healing.",
+  "src": "Neligan I.10 · Clinical consequences of inadequate pain relief",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — the cortisol-driven stress response impairs immunity and healing.",
+   "B": "Wrong — stress raises cortisol and causes catabolism, not the reverse.",
+   "C": "Wrong — the mechanism is humoral/metabolic, not direct fibroblast lysis.",
+   "D": "Wrong — the stress response impairs healing rather than accelerating it."
+  }
+ },
+ {
+  "id": "N-I-10.7",
+  "chapter": "Ch10",
+  "section": "Opioid prescribing",
+  "stem": "What do hand-surgery data suggest about the role of acute postoperative prescribing in the opioid epidemic?",
+  "options": {
+   "A": "8–13% of patients still used opioids at 90–120 days, implicating acute postoperative prescribing in excess use",
+   "B": "Essentially no patients continued opioids past one week, exonerating surgical prescribing",
+   "C": "Only patients with prior chronic pain continued opioids, so acute surgery plays no role",
+   "D": "Continued use was confined to inpatients, not outpatient hand surgery"
+  },
+  "answer": "A",
+  "exp": "Two hand-surgery studies found 8–13% of patients still using opioids at 90–120 days, supporting the view that opioid prescribing for acute postoperative pain — not just chronic pain — explains much of the excess prescribing. This reframes surgeons as central to opioid stewardship. The \"no one continued,\" \"only prior chronic pain,\" and \"inpatients only\" options contradict these data.",
+  "hy": "8–13% of hand-surgery patients still on opioids at 90–120 d → acute prescribing matters.",
+  "src": "Neligan I.10 · Clinical consequences of inadequate pain relief",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 8–13% persistent use implicates acute surgical prescribing.",
+   "B": "Wrong — a meaningful fraction continued well past a week.",
+   "C": "Wrong — opioid-naïve surgical patients developed persistent use.",
+   "D": "Wrong — the hand-surgery cohorts were outpatients."
+  }
+ },
+ {
+  "id": "N-I-10.8",
+  "chapter": "Ch10",
+  "section": "Pediatric opioid prescribing",
+  "stem": "A 2016 study of pediatric opioid prescriptions found which pattern?",
+  "options": {
+   "A": "90% were prescribed by surgeons, with the average quantity sufficient for over 7 days",
+   "B": "90% were prescribed by pediatricians for non-surgical pain",
+   "C": "Prescriptions averaged under one day's supply, indicating careful stewardship",
+   "D": "Opioids were essentially never prescribed to children after surgery"
+  },
+  "answer": "A",
+  "exp": "In a 2016 study of pediatric opioid prescriptions, 90% were written by surgeons and the average quantity dispensed was sufficient for over 7 days — evidence of overprescribing even in children. The pediatrician, under-one-day, and never-prescribed options contradict these findings. It underscores that surgical stewardship extends to pediatric practice.",
+  "hy": "Pediatric opioids: 90% by surgeons, average supply >7 days.",
+  "src": "Neligan I.10 · Clinical consequences of inadequate pain relief",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 90% surgeon-prescribed, >7 days average supply.",
+   "B": "Wrong — surgeons, not pediatricians, wrote most prescriptions.",
+   "C": "Wrong — the average exceeded 7 days, not under one day.",
+   "D": "Wrong — opioids were prescribed and over-supplied to children."
+  }
+ },
+ {
+  "id": "N-I-10.9",
+  "chapter": "Ch10",
+  "section": "Acetaminophen",
+  "stem": "For an adult without hepatic or renal disease, what is the maximum recommended daily acetaminophen dose, and its most significant serious toxicity?",
+  "options": {
+   "A": "4 grams/day; hepatotoxicity at high doses, chronic use, or with alcohol",
+   "B": "8 grams/day; nephrotoxicity from tubular injury",
+   "C": "2 grams/day; methemoglobinemia at therapeutic doses",
+   "D": "6 grams/day; gastrointestinal ulceration and bleeding"
+  },
+  "answer": "A",
+  "exp": "The maximum recommended daily acetaminophen dose in an adult without hepatic or renal disease is 4 grams, with dose reduction in liver insufficiency; its most significant serious adverse effect is hepatotoxicity at high doses, in chronic use, or with alcohol/other hepatotoxins. 8 g and 6 g exceed the safe ceiling, and 2 g understates it. Acetaminophen otherwise has a benign profile, which is why it anchors multimodal plans.",
+  "hy": "Acetaminophen max 4 g/day; hepatotoxicity is the key serious risk.",
+  "src": "Neligan I.10 · Acetaminophen",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 4 g/day ceiling; hepatotoxicity is the main serious toxicity.",
+   "B": "Wrong — 8 g exceeds the limit; the key toxicity is hepatic, not renal.",
+   "C": "Wrong — 2 g understates the limit; methemoglobinemia is very rare, not at therapeutic doses.",
+   "D": "Wrong — 6 g exceeds the limit; GI ulceration is an NSAID effect."
+  }
+ },
+ {
+  "id": "N-I-10.10",
+  "chapter": "Ch10",
+  "section": "Acetaminophen profile",
+  "stem": "Compared with opioids and NSAIDs, what makes acetaminophen a cornerstone of multimodal analgesia?",
+  "options": {
+   "A": "It has no effect on respiratory drive, platelets, or GI motility, and reduces opioid requirements",
+   "B": "It is the most potent analgesic available and eliminates the need for any opioid",
+   "C": "It has strong anti-inflammatory action superior to NSAIDs",
+   "D": "It reliably increases platelet aggregation, lowering bleeding risk"
+  },
+  "answer": "A",
+  "exp": "Acetaminophen has no effect on respiratory drive, platelets/hemostasis, or GI motility, and reduces opioid requirements, making it a safe backbone of every multimodal plan unless contraindicated. It is less potent than NSAIDs/Coxibs and lacks meaningful anti-inflammatory action, and it does not increase platelet aggregation. Its safety, not potency, is the reason it is ubiquitous.",
+  "hy": "Acetaminophen = opioid-sparing, no platelet/respiratory/GI-motility effect.",
+  "src": "Neligan I.10 · Acetaminophen",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — clean side-effect profile plus opioid sparing.",
+   "B": "Wrong — it is less potent than NSAIDs and does not eliminate opioid need.",
+   "C": "Wrong — its anti-inflammatory activity is weak, not superior to NSAIDs.",
+   "D": "Wrong — it has insignificant platelet effects, not pro-aggregation."
+  }
+ },
+ {
+  "id": "N-I-10.11",
+  "chapter": "Ch10",
+  "section": "IV acetaminophen",
+  "stem": "When is intravenous acetaminophen specifically recommended as a first-line agent?",
+  "options": {
+   "A": "For pain and fever in adults and children when oral administration is not possible, giving rapid predictable plasma levels",
+   "B": "Only as a second-line rescue agent after opioids fail",
+   "C": "Exclusively for chronic neuropathic pain unresponsive to gabapentin",
+   "D": "Only in patients with hepatic insufficiency, where it is safest"
+  },
+  "answer": "A",
+  "exp": "IV acetaminophen produces rapid, predictable plasma concentrations and is recommended as a first-line agent for pain and fever in adults and children when oral administration is not possible. It is not merely a rescue agent, is not limited to neuropathic pain, and is not reserved for hepatic insufficiency (where dose reduction is actually advised). This makes it valuable perioperatively when patients are NPO.",
+  "hy": "IV acetaminophen = first-line when oral route unavailable (rapid predictable levels).",
+  "src": "Neligan I.10 · Acetaminophen",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — first-line for pain/fever when oral dosing is not possible.",
+   "B": "Wrong — it is first-line, not a last-resort rescue agent.",
+   "C": "Wrong — it treats acute pain/fever broadly, not only neuropathic pain.",
+   "D": "Wrong — in hepatic insufficiency the dose is reduced, not preferentially used."
+  }
+ },
+ {
+  "id": "N-I-10.12",
+  "chapter": "Ch10",
+  "section": "NSAID mechanism",
+  "stem": "What is the primary analgesic mechanism of nonsteroidal anti-inflammatory drugs?",
+  "options": {
+   "A": "Inhibition of COX-1 and COX-2, reducing thromboxane and prostaglandin synthesis",
+   "B": "Antagonism of the NMDA receptor in the dorsal horn",
+   "C": "Binding voltage-gated calcium channels to reduce substance P release",
+   "D": "Agonism at spinal mu-opioid receptors"
+  },
+  "answer": "A",
+  "exp": "NSAIDs work primarily by inhibiting cyclooxygenase (COX-1 and COX-2), reducing synthesis of thromboxanes and prostaglandins, which underlies their analgesic, antipyretic, and anti-inflammatory effects. NMDA antagonism is ketamine's mechanism, calcium-channel binding is the gabapentinoids', and mu-opioid agonism is the opioids'. The prostaglandin link also explains NSAID GI, renal, and platelet effects.",
+  "hy": "NSAIDs = COX-1/COX-2 inhibition → ↓prostaglandins/thromboxanes.",
+  "src": "Neligan I.10 · NSAIDs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — COX inhibition reducing prostaglandins/thromboxanes.",
+   "B": "Wrong — NMDA antagonism is ketamine's mechanism.",
+   "C": "Wrong — calcium-channel binding describes gabapentinoids.",
+   "D": "Wrong — mu-opioid agonism describes opioids, not NSAIDs."
+  }
+ },
+ {
+  "id": "N-I-10.13",
+  "chapter": "Ch10",
+  "section": "Table 10.2 ketorolac",
+  "stem": "Per Table 10.2, which dosing rule applies to ketorolac?",
+  "options": {
+   "A": "Maximum single dose 30 mg and discontinue after 5 days, given the risk of GI ulceration",
+   "B": "No ceiling dose, and it may be continued indefinitely",
+   "C": "It is an oral-only COX-2 selective agent with no platelet effect",
+   "D": "It must be loaded at 5 mg/kg and continued for 14 days"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.2, ketorolac has a maximum single dose of 30 mg and should be discontinued after 5 days because of its risk of GI upset and ulcers; the loading dose is 0.5–1 mg/kg (max 30 mg) with maintenance 0.5 mg/kg (max 15 mg) q6h, max daily 60 mg. It is not ceiling-free, not COX-2 selective, and is not loaded at 5 mg/kg for 14 days. The 5-day limit is the classic board point.",
+  "hy": "Ketorolac: max single 30 mg, stop after 5 days.",
+  "src": "Neligan I.10 · Table 10.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 30 mg single-dose cap and 5-day limit per Table 10.2.",
+   "B": "Wrong — ketorolac has clear dose and duration ceilings.",
+   "C": "Wrong — it is a nonselective NSAID with platelet effects, not COX-2 selective oral-only.",
+   "D": "Wrong — loading is 0.5–1 mg/kg and use is limited to 5 days, not 14."
+  }
+ },
+ {
+  "id": "N-I-10.14",
+  "chapter": "Ch10",
+  "section": "Table 10.2 max daily doses",
+  "stem": "Per Table 10.2, which maximum adult daily dose is correctly matched?",
+  "options": {
+   "A": "Ibuprofen 3200 mg; naproxen 1500 mg; celecoxib 400 mg",
+   "B": "Ibuprofen 800 mg; naproxen 4000 mg; celecoxib 50 mg",
+   "C": "Ibuprofen 6000 mg; naproxen 200 mg; celecoxib 2000 mg",
+   "D": "Ibuprofen 400 mg; naproxen 6000 mg; celecoxib 60 mg"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.2, the maximum adult daily doses are ibuprofen 3200 mg, naproxen 1500 mg, and celecoxib 400 mg (with acetaminophen and aspirin both 4000 mg). The other option sets transpose or invent values. Knowing the ceilings prevents inadvertent overdosing in multimodal regimens.",
+  "hy": "Max daily: ibuprofen 3200, naproxen 1500, celecoxib 400 mg.",
+  "src": "Neligan I.10 · Table 10.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — matches Table 10.2 maximum daily doses.",
+   "B": "Wrong — transposes and understates/overstates the ceilings.",
+   "C": "Wrong — invented values inconsistent with the table.",
+   "D": "Wrong — these figures contradict the table entirely."
+  }
+ },
+ {
+  "id": "N-I-10.15",
+  "chapter": "Ch10",
+  "section": "NSAID cardiovascular risk",
+  "stem": "Among NSAIDs, how does the risk of myocardial infarction differ between agents?",
+  "options": {
+   "A": "Diclofenac carries the greatest risk and naproxen the least",
+   "B": "Naproxen carries the greatest risk and diclofenac the least",
+   "C": "All NSAIDs carry an identical, dose-independent MI risk",
+   "D": "NSAIDs uniformly protect against MI through platelet inhibition"
+  },
+  "answer": "A",
+  "exp": "The chapter states the cardiovascular (MI) risk differs between NSAIDs, with diclofenac posing the greatest risk and naproxen the least; this risk is most concerning in underlying ischemic heart disease. The reversed and \"identical/uniformly protective\" options contradict the text. Naproxen's relatively favorable cardiovascular profile is the practical takeaway.",
+  "hy": "NSAID MI risk: diclofenac highest, naproxen lowest.",
+  "src": "Neligan I.10 · NSAIDs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — diclofenac greatest MI risk, naproxen least.",
+   "B": "Wrong — reverses the two drugs.",
+   "C": "Wrong — the risk differs by agent, it is not identical.",
+   "D": "Wrong — NSAIDs can raise MI risk, not uniformly protect."
+  }
+ },
+ {
+  "id": "N-I-10.16",
+  "chapter": "Ch10",
+  "section": "Celecoxib allergy",
+  "stem": "A patient with a documented sulfonamide allergy is being considered for a COX-2 inhibitor. What is the relevant caution?",
+  "options": {
+   "A": "Celecoxib has a sulfonamide-like structure and should not be given to patients with a known sulfa allergy",
+   "B": "Celecoxib is a safe alternative precisely because it shares no structure with sulfonamides",
+   "C": "Celecoxib is contraindicated only in patients with a penicillin allergy",
+   "D": "Sulfa allergy mandates doubling the celecoxib dose to overcome cross-tolerance"
+  },
+  "answer": "A",
+  "exp": "Celecoxib has a structure similar to sulfonamides and should not be given to patients with a known sulfa drug allergy. It is not a \"safe because structurally unrelated\" alternative, is not tied to penicillin allergy, and a sulfa allergy is a reason to avoid it, not to double it. This cross-reactivity is a frequently tested safety point.",
+  "hy": "Celecoxib is sulfonamide-like → avoid in sulfa allergy.",
+  "src": "Neligan I.10 · NSAIDs/Coxibs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — celecoxib's sulfonamide structure contraindicates it in sulfa allergy.",
+   "B": "Wrong — it does share structure with sulfonamides, so it is not safe here.",
+   "C": "Wrong — the relevant cross-reactivity is sulfa, not penicillin.",
+   "D": "Wrong — allergy is a reason to avoid, never to increase the dose."
+  }
+ },
+ {
+  "id": "N-I-10.17",
+  "chapter": "Ch10",
+  "section": "NSAID renal/bleeding risk",
+  "stem": "Which statement about NSAID adverse effects in the surgical patient is correct?",
+  "options": {
+   "A": "Renal insufficiency occurs especially with hypovolemia (bleeding/dehydration); platelet inhibition raises theoretical hematoma risk",
+   "B": "NSAIDs improve renal perfusion in hypovolemic patients via prostaglandin synthesis",
+   "C": "NSAIDs have no effect on platelet function or hemostasis",
+   "D": "NSAIDs are absolutely contraindicated in all plastic surgery by proven hematoma data"
+  },
+  "answer": "A",
+  "exp": "NSAIDs can precipitate renal insufficiency specifically in the setting of hypovolemia (from perioperative bleeding or dehydration) via prostaglandin inhibition, and their platelet inhibition creates a theoretical bleeding/hematoma risk. However, several well-designed studies show no increased hematoma with ibuprofen or ketorolac, so the risk is debated rather than proven absolute. The prostaglandin-improves-perfusion and \"no platelet effect\" options are incorrect.",
+  "hy": "NSAID renal risk rises with hypovolemia; hematoma risk theoretical/debated.",
+  "src": "Neligan I.10 · NSAIDs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — hypovolemia-related renal risk plus platelet-mediated bleeding concern.",
+   "B": "Wrong — prostaglandin inhibition worsens renal perfusion in hypovolemia.",
+   "C": "Wrong — NSAIDs do impair platelet function.",
+   "D": "Wrong — the data do not prove an absolute hematoma contraindication."
+  }
+ },
+ {
+  "id": "N-I-10.18",
+  "chapter": "Ch10",
+  "section": "COX-2 inhibitors",
+  "stem": "What is the principal advantage of selective COX-2 inhibitors over traditional NSAIDs, and their key restriction?",
+  "options": {
+   "A": "Negligible platelet effect (low bleeding/hematoma risk), but they should be avoided in ischemic heart disease",
+   "B": "Complete elimination of GI bleeding risk, and they are safest in ischemic heart disease",
+   "C": "Superior analgesic potency proven over NSAIDs, with no cardiovascular concern",
+   "D": "No renal side effects whatsoever compared with NSAIDs"
+  },
+  "answer": "A",
+  "exp": "The major advantage of Coxibs is their negligible effect on platelet function, giving a low bleeding/hematoma risk and fewer GI ulcers than NSAIDs; however, because of thromboembolic/cardiovascular risk they should be avoided in ischemic heart disease. They reduce but do not eliminate GI bleeding, are not proven analgesically superior to NSAIDs, and have a renal side-effect rate similar to NSAIDs.",
+  "hy": "Coxibs: negligible platelet/bleeding effect, but avoid in ischemic heart disease.",
+  "src": "Neligan I.10 · COX-2 receptor inhibitors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — low bleeding risk but cardiovascular caution in ischemic heart disease.",
+   "B": "Wrong — GI bleeding is reduced, not eliminated, and they are not safest in IHD.",
+   "C": "Wrong — analgesic superiority over NSAIDs is not proven.",
+   "D": "Wrong — renal side effects are similar to NSAIDs, not absent."
+  }
+ },
+ {
+  "id": "N-I-10.19",
+  "chapter": "Ch10",
+  "section": "Table 10.3 pharmacology",
+  "stem": "Per Table 10.3, which pharmacologic property is correctly stated?",
+  "options": {
+   "A": "Etoricoxib has a long plasma half-life (~22 h) and duration of action (~20 h), unlike acetaminophen's 4–6 h duration",
+   "B": "IV acetaminophen has only 50% bioavailability and an 8-hour half-life",
+   "C": "Ketorolac IV has a 22-hour half-life and 20-hour duration",
+   "D": "Ibuprofen has a 12-hour half-life and 24-hour duration"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.3, etoricoxib has a long plasma half-life (~22 h) and duration of action (~20 h), contrasting with acetaminophen's 4–6 h duration — relevant for dosing frequency. IV acetaminophen actually has 100% bioavailability and a ~2.7 h half-life; ketorolac IV has a 4–9 h half-life (~11 h duration), and ibuprofen a ~2 h half-life. The long-acting Coxib point is the table's standout.",
+  "hy": "Etoricoxib ~22 h half-life / ~20 h duration (long-acting Coxib).",
+  "src": "Neligan I.10 · Table 10.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — etoricoxib is long-acting versus acetaminophen's short duration.",
+   "B": "Wrong — IV acetaminophen is 100% bioavailable with a ~2.7 h half-life.",
+   "C": "Wrong — ketorolac IV half-life is ~4–9 h, not 22 h.",
+   "D": "Wrong — ibuprofen's half-life is ~2 h, not 12 h."
+  }
+ },
+ {
+  "id": "N-I-10.20",
+  "chapter": "Ch10",
+  "section": "Ketamine",
+  "stem": "What is ketamine's mechanism and the feature that makes it attractive in a hemodynamically unstable plastic surgery patient?",
+  "options": {
+   "A": "Noncompetitive NMDA-receptor antagonist that preserves respiratory drive and supports hemodynamics via sympathomimetic effect",
+   "B": "Pure mu-opioid agonist that provides analgesia but causes marked respiratory depression",
+   "C": "COX-2 selective inhibitor that reduces inflammation without cardiac effects",
+   "D": "GABA-A agonist that produces deep sedation with hypotension"
+  },
+  "answer": "A",
+  "exp": "Ketamine is a noncompetitive NMDA-receptor antagonist; its hallmark advantages are preservation of respiratory drive (continuous spontaneous breathing, maintained airway tone) and hemodynamic support through a mild sympathomimetic effect (catecholamine release, noradrenaline-reuptake inhibition raising HR, stroke volume, and MAP). This makes it favorable in hemodynamically unstable patients. It is not an opioid agonist, COX-2 inhibitor, or GABA-A agonist.",
+  "hy": "Ketamine = NMDA antagonist; preserves breathing + supports hemodynamics.",
+  "src": "Neligan I.10 · Ketamine",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — NMDA antagonist with respiratory and hemodynamic preservation.",
+   "B": "Wrong — it is not a mu-opioid agonist and does not depress respiration.",
+   "C": "Wrong — it is not a COX-2 inhibitor.",
+   "D": "Wrong — it is not a GABA-A agonist and does not cause hypotension."
+  }
+ },
+ {
+  "id": "N-I-10.21",
+  "chapter": "Ch10",
+  "section": "Ketamine dosing",
+  "stem": "At what dose does ketamine act as an analgesic adjunct, and why is that range favored in microsurgery?",
+  "options": {
+   "A": "Subanesthetic ~0.1 mg/kg/h — its sympathomimetic effect reduces vasopressor need, aiding flap perfusion, versus anesthetic doses of 1–5 mg/kg",
+   "B": "Anesthetic 1–5 mg/kg continuous infusion, to keep the patient fully unconscious during the flap",
+   "C": "10–20 mg/kg boluses, to maximize the dissociative effect",
+   "D": "A fixed 500 mg dose regardless of weight, for predictable plasma levels"
+  },
+  "answer": "A",
+  "exp": "At subanesthetic doses (~0.1 mg/kg/h) ketamine improves analgesia and reduces opioid requirements; its sympathomimetic effect can lower perioperative vasopressor need, which is ideal for flap perfusion in microsurgery. Anesthetic doses are 1–5 mg/kg and carry more neuropsychiatric effects. The 1–5 mg/kg/h infusion, 10–20 mg/kg boluses, and fixed-500-mg options misstate the analgesic range.",
+  "hy": "Ketamine analgesic dose ~0.1 mg/kg/h; sympathomimetic aids flap perfusion.",
+  "src": "Neligan I.10 · Ketamine",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — ~0.1 mg/kg/h subanesthetic dosing with flap-perfusion benefit.",
+   "B": "Wrong — 1–5 mg/kg is the anesthetic (not analgesic-adjunct) range.",
+   "C": "Wrong — 10–20 mg/kg would be grossly excessive.",
+   "D": "Wrong — ketamine is weight-based, not a fixed 500 mg dose."
+  }
+ },
+ {
+  "id": "N-I-10.22",
+  "chapter": "Ch10",
+  "section": "Ketamine side effects",
+  "stem": "Why is ketamine generally unsuitable as a sole analgesic agent?",
+  "options": {
+   "A": "Dose-dependent neuropsychiatric effects (dysphoria, hallucinations, vivid dreams) that are far less common at subanesthetic doses",
+   "B": "Profound respiratory depression requiring routine intubation",
+   "C": "Severe platelet inhibition that precludes any surgical use",
+   "D": "Reliable, dangerous hypotension at every dose"
+  },
+  "answer": "A",
+  "exp": "Ketamine's dose-dependent neuropsychiatric effects — dysphoria, hallucinations, vivid unpleasant dreams, catatonia/psychosis — make it unsuitable as a sole analgesic, though these are far less common at subanesthetic doses. It actually preserves respiratory drive (not profound depression), has no major platelet effect, and supports rather than lowers blood pressure. The psychiatric profile, not respiratory or hemodynamic risk, is the limiting factor.",
+  "hy": "Ketamine's neuropsychiatric effects limit it to an adjunct, not a sole agent.",
+  "src": "Neligan I.10 · Ketamine",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — dysphoria/hallucinations limit sole use; less frequent at low dose.",
+   "B": "Wrong — ketamine preserves respiratory drive.",
+   "C": "Wrong — it does not cause severe platelet inhibition.",
+   "D": "Wrong — it tends to raise, not lower, blood pressure."
+  }
+ },
+ {
+  "id": "N-I-10.23",
+  "chapter": "Ch10",
+  "section": "Gabapentinoids mechanism",
+  "stem": "Gabapentin and pregabalin are GABA analogues, yet they do not act at GABA receptors. What is their actual mechanism?",
+  "options": {
+   "A": "Binding voltage-gated calcium channels of cortical/dorsal-horn neurons, attenuating glutamate, norepinephrine, and substance P release",
+   "B": "Direct agonism at GABA-A and GABA-B receptors in the spinal cord",
+   "C": "Irreversible inhibition of COX-1 and COX-2 enzymes",
+   "D": "Antagonism of peripheral mu-opioid receptors"
+  },
+  "answer": "A",
+  "exp": "Although structurally GABA analogues, gabapentin and pregabalin do not act at GABA-A or GABA-B receptors; instead they bind voltage-gated calcium channels of cortical and dorsal-horn neurons, attenuating release of glutamate, norepinephrine, and substance P (gabapentin may also activate descending inhibitory noradrenergic pathways). They are not COX inhibitors or opioid antagonists. This mechanism underlies their use in neuropathic pain.",
+  "hy": "Gabapentinoids bind voltage-gated Ca channels (not GABA receptors).",
+  "src": "Neligan I.10 · Gabapentinoids",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — voltage-gated calcium-channel binding reduces neurotransmitter release.",
+   "B": "Wrong — they do not act via GABA-A/GABA-B receptors despite the name.",
+   "C": "Wrong — COX inhibition is the NSAID mechanism.",
+   "D": "Wrong — they are not opioid antagonists."
+  }
+ },
+ {
+  "id": "N-I-10.24",
+  "chapter": "Ch10",
+  "section": "Gabapentin black box",
+  "stem": "The FDA placed a December 2019 \"Black Box\" warning on gabapentin for what reason?",
+  "options": {
+   "A": "Respiratory depression when combined with CNS depressants (opioids, benzodiazepines) or in COPD/elderly patients",
+   "B": "A newly proven causal link to hepatic failure at therapeutic doses",
+   "C": "An association with severe platelet dysfunction and surgical bleeding",
+   "D": "Direct cardiotoxicity producing QT prolongation and arrhythmia"
+  },
+  "answer": "A",
+  "exp": "The FDA's December 2019 Black Box warning on gabapentin reflects the risk of serious respiratory depression when it is combined with CNS depressants (opioids, benzodiazepines) or used in patients with COPD or advanced age; chronic-opioid patients are especially likely to die from respiratory depression with co-administered gabapentin. It is not based on hepatic failure, platelet dysfunction, or QT prolongation.",
+  "hy": "Gabapentin Black Box (Dec 2019) = respiratory depression with CNS depressants/COPD/elderly.",
+  "src": "Neligan I.10 · Gabapentinoids",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — respiratory depression with CNS depressants and in COPD/elderly.",
+   "B": "Wrong — the warning is respiratory, not hepatic.",
+   "C": "Wrong — it is not based on platelet/bleeding effects.",
+   "D": "Wrong — it is not a QT/cardiotoxicity warning."
+  }
+ },
+ {
+  "id": "N-I-10.25",
+  "chapter": "Ch10",
+  "section": "Table 10.4 codeine",
+  "stem": "Per Table 10.4, why is codeine an unreliable and potentially dangerous analgesic?",
+  "options": {
+   "A": "It is a prodrug requiring CYP2D6 conversion to morphine — ultra-rapid metabolizers overproduce it (black-box contraindication after pediatric tonsillectomy), poor metabolizers get no analgesia",
+   "B": "It is a direct-acting opioid with predictable potency unaffected by metabolism",
+   "C": "It cannot be combined with acetaminophen because of hepatotoxic synergy",
+   "D": "It is contraindicated only in adults, never in children"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.4, codeine is a prodrug that must be converted by CYP2D6 to morphine: ultra-rapid metabolizers can produce excessive morphine (the basis of its black-box contraindication in pediatric tonsillectomy patients), while poor metabolizers get no analgesia. This pharmacogenetic variability makes it unreliable and unsafe. It is not a predictable direct-acting opioid, is often combined with acetaminophen, and is specifically dangerous in children.",
+  "hy": "Codeine = CYP2D6 prodrug; ultra-rapid metabolizers → toxicity (peds tonsillectomy black box).",
+  "src": "Neligan I.10 · Table 10.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — CYP2D6 prodrug with dangerous metabolizer variability.",
+   "B": "Wrong — its potency is metabolism-dependent, not predictable.",
+   "C": "Wrong — it is frequently combined with acetaminophen.",
+   "D": "Wrong — it is specifically contraindicated in pediatric tonsillectomy."
+  }
+ },
+ {
+  "id": "N-I-10.26",
+  "chapter": "Ch10",
+  "section": "Table 10.4 fentanyl",
+  "stem": "Per Table 10.4, which property characterizes fentanyl?",
+  "options": {
+   "A": "It can cause chest-wall rigidity from glottic closure and has a transmucosal dose of 10–15 mcg/kg",
+   "B": "It causes prominent histamine release and vasodilation, like morphine",
+   "C": "It has excellent oral bioavailability, so IV dosing is unnecessary",
+   "D": "Its active metabolite reliably causes seizures at therapeutic doses"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.4, fentanyl can cause chest-wall rigidity from glottic closure and has a transmucosal dose of 10–15 mcg/kg; it is very effective for short painful procedures with minimal hemodynamic alteration. Histamine release/vasodilation characterizes morphine, fentanyl is given parenterally/transmucosally/transdermally (not orally for bioavailability), and the seizure-causing metabolite belongs to meperidine. Chest-wall rigidity is the classic fentanyl hazard.",
+  "hy": "Fentanyl → chest-wall rigidity (glottic closure); transmucosal 10–15 mcg/kg.",
+  "src": "Neligan I.10 · Table 10.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — chest-wall rigidity and a 10–15 mcg/kg transmucosal dose.",
+   "B": "Wrong — histamine release/vasodilation describes morphine.",
+   "C": "Wrong — fentanyl is not used orally for systemic bioavailability.",
+   "D": "Wrong — the seizure-causing metabolite (normeperidine) belongs to meperidine."
+  }
+ },
+ {
+  "id": "N-I-10.27",
+  "chapter": "Ch10",
+  "section": "Table 10.4 meperidine",
+  "stem": "Per Table 10.4, which set of cautions applies to meperidine?",
+  "options": {
+   "A": "Catastrophic MAO-inhibitor interactions and a metabolite (normeperidine) that causes seizures; 12.5 mg effectively treats shivering",
+   "B": "It is the inexpensive \"gold standard\" opioid with no significant drug interactions",
+   "C": "It is an oral-only prodrug activated by CYP2D6",
+   "D": "It is the preferred routine opioid because of its long, safe duration"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.4, meperidine has catastrophic interactions with MAO inhibitors and a metabolite, normeperidine, that produces seizures; a 12.5 mg dose effectively treats shivering, and it is not recommended for routine use. It is not the inexpensive \"gold standard\" (that descriptor is morphine's), is not an oral CYP2D6 prodrug (that is codeine), and is explicitly not preferred for routine analgesia. The normeperidine/MAOI hazards are the tested points.",
+  "hy": "Meperidine: MAOI interaction, normeperidine seizures; 12.5 mg for shivering.",
+  "src": "Neligan I.10 · Table 10.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — MAOI interaction, seizurogenic normeperidine, 12.5 mg for shivering.",
+   "B": "Wrong — morphine, not meperidine, is the \"gold standard\" with few interactions.",
+   "C": "Wrong — codeine is the CYP2D6 oral prodrug.",
+   "D": "Wrong — meperidine is not recommended for routine use."
+  }
+ },
+ {
+  "id": "N-I-10.28",
+  "chapter": "Ch10",
+  "section": "Table 10.4 morphine",
+  "stem": "Per Table 10.4, which statements about morphine are correct?",
+  "options": {
+   "A": "It causes histamine release/vasodilation (consider avoiding in asthmatics) and has poor oral bioavailability, so the oral dose is 3–5× the IV dose",
+   "B": "It causes no histamine release and has near-complete oral bioavailability",
+   "C": "It is an oral-only prodrug requiring hepatic activation",
+   "D": "It is contraindicated by a black-box warning in all adults"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.4, morphine causes histamine release and vasodilation (so it is often avoided in asthmatics and in circulatory compromise) and has poor oral bioavailability, requiring an oral dose 3–5 times the IV dose. The \"no histamine/near-complete bioavailability,\" \"oral-only prodrug,\" and \"black-box in all adults\" options contradict the table. These are classic morphine pitfalls.",
+  "hy": "Morphine: histamine release/vasodilation; oral dose 3–5× IV (poor bioavailability).",
+  "src": "Neligan I.10 · Table 10.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — histamine release and the 3–5× oral-to-IV ratio.",
+   "B": "Wrong — morphine does release histamine and has poor oral bioavailability.",
+   "C": "Wrong — morphine is not a prodrug.",
+   "D": "Wrong — there is no universal adult black-box for morphine."
+  }
+ },
+ {
+  "id": "N-I-10.29",
+  "chapter": "Ch10",
+  "section": "Table 10.5 PCA",
+  "stem": "Patient-controlled analgesia is favored for several reasons, but doses must be reduced in certain patients. Which is correct?",
+  "options": {
+   "A": "PCA improves analgesia/satisfaction and reduces total exposure; reduce doses in obesity, OSA, the elderly, or with CNS depressants",
+   "B": "PCA is unsafe and inferior to nurse-administered bolus dosing in all patients",
+   "C": "PCA doses should be increased in OSA patients to overcome airway resistance",
+   "D": "A continuous basal infusion is standard and recommended for all adults"
+  },
+  "answer": "A",
+  "exp": "PCA improves analgesia and patient satisfaction and reduces side effects by lowering total opioid exposure, with an increased safety margin; per Table 10.5, doses should be reduced in patients at risk of opioid sensitivity (obesity, OSA, elderly, co-administered CNS depressants). It is not inferior to nurse-bolus dosing, doses should not be increased in OSA, and continuous basal infusions are rare/not routine in adults.",
+  "hy": "PCA = safer titration; reduce doses in OSA/obesity/elderly/CNS depressants.",
+  "src": "Neligan I.10 · Opioids / Table 10.5",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — PCA benefits plus dose reduction in higher-risk groups.",
+   "B": "Wrong — PCA is favored, not inferior to nurse boluses.",
+   "C": "Wrong — OSA calls for lower, not higher, dosing.",
+   "D": "Wrong — basal infusions are rare in adults, not standard."
+  }
+ },
+ {
+  "id": "N-I-10.30",
+  "chapter": "Ch10",
+  "section": "OSA and opioids",
+  "stem": "Obstructive sleep apnea (affecting ~9–24% of middle-aged adults) raises opioid risk. What management does the chapter recommend?",
+  "options": {
+   "A": "Reduce the opioid dose by half (or lengthen the interval), use continuous pulse oximetry, and start early positive-airway-pressure therapy",
+   "B": "Increase opioid dosing to ensure comfort and avoid arousal",
+   "C": "Avoid pulse oximetry, which causes nuisance alarms on the ward",
+   "D": "Discharge OSA patients early, as they tolerate opioids better than others"
+  },
+  "answer": "A",
+  "exp": "Because OSA (affecting ~9–24% of middle-aged adults) predisposes to opioid-related airway obstruction (opioids reduce genioglossus tone and arousal), the chapter recommends reducing the opioid dose by half or lengthening the interval, continuous pulse oximetry, longer PACU observation, and early postoperative positive-airway-pressure therapy. Increasing the dose, avoiding oximetry, and early discharge are the opposite of safe practice.",
+  "hy": "OSA: halve opioid dose, continuous SpO₂, early PAP therapy.",
+  "src": "Neligan I.10 · Opioids — special populations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — dose reduction, monitoring, and early PAP therapy.",
+   "B": "Wrong — increasing the dose worsens obstruction.",
+   "C": "Wrong — continuous oximetry is specifically recommended.",
+   "D": "Wrong — OSA patients are more, not less, opioid-sensitive."
+  }
+ },
+ {
+  "id": "N-I-10.31",
+  "chapter": "Ch10",
+  "section": "Elderly analgesia",
+  "stem": "Which statement about opioids and the elderly surgical patient is supported by the chapter?",
+  "options": {
+   "A": "~17% have postoperative cognitive dysfunction at 3 months (from anesthesia, not directly opioid dose); adjuncts can cut opioid use 15–55% in the first 24 h",
+   "B": "Opioid dose is the proven direct cause of postoperative cognitive dysfunction",
+   "C": "The elderly tolerate opioid side effects better than younger patients",
+   "D": "Adjuncts such as acetaminophen have no opioid-sparing role in this group"
+  },
+  "answer": "A",
+  "exp": "About 17% of elderly patients have postoperative cognitive dysfunction at 3 months, attributed to anesthesia (with opioid dose not a direct link, though side effects compound risk); adjuncts such as acetaminophen, NSAIDs, and α-2 agonists can reduce opioid administration by 15–55% in the first 24 hours. Opioid dose is not the proven direct cause, the elderly tolerate side effects worse, and adjuncts are central to their care.",
+  "hy": "Elderly: 17% POCD at 3 mo; adjuncts cut opioids 15–55% in first 24 h.",
+  "src": "Neligan I.10 · Opioids — elderly",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 17% POCD at 3 months; adjuncts give 15–55% opioid sparing.",
+   "B": "Wrong — opioid dose is not the proven direct cause of POCD.",
+   "C": "Wrong — the elderly tolerate opioid effects worse, not better.",
+   "D": "Wrong — acetaminophen and other adjuncts are key opioid-sparing tools."
+  }
+ },
+ {
+  "id": "N-I-10.32",
+  "chapter": "Ch10",
+  "section": "Chronic opioid / buprenorphine",
+  "stem": "A patient on chronic buprenorphine presents for elective surgery. What does current evidence support?",
+  "options": {
+   "A": "Continue the home buprenorphine dose (tapering may cause harm); standard opioid regimens are less effective, so plan multimodal/regional analgesia",
+   "B": "Always taper and stop buprenorphine well before surgery to restore opioid sensitivity",
+   "C": "Buprenorphine has no bearing on perioperative analgesia and can be ignored",
+   "D": "Replace buprenorphine with high-dose codeine the morning of surgery"
+  },
+  "answer": "A",
+  "exp": "For patients on chronic buprenorphine, current evidence favors continuing the home dose (prior advice to taper preoperatively may cause harm); because buprenorphine tightly binds the opioid receptor with low activity, standard opioid regimens are less effective postoperatively, so a multimodal/regional plan and anesthesiology involvement are needed, with the dose sometimes increased. Routine preoperative tapering, ignoring it, or swapping to codeine are all incorrect.",
+  "hy": "Chronic buprenorphine: continue home dose; plan multimodal/regional (standard opioids less effective).",
+  "src": "Neligan I.10 · Opioids — chronic users",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — continue buprenorphine and plan multimodal/regional analgesia.",
+   "B": "Wrong — routine preoperative tapering may cause harm.",
+   "C": "Wrong — buprenorphine strongly affects perioperative opioid efficacy.",
+   "D": "Wrong — substituting high-dose codeine is not recommended."
+  }
+ },
+ {
+  "id": "N-I-10.33",
+  "chapter": "Ch10",
+  "section": "Minimizing injection pain",
+  "stem": "Which techniques reduce the pain of injecting local anesthesia with a sharp needle?",
+  "options": {
+   "A": "Buffer lidocaine/epinephrine with 8.4% sodium bicarbonate, warm the anesthetic, use 27–30-gauge needles, and inject slowly ahead of the needle",
+   "B": "Refrigerate the anesthetic and use a large-bore needle for faster delivery",
+   "C": "Acidify the solution and inject as rapidly as possible",
+   "D": "Inject only after the area is fully numb from topical agents, never buffering"
+  },
+  "answer": "A",
+  "exp": "The pain of sharp-needle local anesthesia injection can be reduced by buffering lidocaine/epinephrine with 8.4% sodium bicarbonate, warming the anesthetic, using small (27–30-gauge) needles, stabilizing the syringe, and injecting slowly with anesthetic kept ahead of the advancing needle. Refrigerating, acidifying, or injecting rapidly increase pain. These are practical, board-relevant techniques.",
+  "hy": "Less injection pain: buffer (8.4% bicarb), warm, small needle, inject slowly ahead of needle.",
+  "src": "Neligan I.10 · Minimizing pain with injection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — buffering, warming, small needles, and slow injection.",
+   "B": "Wrong — cold solution and large needles increase pain.",
+   "C": "Wrong — acidic, rapid injection is more painful.",
+   "D": "Wrong — buffering is specifically recommended, not avoided."
+  }
+ },
+ {
+  "id": "N-I-10.34",
+  "chapter": "Ch10",
+  "section": "Blunt cannula",
+  "stem": "For injecting hyaluronic-acid filler or local anesthetic over a wide sensitive area with minimal pain and ecchymosis, what technique is described?",
+  "options": {
+   "A": "Perforate the skin with a 27-gauge needle, then pass a fine blunt-tipped 30-gauge cannula subdermally",
+   "B": "Use a large sharp 18-gauge needle to cover the area in fewer passes",
+   "C": "Inject intradermally with a 25-gauge needle at high pressure",
+   "D": "Apply only topical anesthetic, avoiding any cannula or needle"
+  },
+  "answer": "A",
+  "exp": "The described technique perforates the skin with a 27-gauge needle, then introduces a fine blunt-tipped 30-gauge cannula subdermally, allowing wide-area injection of filler or local anesthetic with little pain and far less ecchymosis than a sharp needle tip. A large sharp 18-gauge needle, high-pressure intradermal injection, or topical-only approaches do not match the chapter. The blunt cannula minimizes vascular trauma.",
+  "hy": "Blunt 30-G cannula (via 27-G skin nick) → wide-area injection, less pain/bruising.",
+  "src": "Neligan I.10 · Minimizing pain with injection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 27-G perforation then a blunt 30-G cannula.",
+   "B": "Wrong — a large sharp needle increases pain and bruising.",
+   "C": "Wrong — high-pressure intradermal injection is not the technique.",
+   "D": "Wrong — a cannula is used, not topical anesthetic alone."
+  }
+ },
+ {
+  "id": "N-I-10.35",
+  "chapter": "Ch10",
+  "section": "Liposomal bupivacaine",
+  "stem": "Which statements about liposomal bupivacaine (Exparel) are correct?",
+  "options": {
+   "A": "~3% of the bupivacaine is free immediately (the rest released gradually); FDA-approved 2011 for wound infiltration and 2018 for interscalene block",
+   "B": "100% is released immediately, giving the same short duration as plain bupivacaine",
+   "C": "It was FDA-approved in 2011 for spinal anesthesia and is contraindicated for infiltration",
+   "D": "It contains no free drug, so it provides no immediate analgesic effect"
+  },
+  "answer": "A",
+  "exp": "With liposomal bupivacaine (Exparel), about 3% of the bupivacaine is free at injection for an immediate effect while the rest is released gradually from vesicles for prolonged analgesia; the FDA approved it in 2011 for wound infiltration and in 2018 for interscalene nerve block. The \"100% immediate,\" \"2011 for spinal,\" and \"no free drug\" options misstate its kinetics or approvals.",
+  "hy": "Liposomal bupivacaine: ~3% free immediately; FDA 2011 infiltration, 2018 interscalene.",
+  "src": "Neligan I.10 · Liposomal delivery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 3% immediate free drug; 2011 and 2018 FDA approvals.",
+   "B": "Wrong — only ~3% is free initially, giving extended (not short) duration.",
+   "C": "Wrong — the 2011 approval was for infiltration, not spinal anesthesia.",
+   "D": "Wrong — ~3% is free for an immediate effect, so it does act early."
+  }
+ },
+ {
+  "id": "N-I-10.36",
+  "chapter": "Ch10",
+  "section": "Liposomal bupivacaine evidence",
+  "stem": "What does the chapter conclude about liposomal bupivacaine specifically in plastic surgery?",
+  "options": {
+   "A": "More recent well-designed (prospective, randomized, blinded) plastic surgery studies have not consistently shown a benefit",
+   "B": "Randomized plastic surgery trials have definitively proven it superior to all alternatives",
+   "C": "It has never been studied in any plastic surgery procedure",
+   "D": "It is contraindicated in abdominoplasty and mastectomy"
+  },
+  "answer": "A",
+  "exp": "While some well-designed studies in the broader surgical literature show benefit, the chapter notes that more recent well-designed plastic surgery studies (prospective, randomized, blinded) have not consistently found a benefit from liposomal bupivacaine. It has been studied in abdominoplasty, augmentation, and mastectomy (so \"never studied\" and \"contraindicated\" are wrong), and it is not definitively proven superior in plastic surgery. The honest verdict is \"inconsistent evidence in plastic surgery.\"",
+  "hy": "Liposomal bupivacaine benefit is inconsistent in rigorous plastic surgery trials.",
+  "src": "Neligan I.10 · Liposomal delivery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — recent rigorous plastic surgery trials show inconsistent benefit.",
+   "B": "Wrong — it has not been definitively proven superior in plastic surgery.",
+   "C": "Wrong — it has been studied in several plastic surgery procedures.",
+   "D": "Wrong — it is described in abdominoplasty/mastectomy, not contraindicated."
+  }
+ },
+ {
+  "id": "N-I-10.37",
+  "chapter": "Ch10",
+  "section": "Table 10.6 lidocaine",
+  "stem": "Per Table 10.6, what is the maximum subcutaneous/peripheral lidocaine dose, and what permits the higher end of the range?",
+  "options": {
+   "A": "5–7 mg/kg, with the higher dose allowed only when epinephrine 1:200,000 is coadministered",
+   "B": "0.3–0.5 mg/kg, independent of epinephrine",
+   "C": "35 mg/kg regardless of epinephrine",
+   "D": "2–3 mg/kg, the same as bupivacaine"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.6, the maximum subcutaneous/peripheral lidocaine dose is 5–7 mg/kg, with the higher end allowed only when epinephrine 1:200,000 is coadministered (epinephrine slows absorption). The 0.3–0.5 mg/kg figure is for spinal bupivacaine/ropivacaine, 35 mg/kg is the tumescent liposuction figure, and 2–3 mg/kg is bupivacaine's limit. Epinephrine coadministration is the key that raises the ceiling.",
+  "hy": "Lidocaine 5–7 mg/kg; higher end needs epinephrine 1:200,000.",
+  "src": "Neligan I.10 · Table 10.6",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 5–7 mg/kg, top of range with epinephrine 1:200,000.",
+   "B": "Wrong — 0.3–0.5 mg/kg is the spinal amide dose, not subcutaneous lidocaine.",
+   "C": "Wrong — 35 mg/kg is the tumescent figure, not the table's subcutaneous max.",
+   "D": "Wrong — 2–3 mg/kg is bupivacaine's limit, not lidocaine's."
+  }
+ },
+ {
+  "id": "N-I-10.38",
+  "chapter": "Ch10",
+  "section": "Table 10.6 amides",
+  "stem": "Per Table 10.6, which maximum-dose pairing is correct?",
+  "options": {
+   "A": "Bupivacaine and ropivacaine 2–3 mg/kg (peripheral/epidural/subcutaneous); prilocaine total adult dose ≤600 mg",
+   "B": "Bupivacaine 7 mg/kg; ropivacaine 35 mg/kg",
+   "C": "Prilocaine has no ceiling; bupivacaine 12 mg/kg",
+   "D": "Ropivacaine 0.1 mg/kg subcutaneous maximum"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.6, bupivacaine and ropivacaine share a 2–3 mg/kg ceiling for peripheral/epidural/subcutaneous use (0.3–0.5 mg/kg spinal), and the total adult prilocaine dose should not exceed 600 mg. The \"bupivacaine 7 mg/kg,\" \"prilocaine no ceiling,\" and \"ropivacaine 0.1 mg/kg\" options contradict the table. The shared bupivacaine/ropivacaine limit and prilocaine cap are the high-yield numbers.",
+  "hy": "Bupivacaine/ropivacaine 2–3 mg/kg; prilocaine total ≤600 mg.",
+  "src": "Neligan I.10 · Table 10.6",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 2–3 mg/kg amides and a 600 mg prilocaine cap.",
+   "B": "Wrong — bupivacaine is 2–3 mg/kg, not 7; ropivacaine is not 35.",
+   "C": "Wrong — prilocaine has a 600 mg total ceiling.",
+   "D": "Wrong — ropivacaine's subcutaneous limit is 2–3 mg/kg, not 0.1."
+  }
+ },
+ {
+  "id": "N-I-10.39",
+  "chapter": "Ch10",
+  "section": "Table 10.6 epinephrine",
+  "stem": "Per Table 10.6, what is the maximum epinephrine dose for adults under general anesthesia with volatile agents, and for children?",
+  "options": {
+   "A": "2–3 mcg/kg in adults and up to 10 mcg/kg in children",
+   "B": "10 mcg/kg in adults and 2–3 mcg/kg in children",
+   "C": "1 mg/kg in adults and 5 mg/kg in children",
+   "D": "There is no dose limit when a volatile agent is used"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.6 footnotes, the maximum epinephrine dose for adults under general anesthesia with volatile agents is 2–3 mcg/kg, while infants and children tolerate up to 10 mcg/kg under volatile anesthesia. The reversed, 1 mg/kg, and \"no limit\" options are wrong. The lower adult ceiling reflects volatile-agent myocardial sensitization.",
+  "hy": "Epinephrine under volatile GA: adults 2–3 mcg/kg, children up to 10 mcg/kg.",
+  "src": "Neligan I.10 · Table 10.6",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 2–3 mcg/kg adults, up to 10 mcg/kg children.",
+   "B": "Wrong — reverses the adult and pediatric limits.",
+   "C": "Wrong — 1 mg/kg is a thousand-fold too high.",
+   "D": "Wrong — there is a defined limit under volatile anesthesia."
+  }
+ },
+ {
+  "id": "N-I-10.40",
+  "chapter": "Ch10",
+  "section": "Klein's solution",
+  "stem": "What is the classic composition of Klein's tumescent solution?",
+  "options": {
+   "A": "500 mg lidocaine + 1 mg epinephrine + 12.5 mEq bicarbonate in 1000 mL normal saline",
+   "B": "50 mg lidocaine + 10 mg epinephrine + 125 mEq bicarbonate in 100 mL saline",
+   "C": "5000 mg lidocaine + 1 mg epinephrine in 1000 mL Ringer's lactate",
+   "D": "1000 mg bupivacaine + 1 mg epinephrine in 500 mL normal saline"
+  },
+  "answer": "A",
+  "exp": "Klein's classic tumescent (\"Klein's Solution\") formula is 500 mg lidocaine with 1 mg epinephrine and 12.5 mEq of bicarbonate in 1000 mL of normal saline; epinephrine prolongs analgesia, reduces bleeding, and slows local-anesthetic absorption. The other compositions misstate the drug amounts or carrier. This is a frequently tested eponymous recipe.",
+  "hy": "Klein's solution = 500 mg lidocaine + 1 mg epi + 12.5 mEq bicarb / 1000 mL NS.",
+  "src": "Neligan I.10 · Tumescent analgesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — the canonical Klein's tumescent formula.",
+   "B": "Wrong — the doses and volume are off by orders of magnitude.",
+   "C": "Wrong — 5000 mg lidocaine and Ringer's carrier are incorrect.",
+   "D": "Wrong — Klein's uses lidocaine, not bupivacaine."
+  }
+ },
+ {
+  "id": "N-I-10.41",
+  "chapter": "Ch10",
+  "section": "Tumescent lidocaine dosing",
+  "stem": "In tumescent anesthesia, how does the safe lidocaine-with-epinephrine dose compare with the usual systemic limit?",
+  "options": {
+   "A": "Standard limit ~7 mg/kg, but 35 mg/kg is routinely used and up to 55 mg/kg has been reported without complications during liposuction",
+   "B": "The tumescent limit is lower (~2 mg/kg) because of rapid systemic absorption",
+   "C": "Tumescent lidocaine is capped at 7 mg/kg with no exception",
+   "D": "Up to 200 mg/kg is considered safe with epinephrine"
+  },
+  "answer": "A",
+  "exp": "Although the standard reported lidocaine-with-epinephrine dose limit is 7 mg/kg, doses of 35 mg/kg are frequently used during liposuction and up to 55 mg/kg have been reported without complications, owing to slow absorption from dilute subcutaneous tumescent fluid with epinephrine. The \"lower 2 mg/kg,\" \"capped at 7,\" and \"200 mg/kg\" options are incorrect. Cardiac monitoring is advised above 35 mg/kg.",
+  "hy": "Tumescent lidocaine: standard 7 mg/kg, but 35 (up to 55) mg/kg used in liposuction.",
+  "src": "Neligan I.10 · Tumescent analgesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 7 mg/kg standard, 35–55 mg/kg in tumescent liposuction.",
+   "B": "Wrong — tumescent dosing is far higher than 2 mg/kg.",
+   "C": "Wrong — 35 mg/kg and above are used, exceeding 7 mg/kg.",
+   "D": "Wrong — 200 mg/kg exceeds the reported safe range."
+  }
+ },
+ {
+  "id": "N-I-10.42",
+  "chapter": "Ch10",
+  "section": "Lidocaine peak/timing",
+  "stem": "Why can tumescent lidocaine toxicity present after the patient has been discharged?",
+  "options": {
+   "A": "Peak plasma lidocaine occurs ~10–14 h after infiltration (~6 h in highly vascular areas like above the clavicle)",
+   "B": "Peak levels occur within 5 minutes, so any toxicity is seen intraoperatively",
+   "C": "Lidocaine is not absorbed systemically from tumescent fluid",
+   "D": "Peak levels occur ~72 h later, well after most symptoms would resolve"
+  },
+  "answer": "A",
+  "exp": "Tumescent lidocaine reaches peak plasma concentration approximately 10–14 hours after infiltration (and ~6 hours in highly vascular areas such as above the clavicle), so toxicity can present hours later, well after the procedure and even after discharge. The \"5 minutes,\" \"not absorbed,\" and \"72 hours\" options misstate this delayed pharmacokinetics. This delayed peak is why extended monitoring is advised for high-volume cases.",
+  "hy": "Tumescent lidocaine peaks ~10–14 h (≈6 h in vascular areas) → late/post-discharge toxicity.",
+  "src": "Neligan I.10 · Tumescent analgesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 10–14 h peak (≈6 h in vascular areas).",
+   "B": "Wrong — the peak is delayed by hours, not 5 minutes.",
+   "C": "Wrong — tumescent lidocaine is absorbed systemically.",
+   "D": "Wrong — the peak is ~10–14 h, not 72 h."
+  }
+ },
+ {
+  "id": "N-I-10.43",
+  "chapter": "Ch10",
+  "section": "Tumescent bupivacaine guideline",
+  "stem": "What do the 2013 ASPS and AAD guidelines advise regarding bupivacaine in tumescent anesthesia?",
+  "options": {
+   "A": "They advise against the use of bupivacaine for tumescent anesthesia",
+   "B": "They recommend bupivacaine as the preferred tumescent agent",
+   "C": "They mandate combining bupivacaine with lidocaine for all cases",
+   "D": "They permit bupivacaine only above 55 mg/kg"
+  },
+  "answer": "A",
+  "exp": "The 2013 ASPS and AAD guidelines advise against the use of bupivacaine for tumescent anesthesia (lidocaine is the standard tumescent agent, with care in liver dysfunction since amides are hepatically metabolized). They do not recommend or mandate bupivacaine, nor permit it above 55 mg/kg. This guideline point is high-yield for liposuction safety.",
+  "hy": "2013 ASPS/AAD: avoid bupivacaine for tumescent anesthesia.",
+  "src": "Neligan I.10 · Tumescent fluid composition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — the guidelines advise against tumescent bupivacaine.",
+   "B": "Wrong — bupivacaine is advised against, not preferred.",
+   "C": "Wrong — no mandated lidocaine–bupivacaine combination.",
+   "D": "Wrong — there is no 55 mg/kg bupivacaine allowance."
+  }
+ },
+ {
+  "id": "N-I-10.44",
+  "chapter": "Ch10",
+  "section": "Epinephrine hemostasis timing",
+  "stem": "What does the chapter say about the timing of epinephrine's maximal hemostatic effect?",
+  "options": {
+   "A": "Maximal hemostasis occurs ~25 minutes after administration (not the commonly held 7–10 min), with only minimal added effect after 15 minutes",
+   "B": "Maximal hemostasis is instantaneous on injection",
+   "C": "Maximal hemostasis occurs at 7–10 minutes, confirming the common belief",
+   "D": "Epinephrine has no hemostatic effect and only prolongs analgesia"
+  },
+  "answer": "A",
+  "exp": "Contrary to the common belief that epinephrine's hemostatic effect peaks at 7–10 minutes, the chapter states maximal hemostasis occurs about 25 minutes after administration, with only minimal additional effect after 15 minutes. Waiting ~25 minutes therefore optimizes the bloodless field. The \"instantaneous,\" \"7–10 min,\" and \"no hemostatic effect\" options are incorrect.",
+  "hy": "Epinephrine's maximal hemostasis at ~25 min (not 7–10 min).",
+  "src": "Neligan I.10 · Epinephrine in tumescent analgesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — ~25 min to maximal hemostasis, minimal gain after 15 min.",
+   "B": "Wrong — the effect is not instantaneous.",
+   "C": "Wrong — 7–10 min is the dispelled myth.",
+   "D": "Wrong — epinephrine does have a hemostatic (vasoconstrictive) effect."
+  }
+ },
+ {
+  "id": "N-I-10.45",
+  "chapter": "Ch10",
+  "section": "Epinephrine arrhythmia risk",
+  "stem": "Under general anesthesia with a volatile agent (isoflurane, sevoflurane, desflurane), at what epinephrine dose can adults develop arrhythmias, and in whom is epinephrine avoided?",
+  "options": {
+   "A": "As little as 2–3 mcg/kg in adults; avoid in pheochromocytoma, hyperthyroidism, severe hypertension, and cardiac/peripheral vascular disease",
+   "B": "Only above 10 mcg/kg in adults; it is safe in pheochromocytoma",
+   "C": "Only above 55 mcg/kg; there are no patient contraindications",
+   "D": "Arrhythmias never occur with volatile agents at any epinephrine dose"
+  },
+  "answer": "A",
+  "exp": "Under general anesthesia with a volatile agent (isoflurane, sevoflurane, desflurane), adults can develop arrhythmias with as little as 2–3 mcg/kg of epinephrine (children tolerate up to 10 mcg/kg); epinephrine should be avoided in pheochromocytoma, hyperthyroidism, severe hypertension, and cardiac or peripheral vascular disease. The \"only above 10,\" \"above 55,\" and \"never\" options contradict the text. Volatile agents sensitize the myocardium to catecholamines.",
+  "hy": "Volatile GA: arrhythmias at 2–3 mcg/kg epi (adults); avoid in pheo/hyperthyroid/severe HTN/cardiac/PVD.",
+  "src": "Neligan I.10 · Epinephrine in tumescent analgesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 2–3 mcg/kg threshold plus the listed contraindications.",
+   "B": "Wrong — arrhythmias can occur as low as 2–3 mcg/kg, and pheo is a contraindication.",
+   "C": "Wrong — the threshold is far below 55 mcg/kg.",
+   "D": "Wrong — arrhythmias do occur with volatile agents."
+  }
+ },
+ {
+  "id": "N-I-10.46",
+  "chapter": "Ch10",
+  "section": "Lidocaine toxicity progression",
+  "stem": "Which sequence describes lidocaine systemic toxicity as plasma levels rise?",
+  "options": {
+   "A": "Early restlessness, metallic taste, tinnitus, perioral numbness and slurred speech → later muscle twitching, convulsions, CNS depression, and cardiac arrest",
+   "B": "Early cardiac arrest → later perioral numbness and tinnitus",
+   "C": "Only a localized rash, with no systemic or neurologic features",
+   "D": "Early hypertension and bradycardia → later euphoria, with no CNS effects"
+  },
+  "answer": "A",
+  "exp": "Lidocaine systemic toxicity progresses from early signs — restlessness, drowsiness, light-headedness, metallic taste, tinnitus, slurred speech, perioral numbness/tingling — to higher-level effects of shivering, muscle twitching, tremors, convulsions, CNS depression, coma, respiratory depression, and cardiac arrest. The reversed, \"localized rash only,\" and \"hypertension/euphoria\" options misstate this classic CNS-then-cardiac sequence. Recognizing early symptoms allows intervention before collapse.",
+  "hy": "Lidocaine toxicity: early CNS (perioral numbness, tinnitus, metallic taste) → seizures → cardiac arrest.",
+  "src": "Neligan I.10 · Complications of tumescent anesthesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — early neurologic symptoms precede seizures and cardiac arrest.",
+   "B": "Wrong — cardiac arrest is a late, not early, feature.",
+   "C": "Wrong — toxicity is systemic/neurologic, not a localized rash.",
+   "D": "Wrong — the early picture is excitatory CNS, not hypertension/euphoria."
+  }
+ },
+ {
+  "id": "N-I-10.47",
+  "chapter": "Ch10",
+  "section": "LAST management",
+  "stem": "In local anesthetic systemic toxicity, what is the lipid-emulsion regimen the chapter specifies?",
+  "options": {
+   "A": "20% Intralipid 1.5 mL/kg (may repeat up to 10 mL/kg), then infuse 0.25 mL/kg/h if cardiac effects persist",
+   "B": "20% Intralipid 15 mL/kg bolus once, with no infusion",
+   "C": "5% dextrose 1.5 mL/kg, then 0.25 mL/kg/h",
+   "D": "20% Intralipid 0.1 mL/kg, not to be repeated"
+  },
+  "answer": "A",
+  "exp": "The chapter's local-anesthetic-toxicity protocol specifies 20% Intralipid 1.5 mL/kg (which may be repeated up to 10 mL/kg), followed by an infusion of 0.25 mL/kg/h if cardiac effects persist, alongside airway management and seizure suppression. The 15 mL/kg single bolus, dextrose substitution, and 0.1 mL/kg options misstate the regimen. Lipid emulsion is the cornerstone of LAST rescue.",
+  "hy": "LAST: 20% Intralipid 1.5 mL/kg (repeat to 10 mL/kg), then 0.25 mL/kg/h.",
+  "src": "Neligan I.10 · Complications of tumescent anesthesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 1.5 mL/kg bolus (repeat to 10 mL/kg) then 0.25 mL/kg/h.",
+   "B": "Wrong — 15 mL/kg as a single bolus misstates the dose.",
+   "C": "Wrong — lipid emulsion, not dextrose, is used.",
+   "D": "Wrong — the bolus is 1.5 mL/kg (repeatable up to 10 mL/kg), not 0.1 mL/kg."
+  }
+ },
+ {
+  "id": "N-I-10.48",
+  "chapter": "Ch10",
+  "section": "LAST — pitfalls",
+  "stem": "During resuscitation for local anesthetic toxicity, which actions are correct?",
+  "options": {
+   "A": "Manage arrhythmias per ACLS but do NOT use lidocaine, reduce the epinephrine dose to 1 mcg/kg, and do not use propofol as a lipid substitute for cardiac arrest",
+   "B": "Give a standard ACLS lidocaine bolus to control the arrhythmia",
+   "C": "Use full-dose epinephrine (1 mg) and propofol infusion as the lipid source",
+   "D": "Withhold all benzodiazepines even for seizures"
+  },
+  "answer": "A",
+  "exp": "During LAST resuscitation, arrhythmias are managed per ACLS but lidocaine must NOT be used, the epinephrine dose is reduced to 1 mcg/kg, and propofol should not be used as a lipid substitute for cardiac arrest; isolated seizures may be treated with benzodiazepines or propofol. Giving ACLS-dose lidocaine, full-dose epinephrine with propofol as the lipid, or withholding benzodiazepines for seizures are all wrong. These modifications distinguish LAST from standard arrest care.",
+  "hy": "LAST: no lidocaine, epinephrine reduced to 1 mcg/kg, propofol not a lipid substitute.",
+  "src": "Neligan I.10 · Complications of tumescent anesthesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — avoid lidocaine, reduce epinephrine to 1 mcg/kg, don't use propofol as lipid.",
+   "B": "Wrong — lidocaine is specifically avoided in LAST.",
+   "C": "Wrong — epinephrine is reduced and propofol is not the lipid source.",
+   "D": "Wrong — benzodiazepines are used for seizures."
+  }
+ },
+ {
+  "id": "N-I-10.49",
+  "chapter": "Ch10",
+  "section": "Tumescent fluid temperature/electrolytes",
+  "stem": "What precautions does the chapter note for high-volume tumescent infiltration?",
+  "options": {
+   "A": "Warm the fluid to 37°C to avoid hypothermia, and watch for mild hyponatremia and hypokalemia in large-volume liposuction",
+   "B": "Refrigerate the fluid to limit systemic absorption, accepting deliberate hypothermia",
+   "C": "Add concentrated sodium to prevent hypernatremia",
+   "D": "Electrolyte disturbances never occur with tumescent fluid"
+  },
+  "answer": "A",
+  "exp": "For high-volume tumescent infiltration, the chapter advises warming the fluid to 37°C (large volumes of room-temperature fluid lower body temperature) and watching for mild hyponatremia and hypokalemia in large-volume liposuction. Refrigerating the fluid, adding concentrated sodium, and \"no electrolyte disturbance\" are incorrect. These precautions guard against hypothermia and electrolyte shifts.",
+  "hy": "Warm tumescent fluid to 37°C; watch mild hyponatremia/hypokalemia in large-volume cases.",
+  "src": "Neligan I.10 · Complications of tumescent anesthesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — warm to 37°C and monitor for hyponatremia/hypokalemia.",
+   "B": "Wrong — fluid is warmed, not refrigerated; hypothermia is avoided.",
+   "C": "Wrong — the issue is hyponatremia, not hypernatremia to correct.",
+   "D": "Wrong — mild electrolyte disturbances can occur with large volumes."
+  }
+ },
+ {
+  "id": "N-I-10.50",
+  "chapter": "Ch10",
+  "section": "Tumescent fluid overload",
+  "stem": "Why must tumescent volume be limited in patients with cardiac, pulmonary, or renal compromise?",
+  "options": {
+   "A": "High tumescent injection volumes can cause intravascular fluid overload with cardiac and pulmonary consequences",
+   "B": "Tumescent fluid is hypertonic and causes cellular dehydration",
+   "C": "The lidocaine itself directly causes pulmonary edema regardless of volume",
+   "D": "Tumescent fluid cannot be absorbed, so overload is impossible"
+  },
+  "answer": "A",
+  "exp": "High tumescent injection volumes can produce intravascular fluid overload with cardiac and pulmonary consequences, so in patients with cardiac, pulmonary, or renal compromise the administered volume must be limited (and other IV fluids reduced). Tumescent fluid is dilute and isotonic-ish, not hypertonic-dehydrating, the lidocaine alone does not cause volume overload, and the fluid is absorbed. Volume management is the safety principle.",
+  "hy": "High tumescent volume → fluid overload; limit it in cardiac/pulmonary/renal compromise.",
+  "src": "Neligan I.10 · Complications of tumescent anesthesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — volume overload risk mandates limiting tumescent volume in these patients.",
+   "B": "Wrong — the risk is overload, not hypertonic cellular dehydration.",
+   "C": "Wrong — the issue is fluid volume, not lidocaine-induced edema per se.",
+   "D": "Wrong — tumescent fluid is absorbed, so overload is possible."
+  }
+ },
+ {
+  "id": "N-I-10.51",
+  "chapter": "Ch10",
+  "section": "PEC blocks",
+  "stem": "What do the pectoral 1 (PEC 1) and pectoral 2 (PEC 2) blocks each target?",
+  "options": {
+   "A": "PEC 1 anesthetizes the medial and lateral pectoral nerves between pec major and minor; PEC 2 anesthetizes the intercostal nerves as they exit serratus anterior",
+   "B": "PEC 1 blocks the intercostal nerves and PEC 2 blocks the brachial plexus trunks",
+   "C": "Both blocks anesthetize only the long thoracic nerve",
+   "D": "PEC 1 is a neuraxial block and PEC 2 is a spinal block"
+  },
+  "answer": "A",
+  "exp": "The PEC 1 block anesthetizes the medial and lateral pectoral nerves as they run between pectoralis major and minor, while the PEC 2 block anesthetizes the intercostal nerves as they exit the serratus anterior — together covering the pectoralis muscle (PEC 1) and overlying breast/skin (PEC 2). They are peripheral, not neuraxial, blocks, and they target the pectoral/intercostal nerves, not the long thoracic nerve or brachial plexus trunks alone.",
+  "hy": "PEC 1 = medial/lateral pectoral nerves; PEC 2 = intercostal nerves.",
+  "src": "Neligan I.10 · Pectoral blocks",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — PEC 1 pectoral nerves, PEC 2 intercostal nerves.",
+   "B": "Wrong — reverses the targets and adds the brachial plexus incorrectly.",
+   "C": "Wrong — they do not target the long thoracic nerve.",
+   "D": "Wrong — both are peripheral, not neuraxial/spinal, blocks."
+  }
+ },
+ {
+  "id": "N-I-10.52",
+  "chapter": "Ch10",
+  "section": "PEC technique",
+  "stem": "What is the typical local-anesthetic regimen for combined PEC blocks?",
+  "options": {
+   "A": "10 mL of 0.5% bupivacaine for PEC 1 and 20 mL of 0.2% bupivacaine for PEC 2",
+   "B": "50 mL of 2% lidocaine for each block",
+   "C": "1 mL of 0.5% bupivacaine for PEC 1 and 2 mL for PEC 2",
+   "D": "20 mL of 5% lidocaine for PEC 1 only"
+  },
+  "answer": "A",
+  "exp": "The typical combined-PEC regimen uses 10 mL of 0.5% bupivacaine for PEC 1 and 20 mL of 0.2% bupivacaine for PEC 2. The 50 mL of 2% lidocaine, 1–2 mL micro-volumes, and 5% lidocaine options are inconsistent with the described technique. The larger, more dilute PEC 2 volume reflects its broader intercostal spread.",
+  "hy": "PEC 1 = 10 mL 0.5% bupivacaine; PEC 2 = 20 mL 0.2% bupivacaine.",
+  "src": "Neligan I.10 · Pectoral blocks",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 10 mL 0.5% (PEC 1) and 20 mL 0.2% (PEC 2).",
+   "B": "Wrong — 50 mL of 2% lidocaine is not the described regimen.",
+   "C": "Wrong — 1–2 mL volumes are far too small.",
+   "D": "Wrong — 5% lidocaine for PEC 1 is incorrect."
+  }
+ },
+ {
+  "id": "N-I-10.53",
+  "chapter": "Ch10",
+  "section": "Erector spinae block",
+  "stem": "Which statement about the erector spinae plane (ESP) block is correct?",
+  "options": {
+   "A": "It was first described in 2016, is placed over the transverse process, and PEC blocks may be advantageous over ESP for breast surgery",
+   "B": "It has been the gold-standard breast block since the 1980s",
+   "C": "It is a neuraxial technique placed in the subarachnoid space",
+   "D": "It reliably outperforms PEC blocks for breast surgery in trials"
+  },
+  "answer": "A",
+  "exp": "The erector spinae plane (ESP) block was first described in 2016 and is placed just inferior to the erector spinae muscle over the transverse process; it provides lateral thoracic/abdominal-wall analgesia, but for breast surgery PEC blocks may have an advantage over ESP. It is not a decades-old gold standard, not neuraxial/subarachnoid, and does not reliably outperform PEC blocks. The 2016 origin and PEC-over-ESP point are the testable facts.",
+  "hy": "ESP block = first described 2016; PEC may beat ESP for breast surgery.",
+  "src": "Neligan I.10 · Erector spinae block",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — 2016 origin, over the transverse process, PEC possibly superior for breast.",
+   "B": "Wrong — it is recent (2016), not a long-standing gold standard.",
+   "C": "Wrong — it is a fascial-plane, not subarachnoid/neuraxial, block.",
+   "D": "Wrong — PEC may be advantageous over ESP, not the reverse."
+  }
+ },
+ {
+  "id": "N-I-10.54",
+  "chapter": "Ch10",
+  "section": "TAP block",
+  "stem": "The transversus abdominis plane (TAP) block deposits local anesthetic in which plane, targeting which nerves?",
+  "options": {
+   "A": "Between the transversus abdominis and internal oblique, targeting the T10–L1 terminal intercostal branches",
+   "B": "Between the skin and external oblique, targeting the genitofemoral nerve",
+   "C": "Within the rectus sheath, targeting the lumbar plexus",
+   "D": "In the subarachnoid space, targeting the cauda equina"
+  },
+  "answer": "A",
+  "exp": "The TAP block deposits long-acting local anesthetic in the fascial plane between the transversus abdominis and internal oblique, blunting the afferent terminal branches of the intercostal nerves; in the traditional TAP, the T10–L1 terminal branches are targeted, producing abdominal-wall analgesia. The skin/external-oblique plane, rectus sheath, and subarachnoid options misplace the block. This relatively avascular plane gives slow clearance and prolonged analgesia.",
+  "hy": "TAP = transversus abdominis/internal oblique plane; T10–L1 branches.",
+  "src": "Neligan I.10 · TAP block",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — the transversus/internal-oblique plane targeting T10–L1.",
+   "B": "Wrong — it is deeper than the external-oblique plane and targets intercostal branches.",
+   "C": "Wrong — it is not a rectus-sheath/lumbar-plexus block.",
+   "D": "Wrong — it is a fascial-plane, not subarachnoid, block."
+  }
+ },
+ {
+  "id": "N-I-10.55",
+  "chapter": "Ch10",
+  "section": "TAP limitations",
+  "stem": "Which statement about TAP-block coverage is correct?",
+  "options": {
+   "A": "The subcostal TAP covers the supraumbilical abdomen (T7–9), and TAP blocks address abdominal-wall but not visceral pain",
+   "B": "The TAP block reliably eliminates visceral pain from intra-abdominal procedures",
+   "C": "The traditional TAP covers the entire thorax from T1 to T6",
+   "D": "The TAP block provides complete lower-extremity analgesia"
+  },
+  "answer": "A",
+  "exp": "The subcostal approach to the TAP block provides analgesia to the supraumbilical abdomen (T7–9), and TAP blocks address abdominal-wall pain but not the visceral pain of intra-abdominal procedures, so they are used as part of multimodal analgesia. The traditional TAP does not cover T1–T6 or the whole thorax, does not eliminate visceral pain, and gives no lower-extremity analgesia. Knowing it is somatic-wall-only is the key limitation.",
+  "hy": "Subcostal TAP = T7–9 supraumbilical; TAP covers wall, not visceral pain.",
+  "src": "Neligan I.10 · TAP block",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — subcostal TAP covers T7–9 and spares visceral pain.",
+   "B": "Wrong — TAP does not relieve visceral pain.",
+   "C": "Wrong — the traditional TAP targets T10–L1, not T1–T6.",
+   "D": "Wrong — TAP gives abdominal-wall, not lower-extremity, analgesia."
+  }
+ },
+ {
+  "id": "N-I-10.56",
+  "chapter": "Ch10",
+  "section": "Paravertebral block",
+  "stem": "What is a key risk and a key advantage of the paravertebral block (PVB)?",
+  "options": {
+   "A": "Risk of pneumothorax (<1%) from the lung's proximity, but it usually avoids CNS complications such as hypotension and urinary retention",
+   "B": "No risk of pneumothorax, but a high rate of spinal headache",
+   "C": "It reliably causes bilateral analgesia and dense motor block",
+   "D": "Its main advantage is that it requires no ultrasound and has no complications"
+  },
+  "answer": "A",
+  "exp": "The paravertebral block carries a pneumothorax risk (<1%) because of the lung's proximity to the paravertebral space (ultrasound guidance helps avoid it), but a key advantage is that, unlike neuraxial techniques, it usually avoids central-nervous-system complications such as hypotension, urinary retention, and bradycardia, giving long-lasting unilateral dermatomal analgesia. The \"no pneumothorax,\" \"bilateral dense motor block,\" and \"no complications\" options are incorrect.",
+  "hy": "PVB: pneumothorax <1%, but avoids the CNS side effects of neuraxial blocks.",
+  "src": "Neligan I.10 · Paravertebral block",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — <1% pneumothorax risk with avoidance of neuraxial CNS effects.",
+   "B": "Wrong — there is a real (if small) pneumothorax risk.",
+   "C": "Wrong — PVB gives ipsilateral analgesia, not bilateral dense motor block.",
+   "D": "Wrong — it does carry complications including epidural spread and toxicity."
+  }
+ },
+ {
+  "id": "N-I-10.57",
+  "chapter": "Ch10",
+  "section": "Table 10.7 epidural contraindications",
+  "stem": "Per Table 10.7, which is listed as a contraindication to epidural analgesia (beyond those shared with the paravertebral block)?",
+  "options": {
+   "A": "Elevated intracranial pressure, severe aortic or mitral stenosis, and severe hypovolemia",
+   "B": "Controlled hypertension and mild anemia",
+   "C": "Outpatient (ambulatory) surgical status",
+   "D": "A history of postoperative nausea and vomiting"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.7, epidural-specific contraindications (beyond those shared with the paravertebral block, like coagulopathy and local infection) include elevated intracranial pressure, severe aortic or mitral stenosis, severe hypovolemia, and systemic infection. Controlled hypertension, mild anemia, ambulatory status, and a PONV history are not listed contraindications. The fixed-cardiac-output lesions and raised ICP are the high-yield additions.",
+  "hy": "Epidural contraindications: ↑ICP, severe AS/MS, severe hypovolemia.",
+  "src": "Neligan I.10 · Table 10.7",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — raised ICP, severe AS/MS, and severe hypovolemia per Table 10.7.",
+   "B": "Wrong — controlled hypertension/mild anemia are not listed contraindications.",
+   "C": "Wrong — ambulatory status is not a contraindication (indwelling catheters are limited to inpatients).",
+   "D": "Wrong — a PONV history is not an epidural contraindication."
+  }
+ },
+ {
+  "id": "N-I-10.58",
+  "chapter": "Ch10",
+  "section": "Table 10.7 who performs",
+  "stem": "Per Table 10.7, which statement about who performs these blocks is correct?",
+  "options": {
+   "A": "The TAP block may be performed by an anesthesiologist or a surgeon, whereas paravertebral and epidural blocks are performed by an anesthesiologist",
+   "B": "All three blocks are performed only by surgeons",
+   "C": "The epidural is routinely placed by the operating surgeon",
+   "D": "The paravertebral block is performed only by a surgeon, never an anesthesiologist"
+  },
+  "answer": "A",
+  "exp": "Per Table 10.7, the TAP block may be performed by an anesthesiologist or a surgeon, whereas the paravertebral and epidural blocks are performed by an anesthesiologist. The \"all by surgeons,\" \"epidural by the surgeon,\" and \"PVB only by a surgeon\" options contradict the table. This division reflects the technical and monitoring demands of neuraxial techniques.",
+  "hy": "TAP = anesthesiologist or surgeon; PVB/epidural = anesthesiologist.",
+  "src": "Neligan I.10 · Table 10.7",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — TAP by either, PVB/epidural by anesthesiologist.",
+   "B": "Wrong — not all three are surgeon-performed.",
+   "C": "Wrong — epidurals are placed by anesthesiologists.",
+   "D": "Wrong — the PVB is performed by an anesthesiologist, not only a surgeon."
+  }
+ },
+ {
+  "id": "N-I-10.59",
+  "chapter": "Ch10",
+  "section": "Spinal vs epidural",
+  "stem": "Which contrast between spinal and epidural anesthesia is correct?",
+  "options": {
+   "A": "Spinal is a subarachnoid block best for short lower-extremity/pelvic cases; a thoracic epidural can spare lower-limb motor and micturition pathways, allowing early ambulation",
+   "B": "Spinal anesthesia allows indefinite catheter infusion, while epidurals are single-shot only",
+   "C": "The epidural deposits drug in the subarachnoid space and the spinal outside it",
+   "D": "Spinal anesthesia is preferred for prolonged upper-extremity reconstruction"
+  },
+  "answer": "A",
+  "exp": "Spinal anesthesia is a subarachnoid (intrathecal) block giving rapid deep anesthesia below the block, best suited to short lower-extremity or pelvic procedures; a thoracic epidural can spare lower-extremity motor nerves and micturition pathways, allowing early ambulation and avoiding prolonged urinary catheterization. Spinal is typically single-shot (epidurals allow catheter infusion), the epidural is outside the subarachnoid space, and neither is preferred for prolonged upper-extremity work.",
+  "hy": "Spinal = subarachnoid (short lower-limb/pelvis); thoracic epidural spares motor/micturition.",
+  "src": "Neligan I.10 · Spinal and epidural anesthesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — contrasts subarachnoid spinal with motor/micturition-sparing thoracic epidural.",
+   "B": "Wrong — catheter infusion is an epidural feature; spinals are typically single-shot.",
+   "C": "Wrong — the epidural is outside the subarachnoid space, the spinal within it.",
+   "D": "Wrong — neither is the choice for prolonged upper-extremity reconstruction."
+  }
+ },
+ {
+  "id": "N-I-10.60",
+  "chapter": "Ch10",
+  "section": "Epidural complications",
+  "stem": "Which physiologic complication of epidural anesthesia is correctly described?",
+  "options": {
+   "A": "Hypotension (incidence up to 33%) from efferent sympathetic blockade decreasing systemic vascular resistance",
+   "B": "Hypertension from unopposed sympathetic outflow below the block",
+   "C": "Diaphragmatic paralysis, since the epidural blocks phrenic innervation",
+   "D": "Tachycardia from increased preload and cardiac output"
+  },
+  "answer": "A",
+  "exp": "A common physiologic complication of epidural anesthesia is hypotension, with an incidence as high as 33%, arising from efferent sympathetic blockade that lowers systemic vascular resistance (and a preload drop with unopposed vagal tone reducing heart rate/cardiac output). It causes hypotension and bradycardia, not hypertension or tachycardia, and the diaphragm is spared (phrenic innervation is unaffected). These effects are usually mild and treatable.",
+  "hy": "Epidural hypotension up to 33% from sympathectomy (↓SVR).",
+  "src": "Neligan I.10 · Complications of epidural blocks",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "10",
+  "chname": "Anesthesia and Pain Management in Plastic Surgery",
+  "why": {
+   "A": "Correct — sympathetic blockade lowers SVR, causing hypotension (up to 33%).",
+   "B": "Wrong — the effect is hypotension, not hypertension.",
+   "C": "Wrong — the diaphragm is spared; epidurals don't block phrenic innervation.",
+   "D": "Wrong — bradycardia and reduced cardiac output occur, not tachycardia."
+  }
  }
 ]
