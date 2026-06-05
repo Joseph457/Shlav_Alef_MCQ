@@ -181,7 +181,7 @@
 </nav>
 
 <script>
-const VERSION="v2.4", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v2.5", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
 function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
@@ -223,7 +223,7 @@ function chapterStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];
 function weakChapters(){return chapterStats().filter(c=>c.acc!==null&&c.seen>=1&&c.acc<70).sort((a,b)=>a.acc-b.acc);}
 function show(v){["home","quiz","done","stats","settings","saved"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
 function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
-function renderHome(){const rev=reviewDueList().length;const allDue=dueList().length;$("kpi-due").textContent=rev;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";$("start-due").disabled=allDue===0;$("start-due").textContent=allDue?("Start review — due + new ("+allDue+")"):"Nothing due 🎉";$("start-due-only").disabled=rev===0;$("start-due-only").textContent=rev?("Due reviews only — no new ("+rev+")"):"No reviews due";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const wc=weakChapters();$("weak-home").innerHTML=wc.length?'<h2 class="section" style="margin-top:0">Weak chapters (&lt;70%)</h2>'+wc.map(c=>`<div class="row"><span class="lab">${c.book} · Ch ${c.chnum} ${c.chname} <span class="pill weak">weak</span></span><span class="acc lo">${c.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak chapters yet. Chapters under 70% will appear here as you drill.</p>';updateSavedBadge();}
+function renderHome(){const rev=reviewDueList().length;const allDue=dueList().length;$("kpi-due").textContent=rev;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";$("start-due").disabled=allDue===0;$("start-due").textContent=allDue?("Start review ("+allDue+")"):"Nothing due 🎉";$("start-due-only").disabled=rev===0;$("start-due-only").textContent=rev?("Due reviews only — no new ("+rev+")"):"No reviews due";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const wc=weakChapters();$("weak-home").innerHTML=wc.length?'<h2 class="section" style="margin-top:0">Weak chapters (&lt;70%)</h2>'+wc.map(c=>`<div class="row"><span class="lab">${c.book} · Ch ${c.chnum} ${c.chname} <span class="pill weak">weak</span></span><span class="acc lo">${c.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak chapters yet. Chapters under 70% will appear here as you drill.</p>';updateSavedBadge();}
 
 /* ---------- session state ---------- */
 /* sess[i] = { order: ["C","A","D","B"], chosen: null|"A", answered: false }
@@ -361,7 +361,7 @@ $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=15").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=16").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>
