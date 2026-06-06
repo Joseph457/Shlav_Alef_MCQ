@@ -25580,5 +25580,785 @@
    "C": "Wrong — it has a demonstrated effect on SCC.",
    "D": "Wrong — the cited evidence concerns SCC/BCC, and sunscreen does not increase them."
   }
+ },
+ {
+  "id": "N-I-13.1",
+  "chapter": "Ch13",
+  "section": "What is health services research?",
+  "stem": "How does the AHRQ characterize health services research (HSR), distinguishing it from traditional clinical research?",
+  "options": {
+   "A": "A multidisciplinary field studying how social factors, financing systems, organizational structures, technologies, and behaviors affect access, quality, cost, and ultimately health — taking a broader view than clinical research",
+   "B": "The study of disease mechanisms at the molecular and cellular level",
+   "C": "Randomized controlled trials of surgical devices under tightly monitored conditions",
+   "D": "The bench-to-bedside translation of basic-science discoveries into first-in-human trials"
+  },
+  "answer": "A",
+  "exp": "Per the AHRQ, health services research is a multidisciplinary field studying how social factors, financing systems, organizational structures and processes, health technologies, and personal behaviors affect access to care, the quality and cost of care, and ultimately health and well-being — a deliberately broader lens than clinical research, considering real-world delivery rather than tightly monitored trials. Molecular/cellular disease study (basic science), device RCTs (clinical trials), and bench-to-bedside translation are different research enterprises.",
+  "hy": "HSR (AHRQ) = how social/financing/organizational/technology/behavior factors affect access, quality, cost, health.",
+  "src": "Neligan I.13 · What is health services research?",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the AHRQ multidisciplinary definition spanning access/quality/cost/health.",
+   "B": "Wrong — molecular/cellular mechanism is basic science, not HSR.",
+   "C": "Wrong — tightly monitored device RCTs are traditional clinical research.",
+   "D": "Wrong — bench-to-bedside translation is translational science, not HSR."
+  }
+ },
+ {
+  "id": "N-I-13.2",
+  "chapter": "Ch13",
+  "section": "Eliminating inequities",
+  "stem": "The AMA and CDC recommend a shift in terminology in health-equity work. Which change do they endorse?",
+  "options": {
+   "A": "From \"disparities\" to \"inequities\" (unjust and avoidable differences), and from \"high-risk groups\" to \"groups that have been historically marginalized or made vulnerable\"",
+   "B": "From \"inequities\" to \"disparities,\" because the former implies blame",
+   "C": "From \"social determinants\" to \"biological determinants\" of health",
+   "D": "From \"marginalized groups\" to \"high-risk groups,\" to emphasize clinical risk"
+  },
+  "answer": "A",
+  "exp": "The AMA and CDC recommend shifting from \"disparities\" to \"inequities\" (defined as unjust and avoidable differences) and from stigmatizing labels like \"high-risk groups\" to \"groups that have been historically marginalized or made vulnerable,\" to avoid unintentional blame. Option B reverses the recommended direction, C swaps social for biological framing (the opposite of guidance), and D reverts to the discouraged \"high-risk\" label.",
+  "hy": "AMA/CDC: \"inequities\" (unjust/avoidable) and \"historically marginalized,\" not \"high-risk.\"",
+  "src": "Neligan I.13 · Eliminating inequities",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — inequities and \"historically marginalized/made vulnerable\" are the endorsed terms.",
+   "B": "Wrong — the shift is toward \"inequities,\" not back to \"disparities.\"",
+   "C": "Wrong — race/structure is framed as social, not biological.",
+   "D": "Wrong — \"high-risk groups\" is the term being moved away from."
+  }
+ },
+ {
+  "id": "N-I-13.3",
+  "chapter": "Ch13",
+  "section": "Considering structural root causes",
+  "stem": "The chapter argues that adjusting a statistical model for race can be problematic. Why?",
+  "options": {
+   "A": "Race is a social, not biological, construct, so adjusting for it can obscure the role of structural racism on the outcome",
+   "B": "Race is a purely biological variable that should never be included in any model",
+   "C": "Adjusting for race always eliminates confounding and is therefore mandatory",
+   "D": "Race has no measurable association with surgical outcomes"
+  },
+  "answer": "A",
+  "exp": "The chapter states that race is a social, not biological, construct, so statistically adjusting a model for race can ignore — and thereby obscure — the role of structural racism on the outcome; there is not yet an established quantitative method to account for historic/current structural disadvantage. Option B wrongly calls race biological, C overstates adjustment as always-correct, and D denies the well-documented associations.",
+  "hy": "Race = social construct; adjusting for it can mask structural racism's effect.",
+  "src": "Neligan I.13 · Considering structural root causes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — race is social; naive adjustment obscures structural racism.",
+   "B": "Wrong — race is not a biological variable here.",
+   "C": "Wrong — adjusting for race does not automatically remove confounding.",
+   "D": "Wrong — race is associated with outcomes via structural factors."
+  }
+ },
+ {
+  "id": "N-I-13.4",
+  "chapter": "Ch13",
+  "section": "Considering structural root causes",
+  "stem": "The Neighborhood Atlas project (University of Wisconsin) lets researchers merge their datasets with which geographic measure of socioeconomic disadvantage?",
+  "options": {
+   "A": "The Area Deprivation Index (ADI), built from income, education, and employment metrics",
+   "B": "The Gini coefficient of national income inequality",
+   "C": "The body mass index (BMI) distribution by ZIP code",
+   "D": "The Charlson comorbidity index"
+  },
+  "answer": "A",
+  "exp": "The Neighborhood Atlas (University of Wisconsin) lets researchers merge their datasets with the Area Deprivation Index (ADI), a geographic marker of relative socioeconomic disadvantage built from traditional metrics of income, education, and employment; it has been used for risk-adjustment and to study residential burn-injury risk. The Gini coefficient, BMI distribution, and Charlson comorbidity index are unrelated indices.",
+  "hy": "Neighborhood Atlas → Area Deprivation Index (ADI): income/education/employment.",
+  "src": "Neligan I.13 · Considering structural root causes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the ADI is the Neighborhood Atlas socioeconomic measure.",
+   "B": "Wrong — the Gini coefficient measures national income inequality, not this.",
+   "C": "Wrong — BMI distribution is unrelated to the ADI.",
+   "D": "Wrong — the Charlson index measures comorbidity, not deprivation."
+  }
+ },
+ {
+  "id": "N-I-13.5",
+  "chapter": "Ch13",
+  "section": "Health policy research",
+  "stem": "Of particular relevance to plastic surgeons, which 1998 federal policy increased rates of breast reconstruction (though without fixing systemic barriers beyond insurance coverage)?",
+  "options": {
+   "A": "The Women's Health and Cancer Rights Act",
+   "B": "The Affordable Care Act",
+   "C": "The Health Insurance Portability and Accountability Act (HIPAA)",
+   "D": "The Hospital Readmissions Reduction Program"
+  },
+  "answer": "A",
+  "exp": "The 1998 Women's Health and Cancer Rights Act increased rates of breast reconstruction by mandating insurance coverage, but the chapter stresses it did not fix systemic barriers to reconstruction beyond coverage. The Affordable Care Act (2010) is a different, broader law; HIPAA governs privacy/portability; and the HRRP is a CMS readmissions-penalty program — none is the 1998 breast-reconstruction coverage act.",
+  "hy": "Women's Health and Cancer Rights Act (1998) → ↑breast reconstruction (coverage only).",
+  "src": "Neligan I.13 · Health policy research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the 1998 WHCRA increased reconstruction via coverage.",
+   "B": "Wrong — the ACA (2010) is a separate, broader law.",
+   "C": "Wrong — HIPAA addresses privacy/portability, not reconstruction coverage.",
+   "D": "Wrong — the HRRP is a readmissions-penalty program."
+  }
+ },
+ {
+  "id": "N-I-13.6",
+  "chapter": "Ch13",
+  "section": "Health policy research",
+  "stem": "The CMS Hospital Readmissions Reduction Program (HRRP) and Merit-Based Incentive Payment System (MIPS) are payment/penalty programs that aim to incentivize quality and control cost. What unintended risk does the chapter highlight?",
+  "options": {
+   "A": "They risk disproportionately impacting hospitals and surgeons serving under-resourced communities when resources are scarce",
+   "B": "They guarantee increased reimbursement for all surgeons regardless of outcomes",
+   "C": "They apply only to cosmetic, self-pay procedures",
+   "D": "They eliminate all variation in surgical quality"
+  },
+  "answer": "A",
+  "exp": "CMS programs like the HRRP and MIPS aim to incentivize quality and control cost, but the chapter warns they risk disproportionately impacting hospitals and surgeons serving under-resourced communities when resources are scarce. They do not guarantee higher reimbursement for everyone (B), are not limited to cosmetic self-pay procedures (C), and do not eliminate quality variation (D).",
+  "hy": "HRRP/MIPS risk: penalizing safety-net providers in under-resourced settings.",
+  "src": "Neligan I.13 · Health policy research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the equity risk to under-resourced providers.",
+   "B": "Wrong — they tie payment to performance, not guaranteed increases.",
+   "C": "Wrong — they apply broadly, not only to cosmetic procedures.",
+   "D": "Wrong — they do not abolish quality variation."
+  }
+ },
+ {
+  "id": "N-I-13.7",
+  "chapter": "Ch13",
+  "section": "How to engage with policy?",
+  "stem": "The chapter describes two primary approaches to policy research. Which pair is correct?",
+  "options": {
+   "A": "Motivating policy-makers with data, or using data to investigate an existing policy",
+   "B": "Lobbying legislators directly, or funding political campaigns",
+   "C": "Running randomized controlled trials of laws, or conducting bench experiments",
+   "D": "Avoiding policy entirely, or deferring to hospital administrators"
+  },
+  "answer": "A",
+  "exp": "The chapter names two primary approaches to policy research: motivating policy-makers with data (using evidence to drive new policy) or using data to investigate an existing policy's effects. Direct lobbying/campaign funding (B), randomized trials of laws or bench experiments (C), and avoiding policy altogether (D) are not the described research approaches.",
+  "hy": "Policy research: motivate policy with data, or study existing policy with data.",
+  "src": "Neligan I.13 · How to engage with policy?",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the two described data-driven approaches.",
+   "B": "Wrong — lobbying/campaign funding are advocacy, not research methods.",
+   "C": "Wrong — RCTs of laws are infeasible; bench work is unrelated.",
+   "D": "Wrong — engaging with policy is encouraged, not avoided."
+  }
+ },
+ {
+  "id": "N-I-13.8",
+  "chapter": "Ch13",
+  "section": "Causal inference with observational data",
+  "stem": "Why are randomized controlled trials generally not used to evaluate health policy, prompting reliance on \"natural\" or \"quasi\" experiments?",
+  "options": {
+   "A": "RCTs are not feasible at the level of policy implementation, so econometric/observational methods are used to infer causality",
+   "B": "RCTs are unethical for any non-pharmacologic question",
+   "C": "Policy effects are too large to require statistical analysis",
+   "D": "Observational data cannot address policy questions at all"
+  },
+  "answer": "A",
+  "exp": "Randomized controlled trials are not feasible at the level of policy implementation, so health services researchers use econometric/observational methods — \"natural\" or \"quasi\" experiments — to infer causality between a policy and outcomes. RCTs are not unethical for all non-drug questions (B), policy effects still require careful statistical analysis (C), and observational data can in fact address policy questions (D).",
+  "hy": "Policy RCTs infeasible → natural/quasi experiments (econometrics) for causal inference.",
+  "src": "Neligan I.13 · Causal inference",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — quasi-experimental econometric methods substitute for infeasible RCTs.",
+   "B": "Wrong — non-drug RCTs are not categorically unethical.",
+   "C": "Wrong — policy analysis still needs statistics.",
+   "D": "Wrong — observational data can address policy questions."
+  }
+ },
+ {
+  "id": "N-I-13.9",
+  "chapter": "Ch13",
+  "section": "Causal inference with observational data",
+  "stem": "In a difference-in-difference (DID) analysis of a policy's impact, what does the result actually represent, and what key assumption underlies it?",
+  "options": {
+   "A": "The difference between the change in the exposed group and the change in an unexposed group, relying on the assumption that the two trends would have been parallel without the policy",
+   "B": "The absolute outcome in the exposed group only, with no comparison group",
+   "C": "The ratio of outcomes between two randomized arms",
+   "D": "The difference between pre- and post-policy outcomes in the exposed group alone, ignoring secular trends"
+  },
+  "answer": "A",
+  "exp": "A difference-in-difference analysis estimates the difference between the change in the exposed (policy) group and the change in an unexposed control group, which controls for underlying secular trends (e.g. national screening changes); it relies on the parallel-trends assumption — that without the policy the two groups' trends would have moved in parallel. Looking at the exposed group alone (B, D) ignores secular trends, and it is not a ratio of randomized arms (C).",
+  "hy": "DID = (change in exposed) − (change in unexposed); parallel-trends assumption.",
+  "src": "Neligan I.13 · Causal inference / Fig 13.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the difference of differences with the parallel-trends assumption.",
+   "B": "Wrong — DID requires a comparison group, not the exposed group alone.",
+   "C": "Wrong — it is a difference of changes, not a ratio of randomized arms.",
+   "D": "Wrong — exposed-only pre/post ignores secular trends DID controls for."
+  }
+ },
+ {
+  "id": "N-I-13.10",
+  "chapter": "Ch13",
+  "section": "Measuring quality",
+  "stem": "The Institute of Medicine's 2001 report Crossing the Quality Chasm called for health care that has which six aims?",
+  "options": {
+   "A": "Safe, effective, patient-centered, timely, efficient, and equitable",
+   "B": "Cheap, fast, profitable, scalable, automated, and standardized",
+   "C": "Innovative, proprietary, exclusive, premium, marketable, and branded",
+   "D": "Centralized, federalized, rationed, audited, penalized, and reported"
+  },
+  "answer": "A",
+  "exp": "The IOM's 2001 Crossing the Quality Chasm called for health care that is safe, effective, patient-centered, timely, efficient, and equitable — the six aims for improvement. The other lists (cheap/fast/profitable; innovative/proprietary; centralized/rationed) are not the IOM aims and in places contradict them.",
+  "hy": "IOM six aims: safe, effective, patient-centered, timely, efficient, equitable.",
+  "src": "Neligan I.13 · Measuring quality",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the six IOM quality aims.",
+   "B": "Wrong — profit/speed framing is not the IOM aims.",
+   "C": "Wrong — proprietary/premium branding contradicts the aims.",
+   "D": "Wrong — rationing/penalizing is not the IOM framework."
+  }
+ },
+ {
+  "id": "N-I-13.11",
+  "chapter": "Ch13",
+  "section": "Table 13.1 Structure/Process/Outcome",
+  "stem": "Per Table 13.1 (Donabedian domains applied to plastic surgery quality), which example is correctly matched to its domain?",
+  "options": {
+   "A": "Case volume and trained microsurgeons are Structure; pain-control education/prescribing and pre-mastectomy referral are Process; patient-reported satisfaction and flap loss are Outcome",
+   "B": "Flap loss is Structure; case volume is Outcome; satisfaction is Process",
+   "C": "Patient satisfaction is Structure; trained microsurgeons are Outcome; flap loss is Process",
+   "D": "All three examples belong to the Process domain"
+  },
+  "answer": "A",
+  "exp": "Per Table 13.1 (Donabedian applied to plastic surgery), Structure examples are case volume and trained microsurgeons; Process examples are pain-control education/prescribing and referral to a reconstructive surgeon before mastectomy; and Outcome examples are patient-reported satisfaction and flap loss. The other options scramble the domain assignments.",
+  "hy": "Table 13.1: Structure (volume/microsurgeons), Process (education/referral), Outcome (satisfaction/flap loss).",
+  "src": "Neligan I.13 · Table 13.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the correct Structure/Process/Outcome example mapping.",
+   "B": "Wrong — flap loss is Outcome, not Structure.",
+   "C": "Wrong — satisfaction is Outcome, not Structure.",
+   "D": "Wrong — the examples span all three domains, not just Process."
+  }
+ },
+ {
+  "id": "N-I-13.12",
+  "chapter": "Ch13",
+  "section": "Table 13.1 Structure/Process/Outcome",
+  "stem": "Per Table 13.1, what is a stated disadvantage of structure metrics and of outcome metrics, respectively?",
+  "options": {
+   "A": "Structure metrics are not direct targets for improvement; large databases rarely capture procedure-specific outcomes",
+   "B": "Structure metrics are impossible to measure; outcome metrics are irrelevant to surgeons",
+   "C": "Structure metrics are always procedure-specific; outcome metrics are easiest to measure",
+   "D": "Both have no disadvantages and are interchangeable"
+  },
+  "answer": "A",
+  "exp": "Per Table 13.1, a disadvantage of Structure metrics is that they are not direct targets for improvement, and a disadvantage of Outcome metrics is that large databases rarely capture procedure-specific outcomes. Structure metrics are actually easy to measure (not impossible), outcome metrics do matter to surgeons, and both have real disadvantages — so the other options are wrong.",
+  "hy": "Structure = not direct improvement targets; Outcome = databases miss procedure-specific outcomes.",
+  "src": "Neligan I.13 · Table 13.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the stated disadvantages of structure and outcome metrics.",
+   "B": "Wrong — structure metrics are easy to measure, and outcomes do matter.",
+   "C": "Wrong — structure metrics are not procedure-specific; outcomes aren't easiest.",
+   "D": "Wrong — each domain has a stated disadvantage."
+  }
+ },
+ {
+  "id": "N-I-13.13",
+  "chapter": "Ch13",
+  "section": "Measuring quality",
+  "stem": "The ASPS founded the Tracking Operations and Outcomes in Plastic Surgery (TOPS) program in 2002. What distinguishes the data it captures from the American College of Surgeons NSQIP?",
+  "options": {
+   "A": "TOPS captures outcomes of specific interest to plastic surgeons (e.g. flap loss) that NSQIP extractors do not report; participation is voluntary and data are free to ASPS members",
+   "B": "TOPS is a mandatory federal registry that replaces NSQIP",
+   "C": "TOPS captures only medical complications and ignores surgical outcomes",
+   "D": "TOPS and NSQIP capture identical data, making comparison pointless"
+  },
+  "answer": "A",
+  "exp": "TOPS (Tracking Operations and Outcomes in Plastic Surgery), founded by the ASPS in 2002, captures outcome metrics of specific interest to plastic surgeons — notably flap loss — that the ACS-NSQIP extractors do not report; participation is voluntary and aggregated data are provided free to ASPS members. It is not a mandatory federal registry (B), captures surgical outcomes (C), and differs meaningfully from NSQIP (D).",
+  "hy": "TOPS (ASPS, 2002): voluntary/free, captures plastic-specific outcomes (flap loss) NSQIP misses.",
+  "src": "Neligan I.13 · Measuring quality",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — plastic-specific outcomes, voluntary and free to members.",
+   "B": "Wrong — TOPS is voluntary, not a mandatory federal replacement.",
+   "C": "Wrong — TOPS captures surgical outcomes like flap loss.",
+   "D": "Wrong — TOPS and NSQIP differ, which is the point of comparison."
+  }
+ },
+ {
+  "id": "N-I-13.14",
+  "chapter": "Ch13",
+  "section": "Measuring quality",
+  "stem": "Khavanin et al. compared TOPS and NSQIP for a matched breast-surgery cohort. What did they find?",
+  "options": {
+   "A": "TOPS captured more wound dehiscence and reconstructive failure, whereas medical complications were better captured in NSQIP",
+   "B": "NSQIP captured more flap loss and reconstructive failure than TOPS",
+   "C": "The two databases captured identical complication profiles",
+   "D": "Neither database captured any surgical complications"
+  },
+  "answer": "A",
+  "exp": "Khavanin et al. compared matched breast-surgery cohorts and found that TOPS captured more wound dehiscence and reconstructive failure, whereas medical complications were better captured in NSQIP — illustrating that the research question should steer dataset choice. Option B reverses the finding, C wrongly claims identical capture, and D denies any surgical-complication capture.",
+  "hy": "Khavanin: TOPS > dehiscence/reconstructive failure; NSQIP > medical complications.",
+  "src": "Neligan I.13 · Measuring quality",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — TOPS for surgical, NSQIP for medical complications.",
+   "B": "Wrong — the database strengths are reversed.",
+   "C": "Wrong — the databases captured different profiles.",
+   "D": "Wrong — both captured complications, just different types."
+  }
+ },
+ {
+  "id": "N-I-13.15",
+  "chapter": "Ch13",
+  "section": "Measuring quality",
+  "stem": "The chapter cites readmission rates after plastic surgery (a metric central to the HRRP). What were the approximate outpatient and inpatient figures?",
+  "options": {
+   "A": "~1.9% after outpatient plastic surgery and ~7.1% after inpatient plastic surgery",
+   "B": "~20% after outpatient and ~50% after inpatient surgery",
+   "C": "~0.01% after outpatient and ~0.1% after inpatient surgery",
+   "D": "Identical (~5%) for both settings"
+  },
+  "answer": "A",
+  "exp": "The chapter cites readmission (the focus of the HRRP) as approximately 1.9% after outpatient plastic surgery and 7.1% after inpatient plastic surgery, underscoring the need for procedure-specific data and attention to outcomes that matter to patients. The other figures grossly over- or under-state these rates or wrongly equate the two settings.",
+  "hy": "Plastic-surgery readmission: ~1.9% outpatient, ~7.1% inpatient.",
+  "src": "Neligan I.13 · Measuring quality",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — 1.9% outpatient and 7.1% inpatient.",
+   "B": "Wrong — 20%/50% grossly overstate the rates.",
+   "C": "Wrong — 0.01%/0.1% grossly understate them.",
+   "D": "Wrong — the two settings differ (1.9% vs 7.1%)."
+  }
+ },
+ {
+  "id": "N-I-13.16",
+  "chapter": "Ch13",
+  "section": "The future of assessment",
+  "stem": "Birkmeyer et al.'s seminal volume–outcome work, and its follow-up, concluded which of the following?",
+  "options": {
+   "A": "High hospital volume was associated with lower mortality, and surgeon volume mediated most of the hospital-volume effect — as surgeon volume rose, mortality fell across procedures",
+   "B": "Hospital and surgeon volume had no relationship to mortality",
+   "C": "Low-volume hospitals consistently outperformed high-volume hospitals",
+   "D": "Only nurse staffing, not surgeon volume, affected outcomes"
+  },
+  "answer": "A",
+  "exp": "Birkmeyer et al. first reported lower mortality at high-volume hospitals, and subsequent work showed surgeon volume mediated most of the hospital-volume effect — as surgeon volume increased, mortality decreased across the procedures studied, motivating discussion of regionalization/minimum-volume thresholds. The other options deny the volume–outcome relationship or invert it.",
+  "hy": "Birkmeyer: high volume → lower mortality; surgeon volume mediates the hospital effect.",
+  "src": "Neligan I.13 · The future of assessment",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — surgeon volume mediates the hospital volume–mortality benefit.",
+   "B": "Wrong — a clear volume–mortality relationship exists.",
+   "C": "Wrong — high-volume centers generally do better, not worse.",
+   "D": "Wrong — surgeon volume, not just nurse staffing, mattered."
+  }
+ },
+ {
+  "id": "N-I-13.17",
+  "chapter": "Ch13",
+  "section": "The future of assessment",
+  "stem": "Yoon, Chung et al. developed a proficiency scoring system for surgeons performing digit replantation. What did it show relative to case volume?",
+  "options": {
+   "A": "Surgeon proficiency score had a stronger association with outcomes than surgeon volume, suggesting attention should focus on skill over volume",
+   "B": "Surgeon volume predicted outcomes better than any measure of skill",
+   "C": "Proficiency and volume were both unrelated to outcomes",
+   "D": "Years of experience was the single best predictor, outperforming both"
+  },
+  "answer": "A",
+  "exp": "Yoon, Chung et al. developed a proficiency scoring system for digit replantation and found the surgeon proficiency score had a stronger association with outcomes than surgeon volume — suggesting quality efforts should focus on skill rather than volume alone. Option B reverses this, C denies any association, and D wrongly elevates years of experience.",
+  "hy": "Digit-replantation proficiency score > surgeon volume for predicting outcomes.",
+  "src": "Neligan I.13 · The future of assessment",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — proficiency outperformed volume, favoring skill focus.",
+   "B": "Wrong — proficiency, not volume, was the stronger predictor.",
+   "C": "Wrong — proficiency was associated with outcomes.",
+   "D": "Wrong — years of experience was not the best predictor."
+  }
+ },
+ {
+  "id": "N-I-13.18",
+  "chapter": "Ch13",
+  "section": "Assessing patient-reported outcomes",
+  "stem": "Plastic surgery has led the development of validated patient-reported outcome instruments. Which set are the Q-suite PROs named in the chapter?",
+  "options": {
+   "A": "WOUND-Q, FACE-Q, BODY-Q, and BREAST-Q (with GENDER-Q under development)",
+   "B": "SF-36, EQ-5D, PROMIS-29, and HUI",
+   "C": "APACHE, SOFA, Glasgow, and Charlson",
+   "D": "CONSORT, STROBE, PRISMA, and CHEERS"
+  },
+  "answer": "A",
+  "exp": "Plastic surgery has led the development of validated patient-reported outcome instruments, including the WOUND-Q, FACE-Q, BODY-Q, and BREAST-Q (the rigorous GENDER-Q for gender-affirming care is under development); these are free to non-profit users. SF-36/EQ-5D/PROMIS-29/HUI are generic health-status/utility tools, APACHE/SOFA/Glasgow/Charlson are severity/comorbidity scores, and CONSORT/STROBE/PRISMA/CHEERS are reporting guidelines.",
+  "hy": "Plastic-surgery PROs: WOUND-Q, FACE-Q, BODY-Q, BREAST-Q (+ GENDER-Q in progress).",
+  "src": "Neligan I.13 · Assessing patient-reported outcomes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the Q-suite plastic-surgery PROs.",
+   "B": "Wrong — those are generic health-status/utility instruments.",
+   "C": "Wrong — APACHE/SOFA/Glasgow/Charlson are severity/comorbidity scores.",
+   "D": "Wrong — CONSORT/STROBE/PRISMA/CHEERS are reporting guidelines."
+  }
+ },
+ {
+  "id": "N-I-13.19",
+  "chapter": "Ch13",
+  "section": "Assessing patient-reported outcomes",
+  "stem": "How many modules does the BREAST-Q comprise, and what are they?",
+  "options": {
+   "A": "Three modules — augmentation, breast cancer, and reduction — each with multiple scales the researcher can select from",
+   "B": "A single universal module used for all breast procedures",
+   "C": "Two modules — cosmetic and reconstructive — with no sub-scales",
+   "D": "Five modules, one for each Fitzpatrick skin type"
+  },
+  "answer": "A",
+  "exp": "The BREAST-Q comprises three modules — augmentation, breast cancer, and reduction — each containing multiple scales from which researchers select those most relevant to their study and population. It is not a single universal module (B), not a two-module cosmetic/reconstructive split (C), and not organized by Fitzpatrick skin type (D).",
+  "hy": "BREAST-Q = 3 modules (augmentation, breast cancer, reduction), multi-scale.",
+  "src": "Neligan I.13 · Assessing patient-reported outcomes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — augmentation, breast cancer, and reduction modules.",
+   "B": "Wrong — it is modular, not a single universal questionnaire.",
+   "C": "Wrong — there are three modules, not a two-way cosmetic/reconstructive split.",
+   "D": "Wrong — modules are by procedure, not skin type."
+  }
+ },
+ {
+  "id": "N-I-13.20",
+  "chapter": "Ch13",
+  "section": "Comparative effectiveness",
+  "stem": "The chapter stresses the distinction between effectiveness and efficacy, and the trial spectrum that mirrors it. Which statement is correct?",
+  "options": {
+   "A": "Effectiveness refers to real-world outcomes (assessed by pragmatic trials), whereas efficacy is measured under tightly controlled randomized conditions (explanatory trials)",
+   "B": "Effectiveness is measured in placebo-controlled RCTs, whereas efficacy refers to real-world outcomes",
+   "C": "Effectiveness and efficacy are synonyms with no practical difference",
+   "D": "Explanatory trials assess effectiveness and pragmatic trials assess efficacy"
+  },
+  "answer": "A",
+  "exp": "Effectiveness refers to real-world outcomes and is assessed by pragmatic trials, whereas efficacy is measured under tightly controlled randomized conditions and is assessed by explanatory trials — the explanatory-to-pragmatic spectrum mirrors the efficacy-to-effectiveness distinction. Option B reverses the trial settings, C wrongly calls them synonyms, and D swaps which trial type assesses which.",
+  "hy": "Efficacy = explanatory/controlled; effectiveness = pragmatic/real-world.",
+  "src": "Neligan I.13 · Comparative effectiveness",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — pragmatic→effectiveness, explanatory→efficacy.",
+   "B": "Wrong — the RCT/real-world assignments are reversed.",
+   "C": "Wrong — efficacy and effectiveness are distinct.",
+   "D": "Wrong — explanatory assesses efficacy, pragmatic assesses effectiveness."
+  }
+ },
+ {
+  "id": "N-I-13.21",
+  "chapter": "Ch13",
+  "section": "Collaborative quality improvement",
+  "stem": "What distinguishes a collaborative quality improvement (CQI) initiative in its incentive structure?",
+  "options": {
+   "A": "It emphasizes pay-for-participation over pay-for-performance, forming groups of hospitals with shared interest in improvement",
+   "B": "It penalizes hospitals financially for every readmission",
+   "C": "It pays surgeons only when risk-adjusted mortality falls below a threshold",
+   "D": "It relies solely on public reporting without any collaboration"
+  },
+  "answer": "A",
+  "exp": "Collaborative quality improvement (CQI) initiatives emphasize pay-for-participation over pay-for-performance, forming groups of hospitals with a shared interest in improvement that launch initiatives and collect feedback together rather than relying on public reporting alone. It is not a per-readmission penalty (B), not threshold-based mortality pay (C), and explicitly more than public reporting (D).",
+  "hy": "CQI = pay-for-participation, collaborative (not pay-for-performance/public reporting alone).",
+  "src": "Neligan I.13 · Collaborative quality improvement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — pay-for-participation, collaborative improvement.",
+   "B": "Wrong — CQI is not a per-readmission penalty scheme.",
+   "C": "Wrong — it is not threshold-based mortality payment.",
+   "D": "Wrong — it adds collaboration beyond bare public reporting."
+  }
+ },
+ {
+  "id": "N-I-13.22",
+  "chapter": "Ch13",
+  "section": "Collaborative quality improvement",
+  "stem": "A cohort study within the Michigan Collaborative Hand Initiative for Quality in Surgery (MCHIQS) examined electrodiagnostic testing variation. What did it find?",
+  "options": {
+   "A": "31% of testing variation occurred at the surgeon level and 8% at the practice level, without association with clinical presentation",
+   "B": "All variation was explained by differences in patients' clinical presentation",
+   "C": "Variation occurred only at the practice level, never the surgeon level",
+   "D": "There was no measurable variation between surgeons or practices"
+  },
+  "answer": "A",
+  "exp": "A cohort study within the Michigan Collaborative Hand Initiative for Quality in Surgery (MCHIQS) found that 31% of electrodiagnostic-testing variation occurred at the surgeon level and 8% at the practice level, without association with clinical presentation — evidence of practice variation unexplained by patient factors. Options B–D deny or misattribute this variation.",
+  "hy": "MCHIQS: 31% of EDX-testing variation surgeon-level, 8% practice-level, unrelated to presentation.",
+  "src": "Neligan I.13 · Collaborative quality improvement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — 31% surgeon-level and 8% practice-level variation.",
+   "B": "Wrong — clinical presentation did not explain the variation.",
+   "C": "Wrong — variation occurred at the surgeon level too.",
+   "D": "Wrong — there was substantial measured variation."
+  }
+ },
+ {
+  "id": "N-I-13.23",
+  "chapter": "Ch13",
+  "section": "Collaborative quality improvement",
+  "stem": "The PDSA cycle used by collaborative quality initiatives stands for which sequence?",
+  "options": {
+   "A": "Plan, Do, Study, Act",
+   "B": "Plan, Deliver, Score, Adjust",
+   "C": "Predict, Design, Sample, Analyze",
+   "D": "Prepare, Deploy, Standardize, Audit"
+  },
+  "answer": "A",
+  "exp": "The continuous quality-improvement cycle used by collaborative quality initiatives is PDSA — Plan, Do, Study, Act (Fig 13.3): plan from collaborative meetings, do/implement an initiative, study the data for trends, and act on feedback to change practice. The other expansions are not the PDSA cycle.",
+  "hy": "PDSA = Plan, Do, Study, Act (CQI cycle).",
+  "src": "Neligan I.13 · Collaborative quality improvement / Fig 13.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — Plan, Do, Study, Act.",
+   "B": "Wrong — \"Deliver/Score/Adjust\" is not the PDSA cycle.",
+   "C": "Wrong — \"Predict/Design/Sample/Analyze\" is fabricated.",
+   "D": "Wrong — \"Prepare/Deploy/Standardize/Audit\" is not PDSA."
+  }
+ },
+ {
+  "id": "N-I-13.24",
+  "chapter": "Ch13",
+  "section": "Implementation science",
+  "stem": "How does implementation science differ from local quality improvement, and what outcomes does it emphasize?",
+  "options": {
+   "A": "Its goal is generalizable knowledge about launching an intervention (vs the local effect of QI), and its outcomes center on acceptability, feasibility, and sustainability",
+   "B": "It focuses only on the local effect of an intervention at a single site",
+   "C": "It measures only mortality and length of stay",
+   "D": "It is identical to quality improvement, with no meaningful distinction"
+  },
+  "answer": "A",
+  "exp": "Implementation science differs from local quality improvement in that its goal is generalizable knowledge about how to launch and scale an intervention (not just the local effect at one site), and its outcomes most often center on acceptability, feasibility, and sustainability — whether other surgeons will accept, employ, and continue the change. The other options confine it to one site, to mortality/LOS, or equate it with QI.",
+  "hy": "Implementation science = generalizable scaling knowledge; outcomes = acceptability/feasibility/sustainability.",
+  "src": "Neligan I.13 · Implementation science",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — generalizable knowledge; acceptability/feasibility/sustainability.",
+   "B": "Wrong — that describes local quality improvement, not implementation science.",
+   "C": "Wrong — it is broader than mortality/LOS metrics.",
+   "D": "Wrong — it is distinct from quality improvement."
+  }
+ },
+ {
+  "id": "N-I-13.25",
+  "chapter": "Ch13",
+  "section": "Implementation science",
+  "stem": "The TRIP (Translating Evidence into Practice) model of implementation has four components. Which sequence is correct?",
+  "options": {
+   "A": "Summarize the evidence; engage stakeholders to identify barriers; track uptake of the intervention; ensure patients are receiving the intervention",
+   "B": "Randomize patients; blind assessors; analyze; publish",
+   "C": "Diagnose; prescribe; monitor; discharge",
+   "D": "Hypothesize; experiment; replicate; peer-review"
+  },
+  "answer": "A",
+  "exp": "The TRIP (Translating Evidence into Practice) model has four components: summarize the evidence; engage all stakeholders to identify barriers to implementation; track the intervention's uptake by the team; and ensure patients are actually receiving the intervention. The other sequences describe RCT conduct, clinical care, or the scientific method — not TRIP.",
+  "hy": "TRIP: summarize evidence → engage stakeholders/identify barriers → track uptake → ensure patients receive it.",
+  "src": "Neligan I.13 · Implementation science",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — the four TRIP components in order.",
+   "B": "Wrong — randomize/blind/analyze is RCT conduct, not TRIP.",
+   "C": "Wrong — diagnose/prescribe/monitor is clinical care.",
+   "D": "Wrong — hypothesize/experiment is the generic scientific method."
+  }
+ },
+ {
+  "id": "N-I-13.26",
+  "chapter": "Ch13",
+  "section": "Implementation science",
+  "stem": "As an example of legislation affecting practice, the chapter notes a Michigan state law on opioid prescribing. What does it limit?",
+  "options": {
+   "A": "Prescriptions for acute pain to a 7-day supply",
+   "B": "All opioid prescriptions to a single tablet",
+   "C": "Opioid prescribing exclusively to pain specialists",
+   "D": "Postoperative prescriptions to a 90-day supply"
+  },
+  "answer": "A",
+  "exp": "As an example of legislation changing practice, the chapter notes a Michigan state law limiting prescriptions for acute pain to a 7-day supply; such legislation has reduced prescribing, though state involvement varies and changing patterns does not always require a legislative mandate. The other limits (single tablet, specialists-only, 90-day) are not the cited law.",
+  "hy": "Michigan law: acute-pain opioid prescriptions limited to a 7-day supply.",
+  "src": "Neligan I.13 · Implementation science",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — a 7-day acute-pain supply limit.",
+   "B": "Wrong — it is a 7-day supply, not a single tablet.",
+   "C": "Wrong — it limits supply, not who may prescribe.",
+   "D": "Wrong — it restricts to 7 days, not 90."
+  }
+ },
+ {
+  "id": "N-I-13.27",
+  "chapter": "Ch13",
+  "section": "Qualitative research",
+  "stem": "How does qualitative research fundamentally differ from quantitative research in its starting point?",
+  "options": {
+   "A": "It does not begin with a hypothesis and is often hypothesis-generating, remaining open to theories rather than testing data against an existing theory",
+   "B": "It always begins with a pre-specified hypothesis to be statistically tested",
+   "C": "It requires a randomized control group",
+   "D": "It can only confirm, never generate, theories"
+  },
+  "answer": "A",
+  "exp": "Qualitative research is fundamentally distinct in that it does not begin with a hypothesis and is often hypothesis-generating — it remains open to theories emerging from the data rather than testing data against a pre-existing theory. It does not start with a fixed hypothesis (B), needs no randomized control group (C), and can generate, not merely confirm, theories (D).",
+  "hy": "Qualitative research = hypothesis-generating, theory emerges from data.",
+  "src": "Neligan I.13 · Qualitative research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — no starting hypothesis; it generates theory.",
+   "B": "Wrong — it does not begin with a hypothesis to test.",
+   "C": "Wrong — no control group is required.",
+   "D": "Wrong — it generates theories, not only confirms them."
+  }
+ },
+ {
+  "id": "N-I-13.28",
+  "chapter": "Ch13",
+  "section": "Qualitative research",
+  "stem": "\"The discovery of theory from data,\" one of the most used qualitative sociological approaches (alongside phenomenology), is known as which method?",
+  "options": {
+   "A": "Grounded theory",
+   "B": "Difference-in-difference",
+   "C": "Comparative effectiveness research",
+   "D": "The Donabedian model"
+  },
+  "answer": "A",
+  "exp": "\"The discovery of theory from data\" describes grounded theory, one of the most used qualitative sociological approaches alongside phenomenology. Difference-in-difference and comparative effectiveness research are quantitative methods, and the Donabedian model is a quality framework — none is the data-driven theory-generation approach described.",
+  "hy": "Grounded theory = \"discovery of theory from data.\"",
+  "src": "Neligan I.13 · Qualitative research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — grounded theory generates theory from data.",
+   "B": "Wrong — difference-in-difference is a quantitative policy method.",
+   "C": "Wrong — CER is a quantitative comparative method.",
+   "D": "Wrong — Donabedian is a quality-of-care framework."
+  }
+ },
+ {
+  "id": "N-I-13.29",
+  "chapter": "Ch13",
+  "section": "Qualitative research",
+  "stem": "In qualitative sampling, what distinguishes purposeful from convenient sampling, and what is the strength of purposeful sampling?",
+  "options": {
+   "A": "Purposeful sampling uses deliberate invitations to build a representative sample (its strength is centering marginalized voices), whereas convenient sampling interviews interested existing patients",
+   "B": "Purposeful sampling interviews whoever is available; convenient sampling is randomized",
+   "C": "Both are forms of probability sampling identical to RCT randomization",
+   "D": "Purposeful sampling is always biased and should be avoided"
+  },
+  "answer": "A",
+  "exp": "Purposeful sampling uses deliberate invitations to create a representative sample — its strength is centering marginalized voices — whereas convenient sampling interviews interested existing patients. Option B swaps the definitions, C wrongly equates them with RCT randomization, and D dismisses purposeful sampling, which is in fact a deliberate strength for under-represented populations.",
+  "hy": "Purposeful = deliberate/representative (centers marginalized voices); convenient = available patients.",
+  "src": "Neligan I.13 · Qualitative research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — purposeful (deliberate) vs convenient (available), with purposeful's strength.",
+   "B": "Wrong — the two sampling definitions are reversed.",
+   "C": "Wrong — neither is probability/RCT randomization.",
+   "D": "Wrong — purposeful sampling is a deliberate strength, not to be avoided."
+  }
+ },
+ {
+  "id": "N-I-13.30",
+  "chapter": "Ch13",
+  "section": "Qualitative research",
+  "stem": "Mixed-methods research combines qualitative and quantitative methods in one of three designs. Which correctly describes the sequential designs?",
+  "options": {
+   "A": "Exploratory sequential uses qualitative research to inform subsequent quantitative research; explanatory sequential uses qualitative research to explain prior quantitative findings",
+   "B": "Exploratory sequential uses quantitative research to inform qualitative; explanatory sequential is purely qualitative",
+   "C": "Both sequential designs collect qualitative and quantitative data simultaneously with no ordering",
+   "D": "Sequential designs never combine the two methods"
+  },
+  "answer": "A",
+  "exp": "In mixed-methods research, exploratory sequential designs use qualitative research to inform subsequent quantitative research, whereas explanatory sequential designs use qualitative research to explain (follow up on) prior quantitative findings; the third design, convergent, collects both simultaneously. Option B reverses the qualitative/quantitative ordering, C describes only the convergent design, and D denies that mixed methods combine the two.",
+  "hy": "Exploratory sequential = qual→quant; explanatory sequential = quant→qual explanation.",
+  "src": "Neligan I.13 · Qualitative research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "13",
+  "chname": "Health Services Research in Plastic Surgery",
+  "why": {
+   "A": "Correct — exploratory (qual informs quant) vs explanatory (qual explains quant).",
+   "B": "Wrong — the ordering is reversed.",
+   "C": "Wrong — simultaneous collection is the convergent design, not sequential.",
+   "D": "Wrong — mixed methods by definition combine both."
+  }
  }
 ]
