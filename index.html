@@ -204,7 +204,7 @@
 </nav>
 
 <script>
-const VERSION="v4.1", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v4.2", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
 function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
@@ -436,7 +436,7 @@ $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else if(v==="archive"){renderArchive();show("archive");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=32").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=33").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 <div id="lightbox"><img alt=""></div>
