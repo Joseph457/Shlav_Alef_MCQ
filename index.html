@@ -91,13 +91,18 @@
   .saved-item .exp{margin-top:6px;font-size:15px}
   .saved-item .actions{display:flex;gap:8px;margin-top:12px}
   .saved-item .actions .btn{margin-top:0;padding:10px;font-size:14px}
+  .head-btns{display:flex;gap:2px;flex:0 0 auto}
+  .archive-btn{background:none;border:none;font-size:20px;line-height:1;padding:2px 4px;color:var(--muted);cursor:pointer;transition:transform .12s}
+  .archive-btn:active{transform:scale(1.2)}
+  .today-banner{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:14px;font-size:14px;text-align:center}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <header><div><h1>Shlav Alef · MCQ</h1><div class="sub">Sabiston + Bologna · spaced repetition</div></div><div class="sub" id="streak"></div></header>
+  <header><div><h1>Shlav Alef · MCQ</h1><div class="sub">Sabiston + Bologna + Neligan · spaced repetition</div></div><div class="sub" id="streak"></div></header>
 
   <section id="view-home">
+    <div class="today-banner" id="today-banner"></div>
     <div class="kpis">
       <div class="kpi due"><div class="n" id="kpi-due">0</div><div class="l">Due today</div></div>
       <div class="kpi"><div class="n" id="kpi-total">0</div><div class="l">Total items</div></div>
@@ -131,7 +136,7 @@
     <div class="card">
       <div class="cardhead">
         <span class="tag" id="q-tag"></span>
-        <button class="star" id="q-star" title="Star this question to save it">☆</button>
+        <span class="head-btns"><button class="star" id="q-star" title="Star this question to save it">☆</button><button class="archive-btn" id="q-archive" title="Remove from bank (archive)">🗄️</button></span>
       </div>
       <div class="stem" id="q-stem"></div>
       <div class="qimg" id="q-img"></div>
@@ -160,6 +165,14 @@
     <div id="saved-list"></div>
   </section>
 
+  <section id="view-archive" class="hide">
+    <div class="card">
+      <h2 class="section" style="margin-top:0">🗄️ Archived questions</h2>
+      <p class="muted" style="font-size:14px;margin-top:0">Removed from your bank — excluded from drills, due counts, and stats. Restore any to bring it back.</p>
+    </div>
+    <div id="archive-list"></div>
+  </section>
+
   <section id="view-stats" class="hide">
     <div class="card"><h2 class="section" style="margin-top:0">Coverage &amp; accuracy</h2>
       <p class="muted" style="font-size:13px;margin:0 0 12px">Tap to expand by book → volume → chapter → section. Percentage is your accuracy on items you've answered.</p>
@@ -186,21 +199,22 @@
   <button data-view="home" class="active"><span class="ico">🏠</span>Home</button>
   <button data-view="saved"><span class="ico">⭐</span>Saved<span class="badge hide" id="nav-saved-badge"></span></button>
   <button data-view="stats"><span class="ico">📊</span>Stats</button>
+  <button data-view="archive"><span class="ico">🗄️</span>Archive</button>
   <button data-view="settings"><span class="ico">⚙️</span>Settings</button>
 </nav>
 
 <script>
-const VERSION="v3.4", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v3.5", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
 function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
 function todayStr(d){d=d||new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
 function addDays(n){const d=new Date();d.setDate(d.getDate()+n);return todayStr(d);}
-function loadState(){let s=null;try{s=JSON.parse(localStorage.getItem(STORE_KEY));}catch(e){}if(!s||!s.byId)s={byId:{},streak:{last:null,count:0},notif:false};if(!s.starred)s.starred={};QUESTIONS.forEach(q=>{if(!s.byId[q.id])s.byId[q.id]={idx:-1,due:todayStr(),last:null,seen:0,correct:0};});return s;}
+function loadState(){let s=null;try{s=JSON.parse(localStorage.getItem(STORE_KEY));}catch(e){}if(!s||!s.byId)s={byId:{},streak:{last:null,count:0},notif:false};if(!s.starred)s.starred={};if(!s.archived)s.archived={};if(!s.daily)s.daily={date:todayStr(),count:0};QUESTIONS.forEach(q=>{if(!s.byId[q.id])s.byId[q.id]={idx:-1,due:todayStr(),last:null,seen:0,correct:0};});return s;}
 function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));}
 function isMastered(it){return it.idx>=LADDER.length;}
 function isDue(it){return !isMastered(it)&&it.due<=todayStr();}
-function grade(it,ok){it.seen++;if(ok)it.correct++;if(ok)it.idx=Math.max(it.idx,0)+1;else it.idx=0;if(it.idx>=LADDER.length){it.last="correct";it.due="2099-01-01";}else{it.due=addDays(LADDER[it.idx]);it.last=ok?"correct":"wrong";}const t=todayStr();if(state.streak.last!==t){state.streak.count=(state.streak.last===addDays(-1))?state.streak.count+1:1;state.streak.last=t;}save();}
+function grade(it,ok){it.seen++;if(ok)it.correct++;if(ok)it.idx=Math.max(it.idx,0)+1;else it.idx=0;if(it.idx>=LADDER.length){it.last="correct";it.due="2099-01-01";}else{it.due=addDays(LADDER[it.idx]);it.last=ok?"correct":"wrong";}const t=todayStr();if(!state.daily||state.daily.date!==t)state.daily={date:t,count:0};state.daily.count++;if(state.daily.count>=10&&state.streak.last!==t){state.streak.count=(state.streak.last===addDays(-1))?state.streak.count+1:1;state.streak.last=t;}save();}
 function uniq(a){return [...new Set(a)];}
 
 /* ---------- shuffle helpers ---------- */
@@ -218,10 +232,17 @@ function starredRecords(){return starredIds().map(id=>{const live=byIdQ[id];cons
 function updateSavedBadge(){const n=starredIds().length;const b=$("nav-saved-badge");if(!b)return;b.textContent=n;b.classList.toggle("hide",n===0);}
 function renderStarBtn(){const q=session[sIdx];if(!q)return;const on=isStarred(q.id);const b=$("q-star");b.textContent=on?"★":"☆";b.classList.toggle("on",on);b.title=on?"Starred — saved to your list":"Star this question to save it";}
 
+/* ---------- archive ---------- */
+function isArchived(id){return !!(state.archived&&state.archived[id]);}
+function toggleArchive(q){if(!state.archived)state.archived={};if(state.archived[q.id]){delete state.archived[q.id];}else{state.archived[q.id]={ts:Date.now(),snap:{stem:q.stem,answer:q.answer,exp:q.exp,hy:q.hy,src:q.src,book:q.book,vol:q.vol,chnum:q.chnum,chname:q.chname,section:q.section,options:q.options,image:q.image,imgcap:q.imgcap}};}save();}
+function archivedRecords(){return Object.keys(state.archived||{}).map(id=>{const live=byIdQ[id];const a=state.archived[id]||{};const snap=a.snap||{};const q=live||Object.assign({id},snap);return{id,q,live:!!live,ts:a.ts||0};}).sort((a,b)=>b.ts-a.ts);}
+function renderArchive(){const recs=archivedRecords();const box=$("archive-list");if(!recs.length){box.innerHTML='<div class="card center"><div class="big">🗄️</div><p class="muted">No archived questions.<br>Tap 🗄️ on any question while reviewing to remove it from your bank.</p></div>';return;}box.innerHTML=recs.map(r=>{const q=r.q;const tag=esc((q.book||"")+" · Ch "+(q.chnum||"?")+" "+(q.chname||"")+" · "+(q.section||""));const opts=(q.options&&q.answer&&q.options[q.answer])?(" — "+esc(q.options[q.answer])):"";return '<div class="card saved-item" data-id="'+esc(r.id)+'"><div class="cardhead"><span class="tag">'+tag+'</span></div><div class="stem" style="font-size:16px">'+esc(q.stem)+'</div><div class="key">Answer: <b>'+esc(q.answer||"?")+'</b>'+opts+'</div>'+(q.exp?'<div class="exp">'+esc(q.exp)+'</div>':"")+'<div class="actions"><button class="btn secondary" data-restore="'+esc(r.id)+'">↩ Restore to bank</button></div></div>';}).join("");box.querySelectorAll("[data-restore]").forEach(b=>b.onclick=()=>{const id=b.getAttribute("data-restore");delete state.archived[id];save();renderArchive();renderHome();});}
+/* ---------- today + streak display ---------- */
+function renderStreakAndToday(){const t=todayStr();const dc=(state.daily&&state.daily.date===t)?state.daily.count:0;const countedToday=(state.streak.last===t);let sTxt="";if(countedToday){sTxt="🔥 "+state.streak.count+"-day streak";}else{const alive=(state.streak.last===addDays(-1));const prev=alive?state.streak.count:0;sTxt=prev>0?(prev+"-day streak"):"";}$("streak").textContent=sTxt;const remain=Math.max(0,10-dc);let bTxt;if(dc>=10){bTxt="📝 "+dc+" answered today · 🔥 streak secured";}else{const verb=(state.streak.last===addDays(-1)||state.streak.last===t)?"keep":"start";bTxt="📝 "+dc+" answered today · "+remain+" more to "+verb+" your streak";}$("today-banner").textContent=bTxt;}
 function populateBooks(){const s=$("book-filter");s.innerHTML='<option value="">All books</option>';uniq(QUESTIONS.map(q=>q.book)).sort().forEach(b=>{const o=document.createElement("option");o.value=b;o.textContent=b;s.appendChild(o);});}
 function populateVols(){const b=$("book-filter").value,s=$("vol-filter");const v=uniq(QUESTIONS.filter(q=>(!b||q.book===b)&&q.vol).map(q=>q.vol)).sort();s.innerHTML='<option value="">All volumes</option>';v.forEach(x=>{const o=document.createElement("option");o.value=x;o.textContent=x;s.appendChild(o);});s.disabled=v.length===0;s.style.opacity=v.length?1:.5;}
 function populateChaps(){const b=$("book-filter").value,v=$("vol-filter").value,s=$("chap-filter");const seen={},ch=[];QUESTIONS.forEach(q=>{if(b&&q.book!==b)return;if(v&&q.vol!==v)return;const k=q.book+"|"+q.vol+"|"+q.chnum;if(!seen[k]){seen[k]=1;ch.push({k,n:q.chnum,name:q.chname});}});ch.sort((a,b)=>(parseInt(a.n)||0)-(parseInt(b.n)||0));s.innerHTML='<option value="">All chapters</option>';ch.forEach(c=>{const o=document.createElement("option");o.value=c.k;o.textContent="Ch "+c.n+" — "+c.name;s.appendChild(o);});}
-function pool(){const b=$("book-filter").value,v=$("vol-filter").value,c=$("chap-filter").value;return QUESTIONS.filter(q=>{if(b&&q.book!==b)return false;if(v&&q.vol!==v)return false;if(c&&(q.book+"|"+q.vol+"|"+q.chnum)!==c)return false;return true;});}
+function pool(){const b=$("book-filter").value,v=$("vol-filter").value,c=$("chap-filter").value;return QUESTIONS.filter(q=>{if(state.archived&&state.archived[q.id])return false;if(b&&q.book!==b)return false;if(v&&q.vol!==v)return false;if(c&&(q.book+"|"+q.vol+"|"+q.chnum)!==c)return false;return true;});}
 function dueList(){return pool().filter(q=>isDue(state.byId[q.id]));}
 function reviewDueList(){return pool().filter(q=>{const it=state.byId[q.id];return isDue(it)&&it.seen>0;});}
 function masteredCount(){return pool().filter(q=>isMastered(state.byId[q.id])).length;}
@@ -230,9 +251,9 @@ function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];
 function weakSections(){return sectionStats().filter(s=>s.acc!==null&&s.seen>=1&&s.acc<70).sort((a,b)=>a.acc-b.acc);}
 function chapterStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.book+"|"+q.chnum+"|"+q.chname;if(!m[k])m[k]={book:q.book,chnum:q.chnum,chname:q.chname,seen:0,correct:0,n:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;});return Object.values(m).map(v=>({key:v.book+"|"+v.chnum,book:v.book,chnum:v.chnum,chname:v.chname,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n}));}
 function weakChapters(){return chapterStats().filter(c=>c.acc!==null&&c.seen>=1&&c.acc<70).sort((a,b)=>a.acc-b.acc);}
-function show(v){["home","quiz","done","stats","settings","saved"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
+function show(v){["home","quiz","done","stats","settings","saved","archive"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
 function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
-function renderHome(){const rev=reviewDueList().length;const allDue=dueList().length;$("kpi-due").textContent=rev;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();$("streak").textContent=state.streak.count>0?("🔥 "+state.streak.count+"-day streak"):"";$("start-due").disabled=allDue===0;$("start-due").textContent=allDue?("Start review ("+allDue+")"):"Nothing due 🎉";$("start-due-only").disabled=rev===0;$("start-due-only").textContent=rev?("Due reviews only — no new ("+rev+")"):"No reviews due";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const wc=weakChapters();$("weak-home").innerHTML=wc.length?'<h2 class="section" style="margin-top:0">Weak chapters (&lt;70%)</h2>'+wc.map(c=>`<div class="row"><span class="lab">${c.book} · Ch ${c.chnum} ${c.chname} <span class="pill weak">weak</span></span><span class="acc lo">${c.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak chapters yet. Chapters under 70% will appear here as you drill.</p>';updateSavedBadge();}
+function renderHome(){const rev=reviewDueList().length;const allDue=dueList().length;$("kpi-due").textContent=rev;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();renderStreakAndToday();$("start-due").disabled=allDue===0;$("start-due").textContent=allDue?("Start review ("+allDue+")"):"Nothing due 🎉";$("start-due-only").disabled=rev===0;$("start-due-only").textContent=rev?("Due reviews only — no new ("+rev+")"):"No reviews due";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const wc=weakChapters();$("weak-home").innerHTML=wc.length?'<h2 class="section" style="margin-top:0">Weak chapters (&lt;70%)</h2>'+wc.map(c=>`<div class="row"><span class="lab">${c.book} · Ch ${c.chnum} ${c.chname} <span class="pill weak">weak</span></span><span class="acc lo">${c.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak chapters yet. Chapters under 70% will appear here as you drill.</p>';updateSavedBadge();}
 
 /* ---------- session state ---------- */
 /* sess[i] = { order: ["C","A","D","B"], chosen: null|"A", answered: false }
@@ -364,6 +385,7 @@ function answer(dispL){
 }
 
 $("q-star").onclick=()=>{const q=session[sIdx];if(!q)return;toggleStar(q);renderStarBtn();};
+$("q-archive").onclick=()=>{const q=session[sIdx];if(!q)return;if(!confirm("Remove this question from your bank? It moves to Archive and won't appear in drills."))return;toggleArchive(q);session.splice(sIdx,1);sess.splice(sIdx,1);if(!session.length){finishSession();return;}if(sIdx>=session.length)sIdx=session.length-1;renderCard();};
 $("q-back").onclick=()=>{if(sIdx>0){sIdx--;renderCard();}};
 $("q-next").onclick=()=>{sIdx++;if(sIdx>=session.length)finishSession();else renderCard();};
 $("q-quit").onclick=finishSession;
@@ -411,10 +433,10 @@ $("export").onclick=()=>{const t=JSON.stringify(state);navigator.clipboard?.writ
 $("import").onclick=()=>{const t=prompt("Paste exported progress JSON:");if(!t)return;try{const o=JSON.parse(t);if(o.byId){if(!o.starred)o.starred={};state=o;save();renderHome();alert("Imported.");}else alert("Invalid.");}catch(e){alert("Invalid JSON.");}};
 $("reset").onclick=()=>{if(confirm("Erase all progress (including starred) on this device?")){localStorage.removeItem(STORE_KEY);state=loadState();save();renderHome();alert("Reset.");}};
 $("reload-q").onclick=()=>location.reload();
-document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else show("settings");});
+document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else if(v==="archive"){renderArchive();show("archive");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=25").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=26").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 <div id="lightbox"><img alt=""></div>
