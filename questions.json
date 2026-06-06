@@ -26360,5 +26360,1045 @@
    "C": "Wrong — simultaneous collection is the convergent design, not sequential.",
    "D": "Wrong — mixed methods by definition combine both."
   }
+ },
+ {
+  "id": "N-I-14.1",
+  "chapter": "Ch14",
+  "section": "Cancer diagnosis and treatment planning",
+  "stem": "Tumors grow logarithmically, quantified by the doubling time. What range of doubling times and detection threshold does the chapter cite?",
+  "options": {
+   "A": "Doubling times vary between 2 and 200 days, and tumors are generally not detectable until ~1 cm in diameter",
+   "B": "Doubling times are fixed at 30 days for all tumors, detectable at 1 mm",
+   "C": "Doubling times vary between 2 and 200 hours, detectable at 10 cm",
+   "D": "Tumors are detectable only once they exceed 5 cm regardless of doubling time"
+  },
+  "answer": "A",
+  "exp": "Tumor cells lose normal growth restraint and proliferate logarithmically, with doubling times that vary widely — between 2 and 200 days — so a tumor may be present for years before becoming palpable; tumors are generally not detectable until they reach ~1 cm in diameter. Understanding this affords time to evaluate patients thoroughly before rushing therapy. The other options misstate the range, units, or detection threshold.",
+  "hy": "Doubling time 2–200 days; tumors detectable at ~1 cm.",
+  "src": "Neligan I.14 · Cancer diagnosis and treatment planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — 2–200-day doubling time and ~1 cm detection threshold.",
+   "B": "Wrong — doubling time is not fixed at 30 days, nor 1 mm detection.",
+   "C": "Wrong — the units are days, not hours, and detection is ~1 cm.",
+   "D": "Wrong — tumors are detectable around 1 cm, not only above 5 cm."
+  }
+ },
+ {
+  "id": "N-I-14.2",
+  "chapter": "Ch14",
+  "section": "Cancer presentation and initial evaluation",
+  "stem": "A surgeon removes an entire tumor mass with a small margin of surrounding normal tissue, often with curative intent. Which biopsy term describes this?",
+  "options": {
+   "A": "Excisional biopsy (wide local incision)",
+   "B": "Incisional biopsy",
+   "C": "Core-needle biopsy (CNB)",
+   "D": "Fine-needle aspiration (FNA)"
+  },
+  "answer": "A",
+  "exp": "An excisional biopsy (wide local incision) removes the entire tumor mass with a small margin of normal tissue and is often performed with curative intent (no further surgery needed for characteristic lesions). An incisional biopsy removes only a portion, a core-needle biopsy obtains a tissue core, and FNA samples only cells.",
+  "hy": "Excisional biopsy = whole mass + small margin (often curative intent).",
+  "src": "Neligan I.14 · Cancer presentation and initial evaluation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — whole-mass removal with a small margin is excisional.",
+   "B": "Wrong — an incisional biopsy removes only part of the tumor.",
+   "C": "Wrong — CNB obtains a core, not the entire mass.",
+   "D": "Wrong — FNA samples only cells."
+  }
+ },
+ {
+  "id": "N-I-14.3",
+  "chapter": "Ch14",
+  "section": "Cancer presentation and initial evaluation",
+  "stem": "Which statement about fine-needle aspiration (FNA) versus core-needle biopsy (CNB) is correct?",
+  "options": {
+   "A": "FNA obtains only a sample of cells and a negative result may not rule out malignancy, whereas CNB obtains less tissue than open biopsy but often suffices for definitive surgical planning",
+   "B": "FNA reliably excludes malignancy when negative",
+   "C": "CNB obtains more tissue than an excisional biopsy",
+   "D": "FNA always provides full architectural/histologic information"
+  },
+  "answer": "A",
+  "exp": "FNA is minimally invasive and obtains only a sample of cells, so a positive result can guide treatment but a negative result may not rule out malignancy; CNB obtains considerably less tissue than excisional/incisional biopsy yet often provides enough for definitive surgical planning. Option B overstates FNA's negative predictive value, C reverses the tissue yield, and D wrongly credits FNA with architectural detail.",
+  "hy": "FNA = cells only (negative doesn't exclude cancer); CNB = core, often planning-sufficient.",
+  "src": "Neligan I.14 · Cancer presentation and initial evaluation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — FNA cells-only with limited negative value; CNB often sufficient.",
+   "B": "Wrong — a negative FNA does not reliably exclude malignancy.",
+   "C": "Wrong — CNB obtains less, not more, tissue than excisional biopsy.",
+   "D": "Wrong — FNA gives cytology, not full architecture."
+  }
+ },
+ {
+  "id": "N-I-14.4",
+  "chapter": "Ch14",
+  "section": "Tumor margins",
+  "stem": "The chapter notes that even with \"negative\" margins, recurrences occur. Which finding illustrates the body's capacity to destroy small numbers of residual tumor cells?",
+  "options": {
+   "A": "Basal cell cancers with positive margins recur in only ~20–30% of cases",
+   "B": "Basal cell cancers with positive margins recur in ~100% of cases",
+   "C": "Negative-margin rectal cancers never recur",
+   "D": "All tumors with positive margins recur within one year"
+  },
+  "answer": "A",
+  "exp": "Review of basal cell cancers with positive margins shows recurrence in only ~20–30% of cases, which the chapter cites as evidence of the body's capacity to destroy small numbers of residual cancer cells (and a rationale for the immune system's role and for not always re-excising). The other options overstate recurrence or wrongly claim negative margins guarantee cure.",
+  "hy": "BCC positive-margin recurrence only ~20–30% → body clears some residual cells.",
+  "src": "Neligan I.14 · Tumor margins",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — ~20–30% recurrence despite positive margins.",
+   "B": "Wrong — recurrence is far below 100%.",
+   "C": "Wrong — negative-margin tumors can still recur.",
+   "D": "Wrong — not all positive-margin tumors recur."
+  }
+ },
+ {
+  "id": "N-I-14.5",
+  "chapter": "Ch14",
+  "section": "Tumor margins",
+  "stem": "In rectal cancers resected with negative margins, where do locally recurrent tumors predominantly arise, illustrating undetected microscopic deposits?",
+  "options": {
+   "A": "~50% occur at the suture line despite negative histology",
+   "B": "~5% occur, all at distant sites",
+   "C": "None recur once margins are negative",
+   "D": "Recurrences occur only in irradiated tissue"
+  },
+  "answer": "A",
+  "exp": "In rectal cancers resected with negative margins, evaluation of locally recurrent disease shows ~50% occur at the suture line despite negative histology — attributable to microscopic tumor deposits not detected pathologically, which justifies adjuvant therapy. The other options deny recurrence or misstate its frequency/location.",
+  "hy": "Rectal cancer: ~50% of local recurrences at the suture line despite negative margins.",
+  "src": "Neligan I.14 · Tumor margins",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — ~50% suture-line recurrence despite negative histology.",
+   "B": "Wrong — recurrence is not a uniformly distant ~5%.",
+   "C": "Wrong — negative margins do not eliminate recurrence.",
+   "D": "Wrong — recurrence is not limited to irradiated tissue."
+  }
+ },
+ {
+  "id": "N-I-14.6",
+  "chapter": "Ch14",
+  "section": "Classification and staging",
+  "stem": "In the TNM staging system, what do T, N, and M represent?",
+  "options": {
+   "A": "T = extent of the primary tumor (size/depth/anatomic involvement); N = lymph node involvement; M = distant metastasis",
+   "B": "T = tumor grade; N = necrosis; M = mitotic rate",
+   "C": "T = treatment; N = number of cycles; M = modality",
+   "D": "T = thickness only; N = nuclear grade; M = margin status"
+  },
+  "answer": "A",
+  "exp": "In the TNM system, T denotes the extent of the primary tumor (size, depth of invasion, or degree of anatomic involvement), N enumerates lymph-node involvement (number/size of affected nodes), and M reflects distant-organ metastasis; TNM combinations aggregate into stage groups I–IV. The other options misdefine the letters.",
+  "hy": "TNM: T = primary tumor extent, N = nodal involvement, M = distant metastasis.",
+  "src": "Neligan I.14 · Classification and staging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the standard TNM definitions.",
+   "B": "Wrong — grade/necrosis/mitoses are not the TNM letters.",
+   "C": "Wrong — treatment/cycles/modality are unrelated to TNM.",
+   "D": "Wrong — TNM is broader than thickness/nuclear grade/margin."
+  }
+ },
+ {
+  "id": "N-I-14.7",
+  "chapter": "Ch14",
+  "section": "Classification and staging",
+  "stem": "Which classification system is correctly matched to its tumor and basis?",
+  "options": {
+   "A": "Lund's classification stratifies basal cell carcinomas by descriptive features (nodular/ulcerative/morphea/sclerosing), with morphea or sclerosing features predicting a more aggressive course",
+   "B": "Lund's classification grades melanoma by Breslow thickness",
+   "C": "Lund's classification stages breast cancer by hormone-receptor status",
+   "D": "Lund's classification categorizes salivary tumors by cell type"
+  },
+  "answer": "A",
+  "exp": "Lund's classification stratifies basal cell carcinomas by descriptive morphology — nodular (well-defined margins), ulcerative, morphea, and sclerosing (indistinct margins) — with morphea or sclerosing features predicting a more aggressive, problematic course. It is not a melanoma-thickness, breast-receptor, or salivary cell-type system.",
+  "hy": "Lund = BCC morphology (morphea/sclerosing = aggressive).",
+  "src": "Neligan I.14 · Classification and staging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — Lund stratifies BCC by morphology; sclerosing/morphea aggressive.",
+   "B": "Wrong — Breslow thickness grades melanoma, not Lund.",
+   "C": "Wrong — hormone receptors stage breast cancer, not Lund.",
+   "D": "Wrong — salivary cell-type grading is a different system."
+  }
+ },
+ {
+  "id": "N-I-14.8",
+  "chapter": "Ch14",
+  "section": "Classification and staging",
+  "stem": "How do Clark's and Breslow's systems for melanoma differ?",
+  "options": {
+   "A": "Clark's system categorizes by anatomic level of invasion (papillary/reticular dermis, subcutaneous fat) and was subjective; Breslow's more objectively quantitates tumor thickness with an ocular micrometer",
+   "B": "Clark's measures thickness in millimeters; Breslow's grades by level of invasion",
+   "C": "Both measure mitotic rate per high-power field",
+   "D": "Both classify by hormone-receptor expression"
+  },
+  "answer": "A",
+  "exp": "Clark's system categorizes melanoma by the anatomic level of invasion (into papillary dermis, reticular dermis, subcutaneous fat) but proved subjective with poor inter-rater reliability; Breslow's system more objectively quantitates tumor thickness using a micrometer attached to the microscope. Option B reverses them, and C/D misattribute mitotic-rate or receptor bases.",
+  "hy": "Clark = level of invasion (subjective); Breslow = objective thickness.",
+  "src": "Neligan I.14 · Classification and staging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — Clark levels (invasion) vs Breslow thickness (measured).",
+   "B": "Wrong — the thickness/level attributions are reversed.",
+   "C": "Wrong — neither is based on mitotic rate per HPF.",
+   "D": "Wrong — neither uses hormone-receptor expression."
+  }
+ },
+ {
+  "id": "N-I-14.9",
+  "chapter": "Ch14",
+  "section": "Classification and staging",
+  "stem": "The clinically aggressive \"triple-negative\" breast tumor is defined by the absence of which three receptors?",
+  "options": {
+   "A": "Estrogen receptor (ER), progesterone receptor (PR), and HER2",
+   "B": "EGFR, VEGF, and CD20",
+   "C": "CTLA-4, PD-1, and PD-L1",
+   "D": "BRAF, KIT, and ALK"
+  },
+  "answer": "A",
+  "exp": "Triple-negative breast tumors lack the estrogen receptor (ER), progesterone receptor (PR), and HER2, and carry a reproducible, highly specific molecular signature associated with clinically aggressive behavior. The other receptor triads belong to other targeted/immunotherapy or driver-mutation contexts, not the triple-negative definition.",
+  "hy": "Triple-negative breast = ER−/PR−/HER2−.",
+  "src": "Neligan I.14 · Classification and staging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — absence of ER, PR, and HER2.",
+   "B": "Wrong — EGFR/VEGF/CD20 are therapeutic targets, not the definition.",
+   "C": "Wrong — CTLA-4/PD-1/PD-L1 are immune checkpoints.",
+   "D": "Wrong — BRAF/KIT/ALK are driver mutations, not this definition."
+  }
+ },
+ {
+  "id": "N-I-14.10",
+  "chapter": "Ch14",
+  "section": "Treatment planning",
+  "stem": "Cancer treatments are divided into local and systemic. Which grouping is correct?",
+  "options": {
+   "A": "Local: surgery, radiation therapy, ablative strategies (e.g. cryoablation); Systemic: chemotherapy, targeted therapy, immunotherapy, systemic radionuclide therapy",
+   "B": "Local: chemotherapy and immunotherapy; Systemic: surgery and cryoablation",
+   "C": "Local: targeted therapy only; Systemic: radiation only",
+   "D": "There is no meaningful distinction between local and systemic treatment"
+  },
+  "answer": "A",
+  "exp": "Local treatments act on the tumor and its immediate region — surgery, radiation therapy, and other ablative strategies (e.g. cryoablation) — whereas systemic treatments circulate throughout the body: chemotherapy, targeted therapies, immunotherapy, and systemically administered (radionuclide) radiation therapy. The other options scramble these categories.",
+  "hy": "Local = surgery/RT/ablation; Systemic = chemo/targeted/immuno/radionuclide.",
+  "src": "Neligan I.14 · Treatment planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the local vs systemic grouping.",
+   "B": "Wrong — chemo/immunotherapy are systemic, surgery is local.",
+   "C": "Wrong — both targeted therapy and radiation are mischaracterized.",
+   "D": "Wrong — the local/systemic distinction is fundamental."
+  }
+ },
+ {
+  "id": "N-I-14.11",
+  "chapter": "Ch14",
+  "section": "Treatment planning",
+  "stem": "What is the defining timing of neoadjuvant therapy, and one of its main goals?",
+  "options": {
+   "A": "Chemotherapy and/or radiation given before tumor excision, used to shrink unresectable tumors or reduce the magnitude of ablation needed for negative margins",
+   "B": "Therapy given only after complete surgical excision to treat micrometastases",
+   "C": "Therapy given during the operation itself",
+   "D": "Therapy reserved exclusively for palliation of metastatic disease"
+  },
+  "answer": "A",
+  "exp": "Neoadjuvant therapy is chemotherapy and/or radiation given before tumor excision, used to shrink unresectable tumors to render them resectable or to decrease the magnitude of ablation needed to achieve negative margins (and to downstage). Therapy given only after excision is adjuvant (B), intraoperative therapy (C) and palliation-only (D) are different concepts.",
+  "hy": "Neoadjuvant = before surgery (shrink/downstage → resectable, smaller ablation).",
+  "src": "Neligan I.14 · Treatment planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — preoperative therapy to shrink/downstage tumors.",
+   "B": "Wrong — post-excision therapy is adjuvant, not neoadjuvant.",
+   "C": "Wrong — neoadjuvant is before, not during, the operation.",
+   "D": "Wrong — it is not reserved for palliation."
+  }
+ },
+ {
+  "id": "N-I-14.12",
+  "chapter": "Ch14",
+  "section": "Treatment planning",
+  "stem": "When no tumor is identified on the surgical specimen after neoadjuvant chemotherapy, this is termed what?",
+  "options": {
+   "A": "Pathologic complete response",
+   "B": "R0 resection",
+   "C": "Sublethal damage repair",
+   "D": "Kinetic resistance"
+  },
+  "answer": "A",
+  "exp": "When no tumor is identified on the surgical specimen following completion of neoadjuvant chemotherapy, it is termed a pathologic complete response — a recognition that has prompted study of whether ablative surgery can be obviated in that setting. R0 resection refers to clear margins at surgery, sublethal damage is a radiation concept, and kinetic resistance is a chemotherapy cell-cycle concept.",
+  "hy": "No residual tumor on specimen after neoadjuvant chemo = pathologic complete response.",
+  "src": "Neligan I.14 · Treatment planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — pathologic complete response = no tumor on the specimen.",
+   "B": "Wrong — R0 describes clear resection margins, not a chemo response.",
+   "C": "Wrong — sublethal damage is a radiation-repair concept.",
+   "D": "Wrong — kinetic resistance relates to cell-cycle-specific chemo."
+  }
+ },
+ {
+  "id": "N-I-14.13",
+  "chapter": "Ch14",
+  "section": "Treatment planning",
+  "stem": "Mehrara et al.'s review of microvascular breast reconstructions identified neoadjuvant chemotherapy as a risk factor for wound complications. What timing threshold did they highlight?",
+  "options": {
+   "A": "Increased wound complications if surgery was performed less than 6 weeks after completing chemotherapy",
+   "B": "Increased complications only if surgery was delayed beyond 1 year",
+   "C": "No relationship between chemotherapy timing and complications",
+   "D": "Complications occurred only if surgery was within 24 hours of chemotherapy"
+  },
+  "answer": "A",
+  "exp": "In a review of nearly 1200 microsurgical breast reconstructions, Mehrara et al. found neoadjuvant chemotherapy was an independent risk factor for postoperative complications, with increased wound complications if surgery was performed less than 6 weeks after completing chemotherapy. The other options deny the relationship or misstate the timing.",
+  "hy": "Wait ≥6 weeks after neoadjuvant chemo before microvascular breast reconstruction (Mehrara).",
+  "src": "Neligan I.14 · Treatment planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — increased wound complications if <6 weeks post-chemo.",
+   "B": "Wrong — the risk relates to a short, not long, interval.",
+   "C": "Wrong — there was a clear timing relationship.",
+   "D": "Wrong — the threshold is 6 weeks, not 24 hours."
+  }
+ },
+ {
+  "id": "N-I-14.14",
+  "chapter": "Ch14",
+  "section": "Treatment planning",
+  "stem": "For T3 and T4 rectal tumors, what did randomized trials show about the timing of chemoradiation relative to surgery?",
+  "options": {
+   "A": "Lower recurrence rates when chemoradiation is delivered preoperatively (neoadjuvant) rather than postoperatively",
+   "B": "Lower recurrence when chemoradiation is given only postoperatively",
+   "C": "No benefit to chemoradiation in any sequence",
+   "D": "Chemoradiation is contraindicated for rectal tumors"
+  },
+  "answer": "A",
+  "exp": "Randomized trials demonstrate lower recurrence rates for T3 and T4 rectal tumors when chemoradiation is delivered preoperatively (neoadjuvant) rather than postoperatively; for distal tumors near the anus, neoadjuvant therapy can also convert abdominoperineal resections to sphincter-preserving low anterior resections. The other options reverse or deny this benefit.",
+  "hy": "T3/T4 rectal: preoperative chemoradiation → lower recurrence than postoperative.",
+  "src": "Neligan I.14 · Treatment planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — preoperative chemoradiation lowers recurrence in T3/T4 rectal cancer.",
+   "B": "Wrong — postoperative-only is inferior here.",
+   "C": "Wrong — chemoradiation does benefit these tumors.",
+   "D": "Wrong — it is a standard part of treatment, not contraindicated."
+  }
+ },
+ {
+  "id": "N-I-14.15",
+  "chapter": "Ch14",
+  "section": "Localized treatments — surgery",
+  "stem": "The Halsted radical mastectomy exemplifies which historical surgical philosophy, now largely superseded?",
+  "options": {
+   "A": "The \"bigger is better\" approach (removal of pectoralis major, all breast tissue, and axillary nodes), since shown unnecessary for many cancers",
+   "B": "Minimal lumpectomy with sentinel node biopsy",
+   "C": "Radiation monotherapy without surgery",
+   "D": "Neoadjuvant immunotherapy followed by observation"
+  },
+  "answer": "A",
+  "exp": "The Halsted radical mastectomy (removal of the pectoralis major muscle, all breast tissue, and axillary nodes) epitomizes the early-twentieth-century \"bigger is better\" philosophy that wider anatomic excision gives the best chance of cure — an approach since shown unnecessary for many cancers as limited resections (often with multimodality therapy) proved equivalent. The other options describe modern minimal/non-surgical approaches.",
+  "hy": "Halsted radical mastectomy = \"bigger is better\" era (now largely superseded).",
+  "src": "Neligan I.14 · Localized treatments — surgery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the radical \"bigger is better\" historical approach.",
+   "B": "Wrong — lumpectomy/sentinel node is the modern minimal approach.",
+   "C": "Wrong — Halsted was a radical surgical, not radiation-only, approach.",
+   "D": "Wrong — it predates neoadjuvant immunotherapy entirely."
+  }
+ },
+ {
+  "id": "N-I-14.16",
+  "chapter": "Ch14",
+  "section": "Localized treatments — surgery",
+  "stem": "In cutaneous melanoma, what did studies show about wide excision margins greater than 2 cm?",
+  "options": {
+   "A": "Margins greater than 2 cm showed no benefit",
+   "B": "Margins greater than 2 cm halved recurrence",
+   "C": "Margins must always exceed 5 cm",
+   "D": "Margin width has no studied relationship to melanoma outcome"
+  },
+  "answer": "A",
+  "exp": "Studies showed that excision margins greater than 2 cm provide no additional benefit in the treatment of cutaneous melanoma, supporting the move away from ultra-radical excision toward narrower, evidence-based margins. The other options overstate the benefit of wide margins or deny the studied relationship.",
+  "hy": "Cutaneous melanoma: margins >2 cm confer no benefit.",
+  "src": "Neligan I.14 · Localized treatments — surgery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — >2 cm margins showed no benefit.",
+   "B": "Wrong — wider margins did not improve recurrence.",
+   "C": "Wrong — margins need not exceed 5 cm.",
+   "D": "Wrong — the margin–outcome relationship has been studied."
+  }
+ },
+ {
+  "id": "N-I-14.17",
+  "chapter": "Ch14",
+  "section": "Localized treatments — surgery",
+  "stem": "The \"R\" classification of resection margins is defined how?",
+  "options": {
+   "A": "R0 = no gross or microscopic tumor at any margin; R1 = positive microscopic margin; R2 = positive macroscopic (gross) margin",
+   "B": "R0 = gross residual tumor; R1 = no residual tumor; R2 = microscopic residual",
+   "C": "R0, R1, R2 refer to the number of radiation fractions delivered",
+   "D": "R0 = stage I; R1 = stage II; R2 = stage III"
+  },
+  "answer": "A",
+  "exp": "Resection completeness is graded as R0 (no gross or microscopic tumor at any margin), R1 (positive microscopic margin), and R2 (positive macroscopic/gross margin). The other options invert the definitions or wrongly tie \"R\" to radiation fractions or stage.",
+  "hy": "R0 = clear; R1 = microscopic positive; R2 = gross positive margin.",
+  "src": "Neligan I.14 · Localized treatments — surgery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — R0/R1/R2 margin definitions.",
+   "B": "Wrong — the definitions are inverted.",
+   "C": "Wrong — \"R\" denotes residual tumor, not radiation fractions.",
+   "D": "Wrong — \"R\" is not the stage grouping."
+  }
+ },
+ {
+  "id": "N-I-14.18",
+  "chapter": "Ch14",
+  "section": "Localized treatments — surgery",
+  "stem": "Surgical \"metastectomy\" can be curative in selected patients. Which cited 5-year survival figures are correct?",
+  "options": {
+   "A": "Pulmonary resection for extremity sarcoma metastases up to ~25%; hepatic lobectomy for colorectal metastasis ~25–40% in selected patients",
+   "B": "Both procedures yield ~90% 5-year survival universally",
+   "C": "Neither offers any survival benefit",
+   "D": "Pulmonary metastectomy yields ~80%; hepatic resection ~0%"
+  },
+  "answer": "A",
+  "exp": "Surgical metastectomy can be curative in selected patients with limited metastases: pulmonary resection for extremity-sarcoma metastases yields 5-year survival up to ~25%, and hepatic lobectomy for colorectal metastasis ~25–40% in selected patients. The other options grossly over- or under-state these figures.",
+  "hy": "Metastectomy 5-yr survival: sarcoma lung ~25%; colorectal liver ~25–40%.",
+  "src": "Neligan I.14 · Localized treatments — surgery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — ~25% (pulmonary sarcoma) and ~25–40% (hepatic colorectal).",
+   "B": "Wrong — survival is not ~90% universally.",
+   "C": "Wrong — metastectomy does offer a survival benefit in selected cases.",
+   "D": "Wrong — hepatic resection survival is ~25–40%, not 0%."
+  }
+ },
+ {
+  "id": "N-I-14.19",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "What is the SI unit of absorbed radiation dose, and its definition?",
+  "options": {
+   "A": "The Gray (Gy), where 1 Gy = 1 J/kg of tissue",
+   "B": "The roentgen, defined as 1 J/kg",
+   "C": "The Sievert, defined as electrons per atom",
+   "D": "The curie, defined as energy per roentgen"
+  },
+  "answer": "A",
+  "exp": "The SI unit of absorbed radiation dose is the Gray (Gy), defined as 1 joule of energy absorbed per kilogram of tissue (1 Gy = 1 J/kg) — the clinically relevant measure of dose delivered to the tumor. The roentgen measures exposure (ionization in air), not absorbed dose; the Sievert and curie are different quantities.",
+  "hy": "Gray (Gy) = 1 J/kg (absorbed dose).",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the Gray, 1 J/kg.",
+   "B": "Wrong — the roentgen measures exposure, not absorbed dose as J/kg.",
+   "C": "Wrong — the Sievert is equivalent dose, not \"electrons per atom.\"",
+   "D": "Wrong — the curie measures radioactivity, not absorbed dose."
+  }
+ },
+ {
+  "id": "N-I-14.20",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "What is \"exposure\" in radiation terminology, and how is it measured?",
+  "options": {
+   "A": "The quantity of ionization produced in air by a beam of radiation, measured in roentgens",
+   "B": "The energy absorbed per unit mass of tumor, measured in Grays",
+   "C": "The number of fractions delivered, measured in Sieverts",
+   "D": "The half-life of the radioactive source, measured in curies"
+  },
+  "answer": "A",
+  "exp": "\"Exposure\" is the quantity of ionization produced in air by a beam of radiation and is measured in roentgens; the more clinically relevant quantity is the absorbed dose (energy per unit mass, in Grays). The other options conflate exposure with absorbed dose, fraction number, or source half-life.",
+  "hy": "Exposure = ionization in air (roentgens); absorbed dose = Gray.",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — exposure is air ionization measured in roentgens.",
+   "B": "Wrong — energy absorbed per mass (Gray) is absorbed dose, not exposure.",
+   "C": "Wrong — fractions are not measured in Sieverts.",
+   "D": "Wrong — half-life (curies relate to activity) is unrelated to exposure."
+  }
+ },
+ {
+  "id": "N-I-14.21",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "The principle of \"sublethal damage\" underlies fractionated radiation. What is the rationale and typical daily fraction size?",
+  "options": {
+   "A": "Normal cells repair sublethal (single-strand) DNA damage between fractions better than tumor cells; daily fractions typically range from 1.8 to 2.5 Gy",
+   "B": "Tumor cells repair damage better than normal cells, so single large doses are preferred",
+   "C": "Fractions are typically 20–25 Gy per day",
+   "D": "Fractionation has no biological rationale and is purely logistical"
+  },
+  "answer": "A",
+  "exp": "Fractionated radiation exploits sublethal damage: cells readily repair single-strand DNA breaks, and normal cells repair this sublethal damage between fractions better than tumor cells, so dividing the dose spares normal tissue while accumulating lethal (double-strand) damage in tumor cells; daily fractions typically range from 1.8 to 2.5 Gy. The other options invert the repair advantage, misstate the dose, or deny the rationale.",
+  "hy": "Fractionation: normal cells repair sublethal damage better; ~1.8–2.5 Gy/fraction.",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — normal-cell sublethal-damage repair; 1.8–2.5 Gy fractions.",
+   "B": "Wrong — normal cells, not tumor cells, repair better.",
+   "C": "Wrong — fractions are ~1.8–2.5 Gy, not 20–25 Gy.",
+   "D": "Wrong — fractionation has a clear radiobiologic rationale."
+  }
+ },
+ {
+  "id": "N-I-14.22",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "Why is ionizing radiation most effective in oxygen-rich environments and least effective in the center of necrotic tumor?",
+  "options": {
+   "A": "Oxygen increases the half-life of reactive free-radical species that damage DNA, so well-oxygenated (peripheral) cells are more readily killed than the hypoxic avascular core",
+   "B": "Oxygen directly shields DNA from radiation",
+   "C": "Hypoxic cells have no DNA to damage",
+   "D": "Radiation only works in the complete absence of oxygen"
+  },
+  "answer": "A",
+  "exp": "Ionizing radiation kills indirectly by generating free radicals from water, and oxygen increases the half-life of these reactive radical species — so radiation is most effective in well-oxygenated (peripheral) tumor and least effective in the hypoxic, avascular necrotic center. The other options misstate oxygen's role.",
+  "hy": "Oxygen prolongs free-radical half-life → radiation best in oxygen-rich tissue, poor in hypoxic core.",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — oxygen stabilizes damaging free radicals.",
+   "B": "Wrong — oxygen does not physically shield DNA.",
+   "C": "Wrong — hypoxic cells have DNA but are radioresistant.",
+   "D": "Wrong — radiation works better with, not without, oxygen."
+  }
+ },
+ {
+  "id": "N-I-14.23",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "Which radiation-delivery modality is correctly described?",
+  "options": {
+   "A": "Brachytherapy places radioactive sources directly into or adjacent to tumor tissue, allowing high local dose while sparing surrounding/external tissue; external beam (teletherapy) delivers radiation from a distance",
+   "B": "Brachytherapy delivers radiation from a distant external source",
+   "C": "Teletherapy implants radioactive seeds within the tumor",
+   "D": "IMRT is a form of brachytherapy using blue dye"
+  },
+  "answer": "A",
+  "exp": "Brachytherapy places radioactive sources directly into or adjacent to tumor tissue, delivering a high local dose while sparing surrounding and external tissue (and can sometimes be used even after prior external beam radiotherapy); external beam radiotherapy (teletherapy) delivers radiation from a distance. The other options reverse these definitions or miscategorize IMRT.",
+  "hy": "Brachytherapy = sources in/adjacent to tumor; teletherapy/EBRT = from a distance.",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — brachytherapy is close-source; teletherapy is distant.",
+   "B": "Wrong — brachytherapy is not distant external delivery.",
+   "C": "Wrong — teletherapy does not implant seeds.",
+   "D": "Wrong — IMRT is external beam, not blue-dye brachytherapy."
+  }
+ },
+ {
+  "id": "N-I-14.24",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "In proton beam therapy, what does the \"Bragg peak\" refer to?",
+  "options": {
+   "A": "The precise depth at which a proton beam delivers its maximum radiation dose, allowing targeting of tumors at a specific depth with limited exit dose",
+   "B": "The peak serum drug level after chemotherapy",
+   "C": "The maximum tolerated radiation exposure in roentgens",
+   "D": "The point of maximal oxygenation in a tumor"
+  },
+  "answer": "A",
+  "exp": "The Bragg peak is the precise depth at which a proton beam deposits its maximum energy/dose; because protons release most energy at this defined depth with little exit dose, proton therapy can target tumors at a specific depth while sparing tissue beyond. The other options misdefine it as a drug level, exposure limit, or oxygenation point.",
+  "hy": "Bragg peak = depth of maximal proton dose (sharp fall-off beyond).",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the depth of peak proton dose with limited exit dose.",
+   "B": "Wrong — it is not a pharmacokinetic peak.",
+   "C": "Wrong — it is not a roentgen exposure limit.",
+   "D": "Wrong — it is a dose-deposition, not oxygenation, concept."
+  }
+ },
+ {
+  "id": "N-I-14.25",
+  "chapter": "Ch14",
+  "section": "Radiation",
+  "stem": "Electron beam radiation has which characteristic use, owing to its tissue-penetrance profile?",
+  "options": {
+   "A": "Low tissue penetrance relative to photons/protons, so it is mainly used to treat superficial (cutaneous) cancers",
+   "B": "Very deep penetrance, ideal for central abdominal tumors",
+   "C": "No tissue penetrance, used only for imaging",
+   "D": "Penetrance identical to proton beams, used for deep tumors"
+  },
+  "answer": "A",
+  "exp": "Electron beams have low tissue penetrance relative to photons and protons, so they are mainly used to treat superficial (cutaneous) cancers, depositing dose near the surface. The other options overstate or deny their penetrance.",
+  "hy": "Electron beam = low penetrance → superficial/cutaneous tumors.",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — low penetrance suits superficial cancers.",
+   "B": "Wrong — electrons do not penetrate deeply.",
+   "C": "Wrong — electron beams do deliver therapeutic dose superficially.",
+   "D": "Wrong — their penetrance is far less than protons."
+  }
+ },
+ {
+  "id": "N-I-14.26",
+  "chapter": "Ch14",
+  "section": "Radiation — IMRT",
+  "stem": "Intensity-modulated radiation therapy (IMRT) is best described as which of the following?",
+  "options": {
+   "A": "A form of external beam radiotherapy that uses 3D CT and computer-modulated beam intensity to conform dose to 3D tumor shapes, sparing surrounding tissue (and reducing cardiac/pulmonary toxicity in left-sided breast cancer)",
+   "B": "A systemic radionuclide infused intravenously",
+   "C": "Implantation of radioactive seeds into the prostate",
+   "D": "A photosensitizer activated by visible light"
+  },
+  "answer": "A",
+  "exp": "Intensity-modulated radiation therapy is a form of external beam radiotherapy that combines 3D CT imaging with computer-modulated beam intensity to conform the dose to three-dimensional tumor shapes, minimizing injury to surrounding regions; it is favored for prostate, lung, head and neck, and brain lesions and can reduce cardiac/pulmonary toxicity in left-sided breast cancer. It is not a systemic radionuclide, seed implantation, or photodynamic therapy.",
+  "hy": "IMRT = computer-modulated EBRT conforming dose to 3D tumor shape.",
+  "src": "Neligan I.14 · Radiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — modulated-intensity conformal external beam therapy.",
+   "B": "Wrong — IMRT is external beam, not a systemic radionuclide.",
+   "C": "Wrong — seed implantation is brachytherapy, not IMRT.",
+   "D": "Wrong — light-activated therapy is photodynamic therapy."
+  }
+ },
+ {
+  "id": "N-I-14.27",
+  "chapter": "Ch14",
+  "section": "Photodynamic therapy",
+  "stem": "How does photodynamic therapy achieve tumor cell killing, and what limits its use?",
+  "options": {
+   "A": "Photosensitizers preferentially taken up by cancer cells produce free radicals when exposed to light, causing thermal damage; because it requires light, its utility is limited to superficial tumors",
+   "B": "It uses systemic radionuclides effective at any depth",
+   "C": "It works by implanting radioactive sources, useful for deep tumors",
+   "D": "It relies on antibody-mediated complement fixation"
+  },
+  "answer": "A",
+  "exp": "In photodynamic therapy, photosensitizers preferentially taken up by cancer cells produce free radicals when exposed to light, and the accumulated energy causes thermal damage and cell killing; because it requires light to be activated, its utility is limited to superficial tumors (e.g. advanced esophageal and non-small-cell lung tumors via endoscopic light). The other options describe radionuclide, brachytherapy, or antibody mechanisms.",
+  "hy": "PDT = light-activated photosensitizer → free radicals; superficial tumors only.",
+  "src": "Neligan I.14 · Photodynamic therapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — light-activated photosensitizer producing free radicals, superficial use.",
+   "B": "Wrong — PDT is not a depth-independent systemic radionuclide.",
+   "C": "Wrong — implanting radioactive sources is brachytherapy.",
+   "D": "Wrong — complement fixation is an antibody mechanism, not PDT."
+  }
+ },
+ {
+  "id": "N-I-14.28",
+  "chapter": "Ch14",
+  "section": "Chemotherapy",
+  "stem": "Conventional cytotoxic chemotherapy exploits which fundamental difference between normal and cancer cells, and what does the log-kill concept imply?",
+  "options": {
+   "A": "Normal cells repair DNA damage and survive better than cancer cells; because an agent killing 99.99% of 10⁹ cells (≈a 1-cm mass) still leaves ~10⁵ cells, chemotherapy is given in several rounds",
+   "B": "Cancer cells repair DNA better, so a single dose eradicates the tumor",
+   "C": "Chemotherapy kills 100% of cells in one administration",
+   "D": "Cytotoxic agents act only on normal cells, sparing the tumor"
+  },
+  "answer": "A",
+  "exp": "Cytotoxic chemotherapy works because normal cells repair DNA damage and survive better than cancer cells; the log-kill model means an agent killing 99.99% of 10⁹ cells (≈the number in a 1-cm mass) still leaves ~10⁵ cells, so chemotherapy must be given in several rounds for maximal cell killing. The other options invert the repair advantage or claim single-dose eradication.",
+  "hy": "Log-kill: 99.99% of 10⁹ still leaves ~10⁵ → repeated cycles needed.",
+  "src": "Neligan I.14 · Chemotherapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — fractional log-kill mandates multiple rounds.",
+   "B": "Wrong — normal cells, not cancer cells, repair DNA better.",
+   "C": "Wrong — a single dose does not kill 100% of cells.",
+   "D": "Wrong — cytotoxic agents target dividing tumor cells, not only normal cells."
+  }
+ },
+ {
+  "id": "N-I-14.29",
+  "chapter": "Ch14",
+  "section": "Table 14.1 Chemotherapy categories",
+  "stem": "Per Table 14.1, cytotoxic chemotherapy agents are grouped into four mechanistic categories. Which set is correct?",
+  "options": {
+   "A": "DNA-interactive (alkylating) agents; antitumor antibiotics and topoisomerase poisons; antimetabolites; mitotic spindle inhibitors",
+   "B": "Protein kinase inhibitors; mTOR inhibitors; proteasome inhibitors; HDAC inhibitors",
+   "C": "Checkpoint inhibitors; CAR-T cells; vaccines; cytokines",
+   "D": "Hormonal agents; radiosensitizers; photosensitizers; radionuclides"
+  },
+  "answer": "A",
+  "exp": "Per Table 14.1, cytotoxic agents fall into four mechanistic categories: DNA-interactive (alkylating) agents; antitumor antibiotics and topoisomerase poisons; antimetabolites; and mitotic spindle (antimitotic) inhibitors. The other lists are targeted-therapy classes, immunotherapy modalities, or adjunctive agents — not the cytotoxic chemotherapy categories.",
+  "hy": "Chemo categories: alkylating; antitumor abx/topoisomerase; antimetabolites; antimitotics.",
+  "src": "Neligan I.14 · Table 14.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the four Table 14.1 cytotoxic categories.",
+   "B": "Wrong — those are targeted-agent classes (Table 14.2).",
+   "C": "Wrong — checkpoint inhibitors/CAR-T/vaccines are immunotherapy.",
+   "D": "Wrong — hormonal/radiosensitizer/radionuclide are different modalities."
+  }
+ },
+ {
+  "id": "N-I-14.30",
+  "chapter": "Ch14",
+  "section": "Table 14.1 Chemotherapy categories",
+  "stem": "Which agent is correctly matched to its Table 14.1 chemotherapy category?",
+  "options": {
+   "A": "Vincristine and paclitaxel are antimitotic (mitotic spindle) agents, whereas methotrexate and 5-fluorouracil are antimetabolites",
+   "B": "Cyclophosphamide is an antimetabolite; methotrexate is an alkylating agent",
+   "C": "Bleomycin and doxorubicin are mitotic spindle inhibitors",
+   "D": "Cisplatin is an antimitotic agent; vinblastine is an alkylating agent"
+  },
+  "answer": "A",
+  "exp": "Per Table 14.1, vincristine and paclitaxel are antimitotic (mitotic-spindle) agents, while methotrexate and 5-fluorouracil are antimetabolites. The distractors miscategorize cyclophosphamide/methotrexate (alkylating vs antimetabolite), bleomycin/doxorubicin (antitumor antibiotics, not spindle inhibitors), and cisplatin/vinblastine (platinum/DNA-interactive vs antimitotic).",
+  "hy": "Vincristine/paclitaxel = antimitotic; methotrexate/5-FU = antimetabolite.",
+  "src": "Neligan I.14 · Table 14.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — antimitotic vincristine/paclitaxel vs antimetabolite MTX/5-FU.",
+   "B": "Wrong — cyclophosphamide is alkylating; methotrexate is an antimetabolite.",
+   "C": "Wrong — bleomycin/doxorubicin are antitumor antibiotics, not spindle agents.",
+   "D": "Wrong — cisplatin is a platinum (DNA-interactive) agent; vinblastine is antimitotic."
+  }
+ },
+ {
+  "id": "N-I-14.31",
+  "chapter": "Ch14",
+  "section": "Chemotherapy",
+  "stem": "Regional chemotherapy administration increases local drug dose while reducing systemic toxicity. Which examples does the chapter give?",
+  "options": {
+   "A": "Isolated limb perfusion for melanoma in-transit metastases, and hepatic artery infusion pumps for colorectal liver metastasis",
+   "B": "Oral capecitabine and subcutaneous insulin",
+   "C": "Whole-brain radiation and total body irradiation",
+   "D": "Inhaled bleomycin and topical 5-FU"
+  },
+  "answer": "A",
+  "exp": "Regional administration delivers higher local drug doses with reduced systemic toxicity; the chapter's examples are isolated limb perfusion for melanoma in-transit metastases and hepatic artery infusion pumps for colorectal liver metastasis. The other options describe systemic/oral routes, radiation, or topical agents, not regional chemotherapy.",
+  "hy": "Regional chemo: isolated limb perfusion (melanoma in-transit); hepatic artery infusion (colorectal liver mets).",
+  "src": "Neligan I.14 · Chemotherapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — the two cited regional-chemotherapy examples.",
+   "B": "Wrong — capecitabine/insulin are systemic/oral, not regional chemo.",
+   "C": "Wrong — whole-brain/total-body irradiation is radiation, not chemo.",
+   "D": "Wrong — inhaled/topical agents are not these regional examples."
+  }
+ },
+ {
+  "id": "N-I-14.32",
+  "chapter": "Ch14",
+  "section": "Chemotherapy",
+  "stem": "For which settings is single-modality chemotherapy notably effective, per the chapter?",
+  "options": {
+   "A": "Hematologic malignancies (leukemia, lymphoma) and specific solid tumors such as subtypes of testicular cancer and the Nigro protocol (chemoradiation) for anal cancer",
+   "B": "As curative monotherapy for the majority of solid tumors",
+   "C": "Only for palliation, never for cure in any setting",
+   "D": "Exclusively for basal cell carcinoma"
+  },
+  "answer": "A",
+  "exp": "Single-modality chemotherapy is notably effective for hematologic malignancies (leukemia, lymphoma) and certain solid tumors — subtypes of testicular cancer and combined chemoradiotherapy such as the Nigro protocol for anal cancer — but generally has not borne out as curative single-modality treatment for most solid tumors. The other options overstate or understate its role.",
+  "hy": "Chemo curative-ish: heme malignancies, testicular subtypes, Nigro protocol (anal).",
+  "src": "Neligan I.14 · Chemotherapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — heme cancers, testicular subtypes, and the Nigro protocol.",
+   "B": "Wrong — it is not curative monotherapy for most solid tumors.",
+   "C": "Wrong — it can be curative in the cited settings, not palliative-only.",
+   "D": "Wrong — its single-modality efficacy is not limited to BCC."
+  }
+ },
+ {
+  "id": "N-I-14.33",
+  "chapter": "Ch14",
+  "section": "Chemotherapy",
+  "stem": "The introduction of neoadjuvant chemotherapy transformed the management of extremity osteosarcoma in what way?",
+  "options": {
+   "A": "It increased rates of limb preservation (vs prior amputation) with equivalent long-term survival",
+   "B": "It made amputation mandatory in all cases",
+   "C": "It eliminated any role for surgery",
+   "D": "It had no effect on limb salvage rates"
+  },
+  "answer": "A",
+  "exp": "Neoadjuvant chemotherapy transformed extremity osteosarcoma management: patients previously treated with amputation can now often undergo limb preservation with equivalent long-term survival (combined with functional reconstruction using allografts or endoprostheses). The other options claim mandatory amputation, no surgery, or no effect.",
+  "hy": "Neoadjuvant chemo → limb salvage in osteosarcoma with equivalent survival.",
+  "src": "Neligan I.14 · Chemotherapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — limb preservation with equivalent survival.",
+   "B": "Wrong — it enabled salvage, not mandatory amputation.",
+   "C": "Wrong — surgery remains part of treatment.",
+   "D": "Wrong — it markedly increased limb-salvage rates."
+  }
+ },
+ {
+  "id": "N-I-14.34",
+  "chapter": "Ch14",
+  "section": "Targeted therapies",
+  "stem": "How do targeted agents fundamentally differ from conventional cytotoxic chemotherapy?",
+  "options": {
+   "A": "They regulate distinct molecular targets crucial to tumor mechanisms rather than globally causing macromolecular lesions, combining efficacy with decreased toxicity",
+   "B": "They cause more widespread DNA damage than cytotoxic agents",
+   "C": "They act only by stimulating the immune system",
+   "D": "They are identical in mechanism to alkylating agents"
+  },
+  "answer": "A",
+  "exp": "Targeted agents regulate distinct molecular targets crucial to tumor proliferation/survival rather than globally causing macromolecular (DNA) lesions as cytotoxic chemotherapy does, theoretically combining efficacy with decreased side effects and toxicity. The other options wrongly attribute broader DNA damage, pure immune stimulation, or an alkylating mechanism.",
+  "hy": "Targeted agents = specific molecular targets (less global toxicity), unlike cytotoxic chemo.",
+  "src": "Neligan I.14 · Targeted therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — specific molecular targeting with decreased toxicity.",
+   "B": "Wrong — they cause less, not more, global macromolecular damage.",
+   "C": "Wrong — they are not purely immune stimulants.",
+   "D": "Wrong — they are not alkylating agents."
+  }
+ },
+ {
+  "id": "N-I-14.35",
+  "chapter": "Ch14",
+  "section": "Targeted therapies",
+  "stem": "Imatinib (Gleevec), an early rationally designed targeted biologic, was developed to block which abnormal gene product?",
+  "options": {
+   "A": "The constitutively active Bcr-Abl tyrosine kinase of the Philadelphia chromosome",
+   "B": "The HER2/neu receptor overexpressed in breast cancer",
+   "C": "The PD-1 checkpoint receptor on T cells",
+   "D": "The VEGF ligand driving angiogenesis"
+  },
+  "answer": "A",
+  "exp": "Imatinib (Gleevec), an early rationally designed biologic, was developed to block the constitutively active Bcr-Abl tyrosine kinase produced by the Philadelphia chromosome (its clinical success spurred targeting of other oncogenes). The other targets correspond to trastuzumab (HER2), checkpoint inhibitors (PD-1), and bevacizumab (VEGF).",
+  "hy": "Imatinib → Bcr-Abl tyrosine kinase (Philadelphia chromosome).",
+  "src": "Neligan I.14 · Targeted therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — imatinib blocks Bcr-Abl (Philadelphia chromosome).",
+   "B": "Wrong — HER2 is the trastuzumab target.",
+   "C": "Wrong — PD-1 is targeted by checkpoint inhibitors.",
+   "D": "Wrong — VEGF is the bevacizumab target."
+  }
+ },
+ {
+  "id": "N-I-14.36",
+  "chapter": "Ch14",
+  "section": "Targeted therapies",
+  "stem": "Trastuzumab is a monoclonal antibody against which target, and in what fraction of breast cancers is that target overexpressed?",
+  "options": {
+   "A": "The HER2/neu receptor, overexpressed in ~25% of breast cancers",
+   "B": "VEGF, overexpressed in ~90% of breast cancers",
+   "C": "CD20, overexpressed in ~50% of breast cancers",
+   "D": "EGFR, overexpressed in ~5% of breast cancers"
+  },
+  "answer": "A",
+  "exp": "Trastuzumab is a monoclonal antibody that binds the extracellular segment of the HER2/neu receptor, which is overexpressed in approximately 25% of breast cancers; it (with pertuzumab) is commonly used in neoadjuvant regimens. The other options misstate the target or its prevalence.",
+  "hy": "Trastuzumab → HER2/neu (overexpressed in ~25% of breast cancers).",
+  "src": "Neligan I.14 · Targeted therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — HER2/neu, ~25% of breast cancers.",
+   "B": "Wrong — VEGF is bevacizumab's target, and ~90% is wrong.",
+   "C": "Wrong — CD20 is rituximab's target.",
+   "D": "Wrong — EGFR is cetuximab/panitumumab's target."
+  }
+ },
+ {
+  "id": "N-I-14.37",
+  "chapter": "Ch14",
+  "section": "Table 14.3 Immunotherapy targets",
+  "stem": "Per Table 14.3, which immunotherapy agent is correctly matched to its molecular target?",
+  "options": {
+   "A": "Ipilimumab targets CTLA-4, while pembrolizumab and nivolumab target PD-1",
+   "B": "Rituximab targets HER2/neu; trastuzumab targets CD20",
+   "C": "Bevacizumab targets EGFR; cetuximab targets VEGF",
+   "D": "Ipilimumab targets PD-1; nivolumab targets CTLA-4"
+  },
+  "answer": "A",
+  "exp": "Per Table 14.3, ipilimumab targets CTLA-4, while pembrolizumab and nivolumab target PD-1 (atezolizumab targets the PD-1/PD-L1 axis). The distractors swap rituximab/trastuzumab (CD20 vs HER2), bevacizumab/cetuximab (VEGF vs EGFR), or invert ipilimumab/nivolumab targets.",
+  "hy": "Ipilimumab = CTLA-4; pembrolizumab/nivolumab = PD-1.",
+  "src": "Neligan I.14 · Table 14.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — CTLA-4 (ipilimumab) vs PD-1 (pembrolizumab/nivolumab).",
+   "B": "Wrong — rituximab targets CD20 and trastuzumab HER2 (not reversed).",
+   "C": "Wrong — bevacizumab targets VEGF and cetuximab EGFR (not reversed).",
+   "D": "Wrong — ipilimumab is CTLA-4 and nivolumab is PD-1, not the reverse."
+  }
+ },
+ {
+  "id": "N-I-14.38",
+  "chapter": "Ch14",
+  "section": "Immunotherapy",
+  "stem": "The best-known nonspecific active immunostimulant, an attenuated bovine tuberculosis bacillus with proven benefit in superficial bladder cancer, is which agent?",
+  "options": {
+   "A": "Bacillus Calmette–Guérin (BCG)",
+   "B": "Interleukin-2",
+   "C": "Ipilimumab",
+   "D": "Sipuleucel-T"
+  },
+  "answer": "A",
+  "exp": "Bacillus Calmette–Guérin (BCG), an attenuated form of the bovine tuberculosis bacillus, is the best-known nonspecific active immunostimulant; though its mechanism is unclear, it has proven benefit in superficial bladder cancer (with less promising results in melanoma). Interleukin-2 is a cytokine, ipilimumab is a checkpoint antibody, and sipuleucel-T is a specific vaccine.",
+  "hy": "BCG = nonspecific active immunostimulant; superficial bladder cancer.",
+  "src": "Neligan I.14 · Immunotherapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — BCG, the attenuated bovine TB bacillus, for bladder cancer.",
+   "B": "Wrong — IL-2 is a cytokine, a different nonspecific approach.",
+   "C": "Wrong — ipilimumab is a specific checkpoint antibody.",
+   "D": "Wrong — sipuleucel-T is a specific therapeutic vaccine."
+  }
+ },
+ {
+  "id": "N-I-14.39",
+  "chapter": "Ch14",
+  "section": "Lymph node management",
+  "stem": "The sentinel lymph node concept (introduced by Morton et al.) is based on which principle, and what is its measured impact on lymphedema?",
+  "options": {
+   "A": "Tissues drain to regional nodes in a reproducible, orderly fashion, so the first (sentinel) node reflects the basin; extremity lymphedema fell to ~5% with sentinel-node mapping versus ~35% for complete lymphadenectomy",
+   "B": "All nodes drain randomly, so the sentinel node is unreliable; lymphedema is unchanged",
+   "C": "The sentinel node is always the largest palpable node; lymphedema rises to 80%",
+   "D": "Sentinel mapping requires removing at least 12 nodes; it does not affect lymphedema"
+  },
+  "answer": "A",
+  "exp": "The sentinel lymph node concept (Morton et al.) is based on tissues draining to regional nodes in a reproducible, orderly fashion, so the first (sentinel) node — found via radioactive colloid or blue dye — reflects the status of the whole basin; using it instead of complete dissection reduced extremity lymphedema to ~5% versus ~35% for complete lymphadenectomy. The other options deny the orderly-drainage basis or misstate the lymphedema figures.",
+  "hy": "Sentinel node (Morton): orderly drainage; lymphedema ~5% vs ~35% for complete LND.",
+  "src": "Neligan I.14 · Lymph node management",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — orderly drainage basis; lymphedema 5% vs 35%.",
+   "B": "Wrong — drainage is orderly/reproducible, making the SLN reliable.",
+   "C": "Wrong — the sentinel node is the first-draining, not largest palpable, node.",
+   "D": "Wrong — SLN reduces lymphedema and does not require ≥12 nodes."
+  }
+ },
+ {
+  "id": "N-I-14.40",
+  "chapter": "Ch14",
+  "section": "Lymph node management",
+  "stem": "Regarding elective (prophylactic) lymph node dissection (ELND) versus therapeutic lymph node dissection (TLND), which statement is correct?",
+  "options": {
+   "A": "ELND is not routinely recommended because it increases morbidity (e.g. lymphedema) and has not clearly improved survival over TLND for malignancies such as melanoma; it is reserved for high-probability occult-spread cases",
+   "B": "ELND is mandatory for all melanomas because it clearly improves survival",
+   "C": "TLND is performed before any tumor is detected",
+   "D": "ELND carries no morbidity and is always preferred"
+  },
+  "answer": "A",
+  "exp": "Elective (prophylactic) lymph node dissection (ELND) — done at the time of primary resection — is not routinely recommended because it increases morbidity (e.g. lymphedema, nerve injury) and has not clearly improved survival over therapeutic lymph node dissection (TLND, done when nodal recurrence appears) for malignancies such as melanoma; ELND is reserved for cases with high probability of occult spread (e.g. large head-and-neck primaries). The other options wrongly mandate ELND, misdefine TLND, or deny its morbidity.",
+  "hy": "ELND not routine (morbidity, no clear survival benefit vs TLND); reserve for high occult-spread risk.",
+  "src": "Neligan I.14 · Lymph node management",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "14",
+  "chname": "Principles of Cancer Management",
+  "why": {
+   "A": "Correct — ELND morbidity without clear survival gain; reserved for high-risk occult spread.",
+   "B": "Wrong — ELND is not mandatory and has not clearly improved melanoma survival.",
+   "C": "Wrong — TLND is done at nodal recurrence, not before any tumor.",
+   "D": "Wrong — ELND does carry real morbidity."
+  }
  }
 ]
