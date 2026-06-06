@@ -22772,5 +22772,1253 @@
    "C": "Wrong — trials did not show reliable gains in satisfaction, anxiety, or HRQL.",
    "D": "Wrong — decision aids supplement, not replace, the clinical encounter."
   }
+ },
+ {
+  "id": "N-I-12.1",
+  "chapter": "Ch12",
+  "section": "Introduction",
+  "stem": "By the US FDA definition, a patient-reported outcome (PRO) is best described as which of the following?",
+  "options": {
+   "A": "Any report of the status of a patient's health condition that comes directly from the patient, without interpretation by a clinician or anyone else",
+   "B": "A clinician's structured assessment of a patient's health status recorded at each visit",
+   "C": "An objective clinical endpoint such as flap survival or postoperative infection rate",
+   "D": "A caregiver's proxy report of the patient's functional status over time"
+  },
+  "answer": "A",
+  "exp": "The FDA defines a PRO as any report of the status of a patient's health condition that comes directly from the patient, without interpretation of the patient's response by a clinician or anyone else. The defining feature is that the information is unmediated — it captures the patient's own perspective. A clinician's structured assessment is a clinician-reported outcome, an objective endpoint like flap survival is a clinical/biometric outcome, and a caregiver's account is a proxy report — none is a PRO by this definition.",
+  "hy": "PRO = patient's own report, no clinician interpretation (FDA).",
+  "src": "Neligan I.12 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — direct, uninterpreted patient report is the FDA definition.",
+   "B": "Wrong — a clinician's assessment is a clinician-reported outcome.",
+   "C": "Wrong — flap survival/infection are objective clinical outcomes, not PROs.",
+   "D": "Wrong — a caregiver account is a proxy report, not a patient report."
+  }
+ },
+ {
+  "id": "N-I-12.2",
+  "chapter": "Ch12",
+  "section": "Table 12.1 Psychometric terms",
+  "stem": "In psychometric terms, what is a patient-reported outcome measure (PROM)?",
+  "options": {
+   "A": "A scientifically designed questionnaire in which responses are collected directly from patients and quantified",
+   "B": "The smallest score change a patient perceives as beneficial",
+   "C": "A diagram of the expected relationships between domains and the overall concept",
+   "D": "The ability of an instrument to detect clinically important change over time"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.1, a PROM is a scientifically designed questionnaire in which responses are collected directly from patients, without clinician interpretation, recording and quantifying the outcomes that matter most to patients (HRQL, satisfaction, functional status). It is the instrument used to capture a PRO. The smallest beneficial score change is the MID, a diagram of domain relationships is the conceptual framework, and the ability to detect change is responsiveness.",
+  "hy": "PROM = scientifically designed, patient-completed questionnaire quantifying patient-important outcomes.",
+  "src": "Neligan I.12 · Table 12.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — a patient-completed, scientifically designed questionnaire is the PROM.",
+   "B": "Wrong — the smallest beneficial change defines the MID.",
+   "C": "Wrong — a diagram of domain relationships is the conceptual framework.",
+   "D": "Wrong — detecting clinically important change defines responsiveness."
+  }
+ },
+ {
+  "id": "N-I-12.3",
+  "chapter": "Ch12",
+  "section": "Introduction",
+  "stem": "In a value-based healthcare (VBHC) system, how is \"value\" achieved?",
+  "options": {
+   "A": "By measuring health outcomes against the cost of delivering the care",
+   "B": "By maximizing the number of procedures performed per unit time",
+   "C": "By minimizing length of stay regardless of the outcome achieved",
+   "D": "By prioritizing surgeon reimbursement over measured outcomes"
+  },
+  "answer": "A",
+  "exp": "In value-based healthcare the \"value\" is achieved by measuring health outcomes against the cost of delivering the care — a well-functioning VBHC system ideally lowers cost while raising quality, benefiting patients, providers, payers, suppliers, and society. Maximizing procedure volume, minimizing length of stay irrespective of outcome, or prioritizing reimbursement all describe volume- or cost-only thinking, which is the opposite of value-based care.",
+  "hy": "VBHC value = health outcomes ÷ cost of delivering care.",
+  "src": "Neligan I.12 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — value is outcomes measured against the cost of care.",
+   "B": "Wrong — maximizing volume is the fee-for-service mindset VBHC replaces.",
+   "C": "Wrong — cutting length of stay regardless of outcome ignores the outcome half of value.",
+   "D": "Wrong — prioritizing reimbursement over outcomes is not value-based."
+  }
+ },
+ {
+  "id": "N-I-12.4",
+  "chapter": "Ch12",
+  "section": "Introduction",
+  "stem": "Why does the chapter argue that traditional \"hard\" outcomes (survival, reoperation, complication rates) are insufficient on their own in plastic surgery?",
+  "options": {
+   "A": "Most plastic surgery procedures are not life-saving but aim to improve HRQL, satisfaction, and appearance — outcomes hard endpoints miss",
+   "B": "Hard outcomes cannot be measured reliably in surgical patients",
+   "C": "Hard outcomes are unavailable for reconstructive procedures",
+   "D": "Patients are unable to perceive complications, so hard outcomes are invalid"
+  },
+  "answer": "A",
+  "exp": "Traditional \"hard\" outcomes (survival, reoperation, complication rates) may not correlate with what matters to patients day to day; most plastic and reconstructive procedures are not life-saving but are performed to improve health-related quality of life, satisfaction, and appearance/function — dimensions hard endpoints simply do not capture. This gap is why PROMs gained traction in the field. Hard outcomes are measurable and available, and patients can perceive complications, so those options misstate the rationale.",
+  "hy": "Plastic surgery aims at HRQL/satisfaction/appearance → needs PROMs, not just hard endpoints.",
+  "src": "Neligan I.12 · Introduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — non-life-saving, quality-of-life goals require patient-reported measures.",
+   "B": "Wrong — hard outcomes can be measured reliably; that is not the issue.",
+   "C": "Wrong — hard outcomes are available for reconstructive procedures.",
+   "D": "Wrong — patients can perceive complications; this is not the rationale."
+  }
+ },
+ {
+  "id": "N-I-12.5",
+  "chapter": "Ch12",
+  "section": "Early PROMs in plastic surgery",
+  "stem": "The very first PROMs in plastic surgery are considered \"ad hoc\" questionnaires. What is their defining limitation?",
+  "options": {
+   "A": "Their items were chosen by clinical experts with rarely any psychometric evaluation or patient input",
+   "B": "They were developed using overly rigorous Rasch analysis that patients could not complete",
+   "C": "They were validated only in international multilanguage samples",
+   "D": "They measured a single concept too narrowly to be useful"
+  },
+  "answer": "A",
+  "exp": "The earliest plastic surgery PROMs were \"ad hoc\" questionnaires: their items were deemed relevant by clinical experts, but a psychometric evaluation of the instrument's performance was rarely done and patient input was usually absent. As a result they often asked questions patients did not understand or considered irrelevant, and did not perform as consistently as experts assumed. They were not over-rigorous, not internationally validated, and not faulted for measuring a single concept too narrowly.",
+  "hy": "Ad hoc questionnaires = expert-chosen items, little/no psychometrics or patient input.",
+  "src": "Neligan I.12 · Early PROMs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — expert-chosen items, scant psychometric testing or patient input.",
+   "B": "Wrong — they lacked rigor; they were not over-rigorous Rasch instruments.",
+   "C": "Wrong — international multilanguage validation describes modern PROMs.",
+   "D": "Wrong — narrow single-concept focus is a modern concept-driven feature, not their flaw."
+  }
+ },
+ {
+  "id": "N-I-12.6",
+  "chapter": "Ch12",
+  "section": "Early PROMs in plastic surgery",
+  "stem": "For what purpose can ad hoc questionnaires still be appropriately used?",
+  "options": {
+   "A": "Merely exploratory work — to get a basic sense of answers to the questions posed",
+   "B": "Determining treatment effectiveness in formal clinical research",
+   "C": "Setting reimbursement in value-based healthcare systems",
+   "D": "Creating evidence-based clinical practice guidelines"
+  },
+  "answer": "A",
+  "exp": "Ad hoc questionnaires can be useful if the goal is merely exploratory — to get a basic sense of answers to the questions posed. Because they are not psychometrically validated, their data are not appropriate for determining treatment effectiveness in research or clinical care, for creating guidelines, or for setting reimbursement in value-based systems. Drawing firm conclusions from such flawed instruments risks mistaking a bad questionnaire for an ineffective treatment.",
+  "hy": "Ad hoc questionnaires: exploratory use only — not for effectiveness, guidelines, or reimbursement.",
+  "src": "Neligan I.12 · Early PROMs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — exploratory sensing of answers is their legitimate use.",
+   "B": "Wrong — they are not appropriate for determining treatment effectiveness.",
+   "C": "Wrong — they cannot set reimbursement in value-based healthcare.",
+   "D": "Wrong — they should not be used to create clinical practice guidelines."
+  }
+ },
+ {
+  "id": "N-I-12.7",
+  "chapter": "Ch12",
+  "section": "Early PROMs in plastic surgery",
+  "stem": "Instruments developed with Classical Test Theory (CTT) carried which characteristic limitation?",
+  "options": {
+   "A": "They could detect large differences between groups but not smaller, clinically relevant change within an individual patient",
+   "B": "They could detect individual-level change but never group differences",
+   "C": "They required computerized adaptive testing to score",
+   "D": "They were inherently unidimensional and concept-driven"
+  },
+  "answer": "A",
+  "exp": "Classical Test Theory instruments were generally validated to detect large differences between groups (e.g., drug vs placebo) but were not capable of detecting smaller, clinically relevant changes within an individual patient; many also relied on a total score and were developed without patient input. This individual-level insensitivity is the limitation modern IRT/RMT methods address. CTT does not require CAT, is not inherently unidimensional, and does not detect individual change better than group change.",
+  "hy": "CTT: good for group differences, poor at individual-level change; total-score reliant.",
+  "src": "Neligan I.12 · Early PROMs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — CTT detects group differences but misses individual change.",
+   "B": "Wrong — CTT detects group differences; the gap is at the individual level.",
+   "C": "Wrong — CAT is a modern RMT-enabled feature, not a CTT requirement.",
+   "D": "Wrong — concept-driven unidimensionality is a modern approach, not CTT's."
+  }
+ },
+ {
+  "id": "N-I-12.8",
+  "chapter": "Ch12",
+  "section": "Methodology — modern PROM development",
+  "stem": "Modern PROMs use Item Response Theory (IRT), commonly via Rasch Measurement Theory (RMT). How does the IRT/RMT approach differ from CTT?",
+  "options": {
+   "A": "It focuses on individual items within the instrument and yields interval-level measurement, rather than relying on the overall test score",
+   "B": "It abandons psychometric validation in favor of expert consensus",
+   "C": "It can only compare two groups, not individual patients",
+   "D": "It scores instruments solely by summing raw item responses"
+  },
+  "answer": "A",
+  "exp": "Item Response Theory (a mathematical framework, commonly implemented as Rasch Measurement Theory) focuses on the individual items within an instrument rather than the overall test score, and produces interval-level measurement estimates — true measurements like a ruler — that allow examination of change at the individual patient level. It does not abandon validation, is not limited to two-group comparison, and does not score by simple raw-sum.",
+  "hy": "IRT/RMT = item-focused, interval-level measurement (not total-score based).",
+  "src": "Neligan I.12 · Methodology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — IRT/RMT focuses on items and yields interval-level measurement.",
+   "B": "Wrong — RMT increases, not abandons, psychometric rigor.",
+   "C": "Wrong — RMT enables individual-level (not only two-group) measurement.",
+   "D": "Wrong — raw summation is the CTT-style total-score approach RMT improves on."
+  }
+ },
+ {
+  "id": "N-I-12.9",
+  "chapter": "Ch12",
+  "section": "Methodology — modern PROM development",
+  "stem": "A key advantage of PROMs built with RMT is described using the analogy of a \"Rasch ruler.\" What does this convey?",
+  "options": {
+   "A": "The numbers generated represent interval-level measurements, allowing examination of change at the individual patient level",
+   "B": "The instrument can only rank patients ordinally, not measure magnitude",
+   "C": "Every patient must answer all items for any score to be valid",
+   "D": "Scores are categorical and cannot detect change over time"
+  },
+  "answer": "A",
+  "exp": "The \"Rasch ruler\" analogy conveys that RMT generates interval-level measurement estimates — the numbers are actual measurements, like marks on a ruler — which permits examining change at the level of the individual patient rather than just ranking patients. The other options describe ordinal-only ranking, mandatory completion of all items, or categorical scores, all of which contradict the interval-measurement advantage.",
+  "hy": "Rasch ruler = interval-level scores → individual-patient change measurable.",
+  "src": "Neligan I.12 · Methodology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — interval-level measurement enabling individual change tracking.",
+   "B": "Wrong — RMT provides interval, not merely ordinal, measurement.",
+   "C": "Wrong — CAT-capable RMT does not require answering every item.",
+   "D": "Wrong — scores are interval measurements, not categorical."
+  }
+ },
+ {
+  "id": "N-I-12.10",
+  "chapter": "Ch12",
+  "section": "Methodology — modern PROM development",
+  "stem": "Modern PROM development takes a \"concept-driven\" approach. What does this mean for a scale?",
+  "options": {
+   "A": "Each scale should measure a single concept of interest (i.e., be unidimensional)",
+   "B": "Each scale should combine several distinct concepts into one total score",
+   "C": "Scales should be designed without patient input to stay objective",
+   "D": "Scales should always be as long as possible to maximize content"
+  },
+  "answer": "A",
+  "exp": "A concept-driven approach ensures each scale measures a single concept of interest — it is unidimensional — so that improvement or deterioration can be attributed to a specific aspect of health. Legacy PROMs that combined multiple concepts into one \"total score\" made it unclear which aspect changed, now seen as a design flaw. Combining concepts, excluding patient input, and maximizing length all contradict the concept-driven principle.",
+  "hy": "Concept-driven = each scale unidimensional (one concept), not a mixed total score.",
+  "src": "Neligan I.12 · Methodology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — concept-driven means each scale is unidimensional.",
+   "B": "Wrong — combining concepts into a total score is the old flaw being corrected.",
+   "C": "Wrong — patient input is central to concept-driven development.",
+   "D": "Wrong — length is minimized where possible, not maximized."
+  }
+ },
+ {
+  "id": "N-I-12.11",
+  "chapter": "Ch12",
+  "section": "Types of PROMs",
+  "stem": "PROMs are divided into two main categories. Which contrast is correct?",
+  "options": {
+   "A": "Generic PROMs allow comparison across many conditions but are less sensitive to condition-specific change; disease-specific PROMs detect small important changes but cannot compare across conditions",
+   "B": "Generic PROMs detect small condition-specific change; disease-specific PROMs compare across all conditions",
+   "C": "Generic and disease-specific PROMs are interchangeable in scope",
+   "D": "Disease-specific PROMs are always shorter and broader than generic ones"
+  },
+  "answer": "A",
+  "exp": "Generic PROMs (e.g., SF-36, PROMIS-29) have broad scope and allow comparison across many different conditions, but they are often not sensitive enough to detect change in a specific condition after a targeted intervention. Disease-specific PROMs (e.g., BREAST-Q) cover a specific population's concerns and can detect small but important condition-related changes, but they cannot compare health states across different diseases. The other options reverse these properties or call them interchangeable.",
+  "hy": "Generic = broad/comparable but insensitive; disease-specific = sensitive but not cross-comparable.",
+  "src": "Neligan I.12 · Types of PROMs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — generic compares broadly; disease-specific detects condition change.",
+   "B": "Wrong — the sensitivity/comparability properties are reversed.",
+   "C": "Wrong — the two categories differ in scope and are not interchangeable.",
+   "D": "Wrong — disease-specific PROMs are narrower, not broader, than generic."
+  }
+ },
+ {
+  "id": "N-I-12.12",
+  "chapter": "Ch12",
+  "section": "Types of PROMs",
+  "stem": "Which pairing of PROM to category is correct per the chapter?",
+  "options": {
+   "A": "SF-36 and PROMIS-29 are generic PROMs; the BREAST-Q is a condition-specific PROM",
+   "B": "SF-36 is condition-specific; the BREAST-Q is generic",
+   "C": "PROMIS-29 and BREAST-Q are both generic PROMs",
+   "D": "SF-36 and BREAST-Q are both condition-specific PROMs"
+  },
+  "answer": "A",
+  "exp": "Per the chapter, SF-36 and PROMIS-29 are generic PROMs applicable across many conditions, whereas the BREAST-Q is a condition-specific PROM focused on breast surgery patients. The other pairings miscategorize SF-36 as condition-specific, BREAST-Q as generic, or PROMIS-29 as anything other than generic. Knowing which tools are generic vs disease-specific guides their correct use in research and care.",
+  "hy": "Generic: SF-36, PROMIS-29; disease-specific: BREAST-Q.",
+  "src": "Neligan I.12 · Types of PROMs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — SF-36/PROMIS-29 generic; BREAST-Q disease-specific.",
+   "B": "Wrong — SF-36 is generic and BREAST-Q is disease-specific.",
+   "C": "Wrong — BREAST-Q is disease-specific, not generic.",
+   "D": "Wrong — SF-36 is generic, not disease-specific."
+  }
+ },
+ {
+  "id": "N-I-12.13",
+  "chapter": "Ch12",
+  "section": "Types of PROMs",
+  "stem": "When undertaking clinical research with PROMs, what does the chapter recommend?",
+  "options": {
+   "A": "Incorporate both a generic and a disease-specific PROM as outcome measures",
+   "B": "Use only a generic PROM to keep the questionnaire short",
+   "C": "Use only a disease-specific PROM since generic ones add nothing",
+   "D": "Avoid PROMs altogether in favor of clinician-rated scales"
+  },
+  "answer": "A",
+  "exp": "Because generic and disease-specific PROMs have complementary strengths — broad comparability versus condition-specific sensitivity — the chapter recommends incorporating both as outcome measures when undertaking clinical research. Using only one forgoes either cross-condition comparison or sensitivity to the intervention, and abandoning PROMs in favor of clinician-rated scales loses the patient perspective entirely.",
+  "hy": "In research, use BOTH a generic and a disease-specific PROM.",
+  "src": "Neligan I.12 · Types of PROMs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — both types together capture comparability and sensitivity.",
+   "B": "Wrong — generic alone misses condition-specific change.",
+   "C": "Wrong — generic PROMs add cross-condition comparability, so they are not useless.",
+   "D": "Wrong — clinician-rated scales lose the patient perspective PROMs provide."
+  }
+ },
+ {
+  "id": "N-I-12.14",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, which describes the BREAST-Q?",
+  "options": {
+   "A": "A 2008 condition-specific PROM (Pusic, Klassen et al.) with pre- and postoperative modules and a 0–100 scale for breast reconstruction, reduction, augmentation, and breast-conserving surgery",
+   "B": "A 1992 generic 36-item health survey scored so that lower scores represent worse outcomes",
+   "C": "A 5-item generic instrument across mobility, self-care, usual activity, pain, and anxiety",
+   "D": "A hand-specific questionnaire assessing wrist pain and function"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, the BREAST-Q (2008; Pusic, Klassen, Scott, et al.) is a condition-specific PROM with pre- and postoperative questionnaires for breast reconstruction, reduction mammaplasty, augmentation, and breast-conserving surgery, scored on a 0–100 scale. The other descriptions belong to the generic SF-36 (1992, 36-item, lower = worse), the generic EQ-5D (5 items), and a hand/wrist instrument.",
+  "hy": "BREAST-Q (2008, Pusic/Klassen): 0–100, breast recon/reduction/augmentation/BCS modules.",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the BREAST-Q's authors, year, modules, and 0–100 scale.",
+   "B": "Wrong — that is the generic SF-36.",
+   "C": "Wrong — five dimensions describe the EQ-5D.",
+   "D": "Wrong — wrist pain/function describes a hand PROM, not the BREAST-Q."
+  }
+ },
+ {
+  "id": "N-I-12.15",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, the FACE-Q (2013, Pusic/Klassen et al.) was developed for what purpose?",
+  "options": {
+   "A": "To assess the impact and effectiveness of facial aesthetic procedures across scales such as satisfaction with facial appearance and HRQL",
+   "B": "To assess outcomes of breast reconstruction and reduction",
+   "C": "To assess severity of carpal tunnel syndrome symptoms",
+   "D": "To provide a generic health-status profile across seven domains"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, the FACE-Q (2013; Pusic, Klassen, Scott, Cano) assesses the impact and effectiveness of facial aesthetic procedures, examining scales such as satisfaction with facial appearance, health-related quality of life, negative sequelae, and satisfaction with the process of care. The distractors describe the BREAST-Q (breast), the Boston Carpal Tunnel Questionnaire (carpal tunnel), and a generic profile (PROMIS-29).",
+  "hy": "FACE-Q (2013): facial aesthetic outcomes across satisfaction/HRQL/sequelae/process-of-care scales.",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the FACE-Q targets facial aesthetic procedure outcomes.",
+   "B": "Wrong — breast reconstruction/reduction is the BREAST-Q.",
+   "C": "Wrong — carpal tunnel severity is the Boston Carpal Tunnel Questionnaire.",
+   "D": "Wrong — a seven-domain generic profile is PROMIS-29."
+  }
+ },
+ {
+  "id": "N-I-12.16",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, the CLEFT-Q (2018) is intended for which population?",
+  "options": {
+   "A": "People aged 8–29 with cleft lip and/or palate, across facial appearance, facial function, and quality-of-life domains",
+   "B": "Adults undergoing augmentation mammaplasty",
+   "C": "Patients with mammary hypertrophy seeking reduction",
+   "D": "Any patient with a congenital or acquired hand condition"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, the CLEFT-Q (2018; Klassen, Wong-Riff, et al.) is for people aged 8–29 with cleft lip and/or palate and includes 12 scales falling under three domains: facial appearance, facial function, and quality of life. The other options describe the Breast Evaluation Questionnaire (augmentation), the Breast Reduction Assessed Severity Scale (mammary hypertrophy), and the HAND-Q (any hand condition).",
+  "hy": "CLEFT-Q (2018): ages 8–29 cleft; appearance/function/QoL domains.",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — CLEFT-Q's age range, condition, and three domains.",
+   "B": "Wrong — augmentation mammaplasty is the Breast Evaluation Questionnaire.",
+   "C": "Wrong — mammary hypertrophy is the Breast Reduction Assessed Severity Scale.",
+   "D": "Wrong — any hand condition is the HAND-Q."
+  }
+ },
+ {
+  "id": "N-I-12.17",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, which correctly describes the generic SF-36?",
+  "options": {
+   "A": "A 1992 (Ware) 36-item questionnaire across eight health domains, on which lower scores (<50) represent worse outcomes",
+   "B": "A 2008 condition-specific breast questionnaire scored 0–100",
+   "C": "A 2011 instrument with four items from each of seven PROMIS domains",
+   "D": "A 1990 EuroQol 5-dimension instrument"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, the SF-36 (1992; Ware & Sherbourne) is a generic 36-item questionnaire spanning eight health domains (physical functioning, social functioning, role limitations from physical and emotional health, bodily pain, mental health, vitality, general health), on which lower scores (<50) represent a worse outcome. The distractors describe the BREAST-Q, PROMIS-29, and EQ-5D.",
+  "hy": "SF-36 (1992, Ware): generic 36-item; lower scores (<50) = worse.",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — SF-36's year, length, and \"lower = worse\" scoring.",
+   "B": "Wrong — a 0–100 breast questionnaire is the BREAST-Q.",
+   "C": "Wrong — four items from seven PROMIS domains describes PROMIS-29.",
+   "D": "Wrong — a five-dimension EuroQol instrument is the EQ-5D."
+  }
+ },
+ {
+  "id": "N-I-12.18",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, the EQ-5D (1990, EuroQol Group) measures health status across which five dimensions?",
+  "options": {
+   "A": "Mobility, self-care, usual activity, pain/distress, and depression/anxiety",
+   "B": "Pain, fatigue, depression, anxiety, and sleep",
+   "C": "Appearance, function, HRQL, experience of care, and treatment",
+   "D": "Physical, social, role, vitality, and general health perception"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, the EQ-5D (1990, EuroQol Group) describes health status across five dimensions — mobility, self-care, usual activity, pain/distress, and depression/anxiety — plus a visual analogue rating scale, yielding an index ranging from 0 to 100. The other sets list the PROMIS domains, the CLEFT-Q/HAND-Q domains, and SF-36 components, not the EQ-5D dimensions.",
+  "hy": "EQ-5D (1990): mobility, self-care, usual activity, pain/distress, depression/anxiety.",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the five EQ-5D dimensions.",
+   "B": "Wrong — pain/fatigue/depression/anxiety/sleep are PROMIS-29 domains.",
+   "C": "Wrong — appearance/function/HRQL describe condition-specific PROMs.",
+   "D": "Wrong — physical/social/role/vitality are SF-36 components, not EQ-5D dimensions."
+  }
+ },
+ {
+  "id": "N-I-12.19",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, the PROMIS-29 (2011) is built from four items in each of seven core domains. Which set lists those domains?",
+  "options": {
+   "A": "Pain, fatigue, depression, anxiety, sleep, physical function, and sexual function",
+   "B": "Mobility, self-care, usual activity, pain, and anxiety",
+   "C": "Appearance, facial function, and quality of life",
+   "D": "Satisfaction with breasts, physical, psychosocial, and sexual well-being"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, PROMIS-29 (2011) contains four items from each of seven core PROMIS domains — pain, fatigue, depression, anxiety, sleep, physical function, and sexual function — plus an 11-point pain-intensity rating. These cover the most relevant self-reported health areas for people with chronic illness. The distractors list EQ-5D dimensions, CLEFT-Q domains, and BREAST-Q scales.",
+  "hy": "PROMIS-29 (2011): 7 domains × 4 items (pain, fatigue, depression, anxiety, sleep, physical & sexual function).",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the seven PROMIS-29 core domains.",
+   "B": "Wrong — those five are EQ-5D dimensions.",
+   "C": "Wrong — appearance/facial function/QoL are CLEFT-Q domains.",
+   "D": "Wrong — satisfaction with breasts etc. are BREAST-Q scales."
+  }
+ },
+ {
+  "id": "N-I-12.20",
+  "chapter": "Ch12",
+  "section": "Table 12.2 PROMs",
+  "stem": "Per Table 12.2, which instrument is a hand/upper-extremity PROM?",
+  "options": {
+   "A": "The Disabilities of the Arm, Shoulder and Hand (DASH) questionnaire — a composite measure of upper-extremity disability scored 0–100",
+   "B": "The BREAST-Q",
+   "C": "The FACE-Q",
+   "D": "The EQ-5D"
+  },
+  "answer": "A",
+  "exp": "Per Table 12.2, the Disabilities of the Arm, Shoulder and Hand (DASH, 1996) questionnaire is a hand/upper-extremity PROM — a 30-item, 5-point Likert composite measure of upper-extremity disability scored 0–100, with an optional work/sport module. The BREAST-Q (breast), FACE-Q (face), and EQ-5D (generic) are not hand instruments.",
+  "hy": "DASH = upper-extremity disability PROM (30 items, 0–100).",
+  "src": "Neligan I.12 · Table 12.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the DASH is the upper-extremity/hand instrument.",
+   "B": "Wrong — the BREAST-Q is a breast PROM.",
+   "C": "Wrong — the FACE-Q is a facial PROM.",
+   "D": "Wrong — the EQ-5D is a generic health-status instrument."
+  }
+ },
+ {
+  "id": "N-I-12.21",
+  "chapter": "Ch12",
+  "section": "Methodology — modern PROM development",
+  "stem": "The FDA recommends what kind of process for developing a PROM?",
+  "options": {
+   "A": "A multi-stage, iterative process (hypothesize framework → draft and cognitively debrief → field-test → finalize)",
+   "B": "A single cross-sectional survey validated once",
+   "C": "An expert-only consensus process without patient involvement",
+   "D": "A purely statistical exercise applied to existing administrative data"
+  },
+  "answer": "A",
+  "exp": "The FDA recommends a multi-stage, iterative process for developing a PROM, summarized in the chapter as four steps: hypothesize the conceptual framework; adjust the framework and draft the instrument with cognitive debriefing; confirm the framework by field-testing and assessing measurement properties; and finalize the instrument (RMT analysis, item reduction, translation). A single one-off survey, an expert-only process, or a purely statistical exercise on administrative data all omit the iterative, patient-grounded development the FDA advises.",
+  "hy": "FDA PROM development = multi-stage iterative 4-step process.",
+  "src": "Neligan I.12 · Methodology / Fig 12.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the FDA's iterative four-step development process.",
+   "B": "Wrong — a single validated survey is not the recommended process.",
+   "C": "Wrong — patient involvement is essential; expert-only is insufficient.",
+   "D": "Wrong — administrative data alone cannot develop a PROM."
+  }
+ },
+ {
+  "id": "N-I-12.22",
+  "chapter": "Ch12",
+  "section": "Step 1: Hypothesize conceptual framework",
+  "stem": "Before developing a brand-new PROM, what helpful first step does the chapter recommend?",
+  "options": {
+   "A": "Perform a systematic review to identify whether any PROMs already exist in the topic area of interest",
+   "B": "Immediately field-test a draft instrument in a large sample",
+   "C": "Translate an existing instrument into multiple languages",
+   "D": "Finalize scoring rules before any patient input is obtained"
+  },
+  "answer": "A",
+  "exp": "A helpful first step before developing a new PROM is to perform a systematic review to identify whether any PROMs already exist in the topic area, avoiding duplication and informing the draft conceptual framework. Jumping straight to field-testing, translating an existing tool, or finalizing scoring before patient input all skip this foundational reconnaissance.",
+  "hy": "Step 1: systematic review first to find existing PROMs.",
+  "src": "Neligan I.12 · Step 1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — a systematic review identifies existing instruments first.",
+   "B": "Wrong — field-testing comes much later (Step 3).",
+   "C": "Wrong — translation is a finalization step, not the first one.",
+   "D": "Wrong — scoring is not finalized before patient input."
+  }
+ },
+ {
+  "id": "N-I-12.23",
+  "chapter": "Ch12",
+  "section": "Step 1: Hypothesize conceptual framework",
+  "stem": "In developing the BREAST-Q, the initial systematic literature review of PROMs in cosmetic and reconstructive breast surgery identified how many existing PROMs to examine for quality and concepts?",
+  "options": {
+   "A": "7",
+   "B": "31",
+   "C": "55",
+   "D": "0"
+  },
+  "answer": "A",
+  "exp": "To develop the BREAST-Q, a systematic literature review of PROMs used in cosmetic and reconstructive breast surgery identified 7 existing PROMs, which were then examined for quality and the concepts they included. The distractor values (31, 55, 0) correspond to item counts of unrelated instruments or are simply incorrect. This illustrates Step 1's systematic-review groundwork in a concrete example.",
+  "hy": "BREAST-Q development: 7 existing PROMs found on systematic review.",
+  "src": "Neligan I.12 · Step 1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — seven existing PROMs were identified and examined.",
+   "B": "Wrong — 31 is the BRECON-31 item count, not this figure.",
+   "C": "Wrong — 55 is the Breast Evaluation Questionnaire's item count.",
+   "D": "Wrong — existing PROMs did exist; the count was not zero."
+  }
+ },
+ {
+  "id": "N-I-12.24",
+  "chapter": "Ch12",
+  "section": "Step 2: Draft and cognitive debriefing",
+  "stem": "Patient input during the conceptual-framework phase is critical chiefly because it establishes which property?",
+  "options": {
+   "A": "Content validity",
+   "B": "Test–retest reliability",
+   "C": "Internal-consistency reliability",
+   "D": "Responsiveness"
+  },
+  "answer": "A",
+  "exp": "Patient input during the conceptual-framework phase is critical chiefly because it establishes content validity — ensuring the instrument captures the outcomes and concerns most relevant to patients in language they understand. Test–retest and internal-consistency reliability are assessed later via field-testing statistics, and responsiveness is the ability to detect change over time — none of which is what early patient interviews establish.",
+  "hy": "Early patient interviews → content validity.",
+  "src": "Neligan I.12 · Step 2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — patient input establishes content validity.",
+   "B": "Wrong — test–retest reliability is a later field-testing property.",
+   "C": "Wrong — internal-consistency reliability is computed from field-test data.",
+   "D": "Wrong — responsiveness is the ability to detect change, assessed later."
+  }
+ },
+ {
+  "id": "N-I-12.25",
+  "chapter": "Ch12",
+  "section": "Step 2: Draft and cognitive debriefing",
+  "stem": "When conducting qualitative patient interviews to develop a PROM, what determines the number of interviews needed?",
+  "options": {
+   "A": "Saturation — interviewing continues until no new relevant information emerges",
+   "B": "A fixed quota of exactly 100 interviews regardless of content",
+   "C": "The number of languages the PROM will be translated into",
+   "D": "The number of items in the existing legacy instrument"
+  },
+  "answer": "A",
+  "exp": "The number of qualitative interviews is governed by saturation — interviewing continues until no new relevant information emerges, meaning further data would not deepen understanding of the concept. A fixed quota, the number of translation languages, or the legacy instrument's item count are not what determines interview number. Saturation is the qualitative-research principle anchoring this phase.",
+  "hy": "Qualitative interview number = guided by saturation (no new information).",
+  "src": "Neligan I.12 · Step 2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — saturation determines when interviewing can stop.",
+   "B": "Wrong — there is no fixed quota of 100 interviews.",
+   "C": "Wrong — translation count is unrelated to interview number.",
+   "D": "Wrong — legacy item count does not set interview number."
+  }
+ },
+ {
+  "id": "N-I-12.26",
+  "chapter": "Ch12",
+  "section": "Step 2: Draft and cognitive debriefing",
+  "stem": "Roughly how many cognitive-debriefing interviews are estimated to be sufficient to confirm patient comprehensibility of items and establish content validity (with saturation as the ultimate guide)?",
+  "options": {
+   "A": "Seven to ten interviews",
+   "B": "One to two interviews",
+   "C": "Fifty to sixty interviews",
+   "D": "Two hundred interviews"
+  },
+  "answer": "A",
+  "exp": "The chapter estimates that seven to ten cognitive-debriefing interviews are sufficient to confirm patient comprehensibility of items and establish content validity, though saturation should again serve as the ultimate guide. The other figures (1–2, 50–60, 200) are too few or far more than the cited estimate. In these interviews patients explain in their own words what each item asks, testing readability.",
+  "hy": "~7–10 cognitive-debriefing interviews for comprehensibility/content validity.",
+  "src": "Neligan I.12 · Step 2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — seven to ten interviews is the cited estimate.",
+   "B": "Wrong — one to two is too few to confirm comprehensibility.",
+   "C": "Wrong — 50–60 far exceeds the cited estimate.",
+   "D": "Wrong — 200 is far more than needed for cognitive debriefing."
+  }
+ },
+ {
+  "id": "N-I-12.27",
+  "chapter": "Ch12",
+  "section": "Step 2: Draft and cognitive debriefing",
+  "stem": "The literacy demand of a PROM is recommended not to exceed what reading level?",
+  "options": {
+   "A": "A 6th-grade reading level (ages 11–12) or lower",
+   "B": "A 12th-grade reading level",
+   "C": "A college reading level",
+   "D": "A 1st-grade reading level"
+  },
+  "answer": "A",
+  "exp": "The literacy demand of a PROM is recommended not to exceed a 6th-grade reading level (ages 11–12) or lower, so that items are accessible to the broad patient population and responses are not biased by misunderstanding. A 12th-grade or college level would exclude many patients, and a 1st-grade level is unnecessarily restrictive and not what is cited.",
+  "hy": "PROM reading level ≤ 6th grade (ages 11–12).",
+  "src": "Neligan I.12 · Step 2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — 6th-grade (ages 11–12) or lower is the recommendation.",
+   "B": "Wrong — 12th grade would exclude many patients.",
+   "C": "Wrong — a college level is far too high.",
+   "D": "Wrong — 1st grade is not the cited threshold."
+  }
+ },
+ {
+  "id": "N-I-12.28",
+  "chapter": "Ch12",
+  "section": "Step 3: Confirm framework",
+  "stem": "Field-testing in Step 3 is performed to assess validity, reliability, and responsiveness. To run a test–retest study, participants complete the PROM twice within what interval?",
+  "options": {
+   "A": "3–14 days, excluding anyone whose health changed in the interim",
+   "B": "The same day, within one hour",
+   "C": "6–12 months apart",
+   "D": "2–3 years apart"
+  },
+  "answer": "A",
+  "exp": "In Step 3, field-testing assesses validity, reliability, and responsiveness; for a test–retest reproducibility study, participants complete the refined PROM twice within a short interval of 3–14 days, and anyone whose health changed in the interim is excluded. Same-day repetition risks recall, and intervals of months or years risk true health-state change — both of which would invalidate the reproducibility estimate.",
+  "hy": "Test–retest interval = 3–14 days (exclude those whose health changed).",
+  "src": "Neligan I.12 · Step 3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — a 3–14-day interval, excluding changed-health patients.",
+   "B": "Wrong — same-day repetition invites recall bias.",
+   "C": "Wrong — 6–12 months risks genuine health-state change.",
+   "D": "Wrong — years apart would measure change, not reproducibility."
+  }
+ },
+ {
+  "id": "N-I-12.29",
+  "chapter": "Ch12",
+  "section": "Step 4: Finalize the instrument",
+  "stem": "After RMT analysis and item reduction, the BREAST-Q Reconstruction Module illustrates which step of finalization?",
+  "options": {
+   "A": "Translation and cultural adaptation — it is now available in 45 languages, some with multiple dialects",
+   "B": "Initial generation of the item pool from patient interviews",
+   "C": "The first systematic review of existing instruments",
+   "D": "Cognitive debriefing of draft items"
+  },
+  "answer": "A",
+  "exp": "Step 4 (finalize) includes RMT analysis and item reduction, then translation and cultural adaptation to other languages; the BREAST-Q Reconstruction Module exemplifies this, now available in 45 languages, some with multiple dialects (e.g., distinct German versions for Austria, Germany, and Switzerland). Item-pool generation and the initial systematic review belong to earlier steps, and cognitive debriefing is a Step 2 activity.",
+  "hy": "Step 4 finalization: translation/cultural adaptation (BREAST-Q in 45 languages).",
+  "src": "Neligan I.12 · Step 4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — translation/cultural adaptation, BREAST-Q in 45 languages.",
+   "B": "Wrong — item-pool generation is a Step 2 activity.",
+   "C": "Wrong — the systematic review is a Step 1 activity.",
+   "D": "Wrong — cognitive debriefing of draft items occurs in Step 2."
+  }
+ },
+ {
+  "id": "N-I-12.30",
+  "chapter": "Ch12",
+  "section": "Step 4: Finalize the instrument",
+  "stem": "Translation and cultural adaptation of a finalized PROM should follow guidelines such as those from which organization?",
+  "options": {
+   "A": "ISPOR (International Society for Pharmacoeconomics and Outcomes Research)",
+   "B": "The American College of Surgeons",
+   "C": "The EuroQol Group",
+   "D": "The National Quality Forum"
+  },
+  "answer": "A",
+  "exp": "Translation and cultural adaptation of a finalized PROM should follow established guidelines such as those from ISPOR (the International Society for Pharmacoeconomics and Outcomes Research), ensuring the instrument retains its measurement properties across languages and cultures. The American College of Surgeons, EuroQol Group, and National Quality Forum are real organizations but are not the cited source of translation/cultural-adaptation guidance.",
+  "hy": "PROM translation/cultural adaptation → ISPOR guidelines.",
+  "src": "Neligan I.12 · Step 4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — ISPOR provides translation/cultural-adaptation guidance.",
+   "B": "Wrong — the ACS is a surgical college, not the translation-guideline source.",
+   "C": "Wrong — the EuroQol Group develops the EQ-5D, not these guidelines.",
+   "D": "Wrong — the National Quality Forum endorses performance metrics, not this."
+  }
+ },
+ {
+  "id": "N-I-12.31",
+  "chapter": "Ch12",
+  "section": "Computerized adaptive testing",
+  "stem": "What does a computerized adaptive test (CAT) do?",
+  "options": {
+   "A": "Uses an algorithm to select the most appropriate next question based on the patient's previous answers, continuing until a prespecified measurement precision is reached",
+   "B": "Presents every item in the full-length scale to every patient in fixed order",
+   "C": "Replaces patient responses with clinician estimates",
+   "D": "Randomly shuffles items so no two patients answer the same questions"
+  },
+  "answer": "A",
+  "exp": "A computerized adaptive test uses an algorithm to select the most appropriate next question for each individual based on their previous answers, refining the estimate of where the patient sits on the \"Rasch ruler\" until a prespecified level of measurement precision is reached — so different patients may answer different subsets of items yet have directly comparable scores. Presenting all items in fixed order, substituting clinician estimates, or randomly shuffling items all describe non-adaptive or invalid approaches.",
+  "hy": "CAT = algorithm picks next item from prior answers until target precision.",
+  "src": "Neligan I.12 · CAT",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — adaptive item selection to a precision stopping rule.",
+   "B": "Wrong — fixed full-length administration is non-adaptive testing.",
+   "C": "Wrong — CAT uses patient responses, not clinician estimates.",
+   "D": "Wrong — items are chosen by algorithm, not randomly shuffled."
+  }
+ },
+ {
+  "id": "N-I-12.32",
+  "chapter": "Ch12",
+  "section": "Computerized adaptive testing",
+  "stem": "Applying CAT to the BREAST-Q Satisfaction with Breasts (Reconstruction) scale shortened it substantially. Which statement is correct?",
+  "options": {
+   "A": "It produced a 38–75% reduction in length while maintaining a reliable outcome; already-short scales (e.g., the 6-item Sexual Well-being scale) benefit little",
+   "B": "It lengthened the questionnaire to improve reliability",
+   "C": "It eliminated the need for any psychometric validation",
+   "D": "Short scales benefit most from CAT, long scales least"
+  },
+  "answer": "A",
+  "exp": "Applying CAT to the BREAST-Q Satisfaction with Breasts (Reconstruction) scale produced a 38–75% reduction in length depending on the patient while still maintaining a reliable outcome. PROMs unlikely to benefit from CAT are those already short, such as the six-item Sexual Well-being scale. CAT shortens rather than lengthens questionnaires, does not remove the need for validation, and helps long scales more than short ones.",
+  "hy": "CAT on BREAST-Q: 38–75% shorter, reliable; short scales benefit least.",
+  "src": "Neligan I.12 · CAT",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — 38–75% reduction with maintained reliability; short scales benefit little.",
+   "B": "Wrong — CAT shortens, it does not lengthen.",
+   "C": "Wrong — CAT does not remove the need for psychometric validation.",
+   "D": "Wrong — long scales benefit most from CAT, short scales least."
+  }
+ },
+ {
+  "id": "N-I-12.33",
+  "chapter": "Ch12",
+  "section": "Validity",
+  "stem": "Validity is the ability of a PROM to measure the concept it intends to measure. What are its three main types?",
+  "options": {
+   "A": "Content validity, criterion validity, and construct validity",
+   "B": "Internal-consistency, test–retest, and inter-observer validity",
+   "C": "Distribution-based, anchor-based, and responder validity",
+   "D": "Generic, disease-specific, and adaptive validity"
+  },
+  "answer": "A",
+  "exp": "Validity is the ability of a PROM to measure the concept or attribute it intends to measure, and its three main types are content validity, criterion validity, and construct validity. The other groupings list reliability subtypes (internal-consistency, test–retest, inter-observer), MID methods (distribution/anchor), or PROM categories (generic/disease-specific) — none of which are the three validity types.",
+  "hy": "Three validity types: content, criterion, construct.",
+  "src": "Neligan I.12 · Validity",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — content, criterion, and construct are the three validity types.",
+   "B": "Wrong — those are reliability subtypes, not validity types.",
+   "C": "Wrong — distribution/anchor are MID-estimation methods.",
+   "D": "Wrong — generic/disease-specific are PROM categories."
+  }
+ },
+ {
+  "id": "N-I-12.34",
+  "chapter": "Ch12",
+  "section": "Validity",
+  "stem": "Which type of validity is considered the most important, and when is it typically established?",
+  "options": {
+   "A": "Content validity — established in the early qualitative phase of PROM development",
+   "B": "Criterion validity — established only after translation into other languages",
+   "C": "Construct validity — established solely by computerized adaptive testing",
+   "D": "Face validity — established by administrative data review"
+  },
+  "answer": "A",
+  "exp": "Content validity is considered the most important aspect of validity — the degree to which the items include the most relevant and important aspects of the concept being measured — and is typically established in the early qualitative phase of development (systematic review, expert opinion, and especially patient interviews). Criterion validity involves a gold standard, construct validity is assessed via RMT, and \"face validity\" by administrative review is not the cited answer.",
+  "hy": "Content validity = most important; established in early qualitative phase.",
+  "src": "Neligan I.12 · Validity",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — content validity is most important, set in the qualitative phase.",
+   "B": "Wrong — criterion validity (gold standard) is a different, later type.",
+   "C": "Wrong — construct validity is assessed by RMT, and is not \"most important.\"",
+   "D": "Wrong — face validity via administrative review is not the cited concept."
+  }
+ },
+ {
+  "id": "N-I-12.35",
+  "chapter": "Ch12",
+  "section": "Validity",
+  "stem": "Criterion validity refers to which of the following?",
+  "options": {
+   "A": "The degree to which PROM scores are an adequate reflection of a true value or the best existing \"gold standard\"",
+   "B": "The degree to which items reflect the most relevant aspects of the concept measured",
+   "C": "The degree to which scores are consistent with the theoretical framework of the concept",
+   "D": "The degree to which repeated measurements agree over time"
+  },
+  "answer": "A",
+  "exp": "Criterion validity is the degree to which the scores of a PROM are an adequate reflection of a true value or the best existing \"gold standard,\" assessed by correlating the new PROM with that standard (or, where none exists, with a longer/shorter version of itself). Reflecting the most relevant aspects of the concept is content validity, consistency with the theoretical framework is construct validity, and agreement of repeated measures is reliability.",
+  "hy": "Criterion validity = agreement with a gold standard.",
+  "src": "Neligan I.12 · Validity",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — criterion validity compares scores to a gold standard.",
+   "B": "Wrong — covering relevant aspects of the concept is content validity.",
+   "C": "Wrong — consistency with the theoretical framework is construct validity.",
+   "D": "Wrong — agreement of repeated measures is reliability."
+  }
+ },
+ {
+  "id": "N-I-12.36",
+  "chapter": "Ch12",
+  "section": "Validity",
+  "stem": "The COSMIN initiative released a 2010 checklist used for what purpose?",
+  "options": {
+   "A": "To evaluate the methodological quality of studies measuring patient-reported outcomes (including validity)",
+   "B": "To translate PROMs into other languages",
+   "C": "To set the $50,000/QALY adoption threshold",
+   "D": "To define the four phases of clinical trials"
+  },
+  "answer": "A",
+  "exp": "The COSMIN (Consensus-based Standards of Health Status Management Instruments) study released a checklist in 2010 to evaluate the methodological quality of studies measuring PROs, used as a guide to assess validity among other properties. It is not a translation tool, has nothing to do with the $50,000/QALY threshold, and does not define clinical-trial phases.",
+  "hy": "COSMIN 2010 checklist = methodological-quality appraisal of PRO studies.",
+  "src": "Neligan I.12 · Validity",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — COSMIN's 2010 checklist appraises PRO study quality.",
+   "B": "Wrong — translation guidance comes from ISPOR, not the COSMIN checklist.",
+   "C": "Wrong — the $50,000/QALY threshold is from economic analysis (Ch 11).",
+   "D": "Wrong — clinical-trial phases are unrelated to COSMIN."
+  }
+ },
+ {
+  "id": "N-I-12.37",
+  "chapter": "Ch12",
+  "section": "Reliability",
+  "stem": "What does reliability of a PROM describe?",
+  "options": {
+   "A": "The degree to which measurement is free from error, yielding consistent and reproducible results",
+   "B": "Whether the instrument measures the concept it intends to measure",
+   "C": "Whether the instrument detects clinically important change over time",
+   "D": "The ease of applying the instrument in clinical practice"
+  },
+  "answer": "A",
+  "exp": "Reliability is the degree to which measurement is free from error — both random and systematic — so that the instrument yields consistent and reproducible results when applied on different occasions or by different observers. Measuring the intended concept is validity, detecting clinically important change is responsiveness, and ease of application is feasibility.",
+  "hy": "Reliability = consistent, reproducible, error-free measurement.",
+  "src": "Neligan I.12 · Reliability",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — reliability is freedom from error / reproducibility.",
+   "B": "Wrong — measuring the intended concept is validity.",
+   "C": "Wrong — detecting clinically important change is responsiveness.",
+   "D": "Wrong — ease of application is feasibility."
+  }
+ },
+ {
+  "id": "N-I-12.38",
+  "chapter": "Ch12",
+  "section": "Reliability",
+  "stem": "Per the COSMIN steering committee, what is the preferred statistic for internal-consistency reliability, and what value is considered good?",
+  "options": {
+   "A": "Cronbach's alpha (range 0–1), with a good value higher than 0.70",
+   "B": "The intraclass correlation coefficient, with a good value below 0.30",
+   "C": "Pearson's r, with a good value of exactly 0.50",
+   "D": "Cohen's d, with a good value higher than 0.80"
+  },
+  "answer": "A",
+  "exp": "Per the COSMIN steering committee, the preferred statistic for internal-consistency reliability (how well items in a multi-item scale measure the same concept) is Cronbach's alpha, whose values range from 0 to 1, with a good value higher than 0.70. The ICC is used for test–retest, Pearson's r for inter-observer agreement, and Cohen's d is an effect-size measure for responsiveness — none is the internal-consistency statistic with the stated cutoff.",
+  "hy": "Internal consistency = Cronbach's alpha (0–1), good > 0.70.",
+  "src": "Neligan I.12 · Reliability",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — Cronbach's alpha, good above 0.70, for internal consistency.",
+   "B": "Wrong — the ICC is a test–retest statistic, and good values are high, not <0.30.",
+   "C": "Wrong — Pearson's r relates to inter-observer agreement, not a fixed 0.50.",
+   "D": "Wrong — Cohen's d is an effect size for responsiveness, not internal consistency."
+  }
+ },
+ {
+  "id": "N-I-12.39",
+  "chapter": "Ch12",
+  "section": "Reliability",
+  "stem": "In Rasch Measurement Theory, which index is the equivalent of Cronbach's alpha, measuring how spread out a sample is on a scale?",
+  "options": {
+   "A": "The Person Separation Index",
+   "B": "The intraclass correlation coefficient",
+   "C": "The minimal important difference",
+   "D": "The standardized response mean"
+  },
+  "answer": "A",
+  "exp": "In Rasch Measurement Theory, the Person Separation Index is the equivalent of Cronbach's alpha and measures how spread out a sample is along a scale. The intraclass correlation coefficient is a test–retest/inter-observer statistic, the minimal important difference is an interpretability metric, and the standardized response mean is a responsiveness statistic — none is the RMT analogue of Cronbach's alpha.",
+  "hy": "Person Separation Index = RMT equivalent of Cronbach's alpha.",
+  "src": "Neligan I.12 · Reliability",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the Person Separation Index is the RMT analogue.",
+   "B": "Wrong — the ICC is a reproducibility statistic, not the RMT alpha analogue.",
+   "C": "Wrong — the MID is about interpretability, not internal consistency.",
+   "D": "Wrong — the standardized response mean quantifies responsiveness."
+  }
+ },
+ {
+  "id": "N-I-12.40",
+  "chapter": "Ch12",
+  "section": "Reliability",
+  "stem": "For test–retest reliability to be considered acceptable, the chapter cites what minimum intraclass correlation coefficient (ICC) and sample size?",
+  "options": {
+   "A": "A minimum ICC of 0.70 with at least 50 patients",
+   "B": "A minimum ICC of 0.30 with at least 10 patients",
+   "C": "A minimum ICC of 0.95 with at least 500 patients",
+   "D": "A minimum ICC of 0.50 with at least 20 patients"
+  },
+  "answer": "A",
+  "exp": "For test–retest reliability to be considered acceptable, the chapter states a study should meet a minimum intraclass correlation coefficient (ICC) of 0.70 with at least 50 patients. The lower thresholds (0.30/10, 0.50/20) are too lax, and 0.95/500 is stricter than the cited standard. Test–retest itself uses a 3–14-day interval, excluding patients whose health changed.",
+  "hy": "Acceptable test–retest: ICC ≥ 0.70 with ≥ 50 patients.",
+  "src": "Neligan I.12 · Reliability",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — minimum ICC of 0.70 with at least 50 patients.",
+   "B": "Wrong — 0.30/10 is well below the cited standard.",
+   "C": "Wrong — 0.95/500 exceeds the cited requirement.",
+   "D": "Wrong — 0.50/20 is below the cited threshold."
+  }
+ },
+ {
+  "id": "N-I-12.41",
+  "chapter": "Ch12",
+  "section": "Reliability",
+  "stem": "Inter-observer reliability is best described as which of the following?",
+  "options": {
+   "A": "The degree of consistency between different observers assessing the same patients at the same time",
+   "B": "The agreement of one patient's responses on two occasions over time",
+   "C": "The degree to which items within one scale measure the same concept",
+   "D": "The ability of the instrument to detect change after surgery"
+  },
+  "answer": "A",
+  "exp": "Inter-observer reliability measures the degree of consistency between different observers assessing the same patients at the same time, commonly quantified with Pearson's r or the intraclass correlation coefficient. Agreement of one patient's responses on two occasions over time is test–retest reliability, consistency among items within a scale is internal-consistency reliability, and detecting post-surgical change is responsiveness.",
+  "hy": "Inter-observer reliability = consistency between different observers, same patients/time.",
+  "src": "Neligan I.12 · Reliability",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — agreement between different observers of the same patients.",
+   "B": "Wrong — one patient on two occasions is test–retest reliability.",
+   "C": "Wrong — agreement among items is internal-consistency reliability.",
+   "D": "Wrong — detecting change after surgery is responsiveness."
+  }
+ },
+ {
+  "id": "N-I-12.42",
+  "chapter": "Ch12",
+  "section": "Responsiveness",
+  "stem": "Responsiveness is the ability of a PROM to detect clinically important change over time. Effect size is commonly interpreted using Cohen's criteria — what are the thresholds?",
+  "options": {
+   "A": "Small 0.2, moderate 0.5, large 0.8",
+   "B": "Small 0.5, moderate 0.7, large 0.9",
+   "C": "Small 0.05, moderate 0.5, large 0.95",
+   "D": "Small 0.1, moderate 0.3, large 0.6"
+  },
+  "answer": "A",
+  "exp": "Responsiveness — a PROM's ability to detect a meaningful or clinically important change over time — is often quantified with effect sizes interpreted using Cohen's arbitrary criteria: small 0.2, moderate 0.5, large 0.8. The other threshold sets do not match Cohen's conventional cut points. Distribution-based responsiveness analysis typically uses paired t-tests, effect sizes, and standardized response means.",
+  "hy": "Cohen's effect size: small 0.2, moderate 0.5, large 0.8.",
+  "src": "Neligan I.12 · Responsiveness",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — Cohen's 0.2/0.5/0.8 small/moderate/large thresholds.",
+   "B": "Wrong — 0.5/0.7/0.9 are not Cohen's criteria.",
+   "C": "Wrong — 0.05/0.5/0.95 are not Cohen's criteria.",
+   "D": "Wrong — 0.1/0.3/0.6 are not Cohen's criteria."
+  }
+ },
+ {
+  "id": "N-I-12.43",
+  "chapter": "Ch12",
+  "section": "Minimal important difference",
+  "stem": "What is the minimal important difference (MID) of a PROM?",
+  "options": {
+   "A": "The smallest score difference in a domain of interest that patients perceive as beneficial and that would mandate a change in management",
+   "B": "The largest score change ever recorded in a clinical trial",
+   "C": "The difference between the highest and lowest possible scale scores",
+   "D": "The number of items needed to reach measurement precision"
+  },
+  "answer": "A",
+  "exp": "The minimal important difference (MID) is the smallest difference in score in a domain of interest that patients perceive as beneficial and which would mandate — absent troublesome side effects and excessive cost — a change in the patient's management. It is not the largest change observed, the full scale range, or the number of items needed for precision. Knowing the MID lets clinicians judge whether a statistically significant change is also clinically meaningful.",
+  "hy": "MID = smallest patient-perceived beneficial change that would alter management.",
+  "src": "Neligan I.12 · Minimal important difference",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — the smallest patient-meaningful change altering management.",
+   "B": "Wrong — the MID is the smallest important change, not the largest observed.",
+   "C": "Wrong — the full score range is not the MID.",
+   "D": "Wrong — items-to-precision is a CAT concept, not the MID."
+  }
+ },
+ {
+  "id": "N-I-12.44",
+  "chapter": "Ch12",
+  "section": "Minimal important difference",
+  "stem": "The two main approaches to estimate the MID are distribution-based and anchor-based. Which is recommended, and why?",
+  "options": {
+   "A": "Anchor-based methods are recommended because distribution-based methods do not reflect the patient's perspective",
+   "B": "Distribution-based methods are recommended because they incorporate the patient's perspective",
+   "C": "Both are discouraged in favor of expert consensus",
+   "D": "Anchor-based methods are discouraged because they require no external measure"
+  },
+  "answer": "A",
+  "exp": "The two MID approaches are distribution-based (using statistical variability such as effect size or standardized response mean) and anchor-based (correlating PROM change with an external, patient-relevant anchor). Anchor-based estimation is recommended because distribution-based methods do not reflect the patient's perspective — they rely only on the statistical characteristics of the data set. Distribution-based values can serve as supportive evidence or a fallback.",
+  "hy": "MID: anchor-based preferred (patient perspective); distribution-based ignores it.",
+  "src": "Neligan I.12 · Minimal important difference",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — anchor-based is preferred because it reflects the patient perspective.",
+   "B": "Wrong — distribution-based methods do NOT incorporate the patient perspective.",
+   "C": "Wrong — MID estimation is recommended, not abandoned for expert consensus.",
+   "D": "Wrong — anchor-based methods do use an external measure, which is their strength."
+  }
+ },
+ {
+  "id": "N-I-12.45",
+  "chapter": "Ch12",
+  "section": "Minimal important difference",
+  "stem": "Knowing a PROM's MID lets investigators conduct a responder analysis, which can be transformed into which clinically useful metric?",
+  "options": {
+   "A": "The number needed to treat (NNT) to achieve an MID-equivalent change in one patient",
+   "B": "The Cronbach's alpha of the scale",
+   "C": "The intraclass correlation coefficient",
+   "D": "The Person Separation Index"
+  },
+  "answer": "A",
+  "exp": "Knowing the MID lets investigators perform a responder analysis — calculating the proportion of patients improving by more than the MID — which can then be transformed into a number needed to treat (NNT): the number of patients needed to achieve an MID-equivalent change in one patient over a given period. Cronbach's alpha, the ICC, and the Person Separation Index are reliability statistics, not the metric derived from a responder analysis.",
+  "hy": "MID + responder analysis → number needed to treat (NNT).",
+  "src": "Neligan I.12 · Minimal important difference",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — a responder analysis converts to the NNT.",
+   "B": "Wrong — Cronbach's alpha is an internal-consistency statistic.",
+   "C": "Wrong — the ICC is a reproducibility statistic.",
+   "D": "Wrong — the Person Separation Index is an RMT reliability index."
+  }
+ },
+ {
+  "id": "N-I-12.46",
+  "chapter": "Ch12",
+  "section": "Feasibility and burden",
+  "stem": "How do \"feasibility\" and \"burden\" differ as considerations when selecting a PROM?",
+  "options": {
+   "A": "Feasibility is the practical ease of applying the PROM (not a psychometric property); burden is the time, effort, and demands placed on respondents or administrators",
+   "B": "Feasibility and burden are both psychometric properties like validity and reliability",
+   "C": "Feasibility is the time placed on respondents; burden is the ease of application",
+   "D": "Both refer solely to the monetary cost of the instrument"
+  },
+  "answer": "A",
+  "exp": "Feasibility is the ease of applying a PROM in its intended context (e.g., cost or time to complete) and is a practical characteristic, not a psychometric property. Burden is the time, effort, and other demands placed on those completing the PROM (respondent burden) or administering it (clinician/administrative burden). They are related but distinct, and neither is a psychometric property like validity or reliability, nor solely about monetary cost.",
+  "hy": "Feasibility = practical ease of use; burden = time/effort demanded.",
+  "src": "Neligan I.12 · Feasibility and burden",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — feasibility is practical ease; burden is the demand placed on people.",
+   "B": "Wrong — neither is a psychometric property like validity/reliability.",
+   "C": "Wrong — the definitions are swapped in this option.",
+   "D": "Wrong — both are broader than monetary cost alone."
+  }
+ },
+ {
+  "id": "N-I-12.47",
+  "chapter": "Ch12",
+  "section": "Future directions",
+  "stem": "What are the three main future priorities for PROs in plastic surgery research and clinical care?",
+  "options": {
+   "A": "Incorporate PRO data into decision-making, integrate it into the electronic health record, and use it to measure and improve quality of care",
+   "B": "Replace all clinical outcomes with PROs, eliminate generic PROMs, and ban legacy instruments",
+   "C": "Limit PROs to research only, exclude them from the EHR, and avoid quality comparisons",
+   "D": "Standardize a single PROM for all conditions, mandate paper administration, and abolish CAT"
+  },
+  "answer": "A",
+  "exp": "The three main future priorities for PROs in plastic surgery research and clinical care are to incorporate PRO data into the decision-making process for patient care, integrate PRO data into the electronic health record, and use PRO data to measure and improve quality of care. The other options describe extreme or contrary positions (replacing all clinical outcomes, restricting PROs from the EHR, mandating one paper PROM) that the chapter does not advocate.",
+  "hy": "PRO priorities: decision-making, EHR integration, quality measurement/improvement.",
+  "src": "Neligan I.12 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — decision-making, EHR integration, and quality improvement.",
+   "B": "Wrong — the chapter does not call for replacing all clinical outcomes or banning legacy tools.",
+   "C": "Wrong — the goal is to integrate PROs into the EHR, not exclude them.",
+   "D": "Wrong — it does not mandate one PROM or abolish CAT."
+  }
+ },
+ {
+  "id": "N-I-12.48",
+  "chapter": "Ch12",
+  "section": "Future directions",
+  "stem": "Administering PROMs through a patient portal enables a \"measure once, cut twice\" approach. What does this mean?",
+  "options": {
+   "A": "The same data collected for clinical care can also be used for real-world comparative-effectiveness research and quality improvement",
+   "B": "Each PROM must be administered twice to be valid",
+   "C": "Surgeons should operate twice after a single measurement",
+   "D": "PRO data must be discarded after a single clinical use"
+  },
+  "answer": "A",
+  "exp": "A \"measure once, cut twice\" approach means that PRO data collected via a patient portal for routine clinical care can simultaneously be used for real-world comparative-effectiveness research and quality-improvement studies — one collection serving two purposes. It does not mean administering a PROM twice for validity, operating twice, or discarding the data after one use. This efficiency is a key argument for embedding PROs in the EHR.",
+  "hy": "\"Measure once, cut twice\" = one PRO collection serves both care and research/QI.",
+  "src": "Neligan I.12 · Future directions",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "12",
+  "chname": "Patient-Reported Outcomes in Plastic Surgery",
+  "why": {
+   "A": "Correct — a single collection serves both clinical care and research/QI.",
+   "B": "Wrong — it does not mean administering the PROM twice.",
+   "C": "Wrong — it is a data-reuse metaphor, not a surgical instruction.",
+   "D": "Wrong — the point is to reuse, not discard, the data."
+  }
  }
 ]
