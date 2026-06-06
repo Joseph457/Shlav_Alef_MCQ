@@ -21368,5 +21368,1409 @@
    "C": "Wrong — the diaphragm is spared; epidurals don't block phrenic innervation.",
    "D": "Wrong — bradycardia and reduced cardiac output occur, not tachycardia."
   }
+ },
+ {
+  "id": "N-I-11.1",
+  "chapter": "Ch11",
+  "section": "The best evidence – where do we find it?",
+  "stem": "A resident is taught that \"evidence-based medicine\" means more than applying the latest trial result. By the chapter's definition, evidence-based medicine is the integration of which three elements?",
+  "options": {
+   "A": "Best available research evidence, clinical expertise, and patient values",
+   "B": "Randomized trial data, institutional protocols, and cost constraints",
+   "C": "Expert consensus, regulatory guidelines, and surgeon preference",
+   "D": "Systematic reviews, malpractice precedent, and hospital policy"
+  },
+  "answer": "A",
+  "exp": "The chapter defines evidence-based medicine as the integration of the best available research evidence with clinical expertise and patient values — none of the three alone is sufficient. Research evidence supplies the data, clinical expertise interprets it for the individual, and patient values determine what outcomes matter to the person being treated. The other triads swap in plausible-sounding but non-canonical elements (protocols, cost, regulation, malpractice precedent) that are not the definition.",
+  "hy": "EBM = best research evidence + clinical expertise + patient values.",
+  "src": "Neligan I.11 · The best evidence – where do we find it?",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the canonical triad of evidence, expertise, and patient values.",
+   "B": "Wrong — protocols and cost constraints are not part of the definition.",
+   "C": "Wrong — expert consensus and surgeon preference are weak evidence, not the EBM triad.",
+   "D": "Wrong — malpractice precedent and hospital policy are administrative, not the definition."
+  }
+ },
+ {
+  "id": "N-I-11.2",
+  "chapter": "Ch11",
+  "section": "The best evidence – where do we find it?",
+  "stem": "When evaluating existing literature on a clinical question and finding the current evidence inadequate, what does the chapter describe as the second way to obtain best evidence for decision-making?",
+  "options": {
+   "A": "Produce new credible evidence using an appropriately designed study",
+   "B": "Default to the most senior surgeon's accumulated personal experience",
+   "C": "Adopt the technique most widely promoted by industry",
+   "D": "Abandon the question as unanswerable until a guideline appears"
+  },
+  "answer": "A",
+  "exp": "There are two ways to obtain best evidence: first, evaluate the existing literature and identify reports convincing on study design and clinically meaningful outcomes; when that current evidence is inadequate, the second choice is to produce new credible evidence with an appropriately designed study. Falling back on a single surgeon's experience, industry promotion, or abandoning the question all bypass the structured generation of evidence the chapter advocates. The aim is always to base decisions on the strongest obtainable evidence rather than authority or marketing.",
+  "hy": "If existing evidence is inadequate → produce new credible evidence (don't default to authority).",
+  "src": "Neligan I.11 · The best evidence – where do we find it?",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the second route is generating new credible evidence by good study design.",
+   "B": "Wrong — individual accumulated experience is the weak evidence EBM seeks to replace.",
+   "C": "Wrong — industry promotion is not a source of credible evidence.",
+   "D": "Wrong — the chapter pursues new evidence rather than abandoning the question."
+  }
+ },
+ {
+  "id": "N-I-11.3",
+  "chapter": "Ch11",
+  "section": "PICO(T)",
+  "stem": "A surgeon frames a question: \"In patients undergoing breast reduction, does preoperative antibiotic prophylaxis versus no prophylaxis reduce postoperative infection at 4 weeks?\" The \"4 weeks\" component corresponds to which element of the PICOT framework?",
+  "options": {
+   "A": "Time horizon (T)",
+   "B": "Intervention (I)",
+   "C": "Outcome (O)",
+   "D": "Comparison (C)"
+  },
+  "answer": "A",
+  "exp": "PICOT structures a question as Patient problem, Intervention, Comparison, Outcome, and Time horizon — a standardized time point at which the outcome is measured. \"At 4 weeks postoperatively\" specifies when infection is assessed, so it is the Time horizon (T). The intervention is antibiotic prophylaxis, the comparison is no prophylaxis, and the outcome is infection rate; the time element is what is added to PICO to form PICOT.",
+  "hy": "PICOT: the T = the standardized time point at which the outcome is measured.",
+  "src": "Neligan I.11 · PICO(T)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — \"at 4 weeks\" is the standardized outcome-measurement time point (T).",
+   "B": "Wrong — the intervention is antibiotic prophylaxis, not the time element.",
+   "C": "Wrong — the outcome is postoperative infection, not the time element.",
+   "D": "Wrong — the comparison is \"no prophylaxis,\" not the time element."
+  }
+ },
+ {
+  "id": "N-I-11.4",
+  "chapter": "Ch11",
+  "section": "PICO(T)",
+  "stem": "In the PICO framework used to structure a well-formulated clinical question, the acronym stands for which set of components?",
+  "options": {
+   "A": "Patient problem, Intervention, Comparison, Outcome",
+   "B": "Population, Incidence, Control, Observation",
+   "C": "Problem, Indication, Cohort, Outcome",
+   "D": "Patient, Investigation, Comparator, Objective"
+  },
+  "answer": "A",
+  "exp": "PICO stands for Patient problem, Intervention, Comparison, and Outcome — a strategy for posing a focused, answerable clinical question that, when paired with PubMed Clinical Queries, improves search efficiency. Without this focus, an otherwise important question gets buried in irrelevant evidence. The other expansions mix in real research terms (population, incidence, control, observation, cohort) that are not the components of this particular acronym.",
+  "hy": "PICO = Patient problem, Intervention, Comparison, Outcome (± Time = PICOT).",
+  "src": "Neligan I.11 · PICO(T)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the standard expansion of the acronym.",
+   "B": "Wrong — \"incidence/observation\" are not the PICO components.",
+   "C": "Wrong — \"indication/cohort\" are not the PICO components.",
+   "D": "Wrong — \"investigation/objective\" misstate Intervention and Outcome."
+  }
+ },
+ {
+  "id": "N-I-11.5",
+  "chapter": "Ch11",
+  "section": "Systematic reviews",
+  "stem": "A systematic review is conducted by clearly stated scientific methods to minimize bias. The statistical components of that review — summary effect estimates and tests of heterogeneity and publication bias — are specifically referred to by which term?",
+  "options": {
+   "A": "A meta-analysis",
+   "B": "A network analysis",
+   "C": "A narrative synthesis",
+   "D": "A scoping review"
+  },
+  "answer": "A",
+  "exp": "A systematic review is a methodologically rigorous synthesis of the literature designed to minimize bias; its quantitative statistical components — summary effect estimates and tests of heterogeneity and publication bias — are collectively termed a meta-analysis. Thus every meta-analysis sits within a systematic review's framework, but the term refers specifically to the pooled statistics. A network analysis, narrative synthesis, and scoping review are different review constructs and do not name the statistical pooling described.",
+  "hy": "Meta-analysis = the statistical (pooling) component of a systematic review.",
+  "src": "Neligan I.11 · Systematic reviews",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — meta-analysis names the statistical components of a systematic review.",
+   "B": "Wrong — a network analysis compares multiple interventions indirectly, a distinct technique.",
+   "C": "Wrong — a narrative synthesis is qualitative, not the statistical pooling.",
+   "D": "Wrong — a scoping review maps literature breadth without pooled effect estimates."
+  }
+ },
+ {
+  "id": "N-I-11.6",
+  "chapter": "Ch11",
+  "section": "Systematic reviews",
+  "stem": "Within the Cochrane handbook, which risk-of-bias tools are designated for randomized versus non-randomized studies of interventions, respectively?",
+  "options": {
+   "A": "RoB 2 for randomized trials; ROBINS-I for non-randomized studies",
+   "B": "ROBINS-I for randomized trials; RoB 2 for non-randomized studies",
+   "C": "GRADE for randomized trials; PRISMA for non-randomized studies",
+   "D": "Newcastle–Ottawa for randomized trials; Jadad for non-randomized studies"
+  },
+  "answer": "A",
+  "exp": "The Cochrane handbook designates the Cochrane Risk of Bias 2 (RoB 2) tool for randomized trials and the ROBINS-I tool for non-randomized studies of interventions. Matching the correct tool to the design is essential because randomized and observational studies are vulnerable to different biases. The reversed pairing is wrong, and GRADE/PRISMA and Newcastle–Ottawa/Jadad are different instruments (evidence grading, reporting, and older quality scales) not designated this way in the handbook.",
+  "hy": "RoB 2 → randomized trials; ROBINS-I → non-randomized studies.",
+  "src": "Neligan I.11 · Systematic reviews",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — RoB 2 for randomized, ROBINS-I for non-randomized interventions.",
+   "B": "Wrong — the assignments are reversed.",
+   "C": "Wrong — GRADE grades certainty and PRISMA governs reporting, not risk of bias here.",
+   "D": "Wrong — Newcastle–Ottawa and Jadad are separate quality scales, not the handbook's pairing."
+  }
+ },
+ {
+  "id": "N-I-11.7",
+  "chapter": "Ch11",
+  "section": "Network meta-analysis",
+  "stem": "Several techniques exist to treat keloid scars but few head-to-head trials compare them all. Which analysis can estimate the relative effect of two interventions that were never directly compared, provided each was compared to a common third intervention?",
+  "options": {
+   "A": "Network meta-analysis",
+   "B": "Traditional pairwise meta-analysis",
+   "C": "Cross-sectional cohort study",
+   "D": "Case–control study"
+  },
+  "answer": "A",
+  "exp": "A network meta-analysis estimates effect sizes for all possible pairwise comparisons — including interventions never directly compared — by anchoring on common comparators (if A vs C and B vs C exist, A vs B can be inferred), allowing simultaneous comparison and ranking of multiple treatments. Traditional pairwise meta-analysis is limited to head-to-head comparisons and cannot rank several competing techniques, which is exactly the keloid-treatment problem. Cohort and case–control designs are primary observational studies, not evidence-synthesis methods.",
+  "hy": "Network meta-analysis = indirect comparisons via a common comparator → ranks multiple treatments.",
+  "src": "Neligan I.11 · Network meta-analysis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — it estimates indirect comparisons and ranks multiple interventions.",
+   "B": "Wrong — pairwise meta-analysis cannot compare interventions not tested head-to-head.",
+   "C": "Wrong — a cross-sectional cohort estimates prevalence, not pooled treatment effects.",
+   "D": "Wrong — a case–control study is a primary design, not an evidence-synthesis method."
+  }
+ },
+ {
+  "id": "N-I-11.8",
+  "chapter": "Ch11",
+  "section": "Table 11.1 Levels of evidence",
+  "stem": "Per the ASPS levels-of-evidence table, a high-quality, adequately powered, single- or multi-centered randomized trial with proper allocation concealment and blinded outcome assessors represents which level of evidence?",
+  "options": {
+   "A": "Level I",
+   "B": "Level II",
+   "C": "Level III",
+   "D": "Level IV"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.1, Level I is reserved for high-quality randomized trials — adequately powered, with proper allocation concealment and blinded outcome assessors — or systematic reviews of such trials. The qualifier \"high-quality\" plus the methodologic safeguards place it at Level I. A low-quality RCT would drop to Level II, retrospective/case–control designs to Level III, and case series to Level IV.",
+  "hy": "Level I = high-quality (powered, concealed, blinded) RCT or SR of such trials.",
+  "src": "Neligan I.11 · Table 11.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — a high-quality, concealed, blinded, powered RCT is Level I.",
+   "B": "Wrong — Level II is the low-quality/underpowered RCT or prospective cohort.",
+   "C": "Wrong — Level III is retrospective cohort or case–control.",
+   "D": "Wrong — Level IV is a case series."
+  }
+ },
+ {
+  "id": "N-I-11.9",
+  "chapter": "Ch11",
+  "section": "Table 11.1 Levels of evidence",
+  "stem": "Per the levels-of-evidence table, a retrospective cohort study or a case–control study corresponds to which level of evidence?",
+  "options": {
+   "A": "Level III",
+   "B": "Level I",
+   "C": "Level II",
+   "D": "Level V"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.1, retrospective cohort studies and case–control studies (or systematic reviews of them) are classified as Level III evidence — below randomized designs and prospective cohorts because their backward-looking nature increases susceptibility to bias and confounding. Level I and II are reserved for randomized trials and prospective cohorts, and Level V for expert opinion or case reports.",
+  "hy": "Level III = retrospective cohort or case–control studies.",
+  "src": "Neligan I.11 · Table 11.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — retrospective cohort and case–control sit at Level III.",
+   "B": "Wrong — Level I is high-quality RCTs.",
+   "C": "Wrong — Level II is low-quality RCTs or prospective cohorts.",
+   "D": "Wrong — Level V is expert opinion or case reports."
+  }
+ },
+ {
+  "id": "N-I-11.10",
+  "chapter": "Ch11",
+  "section": "Table 11.1 Levels of evidence",
+  "stem": "Which pairing of study design to level of evidence is correct per the table?",
+  "options": {
+   "A": "A low-quality (underpowered, unblinded) RCT is Level II; a case series is Level IV",
+   "B": "A case series is Level II; a prospective cohort study is Level IV",
+   "C": "Expert opinion is Level III; a case–control study is Level I",
+   "D": "A high-quality RCT is Level IV; a case report is Level I"
+  },
+  "answer": "A",
+  "exp": "Reading across Table 11.1, a low-quality RCT (insufficient power, no/improper allocation concealment, unblinded assessors) is Level II, while a case series is Level IV — the correct two-step mapping. The other options misassign levels: a case series is never Level II, expert opinion is Level V (not III), and a high-quality RCT is Level I (not IV). Getting the ladder right matters because the level is shorthand for a study's bias risk.",
+  "hy": "Low-quality RCT = II; retrospective/case–control = III; case series = IV; expert opinion/case report = V.",
+  "src": "Neligan I.11 · Table 11.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — low-quality RCT is II and a case series is IV.",
+   "B": "Wrong — a case series is IV, not II; a prospective cohort is II, not IV.",
+   "C": "Wrong — expert opinion is V and case–control is III.",
+   "D": "Wrong — a high-quality RCT is I and a case report is V."
+  }
+ },
+ {
+  "id": "N-I-11.11",
+  "chapter": "Ch11",
+  "section": "Study design and levels of evidence",
+  "stem": "The chapter cautions that a design's position atop the levels-of-evidence pyramid does not always mean better research. What ultimately determines research quality?",
+  "options": {
+   "A": "The effort to minimize bias, irrespective of the study design used",
+   "B": "The total number of patients enrolled, irrespective of design",
+   "C": "The impact factor of the journal that publishes it",
+   "D": "Whether the study achieved a statistically significant result"
+  },
+  "answer": "A",
+  "exp": "The chapter stresses that a design's rank on the evidence pyramid does not guarantee quality; for some questions (e.g., harm), a high-level design like an RCT is infeasible, forcing a lower-level design that can still be rigorous. Ultimately research quality is determined by the effort to minimize bias, irrespective of the design chosen. Enrollment size, journal prestige, and a significant result are all relevant considerations but none of them define quality the way bias-minimization does.",
+  "hy": "Quality = degree of bias minimization, not the design's pyramid position.",
+  "src": "Neligan I.11 · Study design and levels of evidence",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — bias minimization, not design rank, determines quality.",
+   "B": "Wrong — sample size matters but does not by itself define quality.",
+   "C": "Wrong — journal impact factor is unrelated to internal validity.",
+   "D": "Wrong — statistical significance does not equal study quality."
+  }
+ },
+ {
+  "id": "N-I-11.12",
+  "chapter": "Ch11",
+  "section": "Randomized controlled trials",
+  "stem": "What is the distinguishing feature that makes the RCT the gold standard for comparing interventions?",
+  "options": {
+   "A": "Randomization, which balances both known and unknown confounders between groups",
+   "B": "Blinding, which is reliably achievable in surgical trials",
+   "C": "Its retrospective collection of exposure data",
+   "D": "Its reliance on patient self-selection into treatment arms"
+  },
+  "answer": "A",
+  "exp": "Randomization is the defining feature of the RCT: by randomly assigning the intervention it balances both known and unknown confounders across groups, which observational designs cannot guarantee. Blinding preserves that benefit but, as the chapter notes, is frequently impractical in surgical trials, so it is not the distinguishing feature. Retrospective exposure capture and patient self-selection describe observational designs, the very thing randomization is meant to avoid.",
+  "hy": "Randomization balances known AND unknown confounders — the RCT's defining strength.",
+  "src": "Neligan I.11 · Randomized controlled trials",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — randomization controls known and unknown confounding.",
+   "B": "Wrong — surgeon blinding is often impossible, so it isn't the defining feature.",
+   "C": "Wrong — retrospective exposure capture characterizes cohort/case–control designs.",
+   "D": "Wrong — self-selection is exactly what randomization eliminates."
+  }
+ },
+ {
+  "id": "N-I-11.13",
+  "chapter": "Ch11",
+  "section": "Table 11.2 Four phases of clinical trials",
+  "stem": "Per the four-phases table, a phase I clinical trial enrolls approximately how many subjects and serves what primary purpose?",
+  "options": {
+   "A": "20–80 subjects, to evaluate safety, determine a safe dosage range, and identify side effects",
+   "B": "100–300 subjects, to determine effectiveness and further evaluate safety",
+   "C": "1000–3000 subjects, to confirm effectiveness and compare with standard treatments",
+   "D": "A post-marketing population, to learn the treatment's long-term risks and benefits"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.2, phase I tests an experimental drug or treatment in roughly 20–80 people to evaluate safety, establish a safe dosage range/dose–response curve, and identify side effects — it is the first-in-human safety step, not an efficacy study. Effectiveness is the phase II question (100–300), confirmation is phase III (1000–3000), and post-marketing surveillance is phase IV.",
+  "hy": "Phase I = 20–80 subjects, safety/dose-finding/side effects.",
+  "src": "Neligan I.11 · Table 11.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — phase I enrolls 20–80 for safety and dose-finding.",
+   "B": "Wrong — 100–300 for effectiveness describes phase II.",
+   "C": "Wrong — 1000–3000 to confirm effectiveness describes phase III.",
+   "D": "Wrong — post-marketing surveillance describes phase IV."
+  }
+ },
+ {
+  "id": "N-I-11.14",
+  "chapter": "Ch11",
+  "section": "Table 11.2 Four phases of clinical trials",
+  "stem": "Which description correctly matches the clinical-trial phase per the table?",
+  "options": {
+   "A": "Phase III enrolls 1000–3000 subjects to confirm effectiveness and compare to standard treatments; phase IV is post-marketing surveillance",
+   "B": "Phase III is post-marketing surveillance; phase IV enrolls 1000–3000 subjects to confirm effectiveness",
+   "C": "Phase II enrolls 1000–3000 subjects; phase III enrolls 100–300 subjects",
+   "D": "Phase IV enrolls 20–80 subjects to determine a safe dose range"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.2, phase III enrolls 1000–3000 subjects to confirm effectiveness, monitor side effects, compare with commonly used treatments, and gather data for safe use; phase IV is post-marketing surveillance to learn more about risks, benefits, and optimal use after approval. The distractor pairings invert these phases or swap the phase II and III enrollment figures, all of which contradict the table.",
+  "hy": "Phase III = 1000–3000 (confirm/compare); Phase IV = post-marketing.",
+  "src": "Neligan I.11 · Table 11.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — phase III confirms effectiveness (1000–3000); phase IV is post-marketing.",
+   "B": "Wrong — the phase III and IV descriptions are reversed.",
+   "C": "Wrong — phase II is 100–300, not 1000–3000.",
+   "D": "Wrong — 20–80 dose-finding is phase I, not phase IV."
+  }
+ },
+ {
+  "id": "N-I-11.15",
+  "chapter": "Ch11",
+  "section": "Challenges of RCTs",
+  "stem": "What ethical precondition must exist before patients can justifiably be randomized in an RCT?",
+  "options": {
+   "A": "Clinical equipoise — genuine uncertainty whether the intervention is beneficial or harmful versus the comparator",
+   "B": "Prior proof that the experimental intervention is already superior",
+   "C": "A documented surgeon preference for the experimental arm",
+   "D": "Patient willingness to pay out of pocket for the experimental arm"
+  },
+  "answer": "A",
+  "exp": "The ethical basis for an RCT is clinical equipoise — genuine uncertainty within the expert community as to whether a novel intervention is beneficial or harmful relative to placebo or the standard of care. Without equipoise it would be unethical to randomize patients to a treatment already believed inferior or superior. Pre-existing proof of superiority, surgeon preference, or willingness to pay are not the ethical precondition and, in the case of preference, actively undermine randomization.",
+  "hy": "Equipoise = genuine uncertainty; the ethical prerequisite for randomizing patients.",
+  "src": "Neligan I.11 · Challenges of RCTs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — equipoise (genuine uncertainty) is the ethical basis for an RCT.",
+   "B": "Wrong — if superiority is already proven, randomizing is unethical.",
+   "C": "Wrong — surgeon preference biases rather than justifies randomization.",
+   "D": "Wrong — ability to pay is irrelevant to the ethics of randomization."
+  }
+ },
+ {
+  "id": "N-I-11.16",
+  "chapter": "Ch11",
+  "section": "Expertise-based RCT",
+  "stem": "To overcome the difficulty of blinding surgeons and the learning-curve problem in surgical trials, which design assigns two groups of surgeons — each already expert in one of the two techniques — to deliver only that technique?",
+  "options": {
+   "A": "The expertise-based randomized controlled trial (EB-RCT)",
+   "B": "The crossover randomized trial",
+   "C": "The cluster-randomized trial",
+   "D": "The factorial randomized trial"
+  },
+  "answer": "A",
+  "exp": "The expertise-based RCT (EB-RCT) assigns two distinct groups of surgeons — each relatively expert in one of the two techniques — so that patients randomized to surgery A are operated on by A-experts and those randomized to B by B-experts. This design overcomes the impracticality of blinding surgeons and the learning-curve confounder that plague conventional surgical RCTs, and removes bias from surgeons who personally favor one technique. It was first proposed by Van der Linden in 1980. Crossover, cluster, and factorial designs address different problems (within-subject comparison, group-level randomization, multiple simultaneous interventions).",
+  "hy": "EB-RCT: surgeons assigned to their own area of expertise — fixes blinding + learning curve.",
+  "src": "Neligan I.11 · Expertise-based RCT",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the EB-RCT matches surgeons to their expert technique.",
+   "B": "Wrong — a crossover trial gives each subject both treatments sequentially.",
+   "C": "Wrong — cluster randomization assigns groups, not surgeon-expertise arms.",
+   "D": "Wrong — a factorial trial tests two or more interventions simultaneously."
+  }
+ },
+ {
+  "id": "N-I-11.17",
+  "chapter": "Ch11",
+  "section": "Challenges of RCTs",
+  "stem": "In a systematic review of 173 plastic surgery RCTs comparing surgical interventions, what did the authors find regarding blinding and sample size?",
+  "options": {
+   "A": "Surgeon blinding was impractical in 97% of trials, and 82% randomized fewer than 100 patients (median 43)",
+   "B": "Surgeon blinding was achieved in 97% of trials, and most enrolled over 1000 patients",
+   "C": "Every trial was double-blinded and adequately powered",
+   "D": "Blinding was impractical in only 3%, and the median enrollment was 430 patients"
+  },
+  "answer": "A",
+  "exp": "In the cited systematic review of 173 plastic surgery RCTs comparing surgical interventions, blinding the surgeon was impractical in almost every trial (97%), and the trials were typically small — 82% (141/173) randomized fewer than 100 patients, with a median of 43 (so half had fewer than ~22 per arm). These twin problems (unblindable surgeons and underpowering) are why specialized designs like the EB-RCT and multicenter collaboration are advocated. The distractors invert the blinding figure or inflate the sample sizes.",
+  "hy": "173-RCT review: surgeon blinding impractical 97%; 82% enrolled <100 (median 43).",
+  "src": "Neligan I.11 · Challenges of RCTs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — 97% could not blind the surgeon; 82% randomized fewer than 100 (median 43).",
+   "B": "Wrong — blinding was impractical, not achieved, and trials were small.",
+   "C": "Wrong — the trials were largely not blinded and underpowered.",
+   "D": "Wrong — the figures (3%, median 430) are fabricated inversions."
+  }
+ },
+ {
+  "id": "N-I-11.18",
+  "chapter": "Ch11",
+  "section": "Limitations of RCTs: investigating harm",
+  "stem": "A surgeon wants to know whether textured breast implants cause BIA-ALCL. Why is an RCT not an appropriate design to answer this harm question?",
+  "options": {
+   "A": "It would be unethical to randomize patients to a suspected harmful exposure, events rarer than 1 in 100 are logistically prohibitive, and RCTs often underreport harm",
+   "B": "An RCT cannot include a control group when the outcome is harm",
+   "C": "Randomization introduces more confounding than observation when studying harm",
+   "D": "Questions of harm can only be answered with Level V evidence by definition"
+  },
+  "answer": "A",
+  "exp": "The chapter gives three reasons RCTs are ill-suited to questions of harm: it is unethical to randomize patients to an exposure suspected of causing harm; studying an event occurring less often than 1 in 100 requires prohibitively large samples and long follow-up; and RCTs frequently fail to adequately report harm data. For these reasons observational designs (cohort, case–control) are used to investigate harm such as BIA-ALCL. The other options misstate RCT mechanics (control groups are feasible; randomization reduces, not adds, confounding) or invent a rule.",
+  "hy": "RCTs poor for harm: unethical to randomize, rare events too costly, harm underreported.",
+  "src": "Neligan I.11 · Limitations of RCTs: investigating harm",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the three reasons are ethics, rarity/cost, and poor harm reporting.",
+   "B": "Wrong — RCTs can have control groups; that is not the issue.",
+   "C": "Wrong — randomization reduces confounding rather than adding it.",
+   "D": "Wrong — no rule restricts harm questions to Level V evidence."
+  }
+ },
+ {
+  "id": "N-I-11.19",
+  "chapter": "Ch11",
+  "section": "Cohort studies",
+  "stem": "How does a cohort study differ fundamentally from a randomized controlled trial?",
+  "options": {
+   "A": "Exposure is determined by patient or physician preference (or happenstance) rather than by randomization",
+   "B": "It begins by selecting subjects on the basis of their outcome",
+   "C": "It can only ever be conducted retrospectively",
+   "D": "It always yields Level I evidence"
+  },
+  "answer": "A",
+  "exp": "A cohort study resembles an RCT but lacks randomization: exposure status is determined by patient or physician preference, or sometimes happenstance, rather than by random assignment. It can be conducted prospectively or retrospectively and follows groups to compare outcomes. Beginning with the outcome characterizes a case–control study, not a cohort, and a cohort is not automatically Level I evidence.",
+  "hy": "Cohort = RCT without randomization; exposure set by preference/happenstance.",
+  "src": "Neligan I.11 · Cohort studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — lack of randomization (exposure by preference) defines the cohort.",
+   "B": "Wrong — starting from the outcome describes a case–control study.",
+   "C": "Wrong — cohorts can be prospective or retrospective.",
+   "D": "Wrong — cohorts are not automatically Level I evidence."
+  }
+ },
+ {
+  "id": "N-I-11.20",
+  "chapter": "Ch11",
+  "section": "Cohort studies",
+  "stem": "A cohort evaluated at a single point in time, frequently used to estimate the prevalence of disease, is best described as which type of study?",
+  "options": {
+   "A": "A cross-sectional cohort study",
+   "B": "A case–control study",
+   "C": "A retrospective cohort study",
+   "D": "A randomized controlled trial"
+  },
+  "answer": "A",
+  "exp": "When a cohort is evaluated at a single point in time — often to estimate the prevalence of disease — it is called a cross-sectional cohort study. Evaluating exposures and risk over time requires at least two time points, which is the longitudinal cohort. Case–control and retrospective cohort designs are defined differently, and a randomized trial involves assignment of an intervention rather than a snapshot of prevalence.",
+  "hy": "Cross-sectional cohort = single time point → prevalence.",
+  "src": "Neligan I.11 · Cohort studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — a single-time-point cohort estimating prevalence is cross-sectional.",
+   "B": "Wrong — case–control starts from disease status, not a prevalence snapshot.",
+   "C": "Wrong — retrospective cohort examines past exposures over time, not one point.",
+   "D": "Wrong — an RCT assigns an intervention rather than measuring prevalence."
+  }
+ },
+ {
+  "id": "N-I-11.21",
+  "chapter": "Ch11",
+  "section": "Case–control studies",
+  "stem": "What is the defining starting point of a case–control study?",
+  "options": {
+   "A": "Initial identification of cases by the presence of disease/outcome, compared with controls lacking it",
+   "B": "Random assignment of an exposure to two groups",
+   "C": "Following exposed and unexposed cohorts forward in time",
+   "D": "Selecting subjects on the basis of their exposure status"
+  },
+  "answer": "A",
+  "exp": "A case–control study is defined by starting with the outcome: cases are selected because they have the disease/outcome, and controls because they do not, after which prior exposures are compared between the groups. Random assignment of exposure defines an RCT; following exposed and unexposed groups forward defines a (prospective) cohort; selecting by exposure status also describes a cohort. This backward-from-outcome logic is what makes case–control efficient for rare diseases.",
+  "hy": "Case–control begins with cases (outcome present) vs controls (outcome absent).",
+  "src": "Neligan I.11 · Case–control studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — selection is by presence/absence of the outcome.",
+   "B": "Wrong — random assignment of exposure is an RCT.",
+   "C": "Wrong — following cohorts forward in time is a cohort study.",
+   "D": "Wrong — selecting by exposure status defines a cohort, not case–control."
+  }
+ },
+ {
+  "id": "N-I-11.22",
+  "chapter": "Ch11",
+  "section": "Case–control studies",
+  "stem": "What is the major strength of the case–control design, and its corresponding weakness?",
+  "options": {
+   "A": "Strength: studying rare or long-latency conditions; weakness: it cannot assess incidence or prevalence of disease",
+   "B": "Strength: establishing causation directly; weakness: it requires very large samples",
+   "C": "Strength: prospective data collection; weakness: prohibitive cost",
+   "D": "Strength: randomization of exposure; weakness: very short follow-up"
+  },
+  "answer": "A",
+  "exp": "The case–control design's major strength is efficiency in studying rare conditions or outcomes that take a long time to develop, because investigators start with the cases rather than waiting for the outcome to accrue. Its principal weakness is that it cannot assess incidence or prevalence of disease and is more susceptible to bias. It does not establish causation directly, does not require huge samples (an advantage for rare disease), and is not prospective or randomized.",
+  "hy": "Case–control: best for rare/long-latency disease; cannot give incidence or prevalence.",
+  "src": "Neligan I.11 · Case–control studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — strong for rare disease; cannot measure incidence/prevalence.",
+   "B": "Wrong — it suggests association, not direct causation, and is efficient for small numbers.",
+   "C": "Wrong — data are typically retrospective, not prospective.",
+   "D": "Wrong — there is no randomization in a case–control study."
+  }
+ },
+ {
+  "id": "N-I-11.23",
+  "chapter": "Ch11",
+  "section": "Case series and case reports",
+  "stem": "A surgeon assembles a large consecutive series of patients who received a new flap. How does this differ from a case report, and what concern does a nonconsecutive case report raise?",
+  "options": {
+   "A": "A consecutive case series can inform indications and outcomes; nonconsecutive case reports raise sampling bias such as patient self-selection or recall bias",
+   "B": "Case reports are higher-level evidence than case series because they are more detailed",
+   "C": "A case series requires randomization, whereas a case report does not",
+   "D": "A case series is by definition Level I evidence, a case report Level II"
+  },
+  "answer": "A",
+  "exp": "A large consecutive collection of patients (a case series) can offer useful information on indications, contraindications, and expected outcomes; when cases are nonconsecutive (a case report), sampling bias such as patient self-selection or surgeon recall bias threatens the validity of inferred indications and outcomes. Case reports nonetheless hold value for presenting new ideas, techniques, and rare adverse events. Case reports are not higher evidence than series, require no randomization, and are low on the evidence hierarchy (IV–V), not Level I/II.",
+  "hy": "Consecutive series → indications/outcomes; nonconsecutive case report → sampling/recall bias.",
+  "src": "Neligan I.11 · Case series and case reports",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — consecutive series inform outcomes; nonconsecutive reports risk sampling bias.",
+   "B": "Wrong — case reports are lower-level evidence than a consecutive series.",
+   "C": "Wrong — neither design uses randomization.",
+   "D": "Wrong — series/reports are Level IV–V, not Level I–II."
+  }
+ },
+ {
+  "id": "N-I-11.24",
+  "chapter": "Ch11",
+  "section": "Case series and case reports",
+  "stem": "When no evidence exists for a novel surgical innovation, the chapter recommends a specific progression of study designs. What is the correct sequence?",
+  "options": {
+   "A": "Case report → case series → comparative studies (cohort or preferably RCT)",
+   "B": "Randomized controlled trial → meta-analysis → case report",
+   "C": "Case–control study → case report → expert opinion",
+   "D": "Systematic review → case series → case report"
+  },
+  "answer": "A",
+  "exp": "When no evidence exists, the chapter's practical progression is to begin with a case report, advance to a case series, and — if the innovation is adopted widely — proceed to comparative studies (cohort studies or, preferably, RCTs). This staged build mirrors the growth of evidence and avoids jumping to an RCT before the technique is even described. The other sequences run the hierarchy backwards or in nonsensical order.",
+  "hy": "No evidence → case report → case series → comparative (cohort/RCT).",
+  "src": "Neligan I.11 · Case series and case reports",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — report → series → comparative studies is the recommended build.",
+   "B": "Wrong — starting with an RCT ignores the need for initial description.",
+   "C": "Wrong — this sequence descends the hierarchy illogically.",
+   "D": "Wrong — a systematic review cannot precede the primary studies it synthesizes."
+  }
+ },
+ {
+  "id": "N-I-11.25",
+  "chapter": "Ch11",
+  "section": "Effectiveness versus efficacy",
+  "stem": "What distinguishes an efficacy study from an effectiveness study in surgical outcomes research?",
+  "options": {
+   "A": "Efficacy evaluates outcomes under ideal, controlled conditions; effectiveness evaluates outcomes under real-world conditions",
+   "B": "Efficacy evaluates real-world outcomes; effectiveness evaluates ideal-condition outcomes",
+   "C": "Efficacy studies enroll heterogeneous populations; effectiveness studies use strict inclusion criteria",
+   "D": "They are interchangeable terms describing the same study type"
+  },
+  "answer": "A",
+  "exp": "Surgical outcomes research spans a continuum from efficacy to effectiveness. Efficacy studies ask whether an intervention works under ideal, controlled circumstances — highly selected homogeneous populations, trained staff, standardized interventions. Effectiveness studies ask whether it works in the real world — heterogeneous populations, minimal exclusions, usual providers, concurrent interventions. The reversed and \"interchangeable\" options contradict this distinction, which underlies why trial results may not reflect community practice.",
+  "hy": "Efficacy = ideal conditions; effectiveness = real-world conditions.",
+  "src": "Neligan I.11 · Effectiveness versus efficacy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — efficacy is ideal-condition, effectiveness is real-world.",
+   "B": "Wrong — the definitions are reversed.",
+   "C": "Wrong — heterogeneous populations characterize effectiveness, not efficacy.",
+   "D": "Wrong — the two terms are distinct, not interchangeable."
+  }
+ },
+ {
+  "id": "N-I-11.26",
+  "chapter": "Ch11",
+  "section": "Effectiveness versus efficacy",
+  "stem": "The carotid endarterectomy example contrasting randomized-trial hospitals with non-trial hospitals illustrated which lesson about trials versus real-world practice?",
+  "options": {
+   "A": "Real-world mortality was substantially higher than in the trials and was inversely proportional to a center's case volume",
+   "B": "Real-world mortality matched the trial mortality almost exactly",
+   "C": "Trial mortality was higher than community-practice mortality",
+   "D": "Mortality rose directly with increasing center volume"
+  },
+  "answer": "A",
+  "exp": "After the carotid endarterectomy trials reported very low mortality, real-world mortality proved substantially higher than the trials — even at institutions that had participated — and was inversely proportional to a center's procedural volume (higher volume, lower mortality). The lesson is that efficacy under trial conditions may overstate real-world effectiveness, supporting the value of population-based database research. The distractors claim matching or directly proportional relationships that the figure refutes.",
+  "hy": "Trial mortality < real-world; real-world mortality inversely related to center volume.",
+  "src": "Neligan I.11 · Effectiveness versus efficacy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — real-world mortality was higher and inversely related to volume.",
+   "B": "Wrong — real-world results did not match the trials.",
+   "C": "Wrong — trial mortality was lower, not higher, than community practice.",
+   "D": "Wrong — the relationship to volume was inverse, not direct."
+  }
+ },
+ {
+  "id": "N-I-11.27",
+  "chapter": "Ch11",
+  "section": "Power and the P-value",
+  "stem": "What does a P-value represent?",
+  "options": {
+   "A": "The probability of obtaining a result at least as extreme as observed, assuming the null hypothesis is true",
+   "B": "The probability that the null hypothesis itself is true",
+   "C": "The probability that the study's findings will reproduce",
+   "D": "The magnitude of the treatment effect observed"
+  },
+  "answer": "A",
+  "exp": "The P-value is the probability of obtaining a result at least as extreme as the one observed for a statistical test, assuming the null hypothesis (no difference) is true. A small P-value therefore implies the data are unlikely under the null, suggesting a true difference exists. Crucially it is not the probability that the null is true, not a measure of reproducibility, and not the effect size — common misinterpretations the chapter warns against.",
+  "hy": "P-value = P(result this extreme | null true) — not P(null is true).",
+  "src": "Neligan I.11 · Power and the P-value",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — probability of data this extreme given a true null.",
+   "B": "Wrong — that is the common misinterpretation the chapter rejects.",
+   "C": "Wrong — reproducibility is not what a P-value quantifies.",
+   "D": "Wrong — the P-value is not the effect size."
+  }
+ },
+ {
+  "id": "N-I-11.28",
+  "chapter": "Ch11",
+  "section": "Power and the P-value",
+  "stem": "The conventional threshold P < 0.05 corresponds to the alpha, or type I error. What does committing a type I error mean?",
+  "options": {
+   "A": "Rejecting a true null hypothesis — falsely concluding a difference exists",
+   "B": "Failing to reject a false null hypothesis — missing a difference that truly exists",
+   "C": "Achieving adequate statistical power for the study",
+   "D": "Overestimating the magnitude of the treatment effect"
+  },
+  "answer": "A",
+  "exp": "The threshold for statistical significance (typically 0.05 or 0.01) is the alpha, or type I error — the probability of rejecting a true null hypothesis and falsely concluding that a difference exists (a false positive). Failing to reject a false null (missing a real difference) is the type II/β error. Power and effect size are separate concepts. Confusing these errors leads to misreading \"significant\" results.",
+  "hy": "Type I (α) error = false positive (reject a true null).",
+  "src": "Neligan I.11 · Power and the P-value",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — type I error is falsely concluding a difference exists.",
+   "B": "Wrong — that describes the type II (β) error.",
+   "C": "Wrong — power is the complement of the type II error, not type I.",
+   "D": "Wrong — effect size is a separate quantity."
+  }
+ },
+ {
+  "id": "N-I-11.29",
+  "chapter": "Ch11",
+  "section": "Power and the P-value",
+  "stem": "An underpowered plastic surgery study fails to detect a difference that genuinely exists between two groups. This represents which statistical error, and it reflects what?",
+  "options": {
+   "A": "A type II (β) error, reflecting a lack of statistical power",
+   "B": "A type I (α) error, reflecting a false-positive result",
+   "C": "Selection bias from non-random sampling",
+   "D": "Confounding from an unmeasured third variable"
+  },
+  "answer": "A",
+  "exp": "Failing to detect a difference that truly exists is a type II (beta) error, and it happens when a study lacks adequate statistical power — typically from too small a sample size, a common problem in low-volume plastic surgery research. A type I error is the opposite (false positive). Selection bias and confounding are distinct threats to validity, not the specific error of missing a real effect.",
+  "hy": "Type II (β) error = missing a true difference → driven by low power/small n.",
+  "src": "Neligan I.11 · Power and the P-value",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — missing a real difference is a type II error reflecting low power.",
+   "B": "Wrong — type I error is a false positive, the opposite situation.",
+   "C": "Wrong — selection bias is a sampling problem, not this error.",
+   "D": "Wrong — confounding is a distinct validity threat."
+  }
+ },
+ {
+  "id": "N-I-11.30",
+  "chapter": "Ch11",
+  "section": "Power and the P-value",
+  "stem": "Chung et al. reported that more than 80% of \"negative studies\" in the Journal of Hand Surgery were underpowered to detect a 25% difference between groups. Below what power value did these studies fall, with insufficient sample size as the primary cause?",
+  "options": {
+   "A": "0.80",
+   "B": "0.50",
+   "C": "0.95",
+   "D": "0.05"
+  },
+  "answer": "A",
+  "exp": "Chung et al. found that more than 80% of \"negative studies\" in the Journal of Hand Surgery had powers below 0.80 to detect a 25% difference between groups, with a greater than 20% risk of missing a true difference; the primary culprit was insufficient sample size. Power of 0.80 (i.e., a 20% type II error rate) is the conventional minimum acceptable threshold. The other values (0.50, 0.95, 0.05) are not the cited power floor.",
+  "hy": "Conventional minimum power = 0.80; most \"negative\" hand studies fell below it.",
+  "src": "Neligan I.11 · Power and the P-value",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — studies fell below the 0.80 power threshold.",
+   "B": "Wrong — 0.50 is not the conventional power floor cited.",
+   "C": "Wrong — 0.95 is a confidence level, not the power threshold here.",
+   "D": "Wrong — 0.05 is the alpha threshold, not power."
+  }
+ },
+ {
+  "id": "N-I-11.31",
+  "chapter": "Ch11",
+  "section": "Table 11.3 Sample size and statistics",
+  "stem": "Per the chapter and the sample-size table, the P-value is affected by which two factors, such that a true difference can fail to reach significance?",
+  "options": {
+   "A": "The effect size (difference between groups) and the sample size",
+   "B": "The journal's impact factor and the number of co-authors",
+   "C": "The chosen alpha and the title of the study",
+   "D": "The standard deviation alone, independent of sample size"
+  },
+  "answer": "A",
+  "exp": "The P-value is influenced by both the effect size (the magnitude of difference between groups) and the sample size; for a given effect, a small sample may fail to reach significance while a large one may achieve it (illustrated in the chapter's sample-size table, where identical complication rates are non-significant at small n). Recognizing this dependence is key to not over- or under-interpreting a P-value. The other options name irrelevant factors or wrongly isolate the standard deviation from sample size.",
+  "hy": "P-value depends on effect size AND sample size.",
+  "src": "Neligan I.11 · Table 11.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — effect size and sample size jointly determine the P-value.",
+   "B": "Wrong — impact factor and author count are irrelevant.",
+   "C": "Wrong — the study title has no bearing on the P-value.",
+   "D": "Wrong — standard deviation matters only together with sample size."
+  }
+ },
+ {
+  "id": "N-I-11.32",
+  "chapter": "Ch11",
+  "section": "Table 11.4 Data sources",
+  "stem": "What is the key difference between a clinical registry and administrative claims data?",
+  "options": {
+   "A": "Registries are designed to collect detailed clinical and treatment data; claims data are collected for billing and lack clinical detail",
+   "B": "Claims data provide detailed clinical information; registries exist only for billing",
+   "C": "Registries capture only a single episode of care; claims data follow patients longitudinally",
+   "D": "Both are restricted to mortality and length of stay only"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.4, clinical registries are purpose-built to collect detailed clinical and treatment information (an advantage for nuanced research), whereas administrative/claims (\"discharge\") data are gathered for billing, typically represent only one episode of care, and lack clinical detail — limiting outcomes mostly to mortality, length of stay, and charges. The reversed description is wrong, the \"single episode\" feature belongs to claims rather than registries, and not both are limited to mortality/LOS.",
+  "hy": "Registry = detailed clinical data; claims data = billing-derived, clinically sparse.",
+  "src": "Neligan I.11 · Table 11.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — registries hold detailed clinical data; claims data are billing-based.",
+   "B": "Wrong — the descriptions are reversed.",
+   "C": "Wrong — single-episode capture is a claims-data feature, not a registry one.",
+   "D": "Wrong — registries are not limited to mortality and length of stay."
+  }
+ },
+ {
+  "id": "N-I-11.33",
+  "chapter": "Ch11",
+  "section": "Table 11.4 Data sources",
+  "stem": "The Plastic Surgery Registries Network (PSRN) of the ASPS and Plastic Surgery Foundation comprises five registries. Which set correctly lists them?",
+  "options": {
+   "A": "TOPS, NBIR, GRAFT, PROFILE, ASPS-QCDR",
+   "B": "SEER, NCCN, NSQIP, NIS, TOPS",
+   "C": "TOPS, SEER, GRAFT, NSQIP, EQ-5D",
+   "D": "NBIR, PROFILE, Dartmouth Atlas, CosmetAssure, SCIP"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.4, the Plastic Surgery Registries Network (PSRN) of the ASPS and Plastic Surgery Foundation comprises five registries: TOPS (Tracking Operations and Outcomes for Plastic Surgeons), NBIR (National Breast Implant Registry), GRAFT (autologous fat transfer), PROFILE (breast implants and ALCL), and the ASPS-QCDR. The other lists mix in cancer registries (SEER, NCCN), surgical-quality programs (NSQIP), administrative samples (NIS), utility instruments (EQ-5D), and databases (Dartmouth Atlas, CosmetAssure) that are not part of the PSRN.",
+  "hy": "PSRN's five: TOPS, NBIR, GRAFT, PROFILE, ASPS-QCDR.",
+  "src": "Neligan I.11 · Table 11.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the five PSRN registries.",
+   "B": "Wrong — SEER/NCCN/NSQIP/NIS are non-PSRN databases.",
+   "C": "Wrong — SEER, NSQIP, and EQ-5D are not PSRN registries.",
+   "D": "Wrong — Dartmouth Atlas, CosmetAssure, and SCIP are not PSRN registries."
+  }
+ },
+ {
+  "id": "N-I-11.34",
+  "chapter": "Ch11",
+  "section": "Table 11.4 Data sources",
+  "stem": "Which registry is a collaboration of the ASPS, the Plastic Surgery Foundation, and the FDA created specifically to study whether breast implants are associated with anaplastic large cell lymphoma?",
+  "options": {
+   "A": "PROFILE",
+   "B": "NBIR",
+   "C": "GRAFT",
+   "D": "TOPS"
+  },
+  "answer": "A",
+  "exp": "PROFILE (Patient Registry and Outcomes For breast Implants and anaplastic large cell Lymphoma etiology and Epidemiology) is the ASPS/PSF/FDA collaboration created specifically to understand the role of breast implants in the etiology of anaplastic large cell lymphoma and to determine whether an association exists. NBIR is the general breast-implant safety registry, GRAFT tracks fat grafting, and TOPS is the general operations/outcomes registry — none is the dedicated implant-ALCL registry.",
+  "hy": "PROFILE = ASPS/PSF/FDA registry for breast implants and ALCL.",
+  "src": "Neligan I.11 · Table 11.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — PROFILE is the dedicated breast-implant/ALCL registry.",
+   "B": "Wrong — NBIR is the broad breast-implant safety registry.",
+   "C": "Wrong — GRAFT tracks autologous fat transfer.",
+   "D": "Wrong — TOPS is the general plastic surgery operations registry."
+  }
+ },
+ {
+  "id": "N-I-11.35",
+  "chapter": "Ch11",
+  "section": "Administrative claims data",
+  "stem": "Why can administrative claims data not be used to evaluate cosmetic surgery outcomes, and which database has been used instead?",
+  "options": {
+   "A": "Cosmetic procedures are self-pay and therefore not captured in claims; CosmetAssure, a complication-insurance database, has been used",
+   "B": "Cosmetic procedures are illegal to bill, so SEER has been used instead",
+   "C": "Claims data exclude all surgical procedures, so NSQIP has been used instead",
+   "D": "Cosmetic claims are too detailed to process, so the Dartmouth Atlas has been used"
+  },
+  "answer": "A",
+  "exp": "Claims data cannot evaluate cosmetic surgery because these procedures are self-pay and thus not captured in insurance/billing records. To study cosmetic outcomes, researchers have turned to CosmetAssure — a nationally sold insurance policy covering complications of cosmetic surgery, which creates a financial incentive to report covered complications (though its clinical detail is limited and it lacks patient-reported outcomes). SEER (cancer), NSQIP (surgical quality), and the Dartmouth Atlas (variation) do not fill this role, and the rationales given for them are false.",
+  "hy": "Cosmetic = self-pay → absent from claims; CosmetAssure used instead.",
+  "src": "Neligan I.11 · Administrative claims data",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — self-pay cosmetic cases are absent from claims; CosmetAssure is used.",
+   "B": "Wrong — cosmetic surgery is legal to bill privately; SEER is a cancer registry.",
+   "C": "Wrong — claims data do capture surgical procedures generally.",
+   "D": "Wrong — the Dartmouth Atlas studies variation, not cosmetic complications."
+  }
+ },
+ {
+  "id": "N-I-11.36",
+  "chapter": "Ch11",
+  "section": "Small-area variation",
+  "stem": "Procedures such as hysterectomy and prostatectomy show wide regional rate variation, whereas appendectomy and cholecystectomy do not. What does high rate variability for a procedure suggest?",
+  "options": {
+   "A": "The optimal management strategy has not yet been established or universally adopted",
+   "B": "The procedure is being systematically overpriced",
+   "C": "The procedure is always being overused",
+   "D": "The procedure is contraindicated in those regions"
+  },
+  "answer": "A",
+  "exp": "Small-area variation analysis (pioneered by Wennberg and Gittelsohn, 1973; exemplified by the Dartmouth Atlas) shows that procedures with well-established risks and benefits vary little across regions, while high variability signals that the optimal management has not yet been established or adopted. Variation itself does not tell us which rate is correct — only that more definitive evaluation is needed. It is not evidence of overpricing, universal overuse, or contraindication.",
+  "hy": "High procedure-rate variation → optimal management not yet established/adopted.",
+  "src": "Neligan I.11 · Small-area variation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — variability flags unsettled optimal management.",
+   "B": "Wrong — variation is about practice patterns, not price.",
+   "C": "Wrong — high variation does not by itself prove overuse.",
+   "D": "Wrong — variation does not imply the procedure is contraindicated."
+  }
+ },
+ {
+  "id": "N-I-11.37",
+  "chapter": "Ch11",
+  "section": "Table 11.5 Volume–outcome",
+  "stem": "Per the volume–outcome table (Roohan et al.), 5-year survival after breast cancer treatment differed between low- and high-volume hospitals by approximately how much?",
+  "options": {
+   "A": "As much as a 30% difference, favoring high-volume centers",
+   "B": "No measurable difference between volume strata",
+   "C": "About 5%, favoring low-volume centers",
+   "D": "About 50%, favoring low-volume centers"
+  },
+  "answer": "A",
+  "exp": "Per Table 11.5 (Roohan et al.), 5-year survival risk ratios after breast cancer treatment rose from 1.00 at high-volume hospitals (>150 cases/yr) to 1.60 at very-low-volume hospitals (1–10 cases/yr) — about a 30% difference in survival between low- and high-volume centers. This volume–outcome relationship (also shown by Birkmeyer for surgeon volume and mortality, and for autologous breast reconstruction) supports referral to higher-volume centers. The other options deny or invert the gradient.",
+  "hy": "~30% better 5-yr survival at high- vs low-volume centers (RR 1.00 vs 1.60).",
+  "src": "Neligan I.11 · Table 11.5",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — about a 30% survival difference favoring high-volume centers (RR 1.60 very-low vs 1.00 high).",
+   "B": "Wrong — a clear volume gradient existed.",
+   "C": "Wrong — the advantage favors high-volume, not low-volume, centers.",
+   "D": "Wrong — the difference was ~30%, not 50% favoring low volume."
+  }
+ },
+ {
+  "id": "N-I-11.38",
+  "chapter": "Ch11",
+  "section": "Utilities and preference-based measures",
+  "stem": "Preferences may be quantified as \"values\" or \"utilities\" depending on the elicitation method. Which statement is correct?",
+  "options": {
+   "A": "Values are measured under conditions of certainty (rating scale, time trade-off); utilities are measured under uncertainty (standard gamble)",
+   "B": "Values are measured under uncertainty; utilities are measured under certainty",
+   "C": "Both values and utilities are measured only by the standard gamble",
+   "D": "Utilities use the rating scale, whereas values use the standard gamble"
+  },
+  "answer": "A",
+  "exp": "Preferences are termed values when measured under conditions of certainty (e.g., rating scale, time trade-off) and utilities when measured under conditions of uncertainty (the standard gamble). Both quantify the desirability of a health state, and the most common preference metric derived is the QALY. The reversed pairing and the claims that both come only from the standard gamble (or that the methods are swapped) contradict the definitions.",
+  "hy": "Values = certainty (rating scale/TTO); utilities = uncertainty (standard gamble).",
+  "src": "Neligan I.11 · Utilities and preference-based measures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — values under certainty, utilities under uncertainty.",
+   "B": "Wrong — the certainty/uncertainty assignment is reversed.",
+   "C": "Wrong — the standard gamble measures utilities, not both.",
+   "D": "Wrong — the rating scale measures values; the standard gamble measures utilities."
+  }
+ },
+ {
+  "id": "N-I-11.39",
+  "chapter": "Ch11",
+  "section": "Utilities and preference-based measures",
+  "stem": "On the utility scale used to derive QALYs, what do the anchors 0.0 and 1.0 represent, and can a health state score below zero?",
+  "options": {
+   "A": "0.0 = death and 1.0 = perfect health; some states judged worse than death can score negative",
+   "B": "0.0 = perfect health and 1.0 = death; negative scores are impossible",
+   "C": "0.0 = mild disability and 1.0 = severe disability; scores are never negative",
+   "D": "0.0 = death and 1.0 = perfect health; but scores can never be negative"
+  },
+  "answer": "A",
+  "exp": "Preference-based measures run from 0.0 (death) to 1.0 (perfect health); importantly, some health states are considered worse than death and can therefore carry negative scores. These utilities feed QALY calculations and cost-utility analysis, allowing comparison across diverse conditions on a common scale. The options that reverse the anchors or deny negative values misstate the scale.",
+  "hy": "Utility scale: 0.0 = death, 1.0 = perfect health; states worse than death can be negative.",
+  "src": "Neligan I.11 · Utilities and preference-based measures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — 0 = death, 1 = perfect health, with possible negative (worse-than-death) values.",
+   "B": "Wrong — the anchors are reversed and negatives are possible.",
+   "C": "Wrong — the anchors are death and perfect health, not disability grades.",
+   "D": "Wrong — negative scores ARE possible for states worse than death."
+  }
+ },
+ {
+  "id": "N-I-11.40",
+  "chapter": "Ch11",
+  "section": "Utilities and preference-based measures",
+  "stem": "The standard gamble technique for measuring utilities is considered to adhere most closely to which theory?",
+  "options": {
+   "A": "The von Neumann–Morgenstern utility theory",
+   "B": "Bayesian decision theory",
+   "C": "The Donabedian model of quality",
+   "D": "Porter's theory of value-based competition"
+  },
+  "answer": "A",
+  "exp": "The standard gamble — in which a patient chooses between their current health state and a gamble between perfect health and death, varying the probabilities to a point of indifference — is considered to adhere most closely to the von Neumann–Morgenstern utility theory, the formal theory of decision-making under uncertainty. Bayesian decision theory, the Donabedian quality model, and Porter's value framework are unrelated to standard-gamble utility measurement.",
+  "hy": "Standard gamble ↔ von Neumann–Morgenstern utility theory.",
+  "src": "Neligan I.11 · Utilities and preference-based measures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the standard gamble is grounded in von Neumann–Morgenstern theory.",
+   "B": "Wrong — Bayesian decision theory is a different framework.",
+   "C": "Wrong — Donabedian's model concerns quality of care, not utility elicitation.",
+   "D": "Wrong — Porter's value theory addresses value-based competition, not utilities."
+  }
+ },
+ {
+  "id": "N-I-11.41",
+  "chapter": "Ch11",
+  "section": "Utilities and preference-based measures",
+  "stem": "Which set comprises widely used preference (utility) classification systems that convert generic health-status responses into a utility value?",
+  "options": {
+   "A": "Quality of Well-Being Scale (QWB), Health Utilities Index (HUI), and EuroQol (EQ-5D)",
+   "B": "BREAST-Q, FACE-Q, and BODY-Q",
+   "C": "CONSORT, STROBE, and PRISMA",
+   "D": "SEER, NCCN, and NSQIP"
+  },
+  "answer": "A",
+  "exp": "Widely used preference (utility) classification systems convert responses on a generic health-status instrument into a single utility via population-derived algorithms; the examples named are the Quality of Well-Being Scale (QWB), the Health Utilities Index (HUI), and the EuroQol (EQ-5D). BREAST-Q/FACE-Q/BODY-Q are condition-specific PROMs (not generic utility systems), CONSORT/STROBE/PRISMA are reporting guidelines, and SEER/NCCN/NSQIP are databases/registries.",
+  "hy": "Utility classification systems: QWB, HUI, EQ-5D.",
+  "src": "Neligan I.11 · Utilities and preference-based measures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — QWB, HUI, and EQ-5D are generic utility classification systems.",
+   "B": "Wrong — BREAST-Q/FACE-Q/BODY-Q are condition-specific PROMs.",
+   "C": "Wrong — CONSORT/STROBE/PRISMA are reporting guidelines.",
+   "D": "Wrong — SEER/NCCN/NSQIP are databases/registries."
+  }
+ },
+ {
+  "id": "N-I-11.42",
+  "chapter": "Ch11",
+  "section": "Types of economic studies",
+  "stem": "A cost–benefit analysis (CBA) is distinguished from the other economic evaluations by how it expresses outcomes. How?",
+  "options": {
+   "A": "Outcomes are converted to monetary units using a willingness-to-pay approach (dollars expended for dollars gained)",
+   "B": "Outcomes are expressed as cost per quality-adjusted life year",
+   "C": "Outcomes are expressed as cost per natural clinical unit",
+   "D": "Only the costs of interventions are compared, with no outcome measure"
+  },
+  "answer": "A",
+  "exp": "A cost–benefit analysis converts outcomes into monetary units using a willingness-to-pay approach, so both costs and consequences are expressed in dollars and results read as dollars expended for dollars gained. This is what distinguishes CBA from cost-effectiveness analysis (cost per natural clinical unit), cost-utility analysis (cost per QALY), and a bare cost analysis (costs only). Monetizing health outcomes is both CBA's hallmark and its main controversy.",
+  "hy": "CBA = outcomes monetized via willingness-to-pay (dollars for dollars).",
+  "src": "Neligan I.11 · Types of economic studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — CBA monetizes outcomes using willingness-to-pay.",
+   "B": "Wrong — cost per QALY is cost-utility analysis.",
+   "C": "Wrong — cost per natural unit is cost-effectiveness analysis.",
+   "D": "Wrong — comparing costs only is a cost analysis."
+  }
+ },
+ {
+  "id": "N-I-11.43",
+  "chapter": "Ch11",
+  "section": "Types of economic studies",
+  "stem": "What distinguishes a cost-effectiveness analysis (CEA) from a cost–utility analysis (CUA)?",
+  "options": {
+   "A": "CEA measures cost per natural clinical unit (e.g., per successful flap); CUA measures cost per QALY, incorporating patient preference",
+   "B": "CEA uses QALYs; CUA uses natural clinical units",
+   "C": "CEA compares only costs; CUA compares only outcomes",
+   "D": "CEA converts outcomes to dollars; CUA ignores outcomes entirely"
+  },
+  "answer": "A",
+  "exp": "Cost-effectiveness analysis expresses results as cost per natural clinical unit directly tied to the intervention's goal (e.g., cost per successful flap or per successful replantation), whereas cost-utility analysis — the preferred method when outcomes of compared interventions differ — uses health utilities converted to QALYs and thus incorporates patient preference (cost per QALY). They share the cost perspective but differ in the outcome measure. The other options confuse CEA/CUA with cost–benefit (dollar outcomes) or bare cost analysis.",
+  "hy": "CEA = cost per natural unit; CUA = cost per QALY (patient preference).",
+  "src": "Neligan I.11 · Types of economic studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — CEA uses natural units; CUA uses preference-weighted QALYs.",
+   "B": "Wrong — the QALY/natural-unit assignment is reversed.",
+   "C": "Wrong — comparing only costs (or only outcomes) describes neither CEA nor CUA.",
+   "D": "Wrong — monetizing outcomes is cost–benefit analysis; CUA does not ignore outcomes."
+  }
+ },
+ {
+  "id": "N-I-11.44",
+  "chapter": "Ch11",
+  "section": "Types of economic studies",
+  "stem": "Why is a cost analysis (CA) considered only a partial economic evaluation?",
+  "options": {
+   "A": "It compares only the costs of interventions, with no evaluation of their outcomes",
+   "B": "It evaluates outcomes but deliberately ignores costs",
+   "C": "It uses QALYs without any monetary conversion",
+   "D": "It can only be applied to cosmetic, self-pay procedures"
+  },
+  "answer": "A",
+  "exp": "A cost analysis compares only the costs of interventions and performs no evaluation of their outcomes, which is why it is regarded as only a partial economic evaluation — frequently mislabeled \"cost-effectiveness\" in the plastic surgery literature. A true economic evaluation integrates both cost and outcomes (CEA, CUA, or CBA). The other options describe outcome-only or QALY-based analyses, or wrongly restrict CA to cosmetic surgery.",
+  "hy": "Cost analysis = costs only, no outcomes → partial economic evaluation.",
+  "src": "Neligan I.11 · Types of economic studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — CA compares costs without evaluating outcomes.",
+   "B": "Wrong — CA ignores outcomes, it does not ignore costs.",
+   "C": "Wrong — using QALYs would make it a cost-utility analysis.",
+   "D": "Wrong — CA is not restricted to cosmetic procedures."
+  }
+ },
+ {
+  "id": "N-I-11.45",
+  "chapter": "Ch11",
+  "section": "Types of economic studies",
+  "stem": "In cost–utility analysis, what cost-per-QALY threshold is typically used to judge whether a new intervention should be adopted?",
+  "options": {
+   "A": "$50,000/QALY",
+   "B": "$5,000/QALY",
+   "C": "$500,000/QALY",
+   "D": "$1,000,000/QALY"
+  },
+  "answer": "A",
+  "exp": "In cost–utility analysis, a threshold of approximately $50,000 per QALY is conventionally used to judge whether a new intervention should be adopted — interventions below this cost per QALY are generally considered worth adopting. The other figures are off by one or more orders of magnitude and do not reflect the chapter's cited threshold. This single number is a high-yield board fact.",
+  "hy": "Adoption threshold ≈ $50,000 per QALY.",
+  "src": "Neligan I.11 · Types of economic studies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — $50,000/QALY is the conventional adoption threshold cited.",
+   "B": "Wrong — $5,000 is an order of magnitude too low.",
+   "C": "Wrong — $500,000 is an order of magnitude too high.",
+   "D": "Wrong — $1,000,000 far exceeds the cited threshold."
+  }
+ },
+ {
+  "id": "N-I-11.46",
+  "chapter": "Ch11",
+  "section": "Comparative effectiveness research",
+  "stem": "In Thoma et al.'s analysis, the DIEP flap was more costly than the free TRAM flap yet was found to be more cost-effective. What principle does this illustrate about comparative effectiveness research?",
+  "options": {
+   "A": "CER identifies the treatment with the best value (benefits relative to cost), which is not necessarily the lowest-cost option",
+   "B": "CER always selects the least expensive intervention available",
+   "C": "Cost-effectiveness and lowest cost are synonymous concepts",
+   "D": "A more expensive option can never be the more cost-effective one"
+  },
+  "answer": "A",
+  "exp": "Comparative effectiveness research weighs benefits against costs to identify the treatment with the best value, which is not necessarily the cheapest: in Thoma et al.'s study the DIEP flap cost more than the free TRAM yet delivered enough additional benefit to be the more cost-effective option. CER therefore looks at value, not cost alone. The distractors equate cost-effectiveness with lowest cost or wrongly assert a costlier option can never be cost-effective.",
+  "hy": "Cost-effective ≠ cheapest; CER picks best value (benefit relative to cost).",
+  "src": "Neligan I.11 · Comparative effectiveness research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — CER identifies best value, not necessarily lowest cost.",
+   "B": "Wrong — CER does not automatically choose the cheapest option.",
+   "C": "Wrong — cost-effectiveness and lowest cost are not synonymous.",
+   "D": "Wrong — a costlier option can indeed be more cost-effective (the DIEP example)."
+  }
+ },
+ {
+  "id": "N-I-11.47",
+  "chapter": "Ch11",
+  "section": "Comparative effectiveness research",
+  "stem": "Among the four common perspectives in economic evaluation (societal, patient, employer, payer), how is the societal perspective distinguished?",
+  "options": {
+   "A": "It includes all benefits and costs to the whole of society, such as work productivity and caregiver costs, not just one patient",
+   "B": "It includes only the individual patient's out-of-pocket costs and benefits",
+   "C": "It includes only the payer's reimbursement costs and benefits",
+   "D": "It includes only the employer's gains from increased worker productivity"
+  },
+  "answer": "A",
+  "exp": "The societal perspective is the broadest of the four common viewpoints: it counts all benefits and costs to the whole of society — including work productivity and caregiver costs — rather than to a single patient. The patient perspective counts only the individual's costs/benefits, the payer perspective only the payer's, and the employer perspective only the employer's productivity-related costs and benefits. (A second panel recommended the third-party payer and society as the most important perspectives.)",
+  "hy": "Societal perspective = all costs/benefits to society (productivity, caregiver costs).",
+  "src": "Neligan I.11 · Comparative effectiveness research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the societal view captures all of society's costs and benefits.",
+   "B": "Wrong — out-of-pocket-only is the patient perspective.",
+   "C": "Wrong — reimbursement-only is the payer perspective.",
+   "D": "Wrong — productivity-only is the employer perspective."
+  }
+ },
+ {
+  "id": "N-I-11.48",
+  "chapter": "Ch11",
+  "section": "Preconditions to credible research",
+  "stem": "A researcher preparing manuscripts for a randomized trial, an observational study, a systematic review, and an economic evaluation should follow which EQUATOR reporting guidelines, respectively?",
+  "options": {
+   "A": "CONSORT, STROBE, PRISMA, CHEERS",
+   "B": "PRISMA, CONSORT, CHEERS, STROBE",
+   "C": "STROBE, CHEERS, CONSORT, PRISMA",
+   "D": "CHEERS, PRISMA, STROBE, CONSORT"
+  },
+  "answer": "A",
+  "exp": "The EQUATOR network houses design-specific reporting guidelines: CONSORT for randomized trials, STROBE for observational studies, PRISMA for systematic reviews, and CHEERS for economic evaluations. Matching the manuscript to the right checklist improves transparency and completeness of reporting. The other orderings scramble these assignments.",
+  "hy": "CONSORT (RCT), STROBE (observational), PRISMA (systematic review), CHEERS (economic).",
+  "src": "Neligan I.11 · Preconditions to credible research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — the standard EQUATOR mapping by study type.",
+   "B": "Wrong — CONSORT is for trials, not observational studies.",
+   "C": "Wrong — PRISMA is for systematic reviews, not trials.",
+   "D": "Wrong — CHEERS is for economic evaluations, not trials."
+  }
+ },
+ {
+  "id": "N-I-11.49",
+  "chapter": "Ch11",
+  "section": "What do we do with the outcomes?",
+  "stem": "Donabedian's 1966 framework for assessing quality of care is built on which three categories?",
+  "options": {
+   "A": "Structure, Process, and Outcome",
+   "B": "Input, Throughput, and Output",
+   "C": "Efficacy, Effectiveness, and Efficiency",
+   "D": "Access, Cost, and Quality"
+  },
+  "answer": "A",
+  "exp": "Donabedian's 1966 model — still foundational today — assesses quality of care across three categories: Structure (the setting where care occurs, e.g., a dedicated microsurgical team), Process (the activities of patients and clinicians in giving/receiving care, e.g., a standardized replantation pathway), and Outcome (the effects of care on health status). The other triads are management or educational frameworks, not Donabedian's quality model.",
+  "hy": "Donabedian: Structure, Process, Outcome.",
+  "src": "Neligan I.11 · What do we do with the outcomes?",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — Structure, Process, Outcome is Donabedian's triad.",
+   "B": "Wrong — input/throughput/output is a generic systems model.",
+   "C": "Wrong — efficacy/effectiveness/efficiency are evaluation concepts, not the triad.",
+   "D": "Wrong — access/cost/quality is a different health-policy framing."
+  }
+ },
+ {
+  "id": "N-I-11.50",
+  "chapter": "Ch11",
+  "section": "Knowledge translation",
+  "stem": "The chapter highlights a gap between evidence and practice. On average, how long does it take for new research knowledge to reach widespread practice, and what fraction of recommended care did US patients actually receive?",
+  "options": {
+   "A": "17–24 years; 54.9% of recommended care",
+   "B": "2–3 years; 95% of recommended care",
+   "C": "30–40 years; 25% of recommended care",
+   "D": "5–10 years; 80% of recommended care"
+  },
+  "answer": "A",
+  "exp": "The chapter cites a large evidence-to-practice gap: it takes an average of 17–24 years for new research knowledge (such as RCT findings) to be integrated into widespread practice, and a landmark study found US patients received only 54.9% of recommended care overall. These figures motivate knowledge translation efforts and quality-improvement initiatives. The other paired values are fabricated.",
+  "hy": "~17–24 yr lag to widespread practice; patients get ~54.9% of recommended care.",
+  "src": "Neligan I.11 · Knowledge translation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — 17–24 years and 54.9% are the cited figures.",
+   "B": "Wrong — the lag is far longer and the care fraction far lower than 95%.",
+   "C": "Wrong — neither 30–40 years nor 25% matches the text.",
+   "D": "Wrong — 5–10 years and 80% are not the cited values."
+  }
+ },
+ {
+  "id": "N-I-11.51",
+  "chapter": "Ch11",
+  "section": "Preconditions to credible research",
+  "stem": "A \"core outcome set\" is an agreed minimum list of outcomes to be measured in all studies of a condition. Which initiative is central to developing core outcome sets, and which provides systematic reviews of outcome-measurement instruments?",
+  "options": {
+   "A": "COMET develops core outcome sets; COSMIN reviews outcome-measurement instruments",
+   "B": "COSMIN develops core outcome sets; COMET reviews outcome-measurement instruments",
+   "C": "CONSORT develops core outcome sets; PRISMA reviews them",
+   "D": "EQUATOR develops core outcome sets; CHEERS reviews them"
+  },
+  "answer": "A",
+  "exp": "A core outcome set is an agreed minimum list of outcomes to be measured in all studies of a given condition, developed through systematic review, stakeholder interviews, and consensus methods such as Delphi surveys; the COMET (Core Outcome Measures in Effectiveness Trials) initiative is central to developing these. Separately, COSMIN (Consensus-Based Standards for the Selection of Health Measurement Instruments) provides systematic reviews of outcome-measurement instruments to help select valid, reliable, responsive measures. CONSORT/PRISMA/EQUATOR/CHEERS are reporting frameworks, not these.",
+  "hy": "COMET = core outcome sets; COSMIN = reviews of outcome-measurement instruments.",
+  "src": "Neligan I.11 · Preconditions to credible research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — COMET develops core outcome sets; COSMIN reviews measurement instruments.",
+   "B": "Wrong — the two initiatives' roles are reversed.",
+   "C": "Wrong — CONSORT and PRISMA are reporting guidelines.",
+   "D": "Wrong — EQUATOR hosts guidelines; CHEERS is an economic checklist."
+  }
+ },
+ {
+  "id": "N-I-11.52",
+  "chapter": "Ch11",
+  "section": "Barriers to uptake",
+  "stem": "In Cabana et al.'s landmark systematic review, the sequence of behavior change in a physician's clinical practice was divided into which three domains?",
+  "options": {
+   "A": "Knowledge, attitude, and behavior",
+   "B": "Structure, process, and outcome",
+   "C": "Awareness, agreement, and adoption",
+   "D": "Cognitive, affective, and psychomotor"
+  },
+  "answer": "A",
+  "exp": "In Cabana et al.'s landmark systematic review, the sequence of behavior change in a physician's practice was divided into three domains — knowledge, attitude, and behavior — each of which can encounter its own barriers to applying evidence (e.g., lack of awareness or familiarity at the knowledge stage; lack of outcome expectancy or self-efficacy at the attitude stage; external constraints at the behavior stage). Donabedian's structure/process/outcome is a quality model, and the other triads are not Cabana's domains.",
+  "hy": "Cabana: knowledge → attitude → behavior (each with its own barriers).",
+  "src": "Neligan I.11 · Barriers to uptake",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — knowledge, attitude, behavior are Cabana's three domains.",
+   "B": "Wrong — structure/process/outcome is Donabedian's quality model.",
+   "C": "Wrong — awareness/agreement/adoption is a different adoption framing.",
+   "D": "Wrong — cognitive/affective/psychomotor are learning domains, not Cabana's."
+  }
+ },
+ {
+  "id": "N-I-11.53",
+  "chapter": "Ch11",
+  "section": "Public reporting and pay-for-performance",
+  "stem": "How does pay-for-performance (P4P) differ from the federal pay-for-reporting (P4R) Physician Quality Reporting Initiative?",
+  "options": {
+   "A": "P4P links financial incentives to the quality of care delivered; P4R compensates physicians for reporting regardless of their performance",
+   "B": "P4P pays physicians regardless of performance; P4R ties payment strictly to outcomes",
+   "C": "Both tie reimbursement exclusively to risk-adjusted mortality",
+   "D": "P4P applies only to cosmetic surgery; P4R only to reconstructive surgery"
+  },
+  "answer": "A",
+  "exp": "Pay-for-performance (P4P, a form of value-based purchasing and part of the Affordable Care Act) ties reimbursement to the quality of care delivered — metric-driven outcomes, best practices, and patient satisfaction. By contrast, the federal pay-for-reporting (P4R) Physician Quality Reporting Initiative compensates physicians for participating in quality reporting regardless of how they perform on the measures. The reversed and \"mortality-only\" or specialty-restricted options misstate both programs.",
+  "hy": "P4P pays for performance/quality; P4R pays for reporting regardless of performance.",
+  "src": "Neligan I.11 · Public reporting and pay-for-performance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — P4P rewards performance; P4R rewards reporting itself.",
+   "B": "Wrong — the two models are reversed.",
+   "C": "Wrong — neither is tied exclusively to mortality.",
+   "D": "Wrong — the programs are not split by cosmetic vs reconstructive surgery."
+  }
+ },
+ {
+  "id": "N-I-11.54",
+  "chapter": "Ch11",
+  "section": "Decision aids for patients",
+  "stem": "A Cochrane systematic review of patient decision aids (Stacey et al.) found which effect compared with usual care?",
+  "options": {
+   "A": "Patients felt more knowledgeable and had reduced decisional conflict, with no adverse effect on health outcomes or satisfaction",
+   "B": "Patients ended up less knowledgeable and had greater decisional conflict",
+   "C": "Decision aids reliably improved patient satisfaction, anxiety, and HRQL",
+   "D": "Decision aids fully replaced the patient–physician encounter"
+  },
+  "answer": "A",
+  "exp": "The Cochrane review by Stacey et al. found that, compared with usual care, patients exposed to decision aids felt more knowledgeable about their options and had reduced decisional conflict from feeling uninformed or unclear about their values, with no adverse effects on health outcomes or satisfaction; more patients also participated actively in decisions. However, RCTs did not demonstrate that decision aids improve outcomes such as satisfaction, anxiety, or HRQL, and they supplement rather than replace the patient–physician encounter. The distractors invert these findings.",
+  "hy": "Decision aids ↑ knowledge, ↓ decisional conflict; no harm, but no proven outcome benefit.",
+  "src": "Neligan I.11 · Decision aids for patients",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "11",
+  "chname": "Evidence-Based Medicine and Health Services Research",
+  "why": {
+   "A": "Correct — more knowledge and less decisional conflict, without adverse effects.",
+   "B": "Wrong — knowledge improved and conflict fell, the opposite of this option.",
+   "C": "Wrong — trials did not show reliable gains in satisfaction, anxiety, or HRQL.",
+   "D": "Wrong — decision aids supplement, not replace, the clinical encounter."
+  }
  }
 ]
