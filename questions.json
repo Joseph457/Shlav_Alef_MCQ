@@ -27400,5 +27400,369 @@
    "C": "Wrong — TLND is done at nodal recurrence, not before any tumor.",
    "D": "Wrong — ELND does carry real morbidity."
   }
+ },
+ {
+  "id": "B108.61",
+  "chapter": "Ch108",
+  "section": "Nodular BCC",
+  "stem": "A 72-year-old fair-skinned man has this slowly enlarging lesion on the cheek, present for over a year. It is a translucent, pearly papulonodule with overlying arborizing telangiectasias and a rolled border. What is the most likely diagnosis?",
+  "options": {
+   "A": "Nodular basal cell carcinoma",
+   "B": "Amelanotic melanoma",
+   "C": "Sebaceous hyperplasia",
+   "D": "Dermal melanocytic nevus"
+  },
+  "answer": "A",
+  "exp": "Nodular BCC is the most common BCC subtype (~50%) and classically presents as a translucent, pearly papulonodule with arborizing surface telangiectasias over a rolled, raised border, sometimes ulcerating centrally (\"rodent ulcer\"); it arises through Hedgehog-pathway (PTCH1/SMO) activation in basaloid keratinocytes. The pearly translucency plus branching vessels and rolled edge are the discriminators. The amelanotic-melanoma option lacks the pearly rolled border and shows polymorphous atypical vessels; sebaceous hyperplasia shows yellow umbilicated lobules with non-branching crown vessels; a dermal nevus is soft, skin-colored, and stable for years.",
+  "hy": "Pearly papule + arborizing telangiectasia + rolled border = nodular BCC.",
+  "src": "Bologna Ch 108, Fig 108.16 · Nodular BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-61.jpg",
+  "imgcap": "Slowly growing lesion on the cheek",
+  "why": {
+   "A": "Correct — translucent pearly papulonodule with arborizing vessels and a rolled border is classic nodular BCC.",
+   "B": "Wrong — amelanotic melanoma shows polymorphous/atypical vessels and lacks a pearly rolled border.",
+   "C": "Wrong — sebaceous hyperplasia has yellow umbilicated lobules with crown (non-arborizing) vessels.",
+   "D": "Wrong — a dermal nevus is soft, skin-colored, and long-stable, without telangiectasia or ulceration."
+  }
+ },
+ {
+  "id": "B108.62",
+  "chapter": "Ch108",
+  "section": "Superficial BCC",
+  "stem": "A 58-year-old presents with several thin, scaly, erythematous patches/plaques on the trunk like those shown; biopsy reveals buds of basaloid cells attached to the undersurface of the epidermis. Which BCC subtype is this?",
+  "options": {
+   "A": "Superficial basal cell carcinoma",
+   "B": "Nodular basal cell carcinoma",
+   "C": "Morpheaform basal cell carcinoma",
+   "D": "Micronodular basal cell carcinoma"
+  },
+  "answer": "A",
+  "exp": "Superficial BCC favors the trunk, presents at a younger mean age (mid-50s), and grows mainly horizontally as erythematous, thin, scaly patches/plaques with a fine pearly rim; histology shows buds of basaloid cells budding from the undersurface of the epidermis. Its notable subclinical lateral spread explains recurrence after routine excision. Nodular BCC is a discrete pearly nodule (usually head/neck), morpheaform is a scar-like indurated plaque with deep infiltration, and micronodular shows small infiltrating basaloid nests — none present as multifocal trunk patches.",
+  "hy": "Trunk + erythematous scaly patches + horizontal growth + subclinical spread = superficial BCC.",
+  "src": "Bologna Ch 108, Fig 108.18 · Superficial BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-62.jpg",
+  "imgcap": "Scaly erythematous patches on the trunk",
+  "why": {
+   "A": "Correct — trunk patches with epidermal basaloid buds and horizontal growth define superficial BCC.",
+   "B": "Wrong — nodular BCC is a discrete pearly nodule, not multifocal trunk patches.",
+   "C": "Wrong — morpheaform BCC is a scar-like indurated plaque, not a scaly patch.",
+   "D": "Wrong — micronodular BCC is a histologic infiltrative pattern, not this multifocal patch presentation."
+  }
+ },
+ {
+  "id": "B108.63",
+  "chapter": "Ch108",
+  "section": "Morpheaform BCC",
+  "stem": "A patient has this ill-defined, indurated, scar-like plaque on the face with overlying telangiectasias, but with no history of trauma or surgery at the site. Which statement about this lesion is correct?",
+  "options": {
+   "A": "Morpheaform (sclerosing) BCC — aggressive subclinical infiltration; treat with Mohs or wide margins",
+   "B": "Superficial BCC — least aggressive subtype; treat with topical imiquimod or 5-FU",
+   "C": "Fibroepithelioma of Pinkus — a soft pink pedunculated plaque, typically on the lower back",
+   "D": "Nodular BCC — reliably cured by curettage and electrodesiccation"
+  },
+  "answer": "A",
+  "exp": "Morpheaform (sclerosing) BCC resembles a scar or plaque of morphea — ill-defined, indurated, sometimes with telangiectasia — and behaves aggressively with extensive subclinical infiltration between collagen bundles, causing high recurrence after standard excision; Mohs (or wider margins) is preferred. A scar-like plaque without a trauma/surgery history is the clue. Superficial BCC is a flat scaly trunk patch, fibroepithelioma of Pinkus is a soft pink plaque on the lower back, and curettage/electrodesiccation is inappropriate for an infiltrative scar-like tumor.",
+  "hy": "Scar-like indurated plaque, no trauma → morpheaform BCC → Mohs/wide margins.",
+  "src": "Bologna Ch 108, Fig 108.19 · Morpheaform BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-63.jpg",
+  "imgcap": "Scar-like plaque on the face, no trauma history",
+  "why": {
+   "A": "Correct — morpheaform BCC infiltrates subclinically and needs Mohs/wide margins.",
+   "B": "Wrong — superficial BCC is a flat scaly patch, not an indurated scar-like plaque.",
+   "C": "Wrong — fibroepithelioma of Pinkus is a soft pink plaque of the lower back, not a facial scar-like plaque.",
+   "D": "Wrong — curettage/electrodesiccation is unreliable for an infiltrative scar-like (morpheaform) tumor."
+  }
+ },
+ {
+  "id": "B108.64",
+  "chapter": "Ch108",
+  "section": "Pigmented BCC",
+  "stem": "This pigmented, partly ulcerated nodule has a pearly, translucent quality at its rim and can clinically mimic melanoma. Which is the most likely diagnosis?",
+  "options": {
+   "A": "Pigmented basal cell carcinoma",
+   "B": "Nodular melanoma",
+   "C": "Pigmented seborrheic keratosis",
+   "D": "Blue nevus"
+  },
+  "answer": "A",
+  "exp": "Pigmented BCC contains melanin within an otherwise typical BCC and can clinically mimic melanoma, but the pearly translucent rim and arborizing vessels betray its basal-cell nature; on dermoscopy it shows blue-gray ovoid nests, leaf-like areas, spoke-wheel structures, and arborizing vessels with NO pigment network (a melanocytic feature). Nodular melanoma shows an atypical network/blue-white veil and polymorphous vessels, a pigmented seborrheic keratosis shows milia-like cysts and comedo-like openings, and a blue nevus is a stable, uniformly blue dermal nodule.",
+  "hy": "Pigmented + pearly rim + no pigment network = pigmented BCC (mimics melanoma).",
+  "src": "Bologna Ch 108, Fig 108.17 · Pigmented BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-64.jpg",
+  "imgcap": "Pigmented, partly ulcerated nodule",
+  "why": {
+   "A": "Correct — pigmented BCC mimics melanoma but retains pearly/translucent BCC features and lacks a pigment network.",
+   "B": "Wrong — nodular melanoma shows an atypical pigment network/blue-white veil, not pearly BCC features.",
+   "C": "Wrong — seborrheic keratosis has milia-like cysts and comedo-like openings, not a pearly ulcerated nodule.",
+   "D": "Wrong — a blue nevus is a stable, uniformly blue dermal nodule without ulceration or pearly rim."
+  }
+ },
+ {
+  "id": "B108.65",
+  "chapter": "Ch108",
+  "section": "Fibroepithelioma of Pinkus",
+  "stem": "A soft, skin-colored to pink, sessile plaque is noted on the lower back of an adult (shown); histology reveals anastomosing, fenestrated cords of basaloid epithelium in a fibrous stroma. Which diagnosis fits?",
+  "options": {
+   "A": "Fibroepithelioma of Pinkus",
+   "B": "Acrochordon (fibroepithelial polyp)",
+   "C": "Amelanotic melanoma",
+   "D": "Superficial spreading melanoma"
+  },
+  "answer": "A",
+  "exp": "Fibroepithelioma of Pinkus is a variant of BCC presenting as a soft, skin-colored to pink, sessile plaque that favors the lower back; histology shows a fenestrated/anastomosing lattice of basaloid cords embedded in a fibrous stroma (some regard it as a trichoblastoma variant). The lower-back location plus a soft pink plaque and the reticulated basaloid histology are the clues. An acrochordon is a soft fibroepithelial polyp without a basaloid proliferation, and melanomas are melanocytic with atypical pigment/architecture rather than a basaloid lattice.",
+  "hy": "Soft pink plaque, lower back, fenestrated basaloid cords = fibroepithelioma of Pinkus.",
+  "src": "Bologna Ch 108, Fig 108.17 · Fibroepithelioma of Pinkus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-65.jpg",
+  "imgcap": "Soft pink sessile plaque on the lower back",
+  "why": {
+   "A": "Correct — soft pink lower-back plaque with fenestrated basaloid cords is fibroepithelioma of Pinkus.",
+   "B": "Wrong — an acrochordon lacks the basaloid epithelial proliferation seen here.",
+   "C": "Wrong — amelanotic melanoma is melanocytic, not a basaloid lattice in fibrous stroma.",
+   "D": "Wrong — superficial spreading melanoma shows pagetoid melanocytes, not basaloid cords."
+  }
+ },
+ {
+  "id": "B108.66",
+  "chapter": "Ch108",
+  "section": "Dermoscopy — BCC",
+  "stem": "This dermoscopic image of a pigmented lesion shows leaf-like (maple-leaf) structures, blue-gray ovoid nests, spoke-wheel areas, and fine arborizing vessels, with no pigment network. These findings are characteristic of which tumor?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Melanoma",
+   "C": "Dermatofibroma",
+   "D": "Melanocytic nevus"
+  },
+  "answer": "A",
+  "exp": "The named dermoscopic criteria — leaf-like (maple-leaf) areas, blue-gray ovoid nests/globules, spoke-wheel structures, fine well-focused arborizing vessels (often with microulceration), and ABSENCE of a pigment network — together form the classic BCC dermoscopy pattern. An atypical pigment network, irregular streaks, and blue-white veil indicate melanoma; a central white scar-like patch with a peripheral delicate network suggests dermatofibroma; symmetric reticular/globular patterns suggest a benign nevus.",
+  "hy": "Leaf-like + blue-gray nests + spoke-wheel + arborizing vessels, no network = BCC dermoscopy.",
+  "src": "Bologna Ch 108, Fig 108.20 · Dermoscopy of BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-66.jpg",
+  "imgcap": "Dermoscopy of a pigmented lesion",
+  "why": {
+   "A": "Correct — these are the defining BCC dermoscopic structures, with no pigment network.",
+   "B": "Wrong — melanoma shows an atypical pigment network and blue-white veil, absent here.",
+   "C": "Wrong — dermatofibroma shows a central white patch with a peripheral fine network.",
+   "D": "Wrong — a benign nevus shows a symmetric reticular/globular network, not leaf-like/spoke-wheel structures."
+  }
+ },
+ {
+  "id": "B108.67",
+  "chapter": "Ch108",
+  "section": "Keratoacanthoma",
+  "stem": "A 65-year-old reports this dome-shaped nodule with a central keratotic plug on the sun-exposed face that grew rapidly over ~6 weeks. Which statement is most accurate?",
+  "options": {
+   "A": "Keratoacanthoma — may regress spontaneously but is managed as a well-differentiated SCC variant",
+   "B": "Nodular BCC — a slow-growing pearly nodule that will not regress",
+   "C": "Molluscum contagiosum — an umbilicated, self-limited viral papule",
+   "D": "Verruca vulgaris — a benign HPV wart requiring no treatment"
+  },
+  "answer": "A",
+  "exp": "Keratoacanthoma presents as a rapidly enlarging, dome-shaped, crateriform nodule with a central keratotic core; histology shows a symmetric \"volcano-like\" architecture of well-differentiated keratinocytes. Although KAs may involute spontaneously, they are considered a well-differentiated variant of SCC and are generally excised because they can be locally destructive and are difficult to distinguish reliably from invasive SCC. The rapid growth and crateriform morphology separate it from a slow pearly BCC, umbilicated molluscum, or a verruca.",
+  "hy": "Rapid crateriform nodule + central keratin plug = keratoacanthoma (treated as SCC variant).",
+  "src": "Bologna Ch 108, Fig 108.9 · Keratoacanthoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-67.jpg",
+  "imgcap": "Rapidly growing crateriform nodule on the face",
+  "why": {
+   "A": "Correct — rapid crateriform nodule with central keratin is keratoacanthoma, managed as a well-differentiated SCC variant.",
+   "B": "Wrong — nodular BCC grows slowly and is pearly, not a rapid crateriform nodule.",
+   "C": "Wrong — molluscum gives small umbilicated papules, not a large keratin-filled crater.",
+   "D": "Wrong — a verruca is a benign HPV wart and does not show this rapid crateriform growth."
+  }
+ },
+ {
+  "id": "B108.68",
+  "chapter": "Ch108",
+  "section": "Invasive cSCC",
+  "stem": "An elderly man with chronically sun-damaged skin has this rapidly growing, eroded, fungating nodule on the dorsum of the hand. Histology would most likely show which feature?",
+  "options": {
+   "A": "Invasive nests of atypical keratinocytes with horn pearls and intercellular bridges",
+   "B": "Nests of basaloid cells with peripheral palisading and retraction clefts",
+   "C": "Pagetoid intraepidermal spread of atypical melanocytes",
+   "D": "A fenestrated lattice of basaloid cords in a fibrous stroma"
+  },
+  "answer": "A",
+  "exp": "A fungating, eroded, keratotic nodule on chronically sun-damaged skin (dorsal hand) is a classic presentation of invasive cutaneous SCC; histology shows invasive nests/cords of atypical keratinocytes with keratinization (horn/keratin pearls) and intercellular bridges, graded by differentiation. Peripheral palisading with retraction clefting characterizes BCC, pagetoid atypical melanocytes indicate melanoma, and a fenestrated basaloid lattice is fibroepithelioma of Pinkus.",
+  "hy": "Sun-damaged fungating keratotic nodule = invasive cSCC (horn pearls, intercellular bridges).",
+  "src": "Bologna Ch 108, Fig 108.7 · Invasive cSCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-68.jpg",
+  "imgcap": "Eroded fungating nodule on the dorsum of the hand",
+  "why": {
+   "A": "Correct — invasive SCC shows atypical keratinocytes with horn pearls and intercellular bridges.",
+   "B": "Wrong — peripheral palisading with retraction clefts is the histology of BCC.",
+   "C": "Wrong — pagetoid atypical melanocytes indicate melanoma, not SCC.",
+   "D": "Wrong — a fenestrated basaloid lattice describes fibroepithelioma of Pinkus (a BCC variant)."
+  }
+ },
+ {
+  "id": "B108.69",
+  "chapter": "Ch108",
+  "section": "Actinic keratosis",
+  "stem": "An elderly man has multiple rough, scaly, erythematous macules on the bald scalp/forehead like those shown, several better felt than seen. Which statement is most accurate?",
+  "options": {
+   "A": "Actinic keratoses — partial-thickness keratinocyte atypia, precursors of invasive cSCC",
+   "B": "Seborrheic keratoses — benign \"stuck-on\" papules with no malignant potential",
+   "C": "Squamous cell carcinomas in situ — full-thickness epidermal atypia by definition",
+   "D": "Discoid lupus plaques — a scarring dermatosis unrelated to UV exposure"
+  },
+  "answer": "A",
+  "exp": "Actinic keratoses are rough, scaly, erythematous macules/papules on chronically sun-exposed skin (scalp, face, dorsal hands), frequently better palpated than seen; histology shows partial-thickness (often basal) keratinocyte atypia, and they are precursors of invasive cSCC arising within a field of cancerization (multiple p53-mutated clones). Seborrheic keratoses are \"stuck-on\" benign papules, SCC in situ shows full-thickness atypia (not partial), and discoid lupus shows scarring with follicular plugging unrelated to this UV picture.",
+  "hy": "Scaly erythematous macules, felt > seen, partial-thickness atypia = AK (cSCC precursor).",
+  "src": "Bologna Ch 108, Fig 108.2 · Actinic keratosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-69.jpg",
+  "imgcap": "Scaly erythematous macules on the forehead/scalp",
+  "why": {
+   "A": "Correct — AKs are partial-thickness atypia and cSCC precursors within a cancerized field.",
+   "B": "Wrong — seborrheic keratoses are benign \"stuck-on\" papules, not premalignant scaly macules.",
+   "C": "Wrong — SCC in situ shows full-thickness atypia, whereas AK is partial-thickness.",
+   "D": "Wrong — discoid lupus shows scarring/follicular plugging and is not a UV-precursor lesion."
+  }
+ },
+ {
+  "id": "B108.70",
+  "chapter": "Ch108",
+  "section": "Actinic cheilitis",
+  "stem": "An outdoor worker has diffuse scaling, erythema, blurring of the vermilion border, and focal leukoplakia of the lower lip (shown). Which statement is correct?",
+  "options": {
+   "A": "Actinic cheilitis — actinic keratosis of the lower lip, with higher risk of progression to SCC",
+   "B": "Angular cheilitis — Candida-driven inflammation of the commissures, with no malignant potential",
+   "C": "Actinic cheilitis of the upper lip — a UV change that essentially never becomes malignant",
+   "D": "Herpes labialis — a self-limited viral vesicular eruption of the vermilion"
+  },
+  "answer": "A",
+  "exp": "Actinic cheilitis is a form of actinic keratosis affecting predominantly the lower vermilion lip (the most UV-exposed lip), with diffuse scaling, erythema, atrophy, blurring of the vermilion border, and sometimes leukoplakia; it carries a relatively HIGHER potential to progress to invasive SCC than cutaneous AKs and warrants treatment. It is not Candidal angular cheilitis, not an upper-lip process, and not self-limited herpes labialis.",
+  "hy": "Lower-lip scaling/erythema with blurred vermilion = actinic cheilitis (higher SCC risk).",
+  "src": "Bologna Ch 108, Fig 108.4 · Actinic cheilitis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-70.jpg",
+  "imgcap": "Diffuse scaling and erythema of the lower lip",
+  "why": {
+   "A": "Correct — actinic cheilitis of the lower lip has a higher SCC-progression risk than AKs elsewhere.",
+   "B": "Wrong — angular cheilitis (Candida) affects the oral commissures and is not premalignant.",
+   "C": "Wrong — actinic cheilitis affects the lower (not upper) lip and can become malignant.",
+   "D": "Wrong — herpes labialis is a self-limited vesicular eruption, not this chronic scaly change."
+  }
+ },
+ {
+  "id": "B108.71",
+  "chapter": "Ch108",
+  "section": "SCC in situ",
+  "stem": "A well-demarcated, erythematous, scaly plaque on the lower leg (shown) has slowly enlarged over years and is unresponsive to topical corticosteroids; biopsy shows full-thickness epidermal keratinocyte atypia without dermal invasion. Which diagnosis fits?",
+  "options": {
+   "A": "Squamous cell carcinoma in situ (Bowen disease)",
+   "B": "Nummular eczema",
+   "C": "Plaque psoriasis",
+   "D": "Superficial basal cell carcinoma"
+  },
+  "answer": "A",
+  "exp": "SCC in situ (Bowen disease) presents as a well-demarcated, erythematous, scaly plaque that slowly enlarges and resists topical corticosteroids; histology shows full-thickness keratinocyte atypia confined to the epidermis without dermal invasion. The differential includes psoriasis and eczema (which respond to appropriate therapy and lack atypia) and superficial BCC (basaloid buds, not full-thickness keratinocyte atypia). A solitary steroid-unresponsive \"psoriasiform\" plaque should be biopsied.",
+  "hy": "Solitary steroid-resistant scaly plaque + full-thickness atypia = Bowen disease.",
+  "src": "Bologna Ch 108, Fig 108.5 · SCC in situ",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-71.jpg",
+  "imgcap": "Solitary scaly erythematous plaque on the leg",
+  "why": {
+   "A": "Correct — full-thickness intraepidermal keratinocyte atypia in a steroid-resistant plaque is Bowen disease.",
+   "B": "Wrong — nummular eczema is pruritic, multifocal, and responds to steroids; it lacks atypia.",
+   "C": "Wrong — psoriasis is usually multifocal/symmetric and responds to therapy, without full-thickness atypia.",
+   "D": "Wrong — superficial BCC shows basaloid buds from the epidermis, not full-thickness keratinocyte atypia."
+  }
+ },
+ {
+  "id": "B108.72",
+  "chapter": "Ch108",
+  "section": "Verrucous carcinoma",
+  "stem": "A slowly growing, exophytic, cauliflower-like keratotic tumor on the plantar foot (shown) has burrowing keratin-filled sinus tracts and is very well differentiated on biopsy with a \"pushing\" deep margin. Which diagnosis and behavior are correct?",
+  "options": {
+   "A": "Verrucous carcinoma (epithelioma cuniculatum) — well-differentiated, locally invasive, rarely metastasizes",
+   "B": "Verruca vulgaris (plantar wart) — HPV-driven, no malignant potential",
+   "C": "Amelanotic acral melanoma — a melanocytic tumor that metastasizes early",
+   "D": "Eccrine poroma — a benign sweat-gland tumor of acral skin"
+  },
+  "answer": "A",
+  "exp": "Verrucous carcinoma is a well-differentiated, low-grade SCC variant; the plantar form is epithelioma cuniculatum, an exophytic, cauliflower-like mass with burrowing keratin-filled sinuses and a pushing (rather than infiltrative) deep margin. It is locally aggressive but rarely metastasizes, and radiation is avoided because of the risk of anaplastic transformation. A plantar wart is smaller and HPV-driven without invasion, acral melanoma is melanocytic and metastasizes early, and an eccrine poroma is a benign acral papule.",
+  "hy": "Plantar cauliflower mass + burrowing sinuses, well-differentiated = verrucous carcinoma (epithelioma cuniculatum).",
+  "src": "Bologna Ch 108, Fig 108.10 · Verrucous carcinoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-72.jpg",
+  "imgcap": "Exophytic keratotic tumor on the plantar foot",
+  "why": {
+   "A": "Correct — verrucous carcinoma is well-differentiated, locally invasive, and rarely metastasizes.",
+   "B": "Wrong — a plantar wart is HPV-driven and non-invasive, without a pushing malignant margin.",
+   "C": "Wrong — acral melanoma is melanocytic and metastasizes early, unlike this indolent keratotic tumor.",
+   "D": "Wrong — an eccrine poroma is a small benign sweat-gland tumor, not a large cauliflower-like mass."
+  }
+ },
+ {
+  "id": "B108.73",
+  "chapter": "Ch108",
+  "section": "Pathology — BCC",
+  "stem": "This H&E section shows aggregations of basaloid keratinocytes. Which histologic feature shown is most characteristic of basal cell carcinoma?",
+  "options": {
+   "A": "Peripheral palisading of nuclei with peritumoral retraction (clefting) from a fibromyxoid stroma",
+   "B": "Keratin (horn) pearls with intercellular bridges",
+   "C": "Pagetoid intraepidermal melanocytes",
+   "D": "Sheets of foamy sebocytes with scalloped nuclei"
+  },
+  "answer": "A",
+  "exp": "BCC histology shows aggregations of basaloid keratinocytes with palisading of the peripheral nuclei and a characteristic peritumoral retraction artifact (clefting) between the tumor nests and the surrounding fibromyxoid stroma. Keratin (horn) pearls and intercellular bridges are hallmarks of SCC, pagetoid intraepidermal melanocytes indicate melanoma, and sheets of foamy sebocytes indicate a sebaceous neoplasm.",
+  "hy": "Peripheral palisading + peritumoral retraction clefting = BCC histology.",
+  "src": "Bologna Ch 108, Fig 108.22 · BCC histopathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-73.jpg",
+  "imgcap": "H&E section of a basaloid tumor",
+  "why": {
+   "A": "Correct — peripheral nuclear palisading with retraction clefting is the histologic signature of BCC.",
+   "B": "Wrong — horn pearls and intercellular bridges are features of SCC.",
+   "C": "Wrong — pagetoid intraepidermal melanocytes indicate melanoma.",
+   "D": "Wrong — foamy sebocytes with scalloped nuclei indicate a sebaceous neoplasm."
+  }
  }
 ]
