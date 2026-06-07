@@ -65,6 +65,8 @@ def parse_bank(path):
     cur = None
     aline = re.compile(r'^\*\*([A-Za-z0-9.\-]+)\s*[—\-]\s*[A-D]\.\*\*')
     wline = re.compile(r'^\s*-\s*why\s+([A-D])\s*:\s*(.*\S)\s*$')
+    # optional explanation-image line in the answer block: ![caption](images/<id>.jpg)
+    iline = re.compile(r'^\s*!\[([^\]]*)\]\(\s*([^)\s]+)\s*\)\s*$')
     for line in apart.splitlines():
         am = aline.match(line)
         if am:
@@ -72,6 +74,11 @@ def parse_bank(path):
         wm = wline.match(line)
         if wm and cur in items:
             items[cur].setdefault('why', {})[wm.group(1)] = wm.group(2).strip()
+            continue
+        im = iline.match(line)
+        if im and cur in items:
+            items[cur]['expimage'] = im.group(2).strip()
+            if im.group(1).strip(): items[cur]['expimgcap'] = im.group(1).strip()
     return items
 
 def main():
@@ -96,7 +103,7 @@ def main():
                 sys.exit(f"ABORT: new item {qid} is incomplete (missing/empty {missing}) -- "
                          f"likely a truncated bank read. Do NOT push.")
             rec = {k: it[k] for k in SCHEMA}
-            for opt in ('image','imgcap','why'):
+            for opt in ('image','imgcap','why','expimage','expimgcap'):
                 if it.get(opt): rec[opt] = it[opt]
             new.append(rec)
             have.add(qid)

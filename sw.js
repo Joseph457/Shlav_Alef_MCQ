@@ -1,4 +1,4 @@
-const C="shlav-mcq-v33";
+const C="shlav-mcq-v34";
 const PRE=["./","index.html","questions.json","manifest.webmanifest","icon-192.png","icon-512.png","images/N-I-8-13.jpg","images/N-I-8-30.jpg","images/N-I-8-7.jpg","images/B108-61.jpg","images/B108-62.jpg","images/B108-63.jpg","images/B108-64.jpg","images/B108-65.jpg","images/B108-66.jpg","images/B108-67.jpg","images/B108-68.jpg","images/B108-69.jpg","images/B108-70.jpg","images/B108-71.jpg","images/B108-72.jpg","images/B108-73.jpg"];
 self.addEventListener("install",e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>Promise.all(PRE.map(u=>c.add(u).catch(()=>{})))));});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
