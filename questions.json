@@ -25840,5 +25840,1789 @@
    "C": "Wrong — TLND is done at nodal recurrence, not before any tumor.",
    "D": "Wrong — ELND does carry real morbidity."
   }
+ },
+ {
+  "id": "B108.1",
+  "chapter": "Ch108",
+  "section": "Epidemiology",
+  "stem": "A fair-skinned 70-year-old man has had several keratinocyte carcinomas removed. Among White individuals, what is the approximate distribution of these tumors?",
+  "options": {
+   "A": "~75–80% are basal cell carcinomas and up to ~25% are squamous cell carcinomas",
+   "B": "~75–80% are squamous cell carcinomas and up to ~25% are basal cell carcinomas",
+   "C": "They occur in roughly equal numbers, a 1:1 ratio of BCC to SCC",
+   "D": "The great majority are melanomas, with BCC and SCC each under 10%"
+  },
+  "answer": "A",
+  "exp": "Among White individuals, keratinocyte carcinomas are the most common malignancy, and the chapter states that ~75–80% are BCCs and up to ~25% are cSCCs — BCC predominates because intermittent UV exposure (which most fair-skinned people accumulate) is the dominant driver of BCC. Melanoma, although responsible for most skin-cancer deaths in younger adults, is far less common than either keratinocyte carcinoma. Recognizing this baseline ratio frames the rest of the chapter, since the ratio inverts with darker skin and with immunosuppression.",
+  "hy": "Fair skin: ~75–80% BCC, ~25% cSCC; BCC is the most common skin cancer in humans.",
+  "src": "Bologna Ch108 · Introduction/Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives ~75–80% BCC and up to ~25% SCC in fair-skinned individuals.",
+   "B": "Wrong — this reverses the ratio; SCC-predominance is seen in chronic immunosuppression (e.g. transplant), not in the general fair-skinned population.",
+   "C": "Wrong — a roughly 1:1 BCC:SCC ratio is characteristic of darkly pigmented individuals, not White individuals.",
+   "D": "Wrong — melanoma is the minority of skin cancers (>95% of skin cancers are NMSC); it causes disproportionate mortality but not incidence."
+  }
+ },
+ {
+  "id": "B108.2",
+  "chapter": "Ch108",
+  "section": "Table 108.1 – Pigmentation epidemiology",
+  "stem": "How does the basal cell : squamous cell carcinoma ratio differ between lightly and darkly pigmented individuals?",
+  "options": {
+   "A": "~4:1 (BCC predominant) in lightly pigmented vs ~1:1 to 2:1 in darkly pigmented individuals",
+   "B": "~1:1 in lightly pigmented vs ~4:1 (BCC predominant) in darkly pigmented individuals",
+   "C": "~4:1 (SCC predominant) in lightly pigmented vs ~1:1 in darkly pigmented individuals",
+   "D": "Identical ~2:1 ratio in both groups, since pigmentation does not affect tumor type"
+  },
+  "answer": "A",
+  "exp": "In lightly pigmented individuals the BCC:SCC ratio is ~4:1, whereas in darkly pigmented individuals it falls to ~1:1 to 2:1 — the relative rise of SCC in darker skin reflects that SCC is driven more by chronic scarring/cumulative injury (which is skin-type-independent) while BCC tracks tightly with UV susceptibility of fair skin. This is why SCC, not BCC, is the most common skin cancer in some darkly pigmented populations. The absolute NMSC incidence is also vastly higher in light skin (230 vs 3.4 per 100,000).",
+  "hy": "BCC:SCC ≈ 4:1 in light skin vs ~1:1–2:1 in dark skin; NMSC incidence 230 vs 3.4/100k.",
+  "src": "Bologna Ch108 · Table 108.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — Table 108.1 lists 4:1 (light) and 1.1:1–2:1 (dark).",
+   "B": "Wrong — neither value is correct; darkly pigmented skin does not have a BCC-predominant 4:1 ratio.",
+   "C": "Wrong — the 4:1 ratio in light skin is BCC-predominant, not SCC-predominant.",
+   "D": "Wrong — pigmentation strongly affects tumor type and absolute incidence; the ratios are not identical."
+  }
+ },
+ {
+  "id": "B108.3",
+  "chapter": "Ch108",
+  "section": "Table 108.1 – Pigmentation epidemiology",
+  "stem": "In darkly pigmented individuals, what proportion of cutaneous SCCs arise within scars and chronic non-healing ulcers, and how does this compare with lightly pigmented individuals?",
+  "options": {
+   "A": "30–40% in darkly pigmented vs <2% in lightly pigmented individuals",
+   "B": "<2% in darkly pigmented vs 30–40% in lightly pigmented individuals",
+   "C": "About 50% in both groups equally",
+   "D": "<5% in both groups, since scar-related SCC is rare regardless of skin type"
+  },
+  "answer": "A",
+  "exp": "In darkly pigmented individuals, 30–40% of cSCCs arise in scars and chronic non-healing ulcers, versus <2% in lightly pigmented individuals — because in the relative absence of UV-driven tumors, chronic inflammation/scarring (a skin-type-independent carcinogenic stimulus) becomes the proportionally dominant cause of SCC. This is the basis for vigilance over chronically scarred or ulcerated skin (including Marjolin ulcers) in patients with darker skin.",
+  "hy": "SCC in scars/chronic ulcers: 30–40% in dark skin vs <2% in light skin.",
+  "src": "Bologna Ch108 · Table 108.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — Table 108.1 gives 30–40% (dark) vs <2% (light).",
+   "B": "Wrong — this reverses the figures; light skin has the LOW (<2%) scar-SCC fraction.",
+   "C": "Wrong — no figure approaches 50% in either group.",
+   "D": "Wrong — scar-related SCC is proportionally very common in darkly pigmented individuals (30–40%), not rare."
+  }
+ },
+ {
+  "id": "B108.4",
+  "chapter": "Ch108",
+  "section": "Epidemiology",
+  "stem": "What is the approximate median age at diagnosis of basal cell carcinoma, and which demographic shift in incidence has been noted?",
+  "options": {
+   "A": "68 years, with a disproportionate rise in incidence among young women",
+   "B": "40 years, with a disproportionate rise among elderly men",
+   "C": "80 years, with declining incidence across all groups",
+   "D": "25 years, occurring almost exclusively in immunosuppressed patients"
+  },
+  "answer": "A",
+  "exp": "The median age at BCC diagnosis is 68 years, and a disproportionate increase in incidence has been observed among young women — partly attributed to recreational/indoor tanning exposure in that group. BCC incidence rises with age and is higher in men overall (1.5–2:1), but the noted demographic shift is the rise in young women. Knowing the median age anchors the expectation that BCC is predominantly a tumor of older, chronically sun-exposed skin.",
+  "hy": "Median BCC age ≈ 68; disproportionate incidence rise in young women.",
+  "src": "Bologna Ch108 · Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives a median age of 68 and a disproportionate rise among young women.",
+   "B": "Wrong — 40 is far too young for the median, and the rise is in young women, not elderly men.",
+   "C": "Wrong — 80 overstates the median and incidence is rising, not declining.",
+   "D": "Wrong — 25 years and exclusive immunosuppression describe xeroderma pigmentosum/transplant settings, not typical BCC."
+  }
+ },
+ {
+  "id": "B108.5",
+  "chapter": "Ch108",
+  "section": "Epidemiology of AK",
+  "stem": "Actinic keratoses are extremely common in fair-skinned populations. What is the estimated prevalence?",
+  "options": {
+   "A": "Up to ~12% of individuals in the US, and 39% of men / 24% of women in an Austrian screening study",
+   "B": "Under 1% of the US population, almost entirely in organ-transplant recipients",
+   "C": "About 90% of all adults regardless of skin phototype",
+   "D": "Roughly equal to the prevalence of invasive SCC, ~0.4% per year"
+  },
+  "answer": "A",
+  "exp": "AKs are extremely common: up to ~12% of individuals in the US have them, and an Austrian screening study of outpatients over 30 found a prevalence of 39% in men and 24% in women, rising with age — reflecting cumulative UV damage in fair-skinned populations. The much lower figure for invasive SCC underscores that most AKs do not progress. This high background prevalence is why \"field\" therapy and surveillance are emphasized.",
+  "hy": "AK prevalence: ~12% US; 39% men / 24% women (Austria), increasing with age.",
+  "src": "Bologna Ch108 · Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter cites ~12% (US) and 39%/24% (Austria).",
+   "B": "Wrong — AKs are extraordinarily common in fair skin, not <1% and not transplant-limited.",
+   "C": "Wrong — 90% of all adults overstates prevalence and ignores skin phototype.",
+   "D": "Wrong — AK prevalence (~12%) is far higher than the annual incidence of invasive SCC."
+  }
+ },
+ {
+  "id": "B108.6",
+  "chapter": "Ch108",
+  "section": "Risk factors – UVR",
+  "stem": "A patient asks why his dermatologist links his nodular BCCs to childhood sunburns at the beach but his forearm SCCs to a lifetime of outdoor farm work. Which statement best captures the UV-exposure pattern for each tumor?",
+  "options": {
+   "A": "BCC is associated with intermittent intense UV exposure and sunburns; cSCC and AKs with cumulative long-term UV exposure",
+   "B": "BCC is associated with cumulative long-term UV exposure; cSCC with intermittent intense exposure and sunburns",
+   "C": "Both BCC and cSCC are associated only with cumulative dose, with sunburn history irrelevant to either",
+   "D": "Neither tumor is UV-related; the link is to ionizing radiation in both cases"
+  },
+  "answer": "A",
+  "exp": "BCC is linked to intermittent intense UV exposure and sunburns (at any age), whereas cSCC and AKs are linked to cumulative long-term UV exposure — the two tumors have genuinely different UV epidemiology, which is why a recreational-sunburn history points toward BCC and an occupational/lifetime-dose history toward SCC. Childhood sunburns specifically raise the risk of both cSCC/AKs and BCC, and early-life exposure has a greater influence than later exposure.",
+  "hy": "BCC = intermittent/sunburn UV; cSCC + AK = cumulative UV.",
+  "src": "Bologna Ch108 · Risk factors – UVR",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's stated UV-pattern distinction.",
+   "B": "Wrong — this reverses the two patterns; cumulative dose drives SCC/AK, not BCC.",
+   "C": "Wrong — sunburn history is specifically relevant to BCC (and childhood SCC risk), not irrelevant.",
+   "D": "Wrong — UVR is the predominant cause of both tumors; ionizing radiation is a far less common contributor."
+  }
+ },
+ {
+  "id": "B108.7",
+  "chapter": "Ch108",
+  "section": "Risk factors – indoor tanning",
+  "stem": "In the study by Karagas et al., any use of tanning devices was associated with which odds ratios for skin cancer, even after adjusting for sun exposure?",
+  "options": {
+   "A": "2.5 for SCC and 1.5 for BCC",
+   "B": "8.6 for SCC and 3.0 for BCC",
+   "C": "1.04 for SCC and 1.09 for BCC",
+   "D": "4800 for SCC and 4.0 for BCC"
+  },
+  "answer": "A",
+  "exp": "Karagas et al. found that any use of tanning devices carried odds ratios of 2.5 for SCC and 1.5 for BCC, persisting after adjustment for sunburn and sun-exposure history — establishing artificial UV as an independent risk factor, with a stronger effect on SCC than BCC. A subsequent meta-analysis of 12 studies confirmed these findings, prompting tanning-bed legislation.",
+  "hy": "Indoor tanning OR: 2.5 (SCC) / 1.5 (BCC).",
+  "src": "Bologna Ch108 · Risk factors – indoor tanning",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — these are the Karagas odds ratios cited in the chapter.",
+   "B": "Wrong — 8.6 is the PUVA relative risk for cSCC, not the tanning-bed OR.",
+   "C": "Wrong — 1.04/1.09 are the hydrochlorothiazide hazard rates for SCC/BCC.",
+   "D": "Wrong — 4800× is the xeroderma pigmentosum risk multiplier, unrelated to tanning beds."
+  }
+ },
+ {
+  "id": "B108.8",
+  "chapter": "Ch108",
+  "section": "Risk factors – therapeutic UVR",
+  "stem": "Long-term PUVA (psoralen + UVA) therapy for psoriasis carries a significant dose-related risk of which cancer, and at what magnitude?",
+  "options": {
+   "A": "cSCC, with an adjusted relative risk of 8.6 for 100–337 treatments",
+   "B": "BCC, with an adjusted relative risk of 8.6 for a single treatment course",
+   "C": "Melanoma, with an odds ratio of 2.5 independent of dose",
+   "D": "Merkel cell carcinoma, with a hazard ratio of 1.09"
+  },
+  "answer": "A",
+  "exp": "Long-term PUVA — psoralen photosensitization plus UVA — carries a significant, dose-related risk of cSCC, with an adjusted relative risk of 8.6 for an accumulated 100–337 treatments; a smaller increased BCC risk emerges only with prolonged therapy. The mechanism combines direct UVA-photosensitized DNA damage with PUVA-induced immunosuppression. This dose dependence is why cumulative treatment number is tracked in PUVA patients.",
+  "hy": "PUVA: adjusted RR for cSCC = 8.6 (100–337 treatments); dose-related.",
+  "src": "Bologna Ch108 · Risk factors – therapeutic UVR",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives an adjusted RR of 8.6 for cSCC with PUVA.",
+   "B": "Wrong — the dominant PUVA risk is cSCC (not BCC), and it is dose-related, not from a single course.",
+   "C": "Wrong — the 8.6 risk is for cSCC, not melanoma, and is dose-dependent.",
+   "D": "Wrong — 1.09 is the hydrochlorothiazide hazard rate for BCC, not a PUVA/Merkel figure."
+  }
+ },
+ {
+  "id": "B108.9",
+  "chapter": "Ch108",
+  "section": "Risk factors – ionizing radiation",
+  "stem": "A man treated decades ago with X-ray therapy for tinea capitis develops multiple BCCs of the scalp. Which statement about ionizing-radiation–induced skin cancer is correct?",
+  "options": {
+   "A": "It roughly triples BCC/cSCC risk, usually appears ~20 years after exposure, and larger fractionated doses (>12–15 Gy) are thought necessary to induce tumors",
+   "B": "It halves the risk of BCC/cSCC because radiation sterilizes precancerous clones",
+   "C": "Tumors appear within days of exposure, and only single low doses (<1 Gy) are carcinogenic",
+   "D": "It causes melanoma rather than keratinocyte carcinoma, with no latency period"
+  },
+  "answer": "A",
+  "exp": "Therapeutic ionizing radiation roughly triples BCC/cSCC risk in proportion to dose; larger fractionated doses (>12–15 Gy) are thought necessary to induce tumors, and most arise after a long latency, typically ~20 years. In the tinea-capitis X-ray cohort, the relative risk for head-and-neck BCC among irradiated White individuals was 3.6. The long latency explains why radiation-induced tumors present decades after exposure.",
+  "hy": "Ionizing radiation: ~3× risk, >12–15 Gy, ~20-yr latency (tinea-capitis BCC RR 3.6).",
+  "src": "Bologna Ch108 · Risk factors – ionizing radiation",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's threefold risk, dose threshold, and ~20-year latency.",
+   "B": "Wrong — radiation increases, not decreases, keratinocyte-carcinoma risk.",
+   "C": "Wrong — the latency is ~20 years, not days, and larger (not sub-Gy) doses are implicated.",
+   "D": "Wrong — the tumors are predominantly BCC/cSCC with a long latency, not immediate melanoma."
+  }
+ },
+ {
+  "id": "B108.10",
+  "chapter": "Ch108",
+  "section": "Risk factors – arsenic",
+  "stem": "A patient with chronic arsenic exposure develops multiple SCCs. Which finding is the clinical clue to arsenic exposure, and what is the typical latency to tumor development?",
+  "options": {
+   "A": "Palmoplantar arsenical keratoses, with a latency of 20–40 years",
+   "B": "A single rapidly growing crateriform nodule, with a latency of a few weeks",
+   "C": "Diffuse facial telangiectasias, with a latency of 1–2 years",
+   "D": "Periungual verrucous plaques, with a latency of several days"
+  },
+  "answer": "A",
+  "exp": "Palmoplantar arsenical keratoses are the clinical clue to arsenic exposure, and arsenic-related skin cancers (classically SCC, but also BCC) typically develop after a long latency of 20–40 years — reflecting arsenic's slow carcinogenic accumulation. Arsenical SCC in situ also tends to be multifocal and to favor sun-protected trunk skin. Recognizing the palmoplantar keratoses can prompt a search for internal arsenic-related malignancy.",
+  "hy": "Arsenic: palmoplantar arsenical keratoses; 20–40-yr latency; multifocal SCC.",
+  "src": "Bologna Ch108 · Risk factors – arsenic",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter names palmoplantar arsenical keratoses and a 20–40-year latency.",
+   "B": "Wrong — a rapidly growing crateriform nodule over weeks describes a keratoacanthoma, not arsenicism.",
+   "C": "Wrong — diffuse facial telangiectasias suggest Rombo/Bazex–Dupré–Christol or rosacea, not arsenic.",
+   "D": "Wrong — periungual verrucous plaques suggest HPV/verrucous lesions; arsenic latency is decades, not days."
+  }
+ },
+ {
+  "id": "B108.11",
+  "chapter": "Ch108",
+  "section": "Risk factors – organ transplantation",
+  "stem": "By how much is the incidence of cutaneous SCC and BCC increased in solid-organ transplant recipients relative to the general population?",
+  "options": {
+   "A": "cSCC increased 30–250× and BCC increased 5–10×",
+   "B": "cSCC increased 3× and BCC increased 3×",
+   "C": "cSCC increased 5–10× and BCC increased 30–250×",
+   "D": "Both increased 2.5×, identical to the risk from tanning beds"
+  },
+  "answer": "A",
+  "exp": "Solid-organ transplant recipients have a 30–250× increased incidence of cSCC and a 5–10× increased incidence of BCC, so the normal BCC-predominant ratio flips toward SCC — because chronic immunosuppression cripples T-cell tumor surveillance, immunosuppressive drugs (especially calcineurin inhibitors) are directly carcinogenic, and oncogenic HPV co-infection adds to UV damage. Risk scales with the degree and duration of immunosuppression. Switching to the mTOR inhibitor sirolimus or to belatacept reduces subsequent cSCC.",
+  "hy": "Transplant: cSCC 30–250× / BCC 5–10×; ratio flips SCC-predominant; sirolimus/belatacept lower risk.",
+  "src": "Bologna Ch108 · Immunosuppression – organ transplantation",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives cSCC 30–250× and BCC 5–10× in transplant recipients.",
+   "B": "Wrong — 3× is the magnitude for therapeutic ionizing radiation, not transplantation.",
+   "C": "Wrong — this reverses the two multipliers; cSCC (not BCC) carries the huge 30–250× increase.",
+   "D": "Wrong — 2.5× is the tanning-bed odds ratio for SCC, far smaller than the transplant risk."
+  }
+ },
+ {
+  "id": "B108.12",
+  "chapter": "Ch108",
+  "section": "Risk factors – BRAF inhibitors",
+  "stem": "A melanoma patient on a selective BRAF^V600 inhibitor (e.g. vemurafenib) develops several keratoacanthomas. Which statement is correct?",
+  "options": {
+   "A": "Up to 25% of patients develop cSCCs or KAs, and adding a MEK inhibitor markedly reduces this",
+   "B": "About 1% develop cSCCs, and adding a MEK inhibitor increases the rate further",
+   "C": "The lesions are caused by BRAF-inhibitor–induced immunosuppression and resolve with steroids",
+   "D": "These are metastatic melanoma deposits, not new keratinocyte tumors"
+  },
+  "answer": "A",
+  "exp": "Up to 25% of patients on a selective BRAF^V600 inhibitor (vemurafenib, dabrafenib) develop cSCCs or keratoacanthomas, often within weeks and on photodamaged skin — because BRAF inhibition paradoxically activates the MAPK pathway in RAS-mutant keratinocytes. Adding a MEK inhibitor (now routine) blocks that downstream reactivation and markedly reduces SCC/KA formation. This is why BRAF/MEK combination therapy is standard.",
+  "hy": "BRAF inhibitor: ~25% develop cSCC/KA via paradoxical MAPK activation; MEK inhibitor rescues.",
+  "src": "Bologna Ch108 · Risk factors – BRAF inhibitors",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter cites up to 25% and the protective effect of adding a MEK inhibitor.",
+   "B": "Wrong — the rate is ~25%, not ~1%, and MEK inhibition reduces rather than increases it.",
+   "C": "Wrong — the lesions arise from paradoxical MAPK activation, not drug-induced immunosuppression, and do not resolve with steroids.",
+   "D": "Wrong — these are new keratinocyte tumors (cSCC/KA), not metastatic melanoma."
+  }
+ },
+ {
+  "id": "B108.13",
+  "chapter": "Ch108",
+  "section": "Risk factors – medications",
+  "stem": "Because of a small but statistically significant increase in NMSC risk, the FDA revised the labeling of hydrochlorothiazide in 2020. What were the reported hazard rates?",
+  "options": {
+   "A": "1.04 for SCC and 1.09 for BCC",
+   "B": "8.6 for SCC and 3.0 for BCC",
+   "C": "2.5 for SCC and 1.5 for BCC",
+   "D": "30–250 for SCC and 5–10 for BCC"
+  },
+  "answer": "A",
+  "exp": "Hydrochlorothiazide carries a small but significant NMSC risk — hazard rates of 1.04 for SCC and 1.09 for BCC — prompting the FDA's 2020 labeling change; the proposed mechanism is HCTZ's photosensitizing effect amplifying UV damage. Discontinuing HCTZ is one of the interventions recommended in high-risk (e.g. transplant) patients. The modest magnitude explains why it is a labeling caution rather than a contraindication.",
+  "hy": "HCTZ hazard rate: 1.04 (SCC) / 1.09 (BCC); photosensitizer; FDA relabeled 2020.",
+  "src": "Bologna Ch108 · Risk factors – medications",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives hazard rates of 1.04 (SCC) and 1.09 (BCC).",
+   "B": "Wrong — 8.6 is the PUVA relative risk for cSCC, not the HCTZ hazard rate.",
+   "C": "Wrong — 2.5/1.5 are the tanning-device odds ratios for SCC/BCC.",
+   "D": "Wrong — 30–250/5–10 are the transplant risk multipliers, not the modest HCTZ hazards."
+  }
+ },
+ {
+  "id": "B108.14",
+  "chapter": "Ch108",
+  "section": "Genetic risk – MC1R",
+  "stem": "Which gene is most strongly tied to the red-hair/fair-skin phenotype that predisposes to photocarcinogenesis?",
+  "options": {
+   "A": "MC1R (melanocortin-1 receptor), which is highly polymorphic, with nine common variant alleles linked to red hair/fair skin",
+   "B": "PTCH1, a Hedgehog-pathway tumor suppressor mutated in basal cell nevus syndrome",
+   "C": "TGFBR1, mutated in the multiple self-regressing keratoacanthomas of Ferguson–Smith syndrome",
+   "D": "TMC6/TMC8, mutated in epidermodysplasia verruciformis"
+  },
+  "answer": "A",
+  "exp": "MC1R (the melanocortin-1 receptor on melanocytes) is highly polymorphic, and in White individuals nine common variant alleles are strongly associated with the red-hair/fair-skin phenotype that raises photocarcinogenesis risk — because variant MC1R shifts melanin synthesis toward poorly photoprotective pheomelanin. Pigmentation is polygenic, but MC1R is the key gene named. Multiple pigmentation loci also appear among the ~30 BCC and ≥11 cSCC susceptibility loci identified by GWAS.",
+  "hy": "MC1R = red hair/fair skin gene; pheomelanin shift raises skin-cancer risk.",
+  "src": "Bologna Ch108 · Genetic predisposition",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter names MC1R and its nine common red-hair/fair-skin variant alleles.",
+   "B": "Wrong — PTCH1 is the basal cell nevus syndrome (Hedgehog) gene, not the pigmentation gene.",
+   "C": "Wrong — TGFBR1 underlies Ferguson–Smith multiple self-regressing KAs.",
+   "D": "Wrong — TMC6/TMC8 cause epidermodysplasia verruciformis, an HPV-susceptibility disorder."
+  }
+ },
+ {
+  "id": "B108.15",
+  "chapter": "Ch108",
+  "section": "Genetic syndromes – xeroderma pigmentosum",
+  "stem": "In xeroderma pigmentosum, at what age do keratinocyte carcinomas typically appear, and how elevated is the risk in patients under 20?",
+  "options": {
+   "A": "Median age ~8 years, with a risk ~4800× that of the general population under age 20",
+   "B": "Median age ~68 years, with a risk ~3× the general population",
+   "C": "Median age ~40 years, with a risk ~30–250× the general population",
+   "D": "Median age ~25 years, with a risk identical to fair-skinned controls"
+  },
+  "answer": "A",
+  "exp": "In xeroderma pigmentosum — an autosomal recessive defect in nucleotide-excision (unscheduled DNA) repair — keratinocyte carcinomas appear at a median age of ~8 years, and in patients under 20 the risk is ~4800× that of the general population, because unrepaired UV photoproducts accumulate from early childhood. Strict lifelong UV avoidance dramatically lowers tumor formation. The extreme early onset distinguishes XP from ordinary photoaging-related skin cancer.",
+  "hy": "XP: median age ~8 yr; <20-yr risk ~4800×; NER defect; UV avoidance is protective.",
+  "src": "Bologna Ch108 · Genetic syndromes – xeroderma pigmentosum",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives a median age of 8 and a 4800× risk under 20.",
+   "B": "Wrong — 68 years/3× describe ordinary BCC age and ionizing-radiation risk, not XP.",
+   "C": "Wrong — 30–250× is the transplant cSCC multiplier, not the XP figure.",
+   "D": "Wrong — XP tumors begin in early childhood with a vastly elevated risk, not at 25 with control-level risk."
+  }
+ },
+ {
+  "id": "B108.16",
+  "chapter": "Ch108",
+  "section": "Genetic syndromes – BCNS",
+  "stem": "Basal cell nevus (Gorlin) syndrome is caused by an inactivating mutation in which gene, and what is its inheritance?",
+  "options": {
+   "A": "PTCH1 (rarely PTCH2), inherited in an autosomal dominant pattern",
+   "B": "TP53, inherited in an autosomal recessive pattern",
+   "C": "BLM (RecQL3 helicase), inherited in an autosomal recessive pattern",
+   "D": "ACTRT1, inherited in an X-linked dominant pattern"
+  },
+  "answer": "A",
+  "exp": "Basal cell nevus (Gorlin) syndrome is an autosomal dominant disorder caused by an inactivating mutation in PTCH1 (rarely PTCH2), a Hedgehog-pathway tumor suppressor — loss of PTCH1 de-represses Smoothened and constitutively activates Hedgehog signaling, driving multiple early-onset BCCs. SUFU mutations can instead cause multiple hereditary infundibulocystic BCC syndrome. Because of this pathway, patients are exquisitely radiosensitive and SMO inhibitors are therapeutic.",
+  "hy": "BCNS = AD, inactivating PTCH1 (Hedgehog tumor suppressor).",
+  "src": "Bologna Ch108 · Genetic syndromes – BCNS",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter states BCNS is autosomal dominant due to inactivating PTCH1 (rarely PTCH2).",
+   "B": "Wrong — germline TP53 causes Li–Fraumeni syndrome, not BCNS.",
+   "C": "Wrong — BLM/RecQL3 mutations cause Bloom syndrome.",
+   "D": "Wrong — ACTRT1 (X-linked dominant) underlies Bazex–Dupré–Christol syndrome."
+  }
+ },
+ {
+  "id": "B108.17",
+  "chapter": "Ch108",
+  "section": "Table 108.3 – BCNS criteria",
+  "stem": "Per the diagnostic criteria, how is basal cell nevus syndrome diagnosed clinically?",
+  "options": {
+   "A": "Two major criteria plus one minor, or one major plus three minor criteria",
+   "B": "Any single major criterion alone, with no minor criteria required",
+   "C": "Five minor criteria, with no major criterion permitted",
+   "D": "Three major criteria only, regardless of minor criteria"
+  },
+  "answer": "A",
+  "exp": "The diagnosis of basal cell nevus syndrome requires two major criteria plus one minor, OR one major plus three minor — a weighted scheme reflecting that no single feature is specific. Major criteria include a BCC before age 20 (or excessive BCCs), odontogenic keratocysts of the jaw, ≥2 palmar/plantar pits, falx cerebri calcification before 20, childhood medulloblastoma, and a first-degree relative with BCNS. Identifying a germline PTCH1 or SUFU variant alongside one major criterion can also establish the diagnosis.",
+  "hy": "BCNS dx = 2 major + 1 minor, or 1 major + 3 minor.",
+  "src": "Bologna Ch108 · Table 108.3",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — these are the diagnostic-criteria combinations in Table 108.3.",
+   "B": "Wrong — a single major criterion alone is not sufficient (unless paired with a pathogenic PTCH1/SUFU variant).",
+   "C": "Wrong — minor criteria alone, without a major criterion, do not establish the diagnosis.",
+   "D": "Wrong — three major criteria is not the stated threshold; the scheme mixes major and minor."
+  }
+ },
+ {
+  "id": "B108.18",
+  "chapter": "Ch108",
+  "section": "Genetic syndromes – Bazex–Dupré–Christol",
+  "stem": "Bazex–Dupré–Christol syndrome features follicular atrophoderma, milia, and multiple facial BCCs. What is its genetic basis?",
+  "options": {
+   "A": "X-linked dominant inheritance with mutations in ACTRT1, causing aberrant Hedgehog activation in primary cilia",
+   "B": "Autosomal dominant inheritance with mutations in TGFBR1",
+   "C": "Autosomal recessive inheritance with mutations in TMC6/TMC8",
+   "D": "Autosomal dominant inheritance with mutations in PTCH1"
+  },
+  "answer": "A",
+  "exp": "Bazex–Dupré–Christol syndrome — follicular atrophoderma (dorsal hands/feet), hypotrichosis, milia, epidermoid cysts, and multiple facial BCCs that often look trichoepithelioma-like — is inherited X-linked dominantly with mutations in ACTRT1, producing aberrant Hedgehog activation within primary cilia. BCCs appear during the second decade. The trichoepithelioma-like histology reflects its follicular-Hedgehog basis.",
+  "hy": "Bazex–Dupré–Christol = X-linked dominant, ACTRT1, follicular atrophoderma + facial BCCs.",
+  "src": "Bologna Ch108 · Genetic syndromes – Bazex–Dupré–Christol",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives X-linked dominant ACTRT1 mutations causing ciliary Hedgehog activation.",
+   "B": "Wrong — autosomal dominant TGFBR1 mutation is Ferguson–Smith syndrome.",
+   "C": "Wrong — autosomal recessive TMC6/TMC8 mutation is epidermodysplasia verruciformis.",
+   "D": "Wrong — autosomal dominant PTCH1 is basal cell nevus (Gorlin) syndrome, not Bazex–Dupré–Christol."
+  }
+ },
+ {
+  "id": "B108.19",
+  "chapter": "Ch108",
+  "section": "Genetic syndromes – KA syndromes",
+  "stem": "Two inherited keratoacanthoma syndromes are distinguished by their behavior. Which pairing is correct?",
+  "options": {
+   "A": "Ferguson–Smith = multiple self-regressing KAs (TGFBR1); Grzybowski = generalized eruptive KAs with hundreds of papules and mask-like facies",
+   "B": "Ferguson–Smith = generalized eruptive KAs; Grzybowski = multiple self-regressing KAs (TGFBR1)",
+   "C": "Both are caused by PTCH1 mutations and present identically with a single giant KA",
+   "D": "Ferguson–Smith = sebaceous KAs of Muir–Torre; Grzybowski = arsenical keratoses"
+  },
+  "answer": "A",
+  "exp": "Ferguson–Smith syndrome is autosomal dominant (TGFBR1, encoding TGF-β receptor type 1) and produces multiple keratoacanthomas that characteristically self-regress over weeks to months; Grzybowski type presents instead as generalized eruptive KAs — hundreds of papules resembling milia — often with scarring, ectropion, and a mask-like facies. Distinguishing them matters because the regressing Ferguson–Smith course differs from the disfiguring Grzybowski one. Both are KA syndromes, not BCC syndromes.",
+  "hy": "Ferguson–Smith = regressing KAs (TGFBR1); Grzybowski = generalized eruptive KAs + mask-like facies.",
+  "src": "Bologna Ch108 · Keratoacanthoma syndromes",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's descriptions of the two KA syndromes.",
+   "B": "Wrong — this swaps the two phenotypes (Ferguson–Smith regresses; Grzybowski is eruptive).",
+   "C": "Wrong — neither is a PTCH1 disorder, and they do not present as a single giant KA.",
+   "D": "Wrong — sebaceous KAs belong to Muir–Torre, and arsenical keratoses are a chemical exposure, not these syndromes."
+  }
+ },
+ {
+  "id": "B108.20",
+  "chapter": "Ch108",
+  "section": "Field cancerization",
+  "stem": "Why does treatment of severely photodamaged skin (e.g. the bald scalp) target the entire affected field rather than only visible tumors?",
+  "options": {
+   "A": "The field contains multiple clusters of p53-mutated keratinocytes, clinically apparent or not, from which new tumors arise",
+   "B": "The field is colonized by Merkel-cell polyomavirus, which seeds tumors uniformly",
+   "C": "Topical agents work only when applied to large continuous areas for pharmacokinetic reasons",
+   "D": "Visible tumors are always benign, so only the surrounding normal skin needs treatment"
+  },
+  "answer": "A",
+  "exp": "Field cancerization describes photodamaged skin (e.g. the bald scalp) harboring multiple clusters of p53-mutated keratinocytes — clinically apparent or subclinical — from which new AKs and SCCs continually arise; the presence of multiple AKs signals the field. This is why effective treatment must address the entire affected anatomical site, not just individual visible tumors. The p53 mutations are an early UV signature of the field defect.",
+  "hy": "Field cancerization = p53-mutated keratinocyte clones across a photodamaged field → treat the whole field.",
+  "src": "Bologna Ch108 · Field cancerization",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter attributes field cancerization to clusters of p53-mutated keratinocytes.",
+   "B": "Wrong — Merkel-cell polyomavirus drives Merkel cell carcinoma, not keratinocyte field cancerization.",
+   "C": "Wrong — the rationale is the underlying mutated field, not a pharmacokinetic application requirement.",
+   "D": "Wrong — visible tumors in the field are often malignant/premalignant; the surrounding field is also affected."
+  }
+ },
+ {
+  "id": "B108.21",
+  "chapter": "Ch108",
+  "section": "AK – natural history",
+  "stem": "AKs are regarded as precursors of invasive cSCC. What is the estimated likelihood that a solitary AK progresses to invasive cSCC?",
+  "options": {
+   "A": "Difficult to predict, with estimates ranging widely from 0.1% to 20%",
+   "B": "A fixed 50% within one year of appearance",
+   "C": "Essentially 100%, so every AK must be excised",
+   "D": "Zero, because AKs are entirely benign and never progress"
+  },
+  "answer": "A",
+  "exp": "AKs are precursors of cSCC, but the likelihood that a single AK becomes invasive is hard to predict, with published estimates ranging widely from 0.1% to 20% — the uncertainty reflects spontaneous regression of many AKs alongside progression of others, and the difficulty of tracking individual lesions. This is why management is risk-based (treat the field, follow high-risk patients) rather than excising every AK. AKs are also markers of overall increased cSCC risk.",
+  "hy": "Solitary AK → invasive cSCC: estimated 0.1–20%; unpredictable, often regresses.",
+  "src": "Bologna Ch108 · Actinic keratosis – natural history",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives the 0.1–20% range and emphasizes unpredictability.",
+   "B": "Wrong — no fixed 50%/1-year figure is given; progression is variable and usually low.",
+   "C": "Wrong — AKs do not invariably progress; many regress, so universal excision is not indicated.",
+   "D": "Wrong — AKs are precursors with real (if low) malignant potential, not entirely benign."
+  }
+ },
+ {
+  "id": "B108.22",
+  "chapter": "Ch108",
+  "section": "AK – clinical subtypes",
+  "stem": "Which description correctly matches an AK subtype?",
+  "options": {
+   "A": "Actinic cheilitis = AK-type change on the lower vermilion lip, with a relatively higher potential to become invasive SCC than AKs elsewhere",
+   "B": "Atrophic AK = a thick hyperkeratotic papule that may form a cutaneous horn",
+   "C": "Hypertrophic AK = a flat pink macule with minimal surface change and an atrophic epidermis",
+   "D": "Pigmented AK = a band-like lymphocytic infiltrate with overlying erythema and pruritus"
+  },
+  "answer": "A",
+  "exp": "Actinic cheilitis is AK-type change on the lower vermilion lip (well-demarcated erythema/scale, sometimes leukoplakia), and its potential to evolve into invasive SCC is relatively higher than for AKs at other sites — because the lip's thin epithelium and high cumulative UV make it a higher-risk field. The other subtypes have distinct features: hypertrophic AKs are thick/hyperkeratotic (and can form a cutaneous horn), atrophic AKs are flat pink macules with an atrophic epidermis, and lichenoid AKs show a band-like infiltrate with erythema/pruritus.",
+  "hy": "Actinic cheilitis (lower lip) carries a higher invasive-SCC potential than AKs elsewhere.",
+  "src": "Bologna Ch108 · AK clinical subtypes",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's description of actinic cheilitis.",
+   "B": "Wrong — a thick hyperkeratotic papule forming a cutaneous horn describes a hypertrophic AK, not an atrophic one.",
+   "C": "Wrong — a flat pink macule with an atrophic epidermis is an atrophic AK, not hypertrophic.",
+   "D": "Wrong — a band-like lymphocytic infiltrate with erythema/pruritus describes a lichenoid AK, not pigmented."
+  }
+ },
+ {
+  "id": "B108.23",
+  "chapter": "Ch108",
+  "section": "AK – dermoscopy",
+  "stem": "On dermoscopy of the face, which pattern is characteristic of an actinic keratosis?",
+  "options": {
+   "A": "A \"strawberry pattern\" — an erythematous pseudonetwork around follicular openings filled with yellowish keratotic plugs",
+   "B": "Arborizing (tree-like) vessels with foci of microulceration",
+   "C": "A blue–white veil over a pigment network with irregular streaks",
+   "D": "A parallel-ridge pattern of pigmentation on acral skin"
+  },
+  "answer": "A",
+  "exp": "On the face, AKs classically show a \"strawberry pattern\" on dermoscopy: an erythematous pseudonetwork surrounding hair-follicle openings that are filled with yellowish keratotic plugs — the network corresponds to telangiectatic vessels between follicles, the plugs to follicular hyperkeratosis. This pattern (with surface scale and dotted vessels at other sites) helps distinguish AK from its mimics.",
+  "hy": "Facial AK dermoscopy = \"strawberry pattern\" (erythematous pseudonetwork + keratotic follicular plugs).",
+  "src": "Bologna Ch108 · In vivo imaging – dermoscopy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter names the strawberry pattern as characteristic of facial AK.",
+   "B": "Wrong — arborizing vessels with microulceration are the dermoscopic hallmark of BCC.",
+   "C": "Wrong — a blue–white veil over an irregular pigment network suggests melanoma.",
+   "D": "Wrong — a parallel-ridge pattern is an acral-melanoma dermoscopic sign."
+  }
+ },
+ {
+  "id": "B108.24",
+  "chapter": "Ch108",
+  "section": "AK – histopathology",
+  "stem": "Which histopathologic feature is characteristic of an actinic keratosis (rather than SCC in situ)?",
+  "options": {
+   "A": "Partial-thickness atypia of keratinocytes (especially basal) with sparing of the acrosyringia/acrotrichia, producing orthokeratosis over those ostia",
+   "B": "Full-thickness epidermal atypia over a broad zone with frequent mitoses throughout",
+   "C": "A downward proliferation of lobules of glassy eosinophilic keratinocytes with keratin pearls invading the dermis",
+   "D": "Aggregations of basaloid cells with peripheral palisading and stromal retraction clefts"
+  },
+  "answer": "A",
+  "exp": "An AK shows partial-thickness keratinocyte atypia, most marked in the basal layer, with characteristic sparing of the acrosyringia and acrotrichia — so orthokeratosis sits above those adnexal ostia while parakeratosis overlies the atypical interfollicular epidermis (the alternating \"pink and blue\" cornified layer). This partial-thickness, adnexa-sparing atypia is what separates AK from full-thickness SCC in situ. Solar elastosis is also present in the dermis.",
+  "hy": "AK = partial-thickness atypia sparing adnexal ostia (orthokeratosis over acrosyringia).",
+  "src": "Bologna Ch108 · Pathology – actinic keratosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's histology of AK.",
+   "B": "Wrong — full-thickness atypia over a broad zone with frequent mitoses defines SCC in situ (Bowen disease).",
+   "C": "Wrong — dermal lobules of glassy keratinocytes with keratin pearls describe invasive well-differentiated SCC.",
+   "D": "Wrong — basaloid aggregations with peripheral palisading and retraction clefts describe BCC."
+  }
+ },
+ {
+  "id": "B108.25",
+  "chapter": "Ch108",
+  "section": "SCC in situ – Bowen disease",
+  "stem": "A long-standing erythematous scaly plaque on the lower leg, previously treated as eczema, shows full-thickness epidermal atypia on biopsy. What is the diagnosis?",
+  "options": {
+   "A": "Bowen disease (cutaneous SCC in situ)",
+   "B": "Invasive well-differentiated cutaneous SCC",
+   "C": "Superficial basal cell carcinoma",
+   "D": "Hypertrophic actinic keratosis"
+  },
+  "answer": "A",
+  "exp": "Full-thickness epidermal atypia in a chronic erythematous scaly plaque is SCC in situ (Bowen disease) — by definition the atypia spans the entire epidermal thickness over a broad zone, with frequent mitoses and dyskeratosis, but no dermal invasion. Lower-leg Bowen disease is classically misdiagnosed and treated as eczema or psoriasis for years. Invasion through the basement membrane would make it invasive SCC.",
+  "hy": "Full-thickness epidermal atypia, no invasion = Bowen disease (SCC in situ).",
+  "src": "Bologna Ch108 · SCC in situ – Bowen disease",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — full-thickness atypia without invasion is SCC in situ (Bowen disease).",
+   "B": "Wrong — invasive SCC requires dermal invasion (lobules of atypical keratinocytes through the basement membrane).",
+   "C": "Wrong — superficial BCC shows basaloid buds, not full-thickness squamous atypia.",
+   "D": "Wrong — hypertrophic AK shows only partial-thickness atypia, not full-thickness."
+  }
+ },
+ {
+  "id": "B108.26",
+  "chapter": "Ch108",
+  "section": "SCC in situ – variants",
+  "stem": "Which pairing of an SCC-in-situ variant with its description is correct?",
+  "options": {
+   "A": "Erythroplasia of Queyrat = SCC in situ presenting as a glistening red plaque on the glans penis",
+   "B": "Bowenoid papulosis = arsenic-induced multifocal SCC in situ of the sun-protected trunk",
+   "C": "Erythroplasia of Queyrat = HPV-16–associated small papules of young adults that can regress",
+   "D": "Bowenoid papulosis = SCC in situ of the lower vermilion lip from chronic sun exposure"
+  },
+  "answer": "A",
+  "exp": "Erythroplasia of Queyrat is SCC in situ of the glans penis, presenting as a glistening, dull-red, well-demarcated plaque — the mucosal counterpart of Bowen disease. The distractors describe other in-situ variants: bowenoid papulosis is HPV-16–associated small papules of young adults that can regress; arsenical SCC in situ is multifocal on the sun-protected trunk; and lower-lip in-situ change from UV is actinic cheilitis. Keeping these mapped prevents misdiagnosing penile SCC in situ as balanitis.",
+  "hy": "Erythroplasia of Queyrat = SCC in situ of the glans penis.",
+  "src": "Bologna Ch108 · SCC in situ – variants",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter equates erythroplasia of Queyrat with SCC in situ of the glans penis.",
+   "B": "Wrong — arsenic-induced multifocal trunk SCC in situ is arsenical SCC in situ, not bowenoid papulosis.",
+   "C": "Wrong — HPV-16 papules of young adults that regress describe bowenoid papulosis, not erythroplasia of Queyrat.",
+   "D": "Wrong — in-situ change of the lower vermilion lip from sun is actinic cheilitis, not bowenoid papulosis."
+  }
+ },
+ {
+  "id": "B108.27",
+  "chapter": "Ch108",
+  "section": "SCC in situ – bowenoid papulosis",
+  "stem": "Bowenoid papulosis presents as small papules of the anogenital region in young adults and can regress spontaneously, yet biopsy is taken seriously. Why?",
+  "options": {
+   "A": "It is HPV-16–associated and its histology is that of a high-grade squamous intraepithelial lesion / SCC in situ",
+   "B": "It is a melanocytic lesion that frequently transforms into nodular melanoma",
+   "C": "It is a benign viral wart with no malignant potential whatsoever",
+   "D": "It is a manifestation of internal arsenic toxicity requiring chelation"
+  },
+  "answer": "A",
+  "exp": "Bowenoid papulosis is linked to human papillomavirus, most commonly HPV-16, and although it favors young adults and can regress spontaneously, its histopathology is that of a high-grade squamous intraepithelial lesion / SCC in situ — so it cannot be dismissed as a benign wart. This mismatch between an indolent clinical course and worrisome histology is the teaching point. Management balances the malignant histology against the tendency to regress.",
+  "hy": "Bowenoid papulosis = HPV-16; clinically may regress but histology = SCC in situ.",
+  "src": "Bologna Ch108 · SCC in situ – bowenoid papulosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter ties bowenoid papulosis to HPV-16 with high-grade SIL/SCC-in-situ histology.",
+   "B": "Wrong — it is a squamous intraepithelial lesion, not a melanocytic lesion progressing to melanoma.",
+   "C": "Wrong — despite a viral cause and possible regression, the histology is SCC in situ, not a benign wart.",
+   "D": "Wrong — internal arsenic toxicity is associated with arsenical keratoses/SCC, not bowenoid papulosis."
+  }
+ },
+ {
+  "id": "B108.28",
+  "chapter": "Ch108",
+  "section": "Invasive cSCC – clinical",
+  "stem": "A patient with an SCC on the cheek reports paresthesias and a burning pain over the lesion. What does this most likely indicate?",
+  "options": {
+   "A": "Perineural invasion",
+   "B": "Secondary bacterial infection",
+   "C": "Spontaneous regression of the tumor",
+   "D": "A benign neuroma unrelated to the tumor"
+  },
+  "answer": "A",
+  "exp": "New paresthesias, anesthesia, or pain over a cSCC are signs of perineural invasion — tumor tracking along nerve sheaths produces neurologic symptoms and portends aggressive, recurrence-prone disease. This clinical clue should prompt imaging and aggressive (often Mohs ± adjuvant radiation) management. PNI is also a high-risk staging feature in both the AJCC and Brigham systems.",
+  "hy": "Paresthesia/pain over a cSCC → suspect perineural invasion (aggressive).",
+  "src": "Bologna Ch108 · Invasive cSCC – clinical",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter lists paresthesia, anesthesia, and pain as signs of perineural invasion.",
+   "B": "Wrong — secondary infection causes purulence/cellulitis, not the neuropathic symptoms described.",
+   "C": "Wrong — spontaneous regression (seen in keratoacanthoma) does not produce paresthesias.",
+   "D": "Wrong — these symptoms arise from tumor perineural spread, not an incidental benign neuroma."
+  }
+ },
+ {
+  "id": "B108.29",
+  "chapter": "Ch108",
+  "section": "cSCC – dermoscopy",
+  "stem": "On dermoscopy of keratinizing tumors such as invasive cSCC and keratoacanthoma, which feature is described as the hallmark?",
+  "options": {
+   "A": "A whitish halo surrounding the vessels",
+   "B": "A negative pigment network with a central scar-like depigmentation",
+   "C": "Multiple blue–gray ovoid nests",
+   "D": "A parallel-furrow pattern on volar skin"
+  },
+  "answer": "A",
+  "exp": "The dermoscopic hallmark of keratinizing tumors (invasive cSCC, keratoacanthoma, and also seborrheic keratoses) is a whitish halo surrounding the vessels — corresponding to the keratin-rich tumor stroma around the vascular structures. Invasive cSCC additionally shows polymorphous/atypical vessels (linear-irregular, hairpin, dotted). Recognizing the white halo helps flag a keratinizing malignancy.",
+  "hy": "Keratinizing-tumor dermoscopy hallmark = whitish halo around vessels.",
+  "src": "Bologna Ch108 · In vivo imaging – dermoscopy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter calls the whitish perivascular halo the hallmark of keratinizing tumors.",
+   "B": "Wrong — a negative network with scar-like depigmentation suggests melanoma regression, not a keratinizing tumor.",
+   "C": "Wrong — blue–gray ovoid nests are a pigmented-BCC dermoscopic feature.",
+   "D": "Wrong — a parallel-furrow pattern is a benign acral-nevus sign."
+  }
+ },
+ {
+  "id": "B108.30",
+  "chapter": "Ch108",
+  "section": "Table 108.4 – AJCC TNM",
+  "stem": "Using the AJCC 8th-edition staging for head-and-neck cSCC, a 3-cm tumor with no other high-risk feature is classified as which T stage?",
+  "options": {
+   "A": "T2 (≥2 cm but <4 cm)",
+   "B": "T1 (<2 cm)",
+   "C": "T3 (≥4 cm)",
+   "D": "T4 (cortical bone or skull-base invasion)"
+  },
+  "answer": "A",
+  "exp": "In the AJCC 8th-edition TNM for head-and-neck cSCC, T2 is a tumor ≥2 cm but <4 cm, so a 3-cm tumor without other high-risk features is T2. T1 is <2 cm and T3 is ≥4 cm (or deep invasion >6 mm/beyond fat, PNI, or minor bone erosion); T4 requires cortical bone/marrow or skull-base invasion. Size alone does not reach T3 until 4 cm, which is why a 3-cm low-risk tumor stays T2.",
+  "hy": "cSCC AJCC: T1 <2 cm, T2 ≥2 to <4 cm, T3 ≥4 cm or deep invasion/PNI/minor bone.",
+  "src": "Bologna Ch108 · Table 108.4 (AJCC TNM)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — 3 cm falls in the ≥2 to <4 cm T2 band.",
+   "B": "Wrong — T1 is reserved for tumors <2 cm.",
+   "C": "Wrong — T3 requires ≥4 cm or a deep-invasion/PNI/bone feature, absent here.",
+   "D": "Wrong — T4 requires cortical bone/marrow or skull-base invasion."
+  }
+ },
+ {
+  "id": "B108.31",
+  "chapter": "Ch108",
+  "section": "Table 108.4 – AJCC TNM",
+  "stem": "In the AJCC system for cSCC, which finding upstages a tumor to T3 regardless of its diameter?",
+  "options": {
+   "A": "Deep invasion — beyond the subcutaneous fat or >6 mm thickness — or perineural invasion or minor bone erosion",
+   "B": "Any tumor located on the ear or lip",
+   "C": "A single ipsilateral lymph node ≤3 cm in size",
+   "D": "Poor histologic differentiation alone"
+  },
+  "answer": "A",
+  "exp": "A tumor is upstaged to T3 in the AJCC cSCC system by deep invasion — defined as extension beyond the subcutaneous fat or thickness >6 mm — or by perineural invasion or minor bone erosion, independent of diameter; so a small tumor with deep invasion can be T3. PNI qualifying for T3 means tumor in a nerve sheath deeper than the dermis or a nerve caliber ≥0.1 mm. These features let \"small but dangerous\" tumors stage appropriately.",
+  "hy": "T3 triggers: deep invasion (>6 mm/beyond fat), PNI, or minor bone erosion — any diameter.",
+  "src": "Bologna Ch108 · Table 108.4 (AJCC TNM)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — deep invasion/PNI/minor bone erosion define T3 regardless of size.",
+   "B": "Wrong — ear/lip location is a clinical high-risk feature but does not by itself assign T3 in the AJCC T table.",
+   "C": "Wrong — a single ipsilateral node ≤3 cm is a nodal (N1) descriptor, not a T-stage criterion.",
+   "D": "Wrong — poor differentiation is a Brigham/clinical high-risk factor, not an AJCC T3 trigger by itself."
+  }
+ },
+ {
+  "id": "B108.32",
+  "chapter": "Ch108",
+  "section": "Table 108.5 – Brigham staging",
+  "stem": "The Brigham and Women's Hospital system stages cSCC by counting four high-risk factors. Which set lists those four factors and the T2b cutoff correctly?",
+  "options": {
+   "A": "Diameter ≥2 cm, poor differentiation, PNI of nerves ≥0.1 mm, invasion beyond fat — with T2b = 2–3 high-risk factors",
+   "B": "Diameter ≥4 cm, desmoplasia, ulceration, immunosuppression — with T2b = 1 high-risk factor",
+   "C": "Location on ear, thickness >2 mm, recurrence, lymphovascular invasion — with T2b = ≥4 high-risk factors",
+   "D": "Macrocephaly, palmar pits, falx calcification, medulloblastoma — with T2b = 2 high-risk factors"
+  },
+  "answer": "A",
+  "exp": "The Brigham and Women's Hospital system counts four high-risk factors — tumor diameter ≥2 cm, poor differentiation, perineural invasion of nerves ≥0.1 mm, and invasion beyond the subcutaneous fat — and stages accordingly: T1 = 0 factors, T2a = 1, T2b = 2–3, T3 = ≥4 factors or bone invasion. This factor-counting scheme stratifies metastatic risk better than diameter alone (the basis of the AJCC). The T2b group (2–3 factors) carries the bulk of poor outcomes.",
+  "hy": "Brigham HRFs: ≥2 cm, poor diff, PNI ≥0.1 mm, beyond fat → T1=0, T2a=1, T2b=2–3, T3=≥4/bone.",
+  "src": "Bologna Ch108 · Table 108.5 (Brigham staging)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — these are the four Brigham high-risk factors and the T2b = 2–3 cutoff.",
+   "B": "Wrong — the diameter threshold is ≥2 cm (not ≥4), and desmoplasia/ulceration/immunosuppression are not the four counted Brigham factors.",
+   "C": "Wrong — these are not the Brigham four factors, and T2b is 2–3 factors, not ≥4.",
+   "D": "Wrong — macrocephaly/palmar pits/falx calcification/medulloblastoma are basal cell nevus syndrome criteria, not cSCC staging."
+  }
+ },
+ {
+  "id": "B108.33",
+  "chapter": "Ch108",
+  "section": "cSCC – prognosis",
+  "stem": "In a large prospective study, how did metastatic risk vary with cSCC tumor thickness?",
+  "options": {
+   "A": "Tumors >6 mm thick had a 16% metastatic rate vs 4% for 2.1–6 mm; tumors ≤2 mm had a low risk",
+   "B": "Tumors ≤2 mm thick had the highest metastatic rate (16%), decreasing with thickness",
+   "C": "All cSCCs had an identical 30% metastatic rate regardless of thickness",
+   "D": "Thickness had no relationship to metastasis; only diameter mattered"
+  },
+  "answer": "A",
+  "exp": "In a large prospective study, metastatic risk rose steeply with cSCC thickness: tumors >6 mm thick had a 16% metastatic rate versus 4% for tumors 2.1–6 mm, while tumors ≤2 mm thick carried a low risk (only tumors >2 mm had a significant metastatic risk) — because deeper tumors have greater access to dermal lymphovascular and perineural routes. Tumor thickness and a desmoplastic stroma were also local-recurrence risk factors. This thickness gradient underlies aggressive treatment of thick tumors.",
+  "hy": "cSCC metastasis by thickness: ≤2 mm low, 2.1–6 mm 4%, >6 mm 16%.",
+  "src": "Bologna Ch108 · cSCC prognosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the study's 16% (>6 mm) vs 4% (2.1–6 mm) figures with low risk ≤2 mm.",
+   "B": "Wrong — risk rises with thickness; thin (≤2 mm) tumors have the lowest, not highest, metastatic rate.",
+   "C": "Wrong — overall metastasis was ~4%, not a uniform 30%, and it varies with thickness.",
+   "D": "Wrong — thickness is strongly related to metastasis; it is not irrelevant."
+  }
+ },
+ {
+  "id": "B108.34",
+  "chapter": "Ch108",
+  "section": "cSCC – histopathology/prognosis",
+  "stem": "Which histopathologic SCC feature is specifically associated with a markedly increased risk of local recurrence?",
+  "options": {
+   "A": "A desmoplastic stroma (local recurrence ~24% vs ~1% for non-desmoplastic SCC)",
+   "B": "The presence of keratin pearls in a well-differentiated tumor",
+   "C": "A dense peritumoral lymphoplasmacytic infiltrate",
+   "D": "Orthokeratosis overlying the acrosyringia"
+  },
+  "answer": "A",
+  "exp": "A desmoplastic stroma in cSCC is specifically associated with a high local-recurrence risk — in the cited series 24% of desmoplastic SCCs recurred locally versus ~1% of non-desmoplastic SCCs — because the dense reactive stroma accompanies infiltrative, hard-to-clear tumor margins. Tumor thickness is the other named recurrence risk factor. Keratin pearls and a brisk infiltrate are not adverse-prognosis features.",
+  "hy": "Desmoplastic cSCC: ~24% local recurrence vs ~1% non-desmoplastic.",
+  "src": "Bologna Ch108 · cSCC prognosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives 24% vs 1% recurrence for desmoplastic vs non-desmoplastic SCC.",
+   "B": "Wrong — keratin pearls indicate good differentiation, not a high-recurrence feature.",
+   "C": "Wrong — a dense lymphoplasmacytic infiltrate is not cited as a recurrence risk factor.",
+   "D": "Wrong — orthokeratosis over the acrosyringia is a benign AK histologic feature, unrelated to SCC recurrence."
+  }
+ },
+ {
+  "id": "B108.35",
+  "chapter": "Ch108",
+  "section": "Keratoacanthoma – clinical",
+  "stem": "A lesion on the dorsal hand grew over a few weeks into a sharply circumscribed crateriform nodule with a central keratotic core, then began to involute. What is the most likely diagnosis?",
+  "options": {
+   "A": "Keratoacanthoma",
+   "B": "Morpheaform basal cell carcinoma",
+   "C": "Verrucous carcinoma",
+   "D": "Bowen disease"
+  },
+  "answer": "A",
+  "exp": "A rapidly enlarging, sharply circumscribed crateriform nodule with a central keratotic core that develops over a few weeks and then involutes is the classic keratoacanthoma — considered by some a low-grade/\"pseudomalignant\" variant of cSCC. Most occur on the head/neck or sun-exposed extremities and resolve over months leaving an atrophic scar. The rapid growth-then-involution course distinguishes it from the indolent, persistent mimics.",
+  "hy": "KA = rapid crateriform nodule with keratotic core, then involution.",
+  "src": "Bologna Ch108 · Keratoacanthoma – clinical",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — rapid growth, crater with keratotic core, and involution define keratoacanthoma.",
+   "B": "Wrong — morpheaform BCC is a slowly enlarging scar-like indurated plaque, not a fast crateriform nodule.",
+   "C": "Wrong — verrucous carcinoma is a large, slowly enlarging exophytic warty tumor, not a rapidly involuting nodule.",
+   "D": "Wrong — Bowen disease is a chronic flat scaly plaque (SCC in situ), not a crateriform nodule."
+  }
+ },
+ {
+  "id": "B108.36",
+  "chapter": "Ch108",
+  "section": "Keratoacanthoma – histopathology",
+  "stem": "Which histopathologic architecture is typical of a keratoacanthoma?",
+  "options": {
+   "A": "A \"volcano-like\" crater of cornified material lined by well-differentiated keratinocytes with glassy eosinophilic cytoplasm",
+   "B": "Full-thickness epidermal atypia with frequent mitoses and no crater",
+   "C": "Thin anastomosing strands of basaloid cells in a fenestrated pattern",
+   "D": "A pushing, broad, deeply penetrating well-differentiated proliferation with minimal atypia"
+  },
+  "answer": "A",
+  "exp": "A keratoacanthoma has a \"volcano-like\" architecture: a central crater of cornified material flanked by epithelial \"lips\" of well-differentiated keratinocytes with brightly eosinophilic, glassy cytoplasm, usually with little cytologic atypia. As it regresses the dome flattens and the base fibroses. Marked nuclear atypia or abnormal mitoses would instead prompt the diagnosis of an invasive KA-like SCC.",
+  "hy": "KA histology = \"volcano\" crater with glassy eosinophilic well-differentiated keratinocytes.",
+  "src": "Bologna Ch108 · Keratoacanthoma – pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter describes the volcano-like crater with glassy eosinophilic keratinocytes.",
+   "B": "Wrong — full-thickness atypia with frequent mitoses and no crater describes Bowen disease (SCC in situ).",
+   "C": "Wrong — thin anastomosing basaloid strands in a fenestrated pattern describe fibroepithelioma of Pinkus.",
+   "D": "Wrong — a pushing, deeply penetrating well-differentiated proliferation with minimal atypia describes verrucous carcinoma."
+  }
+ },
+ {
+  "id": "B108.37",
+  "chapter": "Ch108",
+  "section": "Verrucous carcinoma – subtypes",
+  "stem": "Verrucous carcinoma is a well-differentiated low-grade SCC variant with three major subtypes. Which option matches a subtype to its site correctly?",
+  "options": {
+   "A": "Epithelioma cuniculatum = plantar surface of the foot",
+   "B": "Buschke–Löwenstein tumor (giant condyloma acuminatum) = plantar foot",
+   "C": "Oral florid papillomatosis = genital skin",
+   "D": "Epithelioma cuniculatum = oral mucosa"
+  },
+  "answer": "A",
+  "exp": "Verrucous carcinoma — a well-differentiated, low-grade SCC variant — has three major subtypes defined by site: epithelioma cuniculatum on the plantar foot, Buschke–Löwenstein tumor (giant condyloma acuminatum) on the genitalia, and oral florid papillomatosis on the oral mucosa. \"Cuniculatum\" refers to the rabbit-burrow-like crevices of the plantar tumor. Mapping each subtype to its site is the testable point.",
+  "hy": "Verrucous CA: cuniculatum=plantar, Buschke–Löwenstein=genital, oral florid papillomatosis=oral.",
+  "src": "Bologna Ch108 · Verrucous carcinoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — epithelioma cuniculatum is the plantar-foot subtype.",
+   "B": "Wrong — Buschke–Löwenstein (giant condyloma) is the genital subtype, not plantar.",
+   "C": "Wrong — oral florid papillomatosis is the oral-mucosa subtype, not genital.",
+   "D": "Wrong — epithelioma cuniculatum is plantar, not oral."
+  }
+ },
+ {
+  "id": "B108.38",
+  "chapter": "Ch108",
+  "section": "Verrucous carcinoma – management",
+  "stem": "Which statement about verrucous carcinoma is correct?",
+  "options": {
+   "A": "It is well differentiated and rarely metastasizes, but radiotherapy is generally avoided because anaplastic transformation may worsen prognosis",
+   "B": "It is poorly differentiated and metastasizes early, so radiotherapy is first-line",
+   "C": "It is reliably diagnosed on a small superficial shave biopsy",
+   "D": "It never recurs after attempted removal"
+  },
+  "answer": "A",
+  "exp": "Verrucous carcinoma is well differentiated, has a pushing rather than infiltrating border, and rarely metastasizes — but it frequently recurs locally, and radiotherapy is generally avoided because anaplastic transformation after irradiation can worsen the prognosis. Diagnosis often requires a large excisional biopsy, since the size and architecture matter more than cytology and a superficial sample can miss the diagnosis. These features drive a surgery-first, radiation-avoiding approach.",
+  "hy": "Verrucous CA: rarely metastasizes, recurs locally, avoid RT (anaplastic transformation), needs large excisional biopsy.",
+  "src": "Bologna Ch108 · Verrucous carcinoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter: rarely metastasizes, RT avoided due to anaplastic transformation.",
+   "B": "Wrong — it is well differentiated and rarely metastasizes; radiotherapy is avoided, not first-line.",
+   "C": "Wrong — a small superficial shave is inadequate; diagnosis needs a large excisional biopsy.",
+   "D": "Wrong — verrucous carcinoma often recurs after attempted removal."
+  }
+ },
+ {
+  "id": "B108.39",
+  "chapter": "Ch108",
+  "section": "SCC variants – eponyms",
+  "stem": "A squamous cell carcinoma that develops within a chronic non-healing wound or an old thermal-burn scar is known by which name?",
+  "options": {
+   "A": "Marjolin ulcer",
+   "B": "Buschke–Löwenstein tumor",
+   "C": "Erythroplasia of Queyrat",
+   "D": "Bowenoid papulosis"
+  },
+  "answer": "A",
+  "exp": "A Marjolin ulcer is an SCC that arises in a chronic wound or scar, including an old thermal-burn scar — chronic inflammation and repeated repair in damaged skin promote malignant transformation over time. The distractors are unrelated entities: Buschke–Löwenstein is genital verrucous carcinoma, erythroplasia of Queyrat is penile SCC in situ, and bowenoid papulosis is HPV-16 anogenital SCC in situ. The chronic-wound/burn-scar context is the trigger to think Marjolin.",
+  "hy": "Marjolin ulcer = SCC in a chronic wound, scar, or burn scar.",
+  "src": "Bologna Ch108 · SCC variants",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter defines Marjolin ulcer as SCC in a chronic wound/scar including thermal burns.",
+   "B": "Wrong — Buschke–Löwenstein tumor is genital giant condyloma (verrucous carcinoma).",
+   "C": "Wrong — erythroplasia of Queyrat is SCC in situ of the glans penis.",
+   "D": "Wrong — bowenoid papulosis is HPV-16–associated anogenital SCC in situ."
+  }
+ },
+ {
+  "id": "B108.40",
+  "chapter": "Ch108",
+  "section": "cSCC – immunohistochemistry",
+  "stem": "A poorly differentiated dermal spindle-cell tumor must be distinguished from cSCC. Which immunoprofile supports cutaneous SCC rather than the mimics?",
+  "options": {
+   "A": "Cytokeratin-positive, distinguishing it from melanoma (SOX-10/S100/Melan-A+) and atypical fibroxanthoma (cytokeratin−, CD10+)",
+   "B": "SOX-10– and S100-positive, like a spindle-cell melanoma",
+   "C": "Cytokeratin-negative but CD10-positive, like an atypical fibroxanthoma",
+   "D": "Smooth-muscle-actin– and desmin-positive, like a leiomyosarcoma"
+  },
+  "answer": "A",
+  "exp": "A poorly differentiated cSCC is cytokeratin-positive, which separates it from its principal spindle-cell mimics: spindle-cell melanoma (Melan-A/SOX-10/S100-positive, cytokeratin-negative), atypical fibroxanthoma (cytokeratin-negative, CD10-positive), and leiomyosarcoma (smooth-muscle-actin/desmin-positive). Because poorly differentiated tumors lose overt keratinization, immunohistochemistry is required to confirm squamous lineage. The cytokeratin-positive/melanoma-and-AFX-negative profile clinches cSCC.",
+  "hy": "Poorly diff cSCC = cytokeratin+; melanoma SOX10/S100+, AFX CK−/CD10+, leiomyosarcoma SMA/desmin+.",
+  "src": "Bologna Ch108 · cSCC histopathology/IHC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — cytokeratin positivity (with negative melanoma and AFX markers) supports cSCC.",
+   "B": "Wrong — SOX-10/S100 positivity characterizes spindle-cell melanoma, not SCC.",
+   "C": "Wrong — cytokeratin-negative/CD10-positive describes atypical fibroxanthoma.",
+   "D": "Wrong — smooth-muscle-actin/desmin positivity characterizes leiomyosarcoma."
+  }
+ },
+ {
+  "id": "B108.41",
+  "chapter": "Ch108",
+  "section": "BCC – nodular",
+  "stem": "What is the most common subtype of basal cell carcinoma, and its classic presentation?",
+  "options": {
+   "A": "Nodular BCC (~50% of all BCCs) — a shiny pearly papule/nodule with arborizing telangiectasias and a rolled border",
+   "B": "Superficial BCC (~50%) — a scar-like indurated white plaque with ill-defined borders",
+   "C": "Morpheaform BCC (~50%) — an erythematous scaly patch on the trunk",
+   "D": "Fibroepithelial BCC (~50%) — a pedunculated polyp on the lower back"
+  },
+  "answer": "A",
+  "exp": "Nodular BCC is the most common subtype, accounting for ~50% of all BCCs, and classically presents as a shiny \"pearly\" papule or nodule with arborizing telangiectasias and an elevated rolled border (with central ulceration it becomes the \"rodent ulcer\") — the pearly translucency and surface vessels reflect the basaloid tumor nests with overlying thin epidermis. It favors the face. The other subtypes have distinct looks: superficial = trunk patch, morpheaform = scar-like plaque, fibroepithelioma = lower-back plaque.",
+  "hy": "Nodular BCC ~50%; pearly papule + arborizing telangiectasia + rolled border.",
+  "src": "Bologna Ch108 · Nodular BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — nodular BCC is ~50% of BCCs with the classic pearly/rolled-border morphology.",
+   "B": "Wrong — a scar-like white plaque with ill-defined borders describes morpheaform BCC, not superficial.",
+   "C": "Wrong — an erythematous scaly trunk patch describes superficial BCC, not morpheaform.",
+   "D": "Wrong — fibroepithelioma of Pinkus is a sessile lower-back plaque but is not the ~50% most-common subtype."
+  }
+ },
+ {
+  "id": "B108.42",
+  "chapter": "Ch108",
+  "section": "BCC – superficial",
+  "stem": "Superficial BCC differs from other BCC subtypes in age and site. Which statement is correct?",
+  "options": {
+   "A": "It has the youngest mean age at diagnosis (mid-50s) and favors the trunk and extremities",
+   "B": "It has the oldest mean age (mid-70s) and favors the central face",
+   "C": "It is the most aggressive subtype, with frequent bone invasion",
+   "D": "It is essentially never associated with multiple lesions"
+  },
+  "answer": "A",
+  "exp": "Superficial BCC has the youngest mean age at diagnosis (mid-50s) — and is the most common subtype in younger age groups — and favors the trunk and extremities, presenting as a well-circumscribed erythematous patch/thin plaque. Its growth is primarily horizontal, but subclinical lateral spread accounts for its notable recurrence rate after routine excision, and multiple lesions are common. The younger age + truncal site distinguish it from face-predominant nodular BCC.",
+  "hy": "Superficial BCC: youngest (mid-50s), trunk/extremities, horizontal spread → recurs.",
+  "src": "Bologna Ch108 · Superficial BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter gives a mid-50s mean age and trunk/extremity predilection.",
+   "B": "Wrong — mid-50s is younger than other BCCs, and it favors the trunk, not the central face.",
+   "C": "Wrong — it is indolent/horizontal-growing, not the most aggressive bone-invading subtype (that is morpheaform/infiltrating).",
+   "D": "Wrong — multiple superficial BCCs are commonly present, not essentially never."
+  }
+ },
+ {
+  "id": "B108.43",
+  "chapter": "Ch108",
+  "section": "BCC – morpheaform",
+  "stem": "A slowly enlarging, ill-defined, scar-like indurated white plaque on the cheek shows strands and cords of basaloid cells in a dense fibrous stroma. Which subtype and behavior is this?",
+  "options": {
+   "A": "Morpheaform BCC — biologically more aggressive with extensive local destruction and relative radioresistance",
+   "B": "Superficial BCC — indolent with purely horizontal growth",
+   "C": "Nodular BCC — the least aggressive subtype",
+   "D": "Fibroepithelioma of Pinkus — a benign trichoblastoma variant"
+  },
+  "answer": "A",
+  "exp": "A scar-like, ill-defined, indurated white-to-pink plaque with strands/cords of basaloid cells in a dense fibrous stroma is morpheaform (sclerosing/infiltrating) BCC, which behaves more aggressively with extensive local destruction and is relatively radioresistant — the infiltrative cords extend well beyond the clinical border, so margins are deceptive. An elevated pearly border is typically absent. This aggressive, ill-defined behavior is why Mohs is preferred and radiation avoided.",
+  "hy": "Morpheaform BCC = scar-like, infiltrative cords, aggressive, radioresistant.",
+  "src": "Bologna Ch108 · Morpheaform BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the morpheaform subtype's scar-like look and aggressive/radioresistant behavior.",
+   "B": "Wrong — purely horizontal indolent growth describes superficial BCC.",
+   "C": "Wrong — nodular BCC is a pearly nodule and is not the scar-like infiltrative subtype.",
+   "D": "Wrong — fibroepithelioma of Pinkus is a soft lower-back plaque, not an aggressive scar-like cheek lesion."
+  }
+ },
+ {
+  "id": "B108.44",
+  "chapter": "Ch108",
+  "section": "BCC – fibroepithelioma of Pinkus",
+  "stem": "Fibroepithelioma of Pinkus is a BCC variant. Which description is correct?",
+  "options": {
+   "A": "A skin-colored to pink sessile plaque, usually on the lower back, histologically thin anastomosing strands of tumor cells in a fenestrated pattern; some regard it as a trichoblastoma variant",
+   "B": "A pearly nodule of the nose with arborizing telangiectasias and a rolled border",
+   "C": "A pigmented plaque of the trunk arising in arsenic-exposed skin",
+   "D": "A rapidly growing crateriform nodule with a central keratotic core"
+  },
+  "answer": "A",
+  "exp": "Fibroepithelioma of Pinkus presents as a skin-colored to pink, soft, sessile plaque (sometimes pedunculated), usually on the lower back, and histologically shows thin anastomosing strands and cords of tumor cells in a fenestrated pattern within a fibrovascular stroma, with peripheral palisading and retraction less prominent than in typical BCC; some experts consider it a trichoblastoma variant. It often coexists with multiple superficial BCCs. The lower-back, fenestrated-strand picture is the giveaway.",
+  "hy": "Fibroepithelioma of Pinkus = lower-back sessile plaque, fenestrated anastomosing strands; ?trichoblastoma variant.",
+  "src": "Bologna Ch108 · Fibroepithelial BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's description of fibroepithelioma of Pinkus.",
+   "B": "Wrong — a pearly nasal nodule with arborizing telangiectasia and rolled border is nodular BCC.",
+   "C": "Wrong — a pigmented arsenic-related trunk plaque suggests arsenical SCC in situ/superficial BCC, not Pinkus.",
+   "D": "Wrong — a rapidly growing crateriform nodule with a keratotic core is a keratoacanthoma."
+  }
+ },
+ {
+  "id": "B108.45",
+  "chapter": "Ch108",
+  "section": "BCC – basosquamous",
+  "stem": "Basosquamous (metatypical) carcinoma has features of both BCC and SCC. Why is it clinically important?",
+  "options": {
+   "A": "It behaves more aggressively, like an SCC — with greater likelihood of recurrence and metastasis — and constitutes ~1% of keratinocyte carcinomas",
+   "B": "It is the most indolent BCC variant and never metastasizes",
+   "C": "It is a benign reactive proliferation requiring no treatment",
+   "D": "It is a melanocytic tumor mistaken for BCC"
+  },
+  "answer": "A",
+  "exp": "Basosquamous (metatypical, keratotic) carcinoma has histologic features of both BCC and cSCC and tends to behave more like an SCC — a greater likelihood of both recurrence and metastasis — and is estimated to make up ~1% of keratinocyte carcinomas. This aggressive potential means it should be treated like a high-risk tumor rather than a routine BCC. When it metastasizes it may resemble a poorly differentiated SCC.",
+  "hy": "Basosquamous BCC ~1% of KCs; behaves like SCC (recurs/metastasizes).",
+  "src": "Bologna Ch108 · Basosquamous carcinoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter states it behaves like SCC and is ~1% of keratinocyte carcinomas.",
+   "B": "Wrong — it is among the more aggressive BCC variants, not the most indolent.",
+   "C": "Wrong — it is a malignant tumor requiring aggressive treatment, not a benign reactive process.",
+   "D": "Wrong — it is a keratinocyte (not melanocytic) tumor with mixed basal/squamous features."
+  }
+ },
+ {
+  "id": "B108.46",
+  "chapter": "Ch108",
+  "section": "BCC – histopathology",
+  "stem": "Which two histopathologic features are characteristic of BCC and useful for distinguishing it from simulants?",
+  "options": {
+   "A": "Peripheral palisading of basaloid nuclei plus retraction (clefting) of the fibromyxoid stroma around the tumor islands",
+   "B": "Keratin pearls plus intercellular bridges throughout the tumor",
+   "C": "Full-thickness epidermal atypia plus diffuse parakeratosis",
+   "D": "A volcano-like crater plus glassy eosinophilic cytoplasm"
+  },
+  "answer": "A",
+  "exp": "The two characteristic BCC features are peripheral palisading of the basaloid nuclei at the edge of the tumor islands and retraction (clefting) of the surrounding fibromyxoid stroma away from those islands — the stromal retraction artifact, when present, is especially useful in separating BCC from histologic simulants. The tumor cells have uniform nuclei with scant cytoplasm and indistinct borders. These features anchor the histologic diagnosis.",
+  "hy": "BCC histology = peripheral palisading + peritumoral stromal retraction (clefts) in fibromyxoid stroma.",
+  "src": "Bologna Ch108 · BCC pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — palisading plus stromal retraction clefts are the BCC histologic hallmarks.",
+   "B": "Wrong — keratin pearls and intercellular bridges are features of squamous (SCC) differentiation.",
+   "C": "Wrong — full-thickness atypia with diffuse parakeratosis describes Bowen disease.",
+   "D": "Wrong — a volcano crater with glassy eosinophilic cytoplasm describes keratoacanthoma."
+  }
+ },
+ {
+  "id": "B108.47",
+  "chapter": "Ch108",
+  "section": "Table 108.6 – BCC simulants",
+  "stem": "Trichoblastoma can simulate BCC histologically. Which feature favors trichoblastoma over BCC?",
+  "options": {
+   "A": "Clefts located within the stroma (not around the tumor islands), follicular germs/papillae, and PHLDA1 positivity",
+   "B": "Retraction clefts immediately around the basaloid islands and absent PHLDA1",
+   "C": "Cribriform architecture with EMA positivity",
+   "D": "CK20-positive punctate cytoplasmic staining"
+  },
+  "answer": "A",
+  "exp": "Trichoblastoma — a benign follicular tumor that closely simulates BCC — is distinguished by clefts located within the stroma (rather than as retraction around the basaloid islands as in BCC), the presence of follicular germs and papillae simulating rudimentary hair follicles, and PHLDA1 positivity (PHLDA1 is a marker of epithelial follicular stem cells, stronger/more diffuse in trichoblastoma/trichoepithelioma than in BCC). These cues prevent over-diagnosing BCC.",
+  "hy": "Trichoblastoma vs BCC: stromal (not peritumoral) clefts, hair germs, PHLDA1+.",
+  "src": "Bologna Ch108 · Table 108.6 (BCC simulants)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — intra-stromal clefts, follicular germs, and PHLDA1 positivity favor trichoblastoma.",
+   "B": "Wrong — peritumoral retraction clefts and absent PHLDA1 describe BCC, not trichoblastoma.",
+   "C": "Wrong — a cribriform, EMA-positive pattern describes adenoid cystic carcinoma.",
+   "D": "Wrong — CK20-positive punctate cytoplasmic staining indicates Merkel cell carcinoma."
+  }
+ },
+ {
+  "id": "B108.48",
+  "chapter": "Ch108",
+  "section": "BCC – dermoscopy",
+  "stem": "What is the dermoscopic hallmark of basal cell carcinoma?",
+  "options": {
+   "A": "Well-focused arborizing vessels with foci of microulceration, and an absent pigment network",
+   "B": "A whitish halo surrounding the vessels with surface scale",
+   "C": "A blue–white veil over an irregular pigment network",
+   "D": "A central crater with hairpin vessels (red starburst pattern)"
+  },
+  "answer": "A",
+  "exp": "The dermoscopic hallmark of BCC is well-focused arborizing (tree-like branching) vessels together with foci of microulceration; a pigment network is absent, and additional high-specificity clues include blue–gray ovoid nests, multiple blue–gray globules, leaf-like (maple-leaf) structures, and spoke-wheel areas. The sharply focused branching vessels distinguish BCC from the out-of-focus vessels and scale of keratinizing tumors. This pattern underlies dermoscopy's diagnostic benefit in BCC.",
+  "hy": "BCC dermoscopy = arborizing vessels + microulceration; no pigment network.",
+  "src": "Bologna Ch108 · BCC dermoscopy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — arborizing vessels with microulceration and absent network are the BCC dermoscopic hallmark.",
+   "B": "Wrong — a whitish perivascular halo with scale is the hallmark of keratinizing tumors (SCC/KA).",
+   "C": "Wrong — a blue–white veil over an irregular network suggests melanoma.",
+   "D": "Wrong — a central keratin mass with hairpin vessels (red starburst) is described for AK/keratinizing lesions, not the BCC hallmark."
+  }
+ },
+ {
+  "id": "B108.49",
+  "chapter": "Ch108",
+  "section": "BCC genetics",
+  "stem": "Multiple hereditary infundibulocystic BCC syndrome has been associated with a germline mutation in which gene?",
+  "options": {
+   "A": "SUFU",
+   "B": "TP53",
+   "C": "TGFBR1",
+   "D": "MC1R"
+  },
+  "answer": "A",
+  "exp": "Multiple hereditary infundibulocystic BCC syndrome has been associated with a germline mutation in SUFU — a negative regulator of the Hedgehog pathway, the same pathway disrupted (via PTCH1) in Gorlin syndrome. SUFU loss de-represses GLI and activates Hedgehog signaling, producing multiple BCCs. This places it among the Hedgehog-driven BCC syndromes.",
+  "hy": "Multiple hereditary infundibulocystic BCC syndrome → germline SUFU.",
+  "src": "Bologna Ch108 · BCNS/BCC genetics",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the chapter links this syndrome to germline SUFU mutation.",
+   "B": "Wrong — germline TP53 causes Li–Fraumeni syndrome.",
+   "C": "Wrong — TGFBR1 underlies Ferguson–Smith multiple regressing keratoacanthomas.",
+   "D": "Wrong — MC1R variants relate to red-hair/fair-skin pigmentation risk, not this syndrome."
+  }
+ },
+ {
+  "id": "B108.50",
+  "chapter": "Ch108",
+  "section": "Treatment – margins",
+  "stem": "What surgical margins are recommended for a low-risk cutaneous SCC and for a non-morpheaform BCC <2 cm?",
+  "options": {
+   "A": "cSCC: 4–6 mm; non-morpheaform BCC <2 cm: 4 mm (adequate in ~98% of cases)",
+   "B": "cSCC: 1 mm; BCC: 1 mm",
+   "C": "cSCC: 15–20 mm; BCC: 15–20 mm",
+   "D": "cSCC: 4 mm; BCC: no margin needed, curettage only"
+  },
+  "answer": "A",
+  "exp": "Low-risk cSCC is excised with a 4–6 mm margin, and a non-morpheaform BCC <2 cm in diameter is adequately removed with a 4 mm margin in ~98% of cases — these margins reflect the typically limited subclinical spread of low-risk tumors. Facial and high-risk lesions need wider margins or Mohs, because subclinical extension is greater. Knowing these standard margins distinguishes routine from high-risk excisions.",
+  "hy": "Margins: low-risk cSCC 4–6 mm; non-morpheaform BCC <2 cm = 4 mm (98% adequate).",
+  "src": "Bologna Ch108 · Treatment – standard excision",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter's 4–6 mm (cSCC) and 4 mm (BCC <2 cm) margins.",
+   "B": "Wrong — 1 mm margins are inadequate for either tumor.",
+   "C": "Wrong — 15–20 mm is far wider than recommended for low-risk tumors (closer to high-risk BCC European margins).",
+   "D": "Wrong — BCC requires an actual surgical margin, not curettage alone, for standard excision."
+  }
+ },
+ {
+  "id": "B108.51",
+  "chapter": "Ch108",
+  "section": "Treatment – Mohs vs other modalities",
+  "stem": "For primary BCC, which treatment has the lowest reported 5-year recurrence rate?",
+  "options": {
+   "A": "Mohs micrographic surgery (~1%), vs excision 10%, curettage-and-electrodesiccation 8%, radiation 9%, cryotherapy 7.5%",
+   "B": "Cryotherapy (~1%), vs Mohs 10%",
+   "C": "Radiation therapy (~1%), vs Mohs 8%",
+   "D": "Curettage-and-electrodesiccation (~1%), vs excision 7.5%"
+  },
+  "answer": "A",
+  "exp": "For primary BCC, Mohs micrographic surgery has the lowest 5-year recurrence (~1%) — complete circumferential peripheral and deep-margin assessment maps the entire margin rather than sampling it — compared with excision 10%, curettage-and-electrodesiccation 8%, radiation 9%, and cryotherapy 7.5% in the cited series. This margin control is why Mohs leads for difficult or recurrence-prone tumors. The advantage is even larger for recurrent BCCs.",
+  "hy": "Primary-BCC 5-yr recurrence: Mohs 1% < cryo 7.5% < C&E 8% < RT 9% < excision 10%.",
+  "src": "Bologna Ch108 · Treatment – modality cure rates",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — Mohs ~1% is the lowest, with the comparator rates as listed.",
+   "B": "Wrong — cryotherapy recurrence was 7.5%, not 1%; Mohs is lower, not 10%.",
+   "C": "Wrong — radiation recurrence was ~9%, not 1%.",
+   "D": "Wrong — C&E recurrence was ~8% for primary BCC, not 1%."
+  }
+ },
+ {
+  "id": "B108.52",
+  "chapter": "Ch108",
+  "section": "Treatment – Mohs indications",
+  "stem": "For which BCC scenario is Mohs micrographic surgery specifically preferred?",
+  "options": {
+   "A": "Morpheaform, poorly demarcated, incompletely removed, or recurrent BCCs, and sites requiring tissue conservation",
+   "B": "Small well-defined nodular BCCs of the trunk in young patients",
+   "C": "Superficial BCCs suitable for topical therapy",
+   "D": "Any BCC for which radiation is also an option, to save cost"
+  },
+  "answer": "A",
+  "exp": "Mohs is specifically preferred for morpheaform, poorly demarcated, incompletely removed, or recurrent BCCs, and for sites where tissue conservation and reliable clear margins are paramount — exactly the situations with the most subclinical spread and the highest stakes for recurrence. It is similarly indicated for high-risk primary or recurrent cSCC. Small, well-defined, low-risk truncal tumors do not require Mohs.",
+  "hy": "Mohs preferred: morpheaform, poorly demarcated, incompletely removed, recurrent BCC; tissue-sparing sites.",
+  "src": "Bologna Ch108 · Treatment – Mohs indications",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — these are the chapter's stated Mohs indications.",
+   "B": "Wrong — small well-defined nodular truncal BCCs are low-risk and do not need Mohs.",
+   "C": "Wrong — superficial BCCs amenable to topical therapy are not the Mohs-preferred scenario.",
+   "D": "Wrong — Mohs is chosen for margin control in high-risk tumors, not merely as a cheaper alternative to radiation."
+  }
+ },
+ {
+  "id": "B108.53",
+  "chapter": "Ch108",
+  "section": "Treatment – radiation contraindications",
+  "stem": "Radiation therapy should generally be avoided in which situations?",
+  "options": {
+   "A": "Verrucous carcinoma (anaplastic transformation), morpheaform BCC (radioresistant), and basal cell nevus syndrome (X-rays → second-PTCH-allele mutation)",
+   "B": "Elderly patients who cannot tolerate surgery",
+   "C": "Small nodular BCCs in poor surgical candidates",
+   "D": "Recurrent cSCC with perineural involvement"
+  },
+  "answer": "A",
+  "exp": "Radiation therapy is generally avoided for verrucous carcinoma (risk of anaplastic transformation worsening prognosis), morpheaform BCC (relatively radioresistant), and basal cell nevus syndrome (X-rays can mutate the second PTCH allele and induce further tumors — BCNS patients are exquisitely radiosensitive). For frail patients who cannot tolerate surgery, radiation is in fact a useful option. These three contraindications are the high-yield exceptions.",
+  "hy": "Avoid RT in: verrucous carcinoma, morpheaform BCC, BCNS.",
+  "src": "Bologna Ch108 · Treatment – radiation therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — these are the chapter's stated radiation contraindications.",
+   "B": "Wrong — radiation is actually advantageous for elderly patients unfit for surgery.",
+   "C": "Wrong — small nodular BCCs in poor surgical candidates are reasonable radiation targets.",
+   "D": "Wrong — radiation is used as adjuvant therapy for high-risk cSCC with perineural involvement, not avoided."
+  }
+ },
+ {
+  "id": "B108.54",
+  "chapter": "Ch108",
+  "section": "Table 108.8 – topical AK therapy",
+  "stem": "Which mechanism-of-action pairing for an AK topical agent is correct?",
+  "options": {
+   "A": "Imiquimod = Toll-like receptor 7 agonist; tirbanibulin = Src-kinase and tubulin-polymerization inhibitor",
+   "B": "Imiquimod = Src-kinase inhibitor; tirbanibulin = Toll-like receptor 7 agonist",
+   "C": "5-Fluorouracil = Toll-like receptor 7 agonist; diclofenac = thymidylate synthase inhibitor",
+   "D": "Diclofenac = tubulin inhibitor; tirbanibulin = NSAID"
+  },
+  "answer": "A",
+  "exp": "Imiquimod is a Toll-like receptor 7 agonist (it stimulates an innate immune/inflammatory response against the lesion), whereas tirbanibulin inhibits Src-kinase signaling and tubulin polymerization (a 1% ointment given for 5 days, complete clearance 44–54%). The other AK agents differ again: 5-FU is a thymidylate-synthase/antimetabolite and diclofenac is an NSAID. Matching each drug to its true mechanism is the testable point.",
+  "hy": "Imiquimod = TLR7 agonist; tirbanibulin = Src-kinase + tubulin inhibitor.",
+  "src": "Bologna Ch108 · Table 108.8 (AK topical therapy)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — imiquimod is a TLR7 agonist and tirbanibulin inhibits Src kinase and tubulin polymerization.",
+   "B": "Wrong — this swaps the two mechanisms.",
+   "C": "Wrong — 5-FU is an antimetabolite (thymidylate synthase), not a TLR7 agonist; diclofenac is an NSAID, not a thymidylate-synthase inhibitor.",
+   "D": "Wrong — diclofenac is an NSAID (not a tubulin inhibitor), and tirbanibulin is the Src/tubulin agent (not an NSAID)."
+  }
+ },
+ {
+  "id": "B108.55",
+  "chapter": "Ch108",
+  "section": "Treatment – imiquimod vs surgery",
+  "stem": "In a randomized controlled trial comparing imiquimod with surgery for BCC, what were the tumor-clearance rates?",
+  "options": {
+   "A": "82.5% with imiquimod vs 98% with surgery",
+   "B": "98% with imiquimod vs 82.5% with surgery",
+   "C": "50% with imiquimod vs 75% with surgery",
+   "D": "Equal clearance (~90%) with both"
+  },
+  "answer": "A",
+  "exp": "In a randomized controlled trial of 501 BCC patients, tumor clearance was 82.5% with imiquimod versus 98% with surgery — so surgery remained superior, but topical imiquimod (a TLR7 agonist, FDA-approved at 5% for superficial BCC) achieved meaningful clearance in selected superficial tumors. This quantifies the trade-off when avoiding surgery. The gap (≈82.5% vs 98%) is the figure to remember.",
+  "hy": "BCC clearance: imiquimod 82.5% vs surgery 98%.",
+  "src": "Bologna Ch108 · Treatment – topical imiquimod",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — the trial gave 82.5% (imiquimod) vs 98% (surgery).",
+   "B": "Wrong — this reverses the values; surgery (not imiquimod) achieved 98%.",
+   "C": "Wrong — imiquimod clearance was much higher than 50%.",
+   "D": "Wrong — clearance was not equal; surgery clearly outperformed imiquimod."
+  }
+ },
+ {
+  "id": "B108.56",
+  "chapter": "Ch108",
+  "section": "Table 108.9 – intralesional therapy",
+  "stem": "Regarding intralesional therapy of NMSC, which statement is correct?",
+  "options": {
+   "A": "Intralesional 5-FU (50 mg/ml) is given at a maximum of 50–100 mg per lesion per session; methotrexate requires checking renal function first",
+   "B": "Intralesional 5-FU has no maximum dose per session",
+   "C": "Methotrexate is injected without any renal assessment",
+   "D": "Both agents are injected intravenously rather than into the lesion"
+  },
+  "answer": "A",
+  "exp": "Intralesional 5-FU (50 mg/ml) is given at a maximum of 50–100 mg per lesion per session (weekly for 3–8 treatments), and intralesional methotrexate (25 mg/ml, max 1 ml) requires checking renal function before administration because MTX is renally cleared — both are injected into the base of the lesion until it blanches, with overall response rates ~80%. These are options for selected NMSCs not suited to standard surgery. The dose ceiling and renal check are the practical safety points.",
+  "hy": "Intralesional 5-FU max 50–100 mg/lesion/session; MTX needs renal-function check.",
+  "src": "Bologna Ch108 · Table 108.9 (intralesional therapy)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches Table 108.9 dosing and the methotrexate renal precaution.",
+   "B": "Wrong — 5-FU has a stated 50–100 mg per-session maximum.",
+   "C": "Wrong — methotrexate specifically requires a renal-function check before administration.",
+   "D": "Wrong — these are intralesional (injected into the lesion), not intravenous, therapies."
+  }
+ },
+ {
+  "id": "B108.57",
+  "chapter": "Ch108",
+  "section": "Systemic therapy – advanced cSCC",
+  "stem": "What is first-line systemic therapy for advanced (unresectable/metastatic) cutaneous SCC, and its approximate efficacy?",
+  "options": {
+   "A": "Anti-PD-1 antibodies (e.g. cemiplimab), with overall response rates >40% (cemiplimab ~44–45%)",
+   "B": "Hedgehog pathway inhibitors (vismodegib), with response rates ~90%",
+   "C": "BRAF inhibitors (vemurafenib), with response rates ~80%",
+   "D": "Intralesional interferon, with response rates ~99%"
+  },
+  "answer": "A",
+  "exp": "First-line systemic therapy for advanced (unresectable or metastatic) cSCC is an anti-PD-1 antibody such as cemiplimab, which releases T-cell checkpoint inhibition against the UV-mutated, neoantigen-rich tumor; overall response rates exceed 40% (cemiplimab ~44% locally advanced / ~45% metastatic). Anti-PD-1 outperforms chemotherapy and tyrosine-kinase inhibitors, and cetuximab (anti-EGFR) is a second-line option. The >40% ORR is the figure to anchor.",
+  "hy": "Advanced cSCC: anti-PD-1 (cemiplimab) ORR >40% (~44–45%).",
+  "src": "Bologna Ch108 · Systemic therapy – advanced cSCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — anti-PD-1 antibodies (cemiplimab) are first-line with ORR >40%.",
+   "B": "Wrong — hedgehog inhibitors (vismodegib) treat advanced BCC, not cSCC.",
+   "C": "Wrong — BRAF inhibitors treat BRAF-mutant melanoma and actually can induce cSCC.",
+   "D": "Wrong — intralesional interferon (~80% response in selected cases) is not the first-line systemic therapy for advanced cSCC."
+  }
+ },
+ {
+  "id": "B108.58",
+  "chapter": "Ch108",
+  "section": "Systemic therapy – advanced BCC",
+  "stem": "Vismodegib and sonidegib are used for advanced BCC. What is their mechanism, and a characteristic side effect?",
+  "options": {
+   "A": "They inhibit Smoothened (Hedgehog pathway); dysgeusia occurs in >40% of patients and they are teratogenic",
+   "B": "They block PD-1 on T cells; the main toxicity is immune colitis",
+   "C": "They inhibit EGFR; the main toxicity is an acneiform rash",
+   "D": "They inhibit BRAF; the main toxicity is new keratoacanthomas"
+  },
+  "answer": "A",
+  "exp": "Vismodegib and sonidegib inhibit Smoothened (SMO), shutting down the aberrantly activated Hedgehog pathway that drives BCC; characteristic side effects include dysgeusia in >40% of patients (from altered turnover of tongue epithelium), muscle spasms, alopecia, and weight loss, and they are teratogenic (can cause birth defects or fetal death). Adverse effects lead ~30% of patients to discontinue. The SMO mechanism plus dysgeusia/teratogenicity are the high-yield facts.",
+  "hy": "Vismodegib/sonidegib = SMO (Hedgehog) inhibitors; dysgeusia >40%; teratogenic.",
+  "src": "Bologna Ch108 · Systemic therapy – advanced BCC + Table 108.10",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — they are Smoothened inhibitors with dysgeusia >40% and teratogenicity.",
+   "B": "Wrong — PD-1 blockade with immune colitis describes checkpoint inhibitors (cemiplimab), not vismodegib.",
+   "C": "Wrong — EGFR inhibition with acneiform rash describes cetuximab.",
+   "D": "Wrong — BRAF inhibition causing keratoacanthomas describes vemurafenib/dabrafenib."
+  }
+ },
+ {
+  "id": "B108.59",
+  "chapter": "Ch108",
+  "section": "Systemic therapy – advanced BCC second-line",
+  "stem": "When a locally advanced BCC develops resistance to a hedgehog pathway inhibitor, which FDA-approved option is available, and its approximate efficacy?",
+  "options": {
+   "A": "Cemiplimab (anti-PD-1), with an overall response rate of ~31%",
+   "B": "A second hedgehog inhibitor, with response rates ~90%",
+   "C": "Cetuximab (anti-EGFR), with response rates ~80%",
+   "D": "Methotrexate chemotherapy, with response rates ~70%"
+  },
+  "answer": "A",
+  "exp": "When a locally advanced BCC becomes resistant to a hedgehog pathway inhibitor, cemiplimab (an anti-PD-1 antibody) is FDA-approved second-line and produced an overall response rate of ~31% in that setting — BCCs carry a high UV-induced mutational/neoantigen burden, providing the rationale for checkpoint blockade. This gives a salvage option after SMO-inhibitor failure. The ~31% ORR is the figure to recall.",
+  "hy": "Post-hedgehog-inhibitor advanced BCC: cemiplimab (anti-PD-1) ORR ~31%.",
+  "src": "Bologna Ch108 · Systemic therapy – advanced BCC",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — cemiplimab is FDA-approved after hedgehog-inhibitor therapy, ORR ~31%.",
+   "B": "Wrong — switching to a second hedgehog inhibitor is not the cited ~90%-response option after resistance.",
+   "C": "Wrong — cetuximab (anti-EGFR) is a second-line option for advanced cSCC, not the approved post-hedgehog BCC therapy.",
+   "D": "Wrong — methotrexate chemotherapy is not the FDA-approved second-line therapy described here."
+  }
+ },
+ {
+  "id": "B108.60",
+  "chapter": "Ch108",
+  "section": "Prevention/prophylaxis",
+  "stem": "Which preventive statement about keratinocyte carcinoma is correct?",
+  "options": {
+   "A": "Consistent sunscreen use decreases the incidence of SCC but has no or only a weak effect on BCC; low-dose acitretin reduces cSCCs and nicotinamide reduces AKs/NMSCs",
+   "B": "Sunscreen reduces BCC but not SCC; acitretin increases cSCCs",
+   "C": "Sunscreen has no effect on either tumor; only oral isotretinoin prevents both",
+   "D": "Nicotinamide reduces melanoma but increases AKs"
+  },
+  "answer": "A",
+  "exp": "Consistent sunscreen use has been shown to decrease the incidence of SCC but to have no or only a weak effect on BCC — consistent with SCC being driven by cumulative UV (which sunscreen limits) and BCC by intermittent exposure and other factors. For chemoprophylaxis in high-risk patients, low-dose acitretin reduces the number of cSCCs and nicotinamide reduces AKs and NMSCs (though not in transplant recipients in one study). These differential effects are the prevention high-yields.",
+  "hy": "Sunscreen ↓SCC but not BCC; acitretin ↓cSCC; nicotinamide ↓AK/NMSC.",
+  "src": "Bologna Ch108 · Prevention/prophylaxis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "why": {
+   "A": "Correct — matches the chapter: sunscreen reduces SCC (not BCC), acitretin reduces cSCC, nicotinamide reduces AK/NMSC.",
+   "B": "Wrong — sunscreen reduces SCC (not BCC), and acitretin reduces (not increases) cSCCs.",
+   "C": "Wrong — sunscreen does reduce SCC; the claim of no effect on either is incorrect.",
+   "D": "Wrong — nicotinamide reduces AKs/NMSCs; it is not a melanoma-specific agent that increases AKs."
+  }
+ },
+ {
+  "id": "B108.61",
+  "chapter": "Ch108",
+  "section": "Nodular BCC – recognition",
+  "stem": "A 70-year-old man has a slowly enlarging lesion on the infraorbital cheek shown below. What is the most likely diagnosis?",
+  "options": {
+   "A": "Nodular basal cell carcinoma",
+   "B": "Amelanotic nodular melanoma",
+   "C": "Sebaceous hyperplasia",
+   "D": "Intradermal melanocytic nevus"
+  },
+  "answer": "A",
+  "exp": "This is a nodular basal cell carcinoma — the most common BCC subtype (~50%) — presenting as a translucent (\"pearly\") papulonodule with prominent arborizing telangiectasias and a rolled border; the pearly translucency and surface vessels reflect basaloid tumor nests under a thin epidermis. With time it may ulcerate (\"rodent ulcer\") but the rolled border persists. The face, especially the cheeks and nose, is the site of predilection.",
+  "hy": "Nodular BCC = pearly papule + arborizing telangiectasia + rolled border.",
+  "src": "Bologna Ch108 · Fig 108.16 (nodular BCC)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-61.jpg",
+  "imgcap": "Translucent papulonodule on the cheek",
+  "why": {
+   "A": "Correct — pearly translucency, arborizing telangiectasias, and rolled border are classic nodular BCC.",
+   "B": "Wrong — amelanotic melanoma lacks the pearly translucency/arborizing vessels and would more likely show an atypical vascular/pigment pattern.",
+   "C": "Wrong — sebaceous hyperplasia shows yellowish lobules with a central umbilication, not a pearly telangiectatic nodule.",
+   "D": "Wrong — an intradermal nevus is a soft skin-colored papule without telangiectasias or a rolled translucent border."
+  }
+ },
+ {
+  "id": "B108.62",
+  "chapter": "Ch108",
+  "section": "Superficial BCC – recognition",
+  "stem": "This man has multiple erythematous patches and thin plaques on the back (he had arsenic exposure decades earlier). What is the most likely diagnosis?",
+  "options": {
+   "A": "Superficial basal cell carcinomas",
+   "B": "Guttate psoriasis",
+   "C": "Nummular dermatitis",
+   "D": "Pityriasis rosea"
+  },
+  "answer": "A",
+  "exp": "These are superficial basal cell carcinomas — well-circumscribed erythematous patches/thin plaques that favor the trunk and extremities, often multiple, and here associated with prior arsenic exposure (a recognized BCC/SCC risk factor). Superficial BCC has the youngest mean age at diagnosis (mid-50s) and spreads horizontally with subclinical lateral extension. A thin rolled border and fine scale help distinguish it from inflammatory mimics.",
+  "hy": "Multiple truncal erythematous thin plaques (esp. post-arsenic) = superficial BCCs.",
+  "src": "Bologna Ch108 · Fig 108.18 (superficial BCC)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-62.jpg",
+  "imgcap": "Numerous erythematous scaly patches on the back",
+  "why": {
+   "A": "Correct — multiple well-circumscribed erythematous thin plaques on the trunk, with an arsenic history, are superficial BCCs.",
+   "B": "Wrong — guttate psoriasis produces small droplet papules with silvery scale, typically after streptococcal infection, not arsenic-associated thin plaques.",
+   "C": "Wrong — nummular dermatitis gives intensely pruritic coin-shaped eczematous plaques, not the indolent bordered plaques shown.",
+   "D": "Wrong — pityriasis rosea is a self-limited herald-patch eruption along skin lines, not chronic arsenic-related plaques."
+  }
+ },
+ {
+  "id": "B108.63",
+  "chapter": "Ch108",
+  "section": "BCC dermoscopy – recognition",
+  "stem": "The dermoscopic image below is from a pigmented lesion. Which combination of features points to the diagnosis?",
+  "options": {
+   "A": "Blue–gray ovoid nests/globules and arborizing telangiectasias with an absent pigment network — basal cell carcinoma",
+   "B": "A blue–white veil over an atypical pigment network — melanoma",
+   "C": "Milia-like cysts and comedo-like openings — seborrheic keratosis",
+   "D": "A central whitish halo around glomerular vessels — Bowen disease"
+  },
+  "answer": "A",
+  "exp": "The dermoscopic hallmark of BCC is well-focused arborizing vessels, and pigmented BCCs additionally show blue–gray ovoid nests, multiple blue–gray globules, leaf-like (maple-leaf) structures, and spoke-wheel areas — crucially with an ABSENT pigment network. Together these features identify a pigmented BCC and help separate it from melanoma. The absence of a pigment network is a key discriminator.",
+  "hy": "Pigmented-BCC dermoscopy = blue–gray nests/globules + arborizing vessels, NO pigment network.",
+  "src": "Bologna Ch108 · Fig 108.20 (BCC dermoscopy)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-63.jpg",
+  "imgcap": "Dermoscopic image of a pigmented lesion",
+  "why": {
+   "A": "Correct — blue–gray nests/globules with arborizing vessels and no pigment network define pigmented BCC.",
+   "B": "Wrong — a blue–white veil over an atypical pigment network is a melanoma feature; BCC lacks a pigment network.",
+   "C": "Wrong — milia-like cysts and comedo-like openings are seborrheic-keratosis features.",
+   "D": "Wrong — a whitish halo around glomerular vessels is a Bowen-disease/keratinizing-tumor feature, not pigmented BCC."
+  }
+ },
+ {
+  "id": "B108.64",
+  "chapter": "Ch108",
+  "section": "BCC histopathology – recognition",
+  "stem": "This H&E section shows a dermal tumor. Which two features identify it?",
+  "options": {
+   "A": "Peripheral palisading of basaloid nuclei with retraction (clefting) of the surrounding stroma — basal cell carcinoma",
+   "B": "Keratin pearls and intercellular bridges — squamous cell carcinoma",
+   "C": "Full-thickness epidermal atypia with diffuse parakeratosis — Bowen disease",
+   "D": "A volcano-like keratin-filled crater — keratoacanthoma"
+  },
+  "answer": "A",
+  "exp": "This is a basal cell carcinoma: the diagnostic histology is aggregations of basaloid keratinocytes with peripheral palisading of the nuclei and retraction (clefting) of the surrounding fibromyxoid stroma away from the tumor islands. The stromal retraction artifact, when present, is especially useful for distinguishing BCC from its simulants. The cells have uniform nuclei with scant cytoplasm and indistinct borders.",
+  "hy": "BCC histology = peripheral palisading + peritumoral stromal retraction clefts.",
+  "src": "Bologna Ch108 · Fig 108.22 (BCC histopathology)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-64.jpg",
+  "imgcap": "H&E of a basaloid dermal tumor",
+  "why": {
+   "A": "Correct — palisading plus stromal retraction clefts are the histologic hallmarks of BCC.",
+   "B": "Wrong — keratin pearls and intercellular bridges indicate squamous (SCC) differentiation.",
+   "C": "Wrong — full-thickness epidermal atypia with diffuse parakeratosis describes Bowen disease.",
+   "D": "Wrong — a volcano-like keratin-filled crater describes keratoacanthoma."
+  }
+ },
+ {
+  "id": "B108.65",
+  "chapter": "Ch108",
+  "section": "Actinic keratosis – recognition",
+  "stem": "An elderly woman with severe photodamage has the lesions shown on her forehead. What is the most likely diagnosis?",
+  "options": {
+   "A": "Actinic keratoses",
+   "B": "Seborrheic keratoses",
+   "C": "Discoid lupus erythematosus",
+   "D": "Flat warts (verruca plana)"
+  },
+  "answer": "A",
+  "exp": "These are actinic keratoses — rough erythematous macules/papules with white-to-yellow scale on the most cumulatively sun-exposed skin (forehead, scalp, dorsal hands), here in a woman with severe photodamage. They are partial-thickness atypical keratinocyte proliferations and potential precursors of cSCC. Palpation (a \"sandpaper\" feel) often detects them better than inspection.",
+  "hy": "Rough scaly erythematous macules on photodamaged skin = actinic keratoses.",
+  "src": "Bologna Ch108 · Fig 108.2 (actinic keratoses)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-65.jpg",
+  "imgcap": "Multiple rough erythematous scaly macules on the forehead",
+  "why": {
+   "A": "Correct — multiple rough scaly erythematous macules on sun-exposed forehead are actinic keratoses.",
+   "B": "Wrong — seborrheic keratoses are waxy \"stuck-on\" brown papules with comedo-like openings, not rough erythematous macules.",
+   "C": "Wrong — discoid lupus shows scarring plaques with follicular plugging and dyspigmentation, not gritty AKs.",
+   "D": "Wrong — flat warts are smooth skin-colored papules of younger patients, not scaly photodamage-related lesions."
+  }
+ },
+ {
+  "id": "B108.66",
+  "chapter": "Ch108",
+  "section": "Invasive cSCC – recognition",
+  "stem": "A large, rapidly enlarging fungating nodule developed on the dorsum of the hand in a chronically sun-exposed man. What is the most likely diagnosis?",
+  "options": {
+   "A": "Invasive cutaneous squamous cell carcinoma",
+   "B": "Pyogenic granuloma",
+   "C": "Nodular basal cell carcinoma",
+   "D": "Dermatofibroma"
+  },
+  "answer": "A",
+  "exp": "This is an invasive cutaneous squamous cell carcinoma — a rapidly enlarging, often fungating/papulonodular tumor arising on chronically sun-damaged skin such as the dorsal hand. cSCC can be hyperkeratotic, eroded, or ulcerated, and pain/paresthesia would raise concern for perineural invasion. Unlike BCC, cSCC has meaningful metastatic potential that rises with thickness.",
+  "hy": "Rapidly growing fungating nodule on sun-damaged skin = invasive cSCC.",
+  "src": "Bologna Ch108 · Fig 108.7 (cSCC spectrum)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-66.jpg",
+  "imgcap": "Large fungating nodule on the dorsum of the hand",
+  "why": {
+   "A": "Correct — a fungating, rapidly enlarging nodule on photodamaged skin is classic invasive cSCC.",
+   "B": "Wrong — a pyogenic granuloma is a small friable bleeding papule that grows over days, not a large fungating cancerous nodule.",
+   "C": "Wrong — nodular BCC is a pearly telangiectatic nodule, not a fungating keratotic mass.",
+   "D": "Wrong — a dermatofibroma is a small firm dermal papule with a positive dimple sign, not a fungating tumor."
+  }
+ },
+ {
+  "id": "B108.67",
+  "chapter": "Ch108",
+  "section": "Keratoacanthoma – recognition",
+  "stem": "This sharply circumscribed nodule with a central keratotic core grew rapidly over a few weeks on sun-exposed skin. What is the most likely diagnosis?",
+  "options": {
+   "A": "Keratoacanthoma",
+   "B": "Morpheaform basal cell carcinoma",
+   "C": "Merkel cell carcinoma",
+   "D": "Pyoderma gangrenosum"
+  },
+  "answer": "A",
+  "exp": "This is a keratoacanthoma — a sharply circumscribed, crateriform nodule with a central keratotic core that grows rapidly over a few weeks and often involutes over months, considered by some a low-grade/\"pseudomalignant\" variant of cSCC. It favors the head/neck and sun-exposed extremities. The rapid growth-then-involution and central keratin plug distinguish it from the indolent mimics.",
+  "hy": "KA = rapidly growing crateriform nodule with central keratotic core, may involute.",
+  "src": "Bologna Ch108 · Fig 108.9 (keratoacanthoma)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-67.jpg",
+  "imgcap": "Crateriform nodule with a central keratotic core",
+  "why": {
+   "A": "Correct — a crateriform nodule with a keratotic core and rapid growth is a keratoacanthoma.",
+   "B": "Wrong — morpheaform BCC is a slowly enlarging scar-like indurated plaque, not a crateriform nodule.",
+   "C": "Wrong — Merkel cell carcinoma is a rapidly growing violaceous dermal nodule without a keratotic crater.",
+   "D": "Wrong — pyoderma gangrenosum is an ulcer with an undermined violaceous border, not a keratin-cored nodule."
+  }
+ },
+ {
+  "id": "B108.68",
+  "chapter": "Ch108",
+  "section": "Verrucous carcinoma – recognition",
+  "stem": "A slowly enlarging exophytic verrucous tumor with crevices is present on the plantar surface of the foot. What is the most likely diagnosis?",
+  "options": {
+   "A": "Verrucous carcinoma (epithelioma cuniculatum)",
+   "B": "Plantar verruca vulgaris",
+   "C": "Eccrine poroma",
+   "D": "Acral melanoma"
+  },
+  "answer": "A",
+  "exp": "This is a verrucous carcinoma — specifically epithelioma cuniculatum, the plantar-foot subtype — a well-differentiated, low-grade variant of SCC presenting as a large, slowly enlarging exophytic warty tumor with rabbit-burrow-like crevices (\"cuniculatum\"). It has a pushing border, recurs locally, but rarely metastasizes; HPV is often associated. Diagnosis usually needs a large excisional biopsy because cytology is bland.",
+  "hy": "Plantar exophytic verrucous tumor = verrucous carcinoma (epithelioma cuniculatum).",
+  "src": "Bologna Ch108 · Fig 108.10 (verrucous carcinoma)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "108",
+  "chname": "Actinic Keratosis, Basal Cell Carcinoma, and Squamous Cell Carcinoma",
+  "image": "images/B108-68.jpg",
+  "imgcap": "Exophytic verrucous tumor on the plantar foot",
+  "why": {
+   "A": "Correct — a plantar exophytic verrucous tumor with crevices is epithelioma cuniculatum, a verrucous carcinoma.",
+   "B": "Wrong — a plantar wart is a smaller, well-demarcated hyperkeratotic papule with thrombosed capillaries, not a large invasive tumor.",
+   "C": "Wrong — an eccrine poroma is a vascular pink papule (often acral) but not a large verrucous burrowing tumor.",
+   "D": "Wrong — acral melanoma is a pigmented macule/nodule with an irregular pattern, not a verrucous exophytic mass."
+  }
  }
 ]
