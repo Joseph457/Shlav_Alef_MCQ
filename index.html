@@ -41,6 +41,11 @@
   .opt.correct{background:rgba(34,197,94,.16);border-color:var(--good)}.opt.correct .ltr{color:var(--good)}
   .opt.wrong{background:rgba(239,68,68,.16);border-color:var(--bad)}.opt.wrong .ltr{color:var(--bad)}
   .opt.disabled{opacity:.6}
+  .tts-row{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+  .ttsbtn{background:var(--panel2);border:1px solid var(--line);color:var(--accent);border-radius:10px;padding:6px 11px;font-size:14px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;-webkit-tap-highlight-color:transparent}
+  .ttsbtn.speaking{background:rgba(56,189,248,.18);border-color:var(--accent)}
+  .opt-spk{flex:0 0 auto;margin-left:auto;background:transparent;border:none;color:var(--muted);font-size:17px;cursor:pointer;padding:2px 6px;border-radius:8px;line-height:1}
+  .opt-spk.speaking{color:var(--accent)}
   .reveal{margin-top:6px;border-top:1px dashed var(--line);padding-top:14px;display:none}
   .reveal h4{margin:0 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)}
   .reveal .key{font-weight:700}
@@ -140,9 +145,11 @@
       </div>
       <div class="stem" id="q-stem"></div>
       <div class="qimg" id="q-img"></div>
+      <div class="tts-row"><button class="ttsbtn" id="tts-q">🔊 Question</button><button class="ttsbtn" id="tts-all">🔊 All answers</button><button class="ttsbtn" id="tts-rate" title="Playback speed">1×</button></div>
       <div id="q-opts"></div>
       <div class="reveal" id="q-reveal">
         <h4>Answer</h4><div class="key" id="q-key"></div>
+        <button class="ttsbtn" id="tts-exp" style="margin:4px 0 10px">🔊 Explanation</button>
         <div class="exp-block" id="q-exp"></div>
         <div class="qimg" id="q-expimg" style="display:none"></div>
         <div class="hy" id="q-hy"></div><div class="src" id="q-src"></div>
@@ -205,7 +212,7 @@
 </nav>
 
 <script>
-const VERSION="v4.5", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
+const VERSION="v4.6", LADDER=[1,3,7,21,60], STORE_KEY="shlavAlefSR_v2";
 function phaseName(idx){if(idx<0)return"New";if(idx>=LADDER.length)return"Mastered";return {1:"1 day",3:"3 days",7:"1 week",21:"3 weeks",60:"2 months"}[LADDER[idx]];}
 let QUESTIONS=[], state=null, byIdQ={};
 const $=id=>document.getElementById(id);
@@ -252,7 +259,7 @@ function sectionStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];
 function weakSections(){return sectionStats().filter(s=>s.acc!==null&&s.seen>=1&&s.acc<70).sort((a,b)=>a.acc-b.acc);}
 function chapterStats(){const m={};pool().forEach(q=>{const it=state.byId[q.id];const k=q.book+"|"+q.chnum+"|"+q.chname;if(!m[k])m[k]={book:q.book,chnum:q.chnum,chname:q.chname,seen:0,correct:0,n:0};m[k].seen+=it.seen;m[k].correct+=it.correct;m[k].n++;});return Object.values(m).map(v=>({key:v.book+"|"+v.chnum,book:v.book,chnum:v.chnum,chname:v.chname,acc:v.seen?Math.round(100*v.correct/v.seen):null,seen:v.seen,n:v.n}));}
 function weakChapters(){return chapterStats().filter(c=>c.acc!==null&&c.seen>=1&&c.acc<70).sort((a,b)=>a.acc-b.acc);}
-function show(v){["home","quiz","done","stats","settings","saved","archive"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
+function show(v){ttsStop();["home","quiz","done","stats","settings","saved","archive"].forEach(x=>$("view-"+x).classList.toggle("hide",x!==v));}
 function setNav(v){document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===v));}
 function renderHome(){const rev=reviewDueList().length;const allDue=dueList().length;$("kpi-due").textContent=rev;$("kpi-total").textContent=pool().length;const a=overallAcc();$("kpi-acc").textContent=a===null?"–":a+"%";$("kpi-mastered").textContent=masteredCount();renderStreakAndToday();$("start-due").disabled=allDue===0;$("start-due").textContent=allDue?("Start review ("+allDue+")"):"Nothing due 🎉";$("start-due-only").disabled=rev===0;$("start-due-only").textContent=rev?("Due reviews only — no new ("+rev+")"):"No reviews due";const sc=starredIds().length;$("start-starred").disabled=sc===0;$("start-starred").textContent=sc?("⭐ Drill starred ("+sc+")"):"⭐ No starred questions yet";const wc=weakChapters();$("weak-home").innerHTML=wc.length?'<h2 class="section" style="margin-top:0">Weak chapters (&lt;70%)</h2>'+wc.map(c=>`<div class="row"><span class="lab">${c.book} · Ch ${c.chnum} ${c.chname} <span class="pill weak">weak</span></span><span class="acc lo">${c.acc}%</span></div>`).join(""):'<p class="muted center" style="margin:6px 0">No weak chapters yet. Chapters under 70% will appear here as you drill.</p>';updateSavedBadge();}
 
@@ -317,6 +324,15 @@ function startSession(items){
   show("quiz");setNav("home");renderCard();
 }
 
+/* ---------- text-to-speech (Web Speech API) ---------- */
+const SYNTH=("speechSynthesis"in window)?window.speechSynthesis:null;
+const TTS_RATES=[1,1.25,1.5,0.85];
+let TTS_BTN=null;
+function ttsRate(){return state&&state.ttsRate?state.ttsRate:1;}
+function ttsChunk(t){t=(t||"").replace(/\s+/g," ").trim();if(!t)return[];const parts=t.match(/[^.!?;]+[.!?;]*\s*/g)||[t];const out=[];let cur="";parts.forEach(p=>{if((cur+p).length>180){if(cur)out.push(cur.trim());cur=p;}else cur+=p;});if(cur.trim())out.push(cur.trim());return out;}
+function ttsStop(){if(SYNTH)SYNTH.cancel();if(TTS_BTN){TTS_BTN.classList.remove("speaking");TTS_BTN=null;}}
+function ttsSpeak(text,btn){if(!SYNTH){alert("Text-to-speech isn't available in this browser.");return;}const same=(TTS_BTN===btn);ttsStop();if(same)return;const chunks=ttsChunk(text);if(!chunks.length)return;TTS_BTN=btn;if(btn)btn.classList.add("speaking");chunks.forEach((c,i)=>{const u=new SpeechSynthesisUtterance(c);u.lang="en-US";u.rate=ttsRate();if(i===chunks.length-1){u.onend=()=>{if(btn)btn.classList.remove("speaking");if(TTS_BTN===btn)TTS_BTN=null;};}SYNTH.speak(u);});}
+
 function renderCard(){
   const q=session[sIdx];
   const s=sess[sIdx];
@@ -328,6 +344,11 @@ function renderCard(){
   $("q-tag").textContent=q.book+" · Ch "+q.chnum+" "+q.chname+" · "+q.section;
   {const _it=state.byId[q.id];$("q-phase").textContent="Phase: "+phaseName(_it.idx)+" · next: "+phaseName(Math.max(_it.idx,0)+1);}
   $("q-stem").textContent=q.stem;
+  ttsStop();
+  $("tts-q").onclick=()=>ttsSpeak(q.stem,$("tts-q"));
+  $("tts-all").onclick=()=>ttsSpeak(DISP.map((d,i)=>d+". "+((q.options&&q.options[s.order[i]])||"")).join(". "),$("tts-all"));
+  $("tts-rate").textContent=ttsRate()+"×";
+  $("tts-rate").onclick=()=>{const r=TTS_RATES[(TTS_RATES.indexOf(ttsRate())+1)%TTS_RATES.length];state.ttsRate=r;save();$("tts-rate").textContent=r+"×";};
   {const _ib=$("q-img");if(q.image){_ib.innerHTML='<img src="'+q.image+'" alt="'+esc(q.imgcap||"figure")+'" loading="lazy">'+(q.imgcap?'<div class="cap">'+esc(q.imgcap)+'</div>':"");_ib.style.display="block";}else{_ib.innerHTML="";_ib.style.display="none";}}
   renderStarBtn();
   /* A2: render options in shuffled display order */
@@ -339,6 +360,7 @@ function renderCard(){
     const b=document.createElement("button");
     b.className="opt";
     b.innerHTML=`<span class="ltr">${dispL}</span><span>${q.options[origKey]}</span>`;
+    {const _spk=document.createElement("span");_spk.className="opt-spk";_spk.textContent="🔊";_spk.title="Read this answer";_spk.onclick=(e)=>{e.stopPropagation();ttsSpeak(dispL+". "+q.options[origKey],_spk);};b.appendChild(_spk);}
     if(s.answered){
       b.classList.add("disabled");
       if(dispL===correctDisp)b.classList.add("correct");
@@ -364,6 +386,7 @@ function renderCard(){
     {const _eb=$("q-expimg");if(q.expimage){_eb.innerHTML='<img src="'+q.expimage+'" alt="'+esc(q.expimgcap||"figure")+'" loading="lazy">'+(q.expimgcap?'<div class="cap">'+esc(q.expimgcap)+'</div>':"");_eb.style.display="block";}else{_eb.innerHTML="";_eb.style.display="none";}}
     $("q-hy").textContent=q.hy?("🔑 "+q.hy):"";
     $("q-src").textContent=q.src?("📖 "+q.src):"";
+    $("tts-exp").onclick=()=>ttsSpeak(($("q-exp").textContent||"")+(q.hy?(". Key point. "+q.hy):""),$("tts-exp"));
     $("q-reveal").style.display="block";
     $("q-next").classList.remove("hide");
     $("q-next").textContent=sIdx===session.length-1?"Finish":"Next";
@@ -439,7 +462,7 @@ $("reload-q").onclick=()=>location.reload();
 document.querySelectorAll(".nav button").forEach(b=>b.onclick=()=>{const v=b.dataset.view;setNav(v);if(v==="home"){renderHome();show("home");}else if(v==="saved"){renderSaved();show("saved");}else if(v==="stats"){renderStats();show("stats");}else if(v==="archive"){renderArchive();show("archive");}else show("settings");});
 $("book-filter").onchange=()=>{populateVols();populateChaps();renderHome();};$("vol-filter").onchange=()=>{populateChaps();renderHome();};$("chap-filter").onchange=()=>{renderHome();};
 function notifyIfDue(){if(state.notif&&"Notification"in window&&Notification.permission==="granted"){const n=dueList().length;if(n>0)try{new Notification("Shlav MCQ",{body:n+" item(s) due today."});}catch(e){}}}
-fetch("questions.json?b=36").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
+fetch("questions.json?b=37").then(r=>r.json()).then(data=>{QUESTIONS=data;byIdQ={};QUESTIONS.forEach(q=>byIdQ[q.id]=q);state=loadState();save();populateBooks();populateVols();populateChaps();renderHome();show("home");notifyIfDue();}).catch(e=>{document.querySelector(".wrap").innerHTML='<div class="card">Could not load questions.json. If opened as a local file, use the hosted URL instead.</div>';});
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 <div id="lightbox"><img alt=""></div>
