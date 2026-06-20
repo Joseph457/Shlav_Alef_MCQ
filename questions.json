@@ -27624,5 +27624,745 @@
    "C": "Wrong — an eccrine poroma is a vascular pink papule (often acral) but not a large verrucous burrowing tumor.",
    "D": "Wrong — acral melanoma is a pigmented macule/nodule with an irregular pattern, not a verrucous exophytic mass."
   }
+ },
+ {
+  "id": "B112.1",
+  "chapter": "Ch112",
+  "section": "Ephelides – pathology",
+  "stem": "A fair-skinned, red-haired 8-year-old has multiple 1–3 mm light-brown macules on the cheeks and dorsal forearms that darken each summer and fade in winter. If one were biopsied, which histologic finding would be expected?",
+  "options": {
+   "A": "Increased basal-layer melanin with a normal number of melanocytes",
+   "B": "An increased number of singly arranged basal melanocytes without nesting",
+   "C": "Nests of melanocytes at the dermal–epidermal junction",
+   "D": "Dendritic melanocytes dispersed among mid-dermal collagen bundles"
+  },
+  "answer": "A",
+  "exp": "Ephelides (freckles) show hyperpigmentation of the basal layer with a NORMAL number of melanocytes; the melanocytes are simply larger, more dendritic, and more DOPA-positive, so they make and transfer more melanin to keratinocytes without proliferating. This is the defining contrast with the other circumscribed pigmented lesions and explains why ephelides darken with sun and fade in winter rather than persisting. Ephelides favor sun-exposed skin in fair, often red-haired individuals (MC1R variants).",
+  "hy": "Ephelide = ↑basal melanin, melanocyte NUMBER normal (larger/more dendritic cells).",
+  "src": "Bologna Ch112 · Ephelides – Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — basilar hyperpigmentation with no increase in melanocyte number is the histologic hallmark of an ephelide.",
+   "B": "Wrong — a slight increase in singly arranged (non-nested) melanocytes describes lentigo simplex, not an ephelide.",
+   "C": "Wrong — junctional nests define a junctional melanocytic nevus; ephelides have no nesting and no melanocyte proliferation.",
+   "D": "Wrong — dendritic melanocytes scattered in the mid/deep dermis describe dermal melanocytosis (Mongolian spot)/nevus of Ota."
+  }
+ },
+ {
+  "id": "B112.2",
+  "chapter": "Ch112",
+  "section": "Ephelides vs solar lentigines · Table 112.1",
+  "stem": "On the dorsal hand of a 68-year-old golfer are two tan macules: one is 2 mm, has been present since early childhood, darkens markedly in summer and fades in winter; the other is 11 mm, first appeared in his 50s, and does not fade in winter. Which statement is correct?",
+  "options": {
+   "A": "The small fading macule is an ephelide and the larger persistent one is a solar lentigo",
+   "B": "Both are solar lentigines that differ only in size",
+   "C": "The small macule is a solar lentigo and the larger one is an ephelide",
+   "D": "Both are ephelides; solar lentigines do not occur on the dorsal hands"
+  },
+  "answer": "A",
+  "exp": "Per Table 112.1, ephelides appear in early childhood, are 1–5 mm, occur in fair skin, darken in summer and fade in winter and with age; solar lentigines appear by 20–30 years (and later), are 5–15 mm or larger, arise at sites of chronic sun exposure (including the dorsal hands), and persist for life without winter fading. The two key discriminators in this vignette are onset age/size and the seasonal behavior. Both can have moth-eaten borders, so border shape alone does not separate them.",
+  "hy": "Ephelide: childhood, small, fades in winter; solar lentigo: older, larger, persists, chronic sun sites incl. dorsal hands.",
+  "src": "Bologna Ch112 · Table 112.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — small + childhood-onset + winter-fading = ephelide; larger + later-onset + non-fading = solar lentigo.",
+   "B": "Wrong — ephelides and solar lentigines differ in onset age, seasonal behavior, and size, not size alone.",
+   "C": "Wrong — this reverses the two: the childhood-onset fading macule is the ephelide.",
+   "D": "Wrong — solar lentigines characteristically DO occur on the dorsal hands (a site of chronic sun exposure)."
+  }
+ },
+ {
+  "id": "B112.3",
+  "chapter": "Ch112",
+  "section": "Café-au-lait macules – epidemiology",
+  "stem": "A healthy 4-year-old has a single, well-circumscribed 3 cm uniformly light-brown macule with a regular border on the trunk and no other abnormalities. Which is the most appropriate counseling point?",
+  "options": {
+   "A": "A solitary café-au-lait macule occurs in 10–20% of the normal population and alone does not indicate a genetic disorder",
+   "B": "Even one café-au-lait macule of this size already fulfills a diagnostic criterion for neurofibromatosis type 1",
+   "C": "Café-au-lait macules show an increased melanocyte density, which distinguishes them from ephelides",
+   "D": "Demonstrating melanin macroglobules on biopsy would confirm neurofibromatosis type 1"
+  },
+  "answer": "A",
+  "exp": "A single café-au-lait macule (CALM) is found in 10–20% of the normal population, so one typical CALM in an otherwise healthy child does not signal a genetic disorder; it is MULTIPLE CALMs that raise that possibility. NF1 requires ≥6 CALMs (≥5 mm prepubertal or ≥15 mm postpubertal) among other criteria, so one lesion cannot fulfill the criterion. Histologically a CALM is basilar hyperpigmentation WITHOUT increased melanocyte density.",
+  "hy": "Solitary CALM in 10–20% of normals; ≥6 CALMs needed before invoking NF1.",
+  "src": "Bologna Ch112 · Café-Au-Lait Macules – Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — a solitary CALM is common (10–20%) and not by itself a marker of disease.",
+   "B": "Wrong — NF1 requires six or more CALMs of defined size; a single CALM does not meet any diagnostic criterion.",
+   "C": "Wrong — CALMs show NO increase in melanocyte density (only increased melanin); ephelides likewise lack a melanocyte increase, so this is not a distinguishing feature.",
+   "D": "Wrong — melanin macroglobules are seen in NF-associated CALMs but are non-specific (also in normal skin and isolated CALMs), so they do not confirm NF1."
+  }
+ },
+ {
+  "id": "B112.4",
+  "chapter": "Ch112",
+  "section": "CALM – McCune–Albright vs NF1",
+  "stem": "A child has a large café-au-lait macule with midline demarcation that is larger and fewer in number than the macules typically seen in neurofibromatosis type 1. Which molecular event most likely underlies this lesion?",
+  "options": {
+   "A": "A postzygotic activating mutation in GNAS (encoding Gsα)",
+   "B": "Biallelic inactivation of NF1 in lesional melanocytes",
+   "C": "A germline PTPN11 mutation",
+   "D": "A postzygotic ACTB (β-actin) mutation"
+  },
+  "answer": "A",
+  "exp": "In McCune–Albright syndrome the skin contains postzygotic activating mutations in GNAS (encoding Gsα), and its CALMs are characteristically fewer, larger, unilateral, and show midline demarcation — the features described. In neurofibromatosis 1 the CALMs instead carry biallelic NF1 inactivation in melanocytes and tend to be more numerous with smoother borders. Recognizing the GNAS/Gsα association is the high-yield discriminator.",
+  "hy": "McCune–Albright CALM = postzygotic GNAS (Gsα); fewer/larger/midline. NF1 CALM = biallelic NF1 loss.",
+  "src": "Bologna Ch112 · CALM – Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — McCune–Albright skin harbors activating GNAS (Gsα) mutations, and its CALMs are larger, fewer, and midline-demarcated.",
+   "B": "Wrong — biallelic NF1 inactivation produces the CALMs of neurofibromatosis 1, which are typically more numerous and not midline-demarcated.",
+   "C": "Wrong — PTPN11 germline mutations cause LEOPARD/Noonan syndrome (multiple lentigines), not McCune–Albright CALMs.",
+   "D": "Wrong — postzygotic ACTB (β-actin) mutations cause Becker melanosis, not café-au-lait macules."
+  }
+ },
+ {
+  "id": "B112.5",
+  "chapter": "Ch112",
+  "section": "Becker melanosis – pathogenesis",
+  "stem": "A 15-year-old boy develops a unilateral, block-like hyperpigmented patch on the upper chest that over a year becomes thicker and darker and grows coarse dark hairs. Which statement about this lesion is most accurate?",
+  "options": {
+   "A": "It is androgen-dependent, harbors a postzygotic ACTB (β-actin) mutation, and malignant transformation has not been reported",
+   "B": "It carries a lifetime melanoma risk proportional to its surface area",
+   "C": "It results from biallelic NF1 inactivation and predicts neurofibromatosis",
+   "D": "It is driven by an activating GNAQ mutation, as in blue nevi"
+  },
+  "answer": "A",
+  "exp": "Becker melanosis is an androgen-dependent organoid hamartoma; the great majority carry a postzygotic ACTB (β-actin) mutation (linked to Hedgehog-pathway activation), which fits its pubertal onset, thickening, and hypertrichosis. It is benign — malignant transformation has not been reported. The lesion is not a melanocytic proliferation (melanin increase without nests), so it carries none of the melanoma risk of a congenital nevus.",
+  "hy": "Becker = androgen-dependent, ACTB (β-actin) mutation, benign (no reported malignant transformation).",
+  "src": "Bologna Ch112 · Becker Melanosis – Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — ACTB mutation + androgen dependence + benign course is the Becker melanosis profile.",
+   "B": "Wrong — size-proportional lifetime melanoma risk describes large/giant congenital melanocytic nevi, not Becker melanosis.",
+   "C": "Wrong — biallelic NF1 inactivation underlies NF1-associated CALMs, not Becker melanosis.",
+   "D": "Wrong — activating GNAQ mutations drive blue nevi and nevus of Ota, not Becker melanosis."
+  }
+ },
+ {
+  "id": "B112.6",
+  "chapter": "Ch112",
+  "section": "Becker nevus syndrome",
+  "stem": "A girl has a Becker melanosis on the trunk together with ipsilateral breast hypoplasia and a thoracic scoliosis. Which statement best fits this presentation?",
+  "options": {
+   "A": "This is Becker nevus syndrome, in which the usual male predominance is reversed and hypoplastic developmental anomalies occur",
+   "B": "Becker melanosis essentially never occurs in females",
+   "C": "The breast hypoplasia is the cutaneous sign of an underlying smooth muscle hamartoma",
+   "D": "These hypoplastic anomalies signal a high risk of malignant transformation of the patch"
+  },
+  "answer": "A",
+  "exp": "Becker nevus syndrome refers to Becker melanosis accompanied by hypoplastic developmental anomalies — ipsilateral hypoplasia of the breast/areola/nipple/arm, ipsilateral limb shortening, spina bifida, scoliosis, and pectus. Notably, in patients WITH these anomalies the usual ~6:1 male predominance is reversed to about 2:5 (female predominance). Becker melanosis itself is benign.",
+  "hy": "Becker nevus syndrome = Becker + ipsilateral hypoplasia (breast/limb), spina bifida, scoliosis; sex ratio reverses (~2:5 F).",
+  "src": "Bologna Ch112 · Becker Melanosis (Becker nevus syndrome)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — hypoplastic anomalies define Becker nevus syndrome and the male:female ratio reverses in this subset.",
+   "B": "Wrong — Becker melanosis does occur in females (and is over-represented among those with associated anomalies).",
+   "C": "Wrong — a smooth muscle hamartoma manifests as firmness/perifollicular papules within the patch, not as breast hypoplasia.",
+   "D": "Wrong — Becker melanosis is benign; the associated anomalies do not confer malignant potential."
+  }
+ },
+ {
+  "id": "B112.7",
+  "chapter": "Ch112",
+  "section": "Solar lentigo vs lentigo simplex – genetics",
+  "stem": "A 70-year-old has an 12 mm medium-brown macule with a moth-eaten border on the dorsal hand and, separately, a 3 mm uniform brown macule on the trunk present since childhood. Which statement about their somatic mutations is correct?",
+  "options": {
+   "A": "The dorsal-hand lesion (solar lentigo) often carries FGFR3 or PIK3CA mutations, which are absent in the childhood lesion (lentigo simplex)",
+   "B": "Both lesions carry activating FGFR3/PIK3CA mutations",
+   "C": "Neither carries FGFR3/PIK3CA mutations; both are BRAF-driven",
+   "D": "The childhood lesion carries FGFR3/PIK3CA mutations while the solar lentigo does not"
+  },
+  "answer": "A",
+  "exp": "Solar lentigines result from chronic UV exposure and frequently carry somatic activating mutations in FGFR3 or PIK3CA. Lentigo simplex, by contrast, appears at an early age with little relation to sun exposure and specifically LACKS FGFR3/PIK3CA mutations — the molecular point the chapter highlights to separate the two clinically overlapping macules. The dorsal-hand, later-onset, larger lesion is the solar lentigo; the small childhood truncal macule is lentigo simplex.",
+  "hy": "Solar lentigo = FGFR3/PIK3CA mutations; lentigo simplex lacks them.",
+  "src": "Bologna Ch112 · Lentigo Simplex – Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — FGFR3/PIK3CA mutations characterize solar lentigines and are absent in lentigo simplex.",
+   "B": "Wrong — lentigo simplex does not carry FGFR3/PIK3CA mutations, so \"both\" is incorrect.",
+   "C": "Wrong — solar lentigines do carry FGFR3/PIK3CA mutations; they are not BRAF-defined lesions.",
+   "D": "Wrong — this reverses the association; the solar lentigo (not the childhood macule) carries the mutations."
+  }
+ },
+ {
+  "id": "B112.8",
+  "chapter": "Ch112",
+  "section": "Lentigo simplex – histology",
+  "stem": "Histology of a 3 mm brown macule shows increased basilar melanin and a slightly increased number of singly arranged melanocytes along the basal layer, without any melanocytic nests. Which diagnosis does this most support?",
+  "options": {
+   "A": "Lentigo simplex",
+   "B": "Junctional melanocytic nevus",
+   "C": "Solar lentigo",
+   "D": "Ephelide"
+  },
+  "answer": "A",
+  "exp": "Lentigo simplex shows increased basilar melanin plus a slight increase in singly arranged (non-nested) basal melanocytes — the combination in the stem. The defining negative is the ABSENCE of nests, which separates it from a junctional nevus (defined by junctional nests). An ephelide would show no increase in melanocyte number at all, and a solar lentigo shows elongated rete ridges with basilar hyperpigmentation in chronically sun-exposed older skin.",
+  "hy": "Lentigo simplex = ↑singly arranged melanocytes, NO nests (vs junctional nevus = nests).",
+  "src": "Bologna Ch112 · Lentigo Simplex – Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — increased singly arranged melanocytes without nesting is the histology of lentigo simplex.",
+   "B": "Wrong — a junctional melanocytic nevus is defined by junctional nests, which are absent here.",
+   "C": "Wrong — a solar lentigo features elongated rete ridges in sun-damaged skin and carries FGFR3/PIK3CA mutations.",
+   "D": "Wrong — an ephelide shows no increase in melanocyte number, only increased basal melanin."
+  }
+ },
+ {
+  "id": "B112.9",
+  "chapter": "Ch112",
+  "section": "Mucosal melanotic macule",
+  "stem": "A 55-year-old has a mottled brown macule with irregular borders and areas devoid of pigment on the hard palate. Why does an oral mucosal melanotic macule warrant careful evaluation and documentation?",
+  "options": {
+   "A": "From 30% to 60% of oral-cavity melanomas are preceded by melanosis for months to years",
+   "B": "Oral melanotic macules are obligate precursors that transform to melanoma in the majority of cases",
+   "C": "They are caused by FGFR3 mutations identical to those of solar lentigines",
+   "D": "A palatal melanotic macule is by itself diagnostic of Peutz–Jeghers syndrome"
+  },
+  "answer": "A",
+  "exp": "Oral mucosal melanotic macules deserve documentation because 30–60% of oral-cavity melanomas are preceded by melanosis for months to years; an irregular, mottled palatal macule with pigment-devoid areas therefore needs baseline recording and follow-up (biopsy if atypical). They are not, however, obligate precursors — most do not become melanoma. Mucosal macules/lentigo simplex specifically lack the FGFR3 mutations of solar lentigines.",
+  "hy": "30–60% of oral melanomas are preceded by melanosis → document/follow mucosal macules.",
+  "src": "Bologna Ch112 · Mucosal Melanotic Macules",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — the 30–60% antecedent-melanosis figure is why oral melanotic macules are followed.",
+   "B": "Wrong — they are not obligate precursors; the majority do not transform.",
+   "C": "Wrong — lentigo simplex/mucosal macules lack the FGFR3 mutations characteristic of solar lentigines.",
+   "D": "Wrong — a single palatal macule is not diagnostic of Peutz–Jeghers, whose lentigines favor the perioral region, lips, and hands with GI polyposis."
+  }
+ },
+ {
+  "id": "B112.10",
+  "chapter": "Ch112",
+  "section": "Peutz–Jeghers vs Laugier–Hunziker",
+  "stem": "A 25-year-old has lentigines on the lips, buccal mucosa, and fingers plus longitudinal melanonychia. Distinguishing Peutz–Jeghers syndrome from Laugier–Hunziker syndrome depends most on which feature?",
+  "options": {
+   "A": "The presence of hamartomatous GI polyps and visceral tumors, which occur in Peutz–Jeghers but not in Laugier–Hunziker",
+   "B": "The anatomic distribution of the mucocutaneous lentigines, which differs markedly between the two",
+   "C": "Longitudinal melanonychia, which occurs only in Peutz–Jeghers",
+   "D": "An autosomal recessive inheritance pattern unique to Laugier–Hunziker"
+  },
+  "answer": "A",
+  "exp": "Peutz–Jeghers (STK11) and Laugier–Hunziker have a nearly identical pattern of acromucosal lentigines plus longitudinal melanonychia, so distribution and nail findings do NOT separate them. The discriminator is systemic disease: Peutz–Jeghers has hamartomatous GI polyps (and increased pancreatic/ovarian/testicular tumor risk), whereas Laugier–Hunziker is a benign pigmentary disorder with no consistent internal manifestations.",
+  "hy": "PJS (STK11) = GI hamartomatous polyps + cancer risk; Laugier–Hunziker = same skin/nail picture but NO internal disease.",
+  "src": "Bologna Ch112 · Lentigo Simplex / associated syndromes · Table 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — GI hamartomatous polyps/visceral tumors occur in Peutz–Jeghers but not Laugier–Hunziker.",
+   "B": "Wrong — the lentigine distributions are SIMILAR, which is exactly why the two are confused.",
+   "C": "Wrong — longitudinal melanonychia occurs in BOTH syndromes.",
+   "D": "Wrong — Laugier–Hunziker is not defined by recessive inheritance; the key difference is the absence of internal disease."
+  }
+ },
+ {
+  "id": "B112.11",
+  "chapter": "Ch112",
+  "section": "Carney complex – genetics",
+  "stem": "A young adult with numerous facial lentigines is found to have cutaneous myxomas, blue nevi, and an atrial myxoma. A mutation in which gene underlies this syndrome?",
+  "options": {
+   "A": "PRKAR1A",
+   "B": "STK11",
+   "C": "PTPN11",
+   "D": "PTEN"
+  },
+  "answer": "A",
+  "exp": "Carney complex (also described as the NAME/LAMB syndromes) is an autosomal dominant disorder caused by PRKAR1A mutations, featuring lentigines, mucocutaneous myxomas, (epithelioid) blue nevi, psammomatous melanotic schwannomas, atrial myxoma, pigmented nodular adrenocortical disease, and Sertoli cell tumors — the cutaneous-myxoma + blue-nevus + atrial-myxoma cluster in the stem is classic.",
+  "hy": "Carney complex (NAME/LAMB) = PRKAR1A; lentigines + myxomas (skin/atrial) + blue nevi.",
+  "src": "Bologna Ch112 · Lentigo Simplex / Carney complex · Table 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — PRKAR1A mutations cause Carney complex.",
+   "B": "Wrong — STK11 mutations cause Peutz–Jeghers syndrome.",
+   "C": "Wrong — PTPN11 mutations cause LEOPARD/Noonan syndrome (multiple lentigines).",
+   "D": "Wrong — PTEN mutations cause Cowden disease/Bannayan–Riley–Ruvalcaba syndrome."
+  }
+ },
+ {
+  "id": "B112.12",
+  "chapter": "Ch112",
+  "section": "LEOPARD / Noonan with multiple lentigines",
+  "stem": "A 6-year-old with numerous lentigines present since infancy has ocular hypertelorism and short stature and is diagnosed with LEOPARD syndrome (Noonan syndrome with multiple lentigines). Which associated abnormality is most important to evaluate for?",
+  "options": {
+   "A": "ECG conduction defects and hypertrophic cardiomyopathy",
+   "B": "Hamartomatous gastrointestinal polyps",
+   "C": "Cutaneous and atrial myxomas",
+   "D": "Renal cell carcinoma"
+  },
+  "answer": "A",
+  "exp": "In LEOPARD syndrome the acronym is Lentigines, ECG conduction defects, Ocular hypertelorism, Pulmonary stenosis, Abnormalities of genitalia, Retardation of growth, and Deafness; it is most often due to PTPN11 mutations. The cardiac elements — conduction defects/arrhythmia and hypertrophic cardiomyopathy (plus pulmonary stenosis) — are the dangerous associations to screen for. GI polyps, myxomas, and renal cell carcinoma belong to other lentiginosis-associated syndromes.",
+  "hy": "LEOPARD: screen the heart (conduction defects + HCM + pulmonary stenosis); usually PTPN11.",
+  "src": "Bologna Ch112 · LEOPARD syndrome · Table 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — conduction defects and hypertrophic cardiomyopathy are the high-risk LEOPARD associations.",
+   "B": "Wrong — hamartomatous GI polyps belong to Peutz–Jeghers syndrome.",
+   "C": "Wrong — cutaneous and atrial myxomas belong to Carney complex.",
+   "D": "Wrong — renal cell carcinoma is associated with BAP1/Birt–Hogg–Dubé-type predispositions, not LEOPARD."
+  }
+ },
+ {
+  "id": "B112.13",
+  "chapter": "Ch112",
+  "section": "Dermal melanocytosis (Mongolian spot)",
+  "stem": "A newborn of East-Asian descent has a 6 cm blue-gray macule over the lumbosacral region. What is the most accurate counseling?",
+  "options": {
+   "A": "The blue color is the Tyndall effect of dermal melanin, and most such lesions regress during early childhood",
+   "B": "The lesion is a reliable marker of inflicted injury and warrants a child-protection referral",
+   "C": "The blue color reflects dermal melanocytes that will progress to a blue nevus",
+   "D": "These lesions occur most commonly in fair-skinned White infants"
+  },
+  "answer": "A",
+  "exp": "Dermal melanocytosis (Mongolian spot) is a blue-gray lumbosacral patch present at or shortly after birth, most common in Asian infants, that usually regresses during early childhood. The blue color is the Tyndall phenomenon — longer wavelengths are absorbed by deep dermal melanin while shorter (blue) wavelengths are scattered back. Because it can be mistaken for a bruise, documentation matters, but it is a benign birthmark, not evidence of abuse.",
+  "hy": "Mongolian spot = Tyndall-blue, lumbosacral, Asian infants, regresses in childhood.",
+  "src": "Bologna Ch112 · Dermal Melanocytosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — Tyndall effect + early-childhood regression + Asian predilection define dermal melanocytosis.",
+   "B": "Wrong — although it can be MISdiagnosed as a contusion/abuse, it is a benign congenital lesion, not a marker of injury.",
+   "C": "Wrong — it typically regresses rather than progressing to a blue nevus.",
+   "D": "Wrong — it is far more common in Asian (and other darker-skinned) infants than in fair-skinned White infants."
+  }
+ },
+ {
+  "id": "B112.14",
+  "chapter": "Ch112",
+  "section": "Dermal melanocytosis vs nevus of Ota",
+  "stem": "Which feature best distinguishes classic congenital dermal melanocytosis (Mongolian spot) from nevus of Ota?",
+  "options": {
+   "A": "A lumbosacral location with regression in childhood, versus a facial (V1–V2) distribution that persists for life",
+   "B": "A higher density of dermal dendritic melanocytes in dermal melanocytosis than in nevus of Ota",
+   "C": "Scleral involvement, which is characteristic of dermal melanocytosis",
+   "D": "An association with uveal melanoma, which is unique to dermal melanocytosis"
+  },
+  "answer": "A",
+  "exp": "Classic dermal melanocytosis sits in the lumbosacral region and regresses during childhood, whereas nevus of Ota occupies the first/second trigeminal (V1–V2) facial distribution, involves the ipsilateral sclera in about two-thirds of cases, persists for life, and carries a (uveal) melanoma risk. Both share dermal dendritic melanocytes histologically, but nevus of Ota has MORE of them than dermal melanocytosis (yet fewer than a blue nevus).",
+  "hy": "Mongolian spot = lumbosacral, regresses; nevus of Ota = facial V1–V2, scleral, persists, melanoma risk.",
+  "src": "Bologna Ch112 · Nevus of Ota",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — location + natural history cleanly separate the two entities.",
+   "B": "Wrong — nevus of Ota actually has MORE dermal dendritic melanocytes than dermal melanocytosis.",
+   "C": "Wrong — scleral involvement is a feature of nevus of Ota, not dermal melanocytosis.",
+   "D": "Wrong — the uveal-melanoma association belongs to nevus of Ota, not dermal melanocytosis."
+  }
+ },
+ {
+  "id": "B112.15",
+  "chapter": "Ch112",
+  "section": "Nevus of Ota – ocular surveillance",
+  "stem": "A woman has a unilateral blue-gray patch over the forehead, temple, and malar region with ipsilateral scleral pigmentation. Which is the most appropriate management point?",
+  "options": {
+   "A": "Ophthalmologic follow-up is warranted because ~10% develop glaucoma and most associated melanomas are uveal",
+   "B": "The lesion will spontaneously regress, so no follow-up is required",
+   "C": "Routine prophylactic excision of the cutaneous patch is recommended",
+   "D": "The greatest melanoma risk is cutaneous, mandating wide local excision of the skin patch"
+  },
+  "answer": "A",
+  "exp": "Nevus of Ota persists for life and carries ocular consequences: about 10% develop glaucoma, the sclera is involved in ~two-thirds, and the melanomas that arise are predominantly UVEAL (ocular) rather than cutaneous. The correct management point is therefore ophthalmologic surveillance (and biopsy of any new subcutaneous nodule). The cutaneous patch is treated with Q-switched lasers for cosmesis, not prophylactically excised.",
+  "hy": "Nevus of Ota → ophthalmology follow-up: ~10% glaucoma, melanoma risk is uveal.",
+  "src": "Bologna Ch112 · Nevus of Ota – Treatment",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — glaucoma in ~10% and a predominantly uveal melanoma risk mandate ophthalmologic follow-up.",
+   "B": "Wrong — nevus of Ota persists for life and does not spontaneously regress.",
+   "C": "Wrong — prophylactic excision is not standard; lasers are used for cosmesis.",
+   "D": "Wrong — the principal melanoma risk is ocular/uveal, not cutaneous, so wide skin excision is not the answer."
+  }
+ },
+ {
+  "id": "B112.16",
+  "chapter": "Ch112",
+  "section": "Nevus of Ota – GNAQ/GNA11 · Table 112.3",
+  "stem": "Somatic activating mutations in GNAQ or GNA11 are found in nevus of Ota. Relative to which lesions is the mutation frequency in nevus of Ota comparatively LOW?",
+  "options": {
+   "A": "Blue nevi and uveal melanoma, in which GNAQ/GNA11 mutations are far more frequent",
+   "B": "Common acquired melanocytic nevi, which are also predominantly GNAQ-driven",
+   "C": "Spitz nevi, which share an identical GNAQ mutation frequency",
+   "D": "Café-au-lait macules, which are GNAQ-driven"
+  },
+  "answer": "A",
+  "exp": "GNAQ/GNA11 activating mutations are found in only up to ~15% of nevi of Ota, compared with the majority of blue nevi (reported at ~50–75% across the chapter, primarily GNAQ) and ~80–85% of primary uveal melanomas — so nevus of Ota has a comparatively LOW frequency among these GNAQ-pathway dermal melanocytic lesions. Common acquired nevi and Spitz nevi do not belong to this group (BRAF/NRAS and kinase fusions/HRAS, respectively), and CALMs are not GNAQ-driven.",
+  "hy": "GNAQ/GNA11: nevus of Ota ~15% < blue nevi (majority, primarily GNAQ) < uveal melanoma ~80–85%.",
+  "src": "Bologna Ch112 · Nevus of Ota – Pathogenesis · Table 112.3",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — blue nevi and uveal melanoma have much higher GNAQ/GNA11 mutation frequencies than nevus of Ota.",
+   "B": "Wrong — common acquired nevi are driven by BRAF (≈80%) or NRAS, not GNAQ.",
+   "C": "Wrong — Spitz nevi are driven by kinase fusions or HRAS, not GNAQ, and do not share Ota's frequency.",
+   "D": "Wrong — café-au-lait macules are not GNAQ-driven (NF1/GNAS biology)."
+  }
+ },
+ {
+  "id": "B112.17",
+  "chapter": "Ch112",
+  "section": "Hori nevus (acquired nevus of Ota-like macules)",
+  "stem": "A 45-year-old Chinese woman develops bilateral blue-gray to gray-brown macules over both zygomatic areas in adulthood, with no ocular or mucosal involvement; she was previously treated unsuccessfully for \"melasma.\" What is the most likely diagnosis and its implication?",
+  "options": {
+   "A": "Acquired nevus of Ota-like macules (Hori nevus), which—unlike melasma—responds to laser therapy",
+   "B": "Nevus of Ota; ipsilateral scleral involvement will develop over time",
+   "C": "Melasma; continued topical hydroquinone is the best option",
+   "D": "Bilateral dermal melanocytosis that will regress spontaneously"
+  },
+  "answer": "A",
+  "exp": "Acquired nevus of Ota-like macules (Hori nevus) are BILATERAL blue-gray to gray-brown macules of the zygomatic area in adult (typically Chinese/Japanese) women, with NO ocular or mucosal involvement — the features that separate it from the unilateral, sclera-involving nevus of Ota. It is frequently misdiagnosed as melasma, but the distinction matters because, unlike melasma, Hori nevus responds to laser surgery.",
+  "hy": "Hori nevus = bilateral zygomatic, adult women, no eye/mucosa; melasma-mimic that responds to laser.",
+  "src": "Bologna Ch112 · Nevus of Ota-like macules (Hori nevus)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — bilateral adult-onset zygomatic macules without ocular involvement = Hori nevus, laser-responsive.",
+   "B": "Wrong — nevus of Ota is unilateral with scleral involvement, not bilateral and eye-sparing.",
+   "C": "Wrong — the lesion is dermal melanocytic (Hori), not melasma; hydroquinone is ineffective.",
+   "D": "Wrong — dermal melanocytosis is a lumbosacral lesion of infancy that regresses, not adult bilateral facial macules."
+  }
+ },
+ {
+  "id": "B112.18",
+  "chapter": "Ch112",
+  "section": "Nevus of Ito",
+  "stem": "A patient has a unilateral blue-gray patch over the shoulder extending onto the lateral upper trunk, in the distribution of the lateral cutaneous brachial and posterior supraclavicular nerves, with histology identical to nevus of Ota. What is the diagnosis?",
+  "options": {
+   "A": "Nevus of Ito",
+   "B": "Nevus of Ota",
+   "C": "Becker melanosis",
+   "D": "Plaque-type blue nevus"
+  },
+  "answer": "A",
+  "exp": "Nevus of Ito is a dermal melanocytosis of the shoulder/lateral upper trunk corresponding to the lateral cutaneous brachial and posterior supraclavicular nerves; its clinical appearance and histology are identical to nevus of Ota, differing only in location. Nevus of Ota occupies the face (V1–V2). Becker melanosis is a brown hypertrichotic patch (not blue), and a plaque blue nevus is a discrete pigmented plaque rather than this nerve-distributed patch.",
+  "hy": "Nevus of Ito = shoulder/lateral upper trunk (brachial/supraclavicular nerves); Ota histology.",
+  "src": "Bologna Ch112 · Nevus of Ito",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — the shoulder/upper-trunk nerve distribution with Ota-like histology is nevus of Ito.",
+   "B": "Wrong — nevus of Ota is on the face in the trigeminal V1–V2 distribution.",
+   "C": "Wrong — Becker melanosis is a brown, hypertrichotic patch, not a blue dermal melanocytosis.",
+   "D": "Wrong — a plaque blue nevus is a localized pigmented plaque, not a patch following these cutaneous nerves."
+  }
+ },
+ {
+  "id": "B112.19",
+  "chapter": "Ch112",
+  "section": "Café-noir macules",
+  "stem": "A child with several typical café-au-lait macules also has a few patches that are notably darker (\"café-noir\") than the others. In which two syndromes are café-noir macules described?",
+  "options": {
+   "A": "LEOPARD (Noonan with multiple lentigines) and Carney complex",
+   "B": "Peutz–Jeghers and Laugier–Hunziker syndromes",
+   "C": "McCune–Albright syndrome and neurofibromatosis type 1",
+   "D": "Xeroderma pigmentosum and Cowden disease"
+  },
+  "answer": "A",
+  "exp": "Café-noir macules are hyperpigmented patches even darker than ordinary CALMs and are described in LEOPARD syndrome (Noonan with multiple lentigines) and Carney complex. They serve as a clue that a child with \"CALMs\" may actually have one of these lentiginosis-associated syndromes rather than neurofibromatosis.",
+  "hy": "Café-noir (darker than CALM) → LEOPARD and Carney complex.",
+  "src": "Bologna Ch112 · CALM – Differential Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — café-noir macules are reported in LEOPARD syndrome and Carney complex.",
+   "B": "Wrong — Peutz–Jeghers and Laugier–Hunziker are characterized by mucocutaneous lentigines, not café-noir patches.",
+   "C": "Wrong — McCune–Albright and NF1 produce café-au-lait (not café-noir) macules.",
+   "D": "Wrong — xeroderma pigmentosum (photodistributed lentigines/cancers) and Cowden disease are not the café-noir syndromes."
+  }
+ },
+ {
+  "id": "B112.20",
+  "chapter": "Ch112",
+  "section": "Primary acquired melanosis of the conjunctiva",
+  "stem": "Regarding primary acquired melanosis (PAM) of the conjunctiva, which statement is correct?",
+  "options": {
+   "A": "PAM with atypia can progress to melanoma, whereas PAM without atypia generally does not",
+   "B": "PAM is almost always bilateral and symmetric",
+   "C": "PAM with atypia regresses spontaneously and requires no follow-up",
+   "D": "PAM is reliably distinguished from a conjunctival nevus by being thicker and more circumscribed"
+  },
+  "answer": "A",
+  "exp": "Primary acquired melanosis (PAM) of the conjunctiva is nearly always unilateral and is divided into PAM without atypia and PAM with atypia; only the atypical form can progress to conjunctival melanoma, so it requires monitoring/treatment. It must be distinguished from conjunctival nevi (which are thicker and more circumscribed) and from complexion-associated melanosis (bilateral, perilimbal).",
+  "hy": "PAM: unilateral; PAM-with-atypia can → melanoma, PAM-without-atypia generally does not.",
+  "src": "Bologna Ch112 · Mucosal Melanotic Macules / PAM",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — the atypia subset of PAM carries the melanoma risk; the non-atypical subset generally does not.",
+   "B": "Wrong — PAM is nearly always UNILATERAL; bilateral perilimbal pigment is complexion-associated melanosis.",
+   "C": "Wrong — PAM with atypia can progress to melanoma and must be followed, not ignored.",
+   "D": "Wrong — it is the conjunctival NEVUS that is thicker and circumscribed; PAM is flat and diffuse."
+  }
+ },
+ {
+  "id": "B112.21",
+  "chapter": "Ch112",
+  "section": "Generalized lentiginosis – work-up",
+  "stem": "A teenager presents with numerous lentigines distributed over both sun-exposed and sun-protected skin, including the palms and genitalia. Beyond reassurance, what is the most appropriate next step?",
+  "options": {
+   "A": "Investigate for an associated systemic disorder (a lentiginosis syndrome)",
+   "B": "Recommend daily broad-spectrum sunscreen, since these lentigines are UV-driven",
+   "C": "Excise several representative lesions to exclude melanoma",
+   "D": "Begin topical hydroquinone, which reliably clears lentigo simplex"
+  },
+  "answer": "A",
+  "exp": "Multiple/generalized lentigines distributed over sun-exposed AND sun-protected skin (including palms and genitalia) should prompt investigation for an underlying systemic disorder, because such patterns are associated with the lentiginosis syndromes summarized in Table 112.2 (e.g. LEOPARD, Carney complex, Peutz–Jeghers). Lentigo simplex has little relation to sun, so sunscreen will not address it, and benign-appearing lentigines do not require excision or hydroquinone.",
+  "hy": "Generalized/sun-protected-site lentigines → work up for a lentiginosis syndrome (Table 112.2).",
+  "src": "Bologna Ch112 · Lentigo Simplex – Treatment · Table 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — widespread lentigines, especially at sun-protected sites, warrant evaluation for systemic syndromes.",
+   "B": "Wrong — lentigo simplex is largely sun-independent, so sunscreen is not the key step.",
+   "C": "Wrong — benign-appearing lentigo simplex does not require excision; only atypical acral/mucosal lesions are biopsied.",
+   "D": "Wrong — hydroquinone does not reliably clear lentigo simplex and misses the point (excluding a syndrome)."
+  }
+ },
+ {
+  "id": "B112.22",
+  "chapter": "Ch112",
+  "section": "Becker melanosis – associated smooth muscle hamartoma",
+  "stem": "A Becker melanosis on a patient's trunk is firm to palpation and shows perifollicular papules. What does this finding most likely indicate?",
+  "options": {
+   "A": "A coexistent smooth muscle hamartoma",
+   "B": "Early malignant transformation of the lesion",
+   "C": "An underlying plexiform neurofibroma",
+   "D": "Secondary bacterial folliculitis within the patch"
+  },
+  "answer": "A",
+  "exp": "Within a Becker melanosis, firmness to palpation and perifollicular papules point to a coexistent smooth muscle hamartoma (proliferation of arrector pili muscle), which is commonly but not invariably associated. Becker melanosis itself is benign, so these findings do not indicate transformation; a plexiform neurofibroma is a separate (often softer, \"bag of worms\") lesion, and folliculitis would be inflammatory/pustular rather than firm papular.",
+  "hy": "Firmness + perifollicular papules in a Becker = associated smooth muscle hamartoma.",
+  "src": "Bologna Ch112 · Becker Melanosis – Clinical/Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — firmness and perifollicular papules reflect an associated smooth muscle (arrector pili) hamartoma.",
+   "B": "Wrong — Becker melanosis is benign; malignant transformation has not been reported.",
+   "C": "Wrong — a plexiform neurofibroma is a distinct soft \"bag of worms\" tumor, not the cause of these findings within a Becker.",
+   "D": "Wrong — folliculitis is an inflammatory/pustular process, not firm perifollicular papules with a smooth muscle component."
+  }
+ },
+ {
+  "id": "B112.23",
+  "chapter": "Ch112",
+  "section": "Becker melanosis – recognition",
+  "stem": "A teenage boy has the unilateral lesion of the upper trunk shown below, which thickened and grew coarse hair during adolescence. What is the most likely diagnosis?",
+  "options": {
+   "A": "Becker melanosis (nevus)",
+   "B": "Large café-au-lait macule",
+   "C": "Congenital melanocytic nevus",
+   "D": "Plexiform neurofibroma"
+  },
+  "answer": "A",
+  "exp": "The image shows a unilateral hyperpigmented patch of the upper trunk with overlying coarse hypertrichosis — the hallmark of Becker melanosis, an androgen-dependent hamartoma that thickens and grows hair during adolescence in boys. A café-au-lait macule is a flat tan patch WITHOUT hypertrichosis; a congenital melanocytic nevus is usually present from birth and is a true nevus (often raised, can be hairy but typically more sharply nevoid); a plexiform neurofibroma is a soft \"bag of worms\" subcutaneous tumor. The combination of an acquired hypertrichotic block-like truncal patch in a teenage boy is specific for Becker.",
+  "hy": "Unilateral hypertrichotic truncal patch in an adolescent boy = Becker melanosis.",
+  "src": "Bologna Ch112 · Fig 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-23.jpg",
+  "imgcap": "Unilateral hyperpigmented patch with overlying coarse hair on the trunk",
+  "why": {
+   "A": "Correct — a unilateral hypertrichotic hyperpigmented truncal patch with pubertal onset is Becker melanosis.",
+   "B": "Wrong — a café-au-lait macule is a flat tan patch without the prominent overlying coarse hair seen here.",
+   "C": "Wrong — a congenital melanocytic nevus is present from birth and is a true (often more raised/nevoid) melanocytic lesion.",
+   "D": "Wrong — a plexiform neurofibroma is a soft, compressible subcutaneous \"bag of worms,\" not a flat hairy pigmented patch."
+  }
+ },
+ {
+  "id": "B112.24",
+  "chapter": "Ch112",
+  "section": "Nevus of Ota – recognition",
+  "stem": "This adult has the unilateral facial finding shown below, including pigmentation of the ipsilateral sclera. What is the most likely diagnosis?",
+  "options": {
+   "A": "Nevus of Ota",
+   "B": "Melasma",
+   "C": "Dermal melanocytosis (Mongolian spot)",
+   "D": "Nevus of Ito"
+  },
+  "answer": "A",
+  "exp": "The photograph shows unilateral blue-gray discoloration of the periorbital/malar skin WITH ipsilateral scleral pigmentation — diagnostic of nevus of Ota (oculodermal melanocytosis) in the trigeminal V1–V2 distribution. Melasma is bilateral, brown (not blue-gray), and spares the sclera; dermal melanocytosis (Mongolian spot) is a lumbosacral lesion of infancy; nevus of Ito occupies the shoulder/upper trunk, not the face. The scleral involvement is the decisive clue.",
+  "hy": "Unilateral facial blue-gray patch + scleral pigment = nevus of Ota.",
+  "src": "Bologna Ch112 · Fig 112.9A",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-24.jpg",
+  "imgcap": "Unilateral blue-gray discoloration of the periorbital and malar skin with scleral pigmentation",
+  "why": {
+   "A": "Correct — unilateral facial blue-gray pigmentation with scleral involvement is nevus of Ota.",
+   "B": "Wrong — melasma is bilateral, brown, and does not involve the sclera.",
+   "C": "Wrong — dermal melanocytosis (Mongolian spot) occurs in the lumbosacral region of infants, not the face.",
+   "D": "Wrong — nevus of Ito has the identical appearance but is located on the shoulder/lateral upper trunk."
+  }
+ },
+ {
+  "id": "B112.25",
+  "chapter": "Ch112",
+  "section": "Solar lentigines – recognition",
+  "stem": "A 70-year-old has the lesions shown below on chronically sun-exposed skin of the dorsal forearm. What are they?",
+  "options": {
+   "A": "Solar lentigines",
+   "B": "Ephelides (freckles)",
+   "C": "Café-au-lait macules",
+   "D": "Junctional melanocytic nevi"
+  },
+  "answer": "A",
+  "exp": "The image shows numerous tan-to-brown macules, several with irregular borders, on chronically sun-damaged skin of an older adult — typical solar lentigines. Ephelides are smaller (1–5 mm), appear in childhood, and fade in winter; café-au-lait macules are larger uniform patches usually present from early life and are typically solitary or few; junctional nevi are discrete nests-bearing lesions, not this confluent field of sun-induced macules. The age, chronic-sun site, and lesion size point to solar lentigines.",
+  "hy": "Multiple tan macules on chronically sun-exposed older skin = solar lentigines.",
+  "src": "Bologna Ch112 · Fig 112.3",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-25.jpg",
+  "imgcap": "Numerous tan-to-brown macules, some with irregular borders, on sun-damaged skin",
+  "why": {
+   "A": "Correct — multiple brown macules on sun-damaged skin of an older adult are solar lentigines.",
+   "B": "Wrong — ephelides are smaller, childhood-onset, and fade seasonally; they do not dominate aged sun-damaged skin like this.",
+   "C": "Wrong — café-au-lait macules are larger uniform patches, usually solitary or few, not a field of small macules.",
+   "D": "Wrong — junctional melanocytic nevi are discrete nevomelanocytic lesions, not UV-induced lentigines."
+  }
+ },
+ {
+  "id": "B112.26",
+  "chapter": "Ch112",
+  "section": "Café-au-lait macule – recognition",
+  "stem": "A child has the lesion shown below: a uniformly tan patch with a fairly regular geographic border and no overlying hair or texture change. What is the most likely diagnosis?",
+  "options": {
+   "A": "Café-au-lait macule",
+   "B": "Becker melanosis",
+   "C": "Nevus spilus",
+   "D": "Postinflammatory hyperpigmentation"
+  },
+  "answer": "A",
+  "exp": "The image shows a uniformly light-brown (\"coffee-with-milk\") geographic patch with a fairly well-defined border and no surface change or hair — a café-au-lait macule. Becker melanosis would show hypertrichosis and develop in adolescence; a nevus spilus has darker \"speckles\" (macules/papules) superimposed on the tan background; postinflammatory hyperpigmentation follows a preceding dermatosis and conforms to its distribution. The uniform color without speckles or hair identifies the CALM.",
+  "hy": "Uniform tan geographic patch, no hair/speckles = café-au-lait macule.",
+  "src": "Bologna Ch112 · Fig 112.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-26.jpg",
+  "imgcap": "Uniformly light-brown geographic patch with a well-defined border",
+  "why": {
+   "A": "Correct — a uniform tan patch with a regular geographic border and no hair/speckling is a café-au-lait macule.",
+   "B": "Wrong — Becker melanosis is hypertrichotic and adolescent-onset.",
+   "C": "Wrong — a nevus spilus has darker speckled macules/papules on the tan background, which are absent here.",
+   "D": "Wrong — postinflammatory hyperpigmentation follows a prior inflammatory dermatosis and its distribution, not a congenital geographic patch."
+  }
+ },
+ {
+  "id": "B112.27",
+  "chapter": "Ch112",
+  "section": "Peutz–Jeghers syndrome – recognition",
+  "stem": "A young adult with a history of recurrent small-bowel intussusception from hamartomatous polyps has the mucocutaneous finding shown below. Which syndrome does this picture most support?",
+  "options": {
+   "A": "Peutz–Jeghers syndrome",
+   "B": "Laugier–Hunziker syndrome",
+   "C": "Addison disease",
+   "D": "Carney complex"
+  },
+  "answer": "A",
+  "exp": "Multiple dark macules concentrated on the vermilion lips and perioral skin, in a patient with hamartomatous small-bowel polyps causing intussusception, are diagnostic of Peutz–Jeghers syndrome (STK11). Laugier–Hunziker produces an almost identical mucocutaneous lentigine pattern but has NO internal/GI disease — so the polyp history is the discriminator. Addison disease causes diffuse mucosal/skin hyperpigmentation (not discrete lentigines) with systemic features, and Carney complex lentigines favor the broader face with myxomas/endocrine tumors.",
+  "hy": "Perioral/labial lentigines + GI hamartomatous polyps = Peutz–Jeghers (STK11).",
+  "src": "Bologna Ch112 · Fig 112.5B · Table 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-27.jpg",
+  "imgcap": "Multiple dark macules on the vermilion lips and perioral skin",
+  "why": {
+   "A": "Correct — labial/perioral lentigines plus GI hamartomatous polyps define Peutz–Jeghers syndrome.",
+   "B": "Wrong — Laugier–Hunziker gives the same lip lentigines but lacks the GI polyps/visceral disease that the history provides.",
+   "C": "Wrong — Addison disease causes diffuse hyperpigmentation, not discrete labial lentigines.",
+   "D": "Wrong — Carney complex lentigines are more broadly distributed on the face and accompany myxomas/endocrine tumors, not small-bowel hamartomatous polyps."
+  }
+ },
+ {
+  "id": "B112.28",
+  "chapter": "Ch112",
+  "section": "Carney complex – recognition",
+  "stem": "A young adult with the facial pigmentation shown below is found to have a cardiac myxoma and cutaneous myxomas. Which syndrome does this picture most support?",
+  "options": {
+   "A": "Carney complex",
+   "B": "LEOPARD syndrome (Noonan with multiple lentigines)",
+   "C": "Ephelides (freckles)",
+   "D": "Peutz–Jeghers syndrome"
+  },
+  "answer": "A",
+  "exp": "Numerous lentigines concentrated on the central face in a patient with cardiac and cutaneous myxomas indicate Carney complex (PRKAR1A; also called NAME/LAMB), which combines lentigines, mucocutaneous myxomas, blue nevi, atrial myxoma, and endocrine tumors. LEOPARD/Noonan with multiple lentigines features cardiac conduction defects/pulmonary stenosis (not myxomas); ephelides are sun-induced freckles without systemic disease; Peutz–Jeghers lentigines favor the lips/perioral region with GI polyps. The myxoma association is the decisive clue.",
+  "hy": "Facial lentigines + cardiac/cutaneous myxomas = Carney complex (PRKAR1A).",
+  "src": "Bologna Ch112 · Fig 112.5A · Table 112.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-28.jpg",
+  "imgcap": "Numerous small lentigines concentrated on the central face/midface",
+  "why": {
+   "A": "Correct — lentigines with cardiac and cutaneous myxomas define Carney complex.",
+   "B": "Wrong — LEOPARD syndrome features conduction defects/pulmonary stenosis, not myxomas.",
+   "C": "Wrong — ephelides are benign sun-induced freckles with no systemic associations.",
+   "D": "Wrong — Peutz–Jeghers lentigines favor the lips/perioral skin and accompany GI hamartomatous polyps, not myxomas."
+  }
  }
 ]
