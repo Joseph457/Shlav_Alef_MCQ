@@ -28364,5 +28364,1061 @@
    "C": "Wrong — ephelides are benign sun-induced freckles with no systemic associations.",
    "D": "Wrong — Peutz–Jeghers lentigines favor the lips/perioral skin and accompany GI hamartomatous polyps, not myxomas."
   }
+ },
+ {
+  "id": "B112.29",
+  "chapter": "Ch112",
+  "section": "Cellular blue nevus",
+  "stem": "A 1.5 cm firm blue-gray nodule on the buttock of a young woman is excised; a sentinel-type node sampled nearby contains small bland nests of blue-nevus cells in the capsule. Which statement is correct?",
+  "options": {
+   "A": "Such nodal blue-nevus deposits (\"benign metastasis\") are a recognized finding in cellular blue nevus and do not by themselves indicate malignancy",
+   "B": "Any nodal melanocytic deposit defines metastatic melanoma and mandates completion lymphadenectomy",
+   "C": "Cellular blue nevi essentially never involve regional lymph nodes",
+   "D": "Nodal involvement here proves the lesion is an atypical cellular blue nevus"
+  },
+  "answer": "A",
+  "exp": "Cellular blue nevi occasionally deposit bland nests of blue-nevus cells in the marginal sinus or capsule of the draining node — a passively transported or arrested-migration phenomenon termed \"benign metastasis\" that does NOT signify malignancy. Cellular blue nevi are larger (1–2 cm), denser tumors than common blue nevi, typically on the buttocks/sacrococcygeal area/scalp. The decisive point is that bland nodal blue-nevus cells in this setting are a recognized benign finding.",
+  "hy": "Cellular blue nevus can show bland nodal \"benign metastasis\" — not melanoma.",
+  "src": "Bologna Ch112 · Blue Nevus – Cellular blue nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — bland nodal blue-nevus deposits are a described benign finding in cellular blue nevus.",
+   "B": "Wrong — not every nodal melanocytic deposit is melanoma; bland blue-nevus cells here are benign, so reflex lymphadenectomy is not indicated.",
+   "C": "Wrong — cellular blue nevi CAN involve regional nodes (the very point of the question).",
+   "D": "Wrong — atypical cellular blue nevus is defined by atypical histologic features (size/atypia/mitoses/necrosis), not merely by nodal deposits."
+  }
+ },
+ {
+  "id": "B112.30",
+  "chapter": "Ch112",
+  "section": "Atypical cellular blue nevus",
+  "stem": "Which combination of features distinguishes an ATYPICAL cellular blue nevus (with potential for nodal metastasis or progression to melanoma) from a conventional cellular blue nevus?",
+  "options": {
+   "A": "Large size (>1–2 cm), asymmetry, ulceration, cytologic atypia, mitoses, and necrosis",
+   "B": "Homogeneous blue color and a diameter under 1 cm",
+   "C": "A dome-shaped silhouette with peripheral junctional nests and Kamino bodies",
+   "D": "Heavy dermal melanin with abundant melanophages and a sclerotic stroma"
+  },
+  "answer": "A",
+  "exp": "Atypical cellular blue nevi show one or more worrisome features versus conventional cellular blue nevi — larger size (>1–2 cm), asymmetry, ulceration, infiltrative growth, cytologic atypia, mitoses, and necrosis — and these lesions have been associated with lymph-node metastases and evolution to melanoma, so they are completely excised. A homogeneous small blue lesion is the conventional (low-concern) end of the spectrum, while peripheral junctional nests with Kamino bodies describe a Spitz nevus, and heavy dermal melanin with melanophages and sclerosis is the look of an ordinary common blue nevus.",
+  "hy": "Atypical cellular blue nevus = >1–2 cm + asymmetry/ulceration/atypia/mitoses/necrosis → excise.",
+  "src": "Bologna Ch112 · Blue Nevus – atypical cellular blue nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — these are the atypia criteria the chapter lists for cellular blue nevus.",
+   "B": "Wrong — small homogeneous blue color is the conventional (reassuring) phenotype, not the atypical one.",
+   "C": "Wrong — dome shape with peripheral junctional nests and Kamino bodies describes a Spitz nevus.",
+   "D": "Wrong — heavy dermal melanin with melanophages and a sclerotic stroma is the histology of an ordinary common blue nevus."
+  }
+ },
+ {
+  "id": "B112.31",
+  "chapter": "Ch112",
+  "section": "Melanoma arising in blue nevus",
+  "stem": "A rapidly growing 2.5 cm nodule develops within a long-standing blue lesion on the scalp of a 55-year-old. Melanoma arising in a blue nevus (MBN) most characteristically has which profile?",
+  "options": {
+   "A": "Arises in a pre-existing cellular blue nevus and carries additional BAP1 or SF3B1 mutations on top of the GNAQ/GNA11 of the blue nevus",
+   "B": "Arises from a common (non-cellular) blue nevus and is uniformly indolent",
+   "C": "Is defined by an activating BRAF V600E mutation, as in superficial spreading melanoma",
+   "D": "Occurs almost exclusively in children and never metastasizes"
+  },
+  "answer": "A",
+  "exp": "Melanoma arising in a blue nevus (MBN) nearly always arises in a pre-existing CELLULAR blue nevus, classically as a rapidly growing >2 cm nodule on the scalp of an adult >45 years; it is aggressive, metastasizing to regional nodes and liver. Molecularly it shows the GNAQ/GNA11 mutation of the underlying blue nevus PLUS additional driver aberrations in BAP1 or SF3B1, which is the genetic signature of progression. Common (non-cellular) blue nevi rarely transform, and BRAF V600E defines superficial spreading melanoma, not MBN.",
+  "hy": "MBN = cellular blue nevus, scalp, >45 yr, >2 cm; GNAQ/GNA11 + BAP1 or SF3B1.",
+  "src": "Bologna Ch112 · Blue Nevus – melanoma arising from blue nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — MBN arises in a cellular blue nevus and adds BAP1/SF3B1 to the GNAQ/GNA11 background.",
+   "B": "Wrong — it arises from the cellular (not common) blue nevus and is aggressive, not indolent.",
+   "C": "Wrong — BRAF V600E is the driver of superficial spreading melanoma, not melanoma in blue nevus.",
+   "D": "Wrong — MBN occurs in older adults and metastasizes; it is not a childhood, non-metastasizing tumor."
+  }
+ },
+ {
+  "id": "B112.32",
+  "chapter": "Ch112",
+  "section": "Pigmented epithelioid melanocytoma",
+  "stem": "A pigmented epithelioid melanocytoma (PEM; formerly \"epithelioid blue nevus\" / \"animal-type melanoma\") is best characterized by which statement?",
+  "options": {
+   "A": "It is characterized by PRKAR1A inactivation and frequently spreads to regional nodes yet is almost never fatal",
+   "B": "It is a uniformly benign nevus that never involves lymph nodes",
+   "C": "It is an aggressive melanoma subtype with a high mortality rate",
+   "D": "It is defined by biallelic BAP1 loss and an epithelioid morphology"
+  },
+  "answer": "A",
+  "exp": "Pigmented epithelioid melanocytoma (PEM) — which absorbed the old terms \"epithelioid blue nevus\" and \"animal-type melanoma\" — is characterized by loss/inactivation of PRKAR1A and is composed of heavily pigmented epithelioid and spindled melanocytes. It behaves as a low-grade tumor: it frequently metastasizes to regional lymph nodes but rarely spreads beyond them and is almost never fatal. It was first described within Carney complex but also occurs sporadically.",
+  "hy": "PEM = PRKAR1A-inactivated; frequent nodal spread but almost never fatal.",
+  "src": "Bologna Ch112 · Pigmented Epithelioid Melanocytoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — PRKAR1A inactivation with frequent nodal but rarely fatal behavior defines PEM.",
+   "B": "Wrong — PEM does involve regional nodes; it is not a node-sparing benign nevus.",
+   "C": "Wrong — despite the old \"animal-type melanoma\" label, PEM is indolent and rarely fatal, not a high-mortality melanoma.",
+   "D": "Wrong — biallelic BAP1 loss defines the BAP1-inactivated melanocytic nevus, not PEM."
+  }
+ },
+ {
+  "id": "B112.33",
+  "chapter": "Ch112",
+  "section": "Common acquired nevus – genetics",
+  "stem": "What is the most common initiating oncogenic event in a common acquired melanocytic nevus?",
+  "options": {
+   "A": "An activating BRAF mutation (≈80%)",
+   "B": "An activating NRAS mutation (≈80%)",
+   "C": "A GNAQ mutation",
+   "D": "An NTRK3 gene fusion"
+  },
+  "answer": "A",
+  "exp": "In common acquired melanocytic nevi the initiating oncogenic event is usually an activating BRAF mutation (~80%), with NRAS mutations in a smaller fraction (~5%); these MAPK-activating mutations drive a clonal melanocytic proliferation that then typically senesces. GNAQ drives blue nevi/nevus of Ota and NTRK3 fusions drive Reed/spindle-cell nevi, so neither is the common-nevus driver.",
+  "hy": "Common acquired nevus = BRAF (~80%) > NRAS (~5%).",
+  "src": "Bologna Ch112 · Common Acquired Nevi – Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — BRAF mutation (~80%) is the dominant driver of common acquired nevi.",
+   "B": "Wrong — NRAS accounts for only ~5%, not ~80%, of common acquired nevi.",
+   "C": "Wrong — GNAQ drives blue nevi and nevus of Ota, not common acquired nevi.",
+   "D": "Wrong — NTRK3 fusions drive pigmented spindle cell (Reed) nevi, not common acquired nevi."
+  }
+ },
+ {
+  "id": "B112.34",
+  "chapter": "Ch112",
+  "section": "Nevi – natural history",
+  "stem": "A 22-year-old worries that his number of moles has increased through his teens and 20s. Based on the natural history of acquired melanocytic nevi, what is the most accurate counseling?",
+  "options": {
+   "A": "Nevus counts typically peak in the third decade and then gradually decline with age",
+   "B": "Nevus counts rise continuously throughout life, peaking in old age",
+   "C": "Nevi present in infancy and steadily disappear through childhood",
+   "D": "The total number of nevi has no relationship to melanoma risk"
+  },
+  "answer": "A",
+  "exp": "Acquired melanocytic nevi are few in early childhood, increase through adolescence and reach a peak in the third decade, then gradually decline in number with age (e.g. mean counts fall markedly by the seventh decade). So a rising mole count in the 20s is expected. Although total nevus count DOES correlate with melanoma risk, the natural history itself is reassuring; nevi do not rise continuously into old age, nor do they simply disappear through childhood.",
+  "hy": "Nevus count peaks in the 3rd decade, then declines with age.",
+  "src": "Bologna Ch112 · Common Acquired Nevi – Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — nevus counts peak in the third decade and then decline with age.",
+   "B": "Wrong — counts decline after the third decade rather than rising into old age.",
+   "C": "Wrong — only a few nevi are present in early childhood; they increase, not disappear, toward puberty.",
+   "D": "Wrong — total nevus count does correlate with melanoma risk (even though the natural history is benign)."
+  }
+ },
+ {
+  "id": "B112.35",
+  "chapter": "Ch112",
+  "section": "Junctional vs compound vs intradermal nevus",
+  "stem": "A skin-colored to light-brown soft papule is biopsied and shows nests of melanocytes confined to the dermis with no junctional component. Which clinicopathologic type is this?",
+  "options": {
+   "A": "Intradermal nevus",
+   "B": "Junctional nevus",
+   "C": "Compound nevus",
+   "D": "Blue nevus"
+  },
+  "answer": "A",
+  "exp": "An intradermal nevus has its melanocytic nests entirely within the dermis with no junctional (dermal–epidermal) component, and presents clinically as a soft, often skin-colored to light-brown papule. A junctional nevus is a macule with nests confined to the dermal–epidermal junction; a compound nevus has both junctional and dermal components; a blue nevus is composed of dendritic dermal melanocytes producing a blue papule.",
+  "hy": "Intradermal nevus = dermal-only nests = soft papule.",
+  "src": "Bologna Ch112 · Common Acquired Nevi – Clinical/Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — dermal-only nests with no junctional component define an intradermal nevus.",
+   "B": "Wrong — a junctional nevus is a macule with nests at the dermal–epidermal junction.",
+   "C": "Wrong — a compound nevus has BOTH junctional and dermal components.",
+   "D": "Wrong — a blue nevus is composed of dendritic dermal melanocytes (Tyndall-blue), not ordinary nevus nests."
+  }
+ },
+ {
+  "id": "B112.36",
+  "chapter": "Ch112",
+  "section": "Triggers for nevi · Table 112.5",
+  "stem": "A renal-transplant patient on azathioprine, and separately a melanoma patient started on a BRAF inhibitor, each develop a sudden crop of new melanocytic nevi. Which statement is correct?",
+  "options": {
+   "A": "Both systemic immunosuppression and BRAF-inhibitor therapy are recognized triggers of eruptive melanocytic nevi",
+   "B": "Eruptive nevi occur only after intense sun exposure, not with drugs",
+   "C": "Immunosuppression suppresses nevogenesis, so new nevi argue against it",
+   "D": "BRAF inhibitors prevent new nevi by blocking the MAPK pathway"
+  },
+  "answer": "A",
+  "exp": "Both systemic immunosuppression (chemotherapy, organ transplantation/azathioprine, HIV) and BRAF-inhibitor therapy are recognized triggers for the development — sometimes eruptive — of melanocytic nevi (Table 112.5), along with UV exposure, blistering processes, and pregnancy. Immunosuppression promotes rather than suppresses nevogenesis, and BRAF inhibitors paradoxically induce new nevi (and keratoacanthomas) through paradoxical MAPK activation in BRAF-wild-type melanocytes.",
+  "hy": "Eruptive-nevi triggers: immunosuppression, BRAF inhibitors, UV, blistering, pregnancy (Table 112.5).",
+  "src": "Bologna Ch112 · Table 112.5",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — immunosuppression and BRAF inhibitors are both listed triggers of (eruptive) nevi.",
+   "B": "Wrong — eruptive nevi are triggered by several non-UV factors, including drugs and immunosuppression.",
+   "C": "Wrong — immunosuppression promotes nevogenesis; new nevi are consistent with it, not against it.",
+   "D": "Wrong — BRAF inhibitors paradoxically INDUCE new nevi rather than preventing them."
+  }
+ },
+ {
+  "id": "B112.37",
+  "chapter": "Ch112",
+  "section": "Epidermolysis bullosa nevi",
+  "stem": "A child with recessive dystrophic epidermolysis bullosa develops large (up to 3 cm), asymmetric, irregularly bordered dark nevi at sites of prior blisters. What is the best interpretation?",
+  "options": {
+   "A": "These are \"EB nevi\" — benign nevi arising at sites of antecedent bullae that can clinically and histologically mimic melanoma",
+   "B": "These are de novo melanomas that have arisen because of the EB",
+   "C": "These are congenital melanocytic nevi unrelated to the blistering",
+   "D": "These lesions exclude melanoma and never require any monitoring"
+  },
+  "answer": "A",
+  "exp": "\"EB nevi\" are distinctive melanocytic nevi that arise at the sites of antecedent bullae/erosions, chiefly in recessively inherited epidermolysis bullosa; they can be strikingly large (up to 3 cm), asymmetric, irregularly bordered, dark, and even show satellitosis — closely mimicking melanoma clinically and histologically — yet they are benign (best regarded as exaggerated recurrent/persistent nevi). Because melanoma can rarely arise in EB, longitudinal observation is still warranted.",
+  "hy": "EB nevi = benign nevi at sites of prior blisters; melanoma mimics needing monitoring.",
+  "src": "Bologna Ch112 · Common Acquired Nevi – EB nevi",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — EB nevi arise at sites of bullae and are benign melanoma mimics.",
+   "B": "Wrong — these are benign nevi, not de novo melanomas, although melanoma can rarely arise in EB.",
+   "C": "Wrong — they are acquired at blister sites, not congenital.",
+   "D": "Wrong — because they mimic melanoma and melanoma can rarely arise in EB, monitoring is advised."
+  }
+ },
+ {
+  "id": "B112.38",
+  "chapter": "Ch112",
+  "section": "Nevi of special sites",
+  "stem": "A vulvar nevus removed from a young woman shows architectural disorder, large junctional nests along the sides of rete ridges, and dermal lamellar fibroplasia. Which statement is most accurate?",
+  "options": {
+   "A": "Nevi of special sites (genital, scalp, ear, nipple, flexural, acral) can show atypical features overlapping with dysplastic nevi and melanoma yet behave benignly in young patients",
+   "B": "Any architectural disorder at a special site is diagnostic of melanoma",
+   "C": "Special-site nevi are histologically identical to ordinary acquired nevi",
+   "D": "These atypical features confirm a congenital melanocytic nevus"
+  },
+  "answer": "A",
+  "exp": "Nevi of \"special sites\" (genitalia, scalp, ear, nipple, umbilicus, flexural, acral) characteristically show architectural and cytologic features that OVERLAP with dysplastic nevi and even melanoma — asymmetry, large/irregular junctional nests including along the sides of rete ridges, discohesion, and lamellar fibroplasia — yet behave benignly, particularly in young patients. Recognizing this \"special-site\" pattern prevents over-diagnosis of melanoma. Melanoma can still occur at these sites (especially in older adults), so context matters.",
+  "hy": "Special-site nevi mimic dysplastic nevi/melanoma histologically but are benign in young patients.",
+  "src": "Bologna Ch112 · Genital Nevus and Nevi of Special Sites",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — special-site nevi show melanoma-overlapping atypia yet are benign in young patients.",
+   "B": "Wrong — architectural disorder at a special site is expected and not by itself diagnostic of melanoma.",
+   "C": "Wrong — special-site nevi specifically differ from ordinary acquired nevi by these atypical features.",
+   "D": "Wrong — these features describe a special-site nevus, not a congenital melanocytic nevus."
+  }
+ },
+ {
+  "id": "B112.39",
+  "chapter": "Ch112",
+  "section": "Acral nevus dermoscopy · Table 112.6",
+  "stem": "A pigmented macule on the sole shows, on dermoscopy, parallel bands of pigment running along the furrows (sulci) of the skin markings. A second sole lesion shows pigment on the ridges. Which interpretation is correct?",
+  "options": {
+   "A": "Pigment along the furrows (parallel-furrow pattern) favors a benign acral nevus, whereas pigment on the ridges (parallel-ridge pattern) favors acral melanoma",
+   "B": "Pigment on the ridges favors a benign nevus; pigment in the furrows favors melanoma",
+   "C": "Both patterns are equally benign and the distinction is not useful",
+   "D": "The fibrillar pattern is the specific sign of acral melanoma"
+  },
+  "answer": "A",
+  "exp": "Acral dermoscopy exploits the furrow (sulcus)/ridge anatomy of palmoplantar skin: in benign acral nevi the nests sit around the furrows, producing pigment along the furrows (parallel-furrow pattern, the most common benign pattern; also lattice-like and fibrillar). In acral melanoma the pigment instead localizes to the ridges (parallel-ridge pattern), where the intraepidermal eccrine ducts open. So furrow pigment = reassuring, ridge pigment = melanoma.",
+  "hy": "Acral: parallel-FURROW = benign nevus; parallel-RIDGE = melanoma.",
+  "src": "Bologna Ch112 · Acral Nevus · Table 112.6 / Fig 112.14",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — furrow pigment is the benign nevus pattern; ridge pigment is the melanoma pattern.",
+   "B": "Wrong — this reverses the rule; ridge pigment is the worrisome one.",
+   "C": "Wrong — the patterns carry opposite significance, so the distinction is highly useful.",
+   "D": "Wrong — the fibrillar pattern is a benign acral-nevus pattern, not the melanoma sign (that is the parallel-ridge pattern)."
+  }
+ },
+ {
+  "id": "B112.40",
+  "chapter": "Ch112",
+  "section": "Spitz nevus – genetics",
+  "stem": "Which molecular profile is characteristic of a Spitz nevus, as opposed to conventional cutaneous melanoma?",
+  "options": {
+   "A": "Kinase gene fusions (ALK, ROS1, NTRK1/2/3, RET) or activating HRAS mutations, without TERT-promoter mutations",
+   "B": "BRAF V600E plus a TERT-promoter mutation and CDKN2A loss",
+   "C": "GNAQ/GNA11 mutations identical to blue nevi",
+   "D": "Biallelic BAP1 inactivation"
+  },
+  "answer": "A",
+  "exp": "Spitz nevi are driven by structural rearrangements producing kinase fusions (ALK, ROS1, NTRK1/2/3, MET, MERTK, RET) or by activating HRAS mutations, and they lack the TERT-promoter mutations and CDKN2A/PTEN/TP53 inactivation that accumulate in conventional melanoma (which is driven by BRAF, NRAS, or NF1). This genetic distinction underlies the difficult Spitz-versus-melanoma differential. GNAQ/GNA11 (blue nevi) and BAP1 (BAP1-inactivated nevi) define other entities.",
+  "hy": "Spitz = kinase fusions or HRAS, no TERT; melanoma = BRAF/NRAS/NF1 + TERT/CDKN2A.",
+  "src": "Bologna Ch112 · Spitz Nevus – Pathogenesis · Table 112.7",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — kinase fusions/HRAS without TERT mutations characterize Spitz nevi.",
+   "B": "Wrong — BRAF V600E + TERT promoter + CDKN2A loss is the conventional-melanoma profile.",
+   "C": "Wrong — GNAQ/GNA11 mutations characterize blue nevi, not Spitz nevi.",
+   "D": "Wrong — biallelic BAP1 inactivation defines BAP1-inactivated melanocytic nevi."
+  }
+ },
+ {
+  "id": "B112.41",
+  "chapter": "Ch112",
+  "section": "Kamino bodies",
+  "stem": "Intraepidermal eosinophilic globules (Kamino bodies) characteristically seen in Spitz nevi are composed of what, and what is their significance?",
+  "options": {
+   "A": "Aggregated basement-membrane material (collagen types IV and VII); common in Spitz nevi but not entirely specific",
+   "B": "Apoptotic melanoma cells; their presence confirms melanoma",
+   "C": "Keratin and intercellular bridges; a hallmark of squamous differentiation",
+   "D": "Birbeck-granule–rich Langerhans cells; diagnostic of histiocytosis"
+  },
+  "answer": "A",
+  "exp": "Kamino bodies are intraepidermal eosinophilic globules composed of aggregated basement-membrane material, including collagen types IV and VII; they are commonly, numerously, and largely seen in Spitz nevi and are a helpful (though not entirely specific) clue, since they can occasionally appear in other melanocytic tumors, including melanoma. They are NOT apoptotic tumor cells, keratin pearls, or Langerhans-cell aggregates.",
+  "hy": "Kamino body = BM material (collagen IV/VII); Spitz clue, not fully specific.",
+  "src": "Bologna Ch112 · Spitz Nevus – Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — Kamino bodies are basement-membrane (collagen IV/VII) globules typical of Spitz nevi.",
+   "B": "Wrong — they are not apoptotic melanoma cells, and their presence does not confirm melanoma (they can appear in Spitz and other lesions).",
+   "C": "Wrong — keratin pearls/intercellular bridges are features of squamous cell carcinoma.",
+   "D": "Wrong — Birbeck-granule–rich Langerhans cells define Langerhans cell histiocytosis, unrelated to Kamino bodies."
+  }
+ },
+ {
+  "id": "B112.42",
+  "chapter": "Ch112",
+  "section": "Spitz vs melanoma · Table 112.7",
+  "stem": "Which histologic feature favors a Spitz nevus over cutaneous melanoma?",
+  "options": {
+   "A": "Maturation with depth (cells and nests become smaller deeper in the dermis) with superficial, sparse mitoses",
+   "B": "Confluent sheets of cells that retain their size and density at the base of the lesion",
+   "C": "Numerous deep and atypical dermal mitoses",
+   "D": "Disorderly pagetoid spread of single cells reaching the granular layer across the whole lesion"
+  },
+  "answer": "A",
+  "exp": "\"Maturation\" — a progressive reduction in cellular and nuclear size and in nest size with increasing dermal depth, plus orderly dispersion and superficial, sparse, non-atypical mitoses — favors a Spitz nevus over melanoma (Table 112.7). Melanoma instead shows little/no maturation (confluent cells retaining density and size at the base), numerous deep and atypical mitoses, and disorderly pagetoid spread of single cells reaching the granular layer across the lesion.",
+  "hy": "Spitz: maturation with depth + superficial sparse mitoses; melanoma: no maturation, deep atypical mitoses.",
+  "src": "Bologna Ch112 · Table 112.7",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — maturation with depth and superficial sparse mitoses favor a Spitz nevus.",
+   "B": "Wrong — retained density/size at the base (lack of maturation) favors melanoma.",
+   "C": "Wrong — numerous deep atypical mitoses favor melanoma, not Spitz nevus.",
+   "D": "Wrong — disorderly full-thickness pagetoid spread favors melanoma."
+  }
+ },
+ {
+  "id": "B112.43",
+  "chapter": "Ch112",
+  "section": "Atypical Spitz tumor",
+  "stem": "A spitzoid melanocytic lesion is 8 mm, asymmetric, extends deep into the dermis, lacks maturation, and shows 4 dermal mitoses/mm² including deep ones. How is this best classified and managed?",
+  "options": {
+   "A": "Atypical Spitz tumor — complete excision with clear margins and follow-up; sentinel-node positivity, if sought, does not carry the same prognostic meaning as in conventional melanoma",
+   "B": "Conventional Spitz nevus — reassurance with no excision needed",
+   "C": "Unequivocal Spitz melanoma requiring immediate wide excision and adjuvant systemic therapy",
+   "D": "Pigmented spindle cell nevus of Reed — observation only"
+  },
+  "answer": "A",
+  "exp": "A spitzoid lesion that is >5–10 mm, asymmetric, deeply infiltrating, non-maturing, and shows easily found/deep dermal mitoses (>2–3/mm²) is an atypical Spitz tumor (Spitz melanocytoma) — biologically between Spitz nevus and Spitz melanoma. Management is complete excision with clear margins and follow-up; if a sentinel-node biopsy is done, nodal positivity in Spitz tumors does NOT carry the same ominous prognosis as in conventional melanoma (most such cases do not progress beyond the node). It is neither a reassuring conventional Spitz nevus nor an unequivocal melanoma.",
+  "hy": "Atypical Spitz tumor → complete excision; SLN positivity ≠ conventional-melanoma prognosis.",
+  "src": "Bologna Ch112 · Atypical Spitz Tumor",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — these features define an atypical Spitz tumor; excise with clear margins, and SLN positivity is not prognostically equivalent to melanoma.",
+   "B": "Wrong — its atypical features place it well beyond a conventional Spitz nevus needing no excision.",
+   "C": "Wrong — it is not unequivocal melanoma; the diagnosis is intermediate, and adjuvant systemic therapy is not the standard answer.",
+   "D": "Wrong — a Reed (pigmented spindle cell) nevus is a different, heavily pigmented superficial spindle-cell lesion."
+  }
+ },
+ {
+  "id": "B112.44",
+  "chapter": "Ch112",
+  "section": "Pigmented spindle cell nevus of Reed",
+  "stem": "A young woman has a sharply demarcated, jet-black 5 mm papule on the thigh with a symmetric \"starburst\" (peripheral pseudopods/streaks) dermoscopic pattern. Which entity and driver does this best fit?",
+  "options": {
+   "A": "Pigmented spindle cell nevus of Reed, driven by an NTRK3 fusion",
+   "B": "Nodular melanoma, driven by a TERT-promoter mutation",
+   "C": "Blue nevus, driven by GNAQ",
+   "D": "Dermatofibroma, driven by trauma"
+  },
+  "answer": "A",
+  "exp": "The pigmented spindle cell nevus of Reed is a sharply circumscribed, heavily pigmented (jet-black) small papule, classically on the thigh of a young woman, with a symmetric starburst dermoscopic pattern (peripheral pseudopods/radial streaming); it is driven most often by an NTRK3 fusion. Although it can mimic melanoma, its symmetry and uniform pigment are reassuring. Nodular melanoma (TERT), blue nevus (GNAQ), and dermatofibroma do not fit this young-woman/thigh/starburst picture.",
+  "hy": "Reed nevus = black thigh papule, starburst, NTRK3 fusion.",
+  "src": "Bologna Ch112 · Pigmented Spindle Cell Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — Reed nevus is the black starburst thigh lesion driven by NTRK3 fusion.",
+   "B": "Wrong — nodular melanoma is not the classic symmetric starburst thigh lesion of a young woman.",
+   "C": "Wrong — a blue nevus is blue-gray (Tyndall) and GNAQ-driven, not a black starburst lesion.",
+   "D": "Wrong — a dermatofibroma is a firm dermal nodule with dimpling, not a black melanocytic starburst lesion."
+  }
+ },
+ {
+  "id": "B112.45",
+  "chapter": "Ch112",
+  "section": "WNT-activated deep penetrating/plexiform nevus",
+  "stem": "A WNT-activated deep penetrating/plexiform nevus arises when a common nevus acquires a second hit. Which molecular combination defines it, and which stain supports the diagnosis?",
+  "options": {
+   "A": "WNT-pathway activation (usually a CTNNB1/β-catenin mutation) added to MAPK activation (usually BRAF); nuclear β-catenin and LEF1 positivity support it",
+   "B": "A solitary BRAF V600E mutation; HMB-45 negativity supports it",
+   "C": "Biallelic BAP1 loss; loss of nuclear BAP1 supports it",
+   "D": "An NTRK3 fusion; pan-TRK negativity supports it"
+  },
+  "answer": "A",
+  "exp": "A WNT-activated deep penetrating/plexiform nevus arises when a common (usually BRAF-mutant) nevus acquires a second hit activating the WNT pathway — in >90% of cases a CTNNB1 mutation affecting β-catenin (rarely APC loss). The combined WNT + MAPK activation produces the deep, wedge-shaped/plexiform, pigmented lesion; nuclear positivity for β-catenin and LEF1 supports the diagnosis (cytoplasmic staining is non-specific). It is usually benign.",
+  "hy": "Deep penetrating nevus = CTNNB1/β-catenin (WNT) + BRAF (MAPK); nuclear β-catenin/LEF1.",
+  "src": "Bologna Ch112 · WNT-Activated Deep Penetrating/Plexiform Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — CTNNB1/β-catenin (WNT) plus BRAF (MAPK), with nuclear β-catenin/LEF1, defines this nevus.",
+   "B": "Wrong — a solitary BRAF mutation gives an ordinary nevus; the defining second hit is WNT activation.",
+   "C": "Wrong — biallelic BAP1 loss defines the BAP1-inactivated nevus, not the deep penetrating nevus.",
+   "D": "Wrong — NTRK3 fusion defines the pigmented spindle cell (Reed) nevus."
+  }
+ },
+ {
+  "id": "B112.46",
+  "chapter": "Ch112",
+  "section": "BAP1-inactivated melanocytic nevus",
+  "stem": "A skin-colored dome-shaped papule shows dermal large epithelioid melanocytes with loss of nuclear BAP1 on immunohistochemistry. The patient has several similar lesions. What is the most appropriate consideration?",
+  "options": {
+   "A": "Consider testing for a germline BAP1 mutation (BAP1 tumor predisposition syndrome), since multiple such nevi can be a marker of it",
+   "B": "The loss of BAP1 staining confirms the lesion is benign and needs no further thought",
+   "C": "These are Spitz nevi, confirmed by the BAP1 loss and Kamino bodies",
+   "D": "Solitary or multiple, BAP1-inactivated nevi carry no syndromic implication"
+  },
+  "answer": "A",
+  "exp": "BAP1-inactivated melanocytic nevi are dome-shaped skin-colored/reddish papules of large epithelioid melanocytes that show loss of nuclear BAP1 on immunohistochemistry (a surrogate for biallelic BAP1 inactivation), usually combined with a BRAF mutation. While solitary lesions are usually sporadic, MULTIPLE such nevi can be a marker of the BAP1 tumor predisposition syndrome (BAP1-TPDS), so germline BAP1 testing should be considered. Loss of BAP1 staining is not itself proof of benignity (BAP1-inactivated melanoma exists).",
+  "hy": "BAP1-inactivated nevus = loss of nuclear BAP1; multiple → test germline BAP1 (BAP1-TPDS).",
+  "src": "Bologna Ch112 · BAP1-Inactivated Melanocytic Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — multiple BAP1-inactivated nevi can mark BAP1-TPDS, prompting germline testing.",
+   "B": "Wrong — BAP1 loss is not proof of benignity; BAP1-inactivated melanoma occurs.",
+   "C": "Wrong — these are not Spitz nevi; BAP1-inactivated nevi lack Kamino bodies and the wedge silhouette and show loss of BAP1.",
+   "D": "Wrong — multiple BAP1-inactivated nevi DO have syndromic implications (BAP1-TPDS)."
+  }
+ },
+ {
+  "id": "B112.47",
+  "chapter": "Ch112",
+  "section": "BAP1 tumor predisposition syndrome",
+  "stem": "For which group of malignancies should carriers of a germline BAP1 mutation undergo surveillance?",
+  "options": {
+   "A": "Uveal and cutaneous melanoma, mesothelioma, and renal cell carcinoma",
+   "B": "Medullary thyroid carcinoma, pheochromocytoma, and mucosal neuromas",
+   "C": "Medulloblastoma, basal cell carcinomas, and ovarian fibromas",
+   "D": "Pancreatic, ovarian, and testicular tumors"
+  },
+  "answer": "A",
+  "exp": "Carriers of a germline BAP1 mutation (BAP1 tumor predisposition syndrome) are at increased risk for uveal melanoma, cutaneous melanoma, malignant mesothelioma, and renal cell carcinoma (and cholangiocarcinoma), so surveillance is directed at this spectrum. The other option sets belong to different syndromes: MEN2 (medullary thyroid/pheo/neuromas), Gorlin/basal-cell-nevus syndrome (medulloblastoma/BCCs/ovarian fibromas), and Peutz–Jeghers (pancreatic/ovarian/testicular tumors).",
+  "hy": "BAP1-TPDS: uveal + cutaneous melanoma, mesothelioma, renal cell carcinoma.",
+  "src": "Bologna Ch112 · BAP1-Inactivated Melanocytic Nevus – BAP1-TPDS",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — these are the core BAP1-TPDS-associated malignancies.",
+   "B": "Wrong — medullary thyroid carcinoma/pheochromocytoma/mucosal neuromas describe MEN2B.",
+   "C": "Wrong — medulloblastoma/BCCs/ovarian fibromas describe basal cell nevus (Gorlin) syndrome.",
+   "D": "Wrong — pancreatic/ovarian/testicular tumors describe Peutz–Jeghers syndrome."
+  }
+ },
+ {
+  "id": "B112.48",
+  "chapter": "Ch112",
+  "section": "Atypical (dysplastic) nevus – melanoma risk",
+  "stem": "How is the melanoma risk associated with atypical (dysplastic) melanocytic nevi best understood?",
+  "options": {
+   "A": "The number of nevi (e.g. >50–100) and the number of clinically atypical nevi mark an \"entire skin at risk\"; an individual atypical nevus is rarely the actual precursor",
+   "B": "Each atypical nevus is an obligate precursor that will become melanoma if not excised",
+   "C": "Atypical nevi carry no more melanoma risk than ordinary nevi",
+   "D": "Risk depends only on a single atypical nevus, not on the total nevus count"
+  },
+  "answer": "A",
+  "exp": "Melanoma risk in patients with atypical nevi correlates with the TOTAL number of nevi (e.g. >50 or >100) and with the number of clinically atypical nevi; thus the atypical-nevus phenotype is best viewed as a marker of \"an entire skin at risk\" rather than each lesion being an obligate precursor. In fact the annual transformation rate of any single nevus is vanishingly small (on the order of 1 in 100,000s). Risk is driven by the overall phenotype plus personal/family melanoma history.",
+  "hy": "Atypical nevi = phenotypic marker of skin-at-risk; risk tracks total + atypical nevus counts, not one lesion.",
+  "src": "Bologna Ch112 · Atypical (Dysplastic) Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — risk tracks total and atypical nevus counts; the phenotype marks skin at risk.",
+   "B": "Wrong — individual atypical nevi are not obligate precursors; most never become melanoma.",
+   "C": "Wrong — atypical nevi do confer increased risk relative to ordinary nevi.",
+   "D": "Wrong — risk depends on total nevus burden, not a single atypical lesion."
+  }
+ },
+ {
+  "id": "B112.49",
+  "chapter": "Ch112",
+  "section": "Dysplastic nevus – management",
+  "stem": "A shave biopsy returns \"dysplastic nevus, moderate atypia\" with a focally positive peripheral margin and no clinically visible residual lesion. Based on current evidence, what is the most appropriate next step?",
+  "options": {
+   "A": "Re-excision is often not required, because data show re-excision of moderately atypical nevi rarely changes the diagnosis",
+   "B": "Mandatory wide local excision with 1 cm margins, as for melanoma",
+   "C": "Sentinel lymph node biopsy",
+   "D": "No follow-up of any kind is ever needed for atypical nevi"
+  },
+  "answer": "A",
+  "exp": "Independent studies show that re-excising MODERATELY atypical (dysplastic) nevi with positive biopsy margins rarely changes the diagnosis or management, so routine re-excision is often not required when no clinical residuum remains. Only \"severely\"/markedly atypical nevi (overlapping with melanoma in situ) are routinely re-excised. Wide 1 cm margins and sentinel-node biopsy are melanoma treatments, not dysplastic-nevus management, and these patients still warrant skin surveillance.",
+  "hy": "Moderately atypical nevus, positive margin, no residuum → re-excision usually unnecessary; severe → re-excise.",
+  "src": "Bologna Ch112 · Atypical Nevus – Treatment",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — data do not support routine re-excision of moderately atypical nevi.",
+   "B": "Wrong — 1 cm wide excision is a melanoma margin, not the management of a moderately atypical nevus.",
+   "C": "Wrong — sentinel-node biopsy is a melanoma staging procedure, not indicated for a dysplastic nevus.",
+   "D": "Wrong — patients with atypical nevi do need ongoing skin surveillance."
+  }
+ },
+ {
+  "id": "B112.50",
+  "chapter": "Ch112",
+  "section": "Atypical nevus – genetics",
+  "stem": "Compared with common acquired nevi and with melanoma, the mutational profile of atypical (dysplastic) nevi is best described as:",
+  "options": {
+   "A": "A BRAF V600E driver (as in common nevi) plus additional changes such as TERT-promoter or CDKN2A alterations — an intermediate mutation burden between common nevi and melanoma",
+   "B": "Identical to melanoma, with TERT, CDKN2A, PTEN, and TP53 all inactivated",
+   "C": "Driven by GNAQ/GNA11, like blue nevi",
+   "D": "Free of any oncogenic mutation"
+  },
+  "answer": "A",
+  "exp": "Atypical (dysplastic) nevi most often carry the same BRAF V600E driver as common nevi, but additionally accumulate changes such as TERT-promoter mutations or CDKN2A loss; overall their mutation burden is intermediate — higher than common acquired or congenital nevi but lower than melanoma. They are not mutation-free, not GNAQ-driven, and not fully melanoma-equivalent (they lack the complete inactivation of TERT/CDKN2A/PTEN/TP53 seen in melanoma).",
+  "hy": "Atypical nevus = BRAF V600E + TERT/CDKN2A; mutation burden between common nevus and melanoma.",
+  "src": "Bologna Ch112 · Atypical Nevus – Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — BRAF V600E plus TERT/CDKN2A changes, at an intermediate burden, fits atypical nevi.",
+   "B": "Wrong — atypical nevi do not have the full melanoma profile (TERT/CDKN2A/PTEN/TP53 all inactivated).",
+   "C": "Wrong — GNAQ/GNA11 drives blue nevi, not atypical nevi.",
+   "D": "Wrong — atypical nevi are not mutation-free; they have a measurable (intermediate) mutation burden."
+  }
+ },
+ {
+  "id": "B112.51",
+  "chapter": "Ch112",
+  "section": "Congenital melanocytic nevus – classification",
+  "stem": "Congenital melanocytic nevi are classified by their projected adult size. Which set of cut-offs is correct?",
+  "options": {
+   "A": "Small <1.5 cm; medium 1.5–20 cm; large >20–40 cm; giant >40 cm",
+   "B": "Small <5 mm; medium 5–10 mm; large 10–20 mm; giant >20 mm",
+   "C": "Small <1 cm; medium 1–5 cm; large 5–10 cm; giant >10 cm",
+   "D": "Small <3 cm; medium 3–10 cm; large 10–30 cm; giant >30 cm"
+  },
+  "answer": "A",
+  "exp": "Congenital melanocytic nevi are categorized by projected ADULT size: small <1.5 cm, medium (intermediate) 1.5–20 cm, large >20–40 cm, and giant >40 cm. (Because the body grows, a newborn lesion ≥9 cm on the scalp or ≥6 cm on the trunk is already assigned to the large/giant group.) These cut-offs matter because melanoma and neurocutaneous-melanosis risk rise with size.",
+  "hy": "CMN size: small <1.5 / medium 1.5–20 / large >20–40 / giant >40 cm (adult).",
+  "src": "Bologna Ch112 · Congenital Melanocytic Nevus – Classification",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — these are the chapter's adult-size cut-offs for congenital nevi.",
+   "B": "Wrong — these millimeter figures are far too small for the congenital-nevus size bands.",
+   "C": "Wrong — these cut-offs are incorrect (the giant threshold is >40 cm, not >10 cm).",
+   "D": "Wrong — these values do not match the chapter's classification."
+  }
+ },
+ {
+  "id": "B112.52",
+  "chapter": "Ch112",
+  "section": "CMN – melanoma risk",
+  "stem": "How does lifetime melanoma risk vary with congenital melanocytic nevus size?",
+  "options": {
+   "A": "Small/medium congenital nevi carry a low risk (<1%), while large and giant nevi carry a substantially higher risk (roughly 2–3%)",
+   "B": "All congenital nevi, regardless of size, carry an identical ~30% melanoma risk",
+   "C": "Small congenital nevi carry the highest risk; giant nevi are essentially benign",
+   "D": "Congenital nevi never give rise to melanoma"
+  },
+  "answer": "A",
+  "exp": "Melanoma risk in congenital melanocytic nevi rises with size: small and medium nevi carry a low risk (most studies <1%, with prospective cohorts of medium nevi finding essentially no melanomas), whereas large and giant nevi carry a substantially higher risk — a comprehensive review reported ~2.5% (large) and ~3.1% (giant), versus ~0.7% overall. Melanoma in large/giant nevi may arise deep (dermal/subcutaneous), while in small nevi it usually begins at the dermal–epidermal junction.",
+  "hy": "CMN melanoma risk: small/medium <1%; large ~2.5%, giant ~3.1% (overall ~0.7%).",
+  "src": "Bologna Ch112 · CMN – Melanoma risk",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — low risk for small/medium and roughly 2–3% for large/giant matches the chapter.",
+   "B": "Wrong — there is no uniform ~30% risk; risk is size-dependent and far lower.",
+   "C": "Wrong — this reverses the gradient; large/giant nevi carry the higher risk.",
+   "D": "Wrong — congenital nevi can and do give rise to melanoma."
+  }
+ },
+ {
+  "id": "B112.53",
+  "chapter": "Ch112",
+  "section": "Neurocutaneous melanosis",
+  "stem": "Which patient with congenital melanocytic nevi has the HIGHEST risk of neurocutaneous melanosis, warranting MRI of the brain and spine (most sensitive before ~6 months of age)?",
+  "options": {
+   "A": "An infant with a giant nevus in a posterior axial location plus numerous (≥20) satellite nevi, or multiple medium-sized congenital nevi",
+   "B": "A child with a single small congenital nevus on the leg",
+   "C": "A child with one medium-sized nevus and no satellites",
+   "D": "An adult with a solitary giant nevus on the anterior thigh and no satellites"
+  },
+  "answer": "A",
+  "exp": "Neurocutaneous melanosis is concentrated in patients with a giant congenital nevus in a POSTERIOR AXIAL location with numerous satellite nevi (≥20), or with multiple (≥3) medium-sized congenital nevi — the latter group actually carrying the highest NCM risk (up to ~70% in one series). At-risk asymptomatic infants should have MRI of the brain and spine (with gadolinium), most sensitive in the first ~6 months of life. A single small nevus or one medium nevus without satellites is low-risk.",
+  "hy": "NCM risk: ≥20 satellites + posterior axial giant nevus, or multiple medium CMN; MRI <6 mo.",
+  "src": "Bologna Ch112 · Neurocutaneous melanosis · Table 112.10",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — posterior-axial giant nevus with ≥20 satellites, or multiple medium CMN, is the high-NCM-risk profile.",
+   "B": "Wrong — a single small congenital nevus carries minimal NCM risk.",
+   "C": "Wrong — one medium nevus without satellites is low-risk and does not mandate MRI.",
+   "D": "Wrong — anterior location without satellites is not the high-risk pattern (posterior axial + satellites is)."
+  }
+ },
+ {
+  "id": "B112.54",
+  "chapter": "Ch112",
+  "section": "CMN – genetics",
+  "stem": "Which oncogenic driver is found in the majority of congenital melanocytic nevi?",
+  "options": {
+   "A": "NRAS (≈80%)",
+   "B": "BRAF V600E (≈80%)",
+   "C": "GNA11",
+   "D": "KIT"
+  },
+  "answer": "A",
+  "exp": "The majority of congenital melanocytic nevi carry an oncogenic NRAS mutation (~80%); BRAF mutations are found in up to ~7%, and KRAS mutations or kinase fusions are rare. This contrasts with common acquired nevi, which are predominantly BRAF-driven — a useful discriminator.",
+  "hy": "CMN driver = NRAS (~80%) (vs common acquired nevi = BRAF).",
+  "src": "Bologna Ch112 · CMN – Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — NRAS (~80%) is the dominant congenital-nevus driver.",
+   "B": "Wrong — BRAF (~80%) drives common acquired nevi; in congenital nevi BRAF is only ~7%.",
+   "C": "Wrong — GNA11 drives blue nevi/nevus of Ota, not congenital nevi.",
+   "D": "Wrong — KIT is associated with acral/mucosal/chronically sun-damaged melanomas, not congenital nevi."
+  }
+ },
+ {
+  "id": "B112.55",
+  "chapter": "Ch112",
+  "section": "Proliferating nodule vs melanoma in CMN",
+  "stem": "A firm nodule arises within a giant congenital nevus in an infant. Array comparative genomic hybridization (aCGH) is performed. Which finding favors a benign proliferating nodule over melanoma?",
+  "options": {
+   "A": "Gains and losses of WHOLE chromosomes (numerical aberrations), rather than partial-chromosome gains/losses",
+   "B": "Multiple partial-chromosome gains and losses",
+   "C": "A TERT-promoter mutation with homozygous CDKN2A deletion",
+   "D": "Deep dermal mitoses with marked nuclear pleomorphism alone"
+  },
+  "answer": "A",
+  "exp": "Proliferating nodules within congenital nevi can be very hard to distinguish from melanoma, but molecular testing helps: benign proliferating nodules typically show gains and losses of WHOLE chromosomes (numerical/aneuploid changes), whereas melanomas show gains and losses of only PORTIONS of chromosomes (structural aberrations). Deep mitoses and pleomorphism alone, or a TERT/CDKN2A signature, point toward melanoma rather than a benign nodule.",
+  "hy": "Proliferating nodule = whole-chromosome aberrations; melanoma = partial-chromosome aberrations (aCGH).",
+  "src": "Bologna Ch112 · CMN – Pathology (proliferating nodules)",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — whole-chromosome gains/losses favor a benign proliferating nodule.",
+   "B": "Wrong — partial-chromosome gains/losses favor melanoma.",
+   "C": "Wrong — a TERT-promoter mutation with CDKN2A deletion points to melanoma, not a benign nodule.",
+   "D": "Wrong — deep mitoses with pleomorphism raise concern for melanoma rather than reassuring for a benign nodule."
+  }
+ },
+ {
+  "id": "B112.56",
+  "chapter": "Ch112",
+  "section": "Giant CMN – management · Table 112.10",
+  "stem": "When surgical removal of a giant congenital melanocytic nevus is planned in an otherwise stable infant, why is the procedure typically delayed until at least ~6 months of age?",
+  "options": {
+   "A": "To reduce the risk associated with general anesthesia in early infancy",
+   "B": "Because melanoma risk is negligible until after 6 months of age",
+   "C": "Because the nevus will spontaneously regress if removal is delayed",
+   "D": "Because MRI screening for neurocutaneous melanosis is most sensitive after 6 months"
+  },
+  "answer": "A",
+  "exp": "When excision of a giant congenital nevus is elective and the infant is stable, the procedure is typically delayed until at least ~6 months of age to reduce the heightened risk of general anesthesia in early infancy. Melanoma risk in giant nevi is in fact present from birth (not negligible), the nevus does not spontaneously regress, and MRI for neurocutaneous melanosis is MORE (not less) sensitive in the first ~6 months.",
+  "hy": "Delay giant-CMN excision to ≥6 months — for anesthesia safety.",
+  "src": "Bologna Ch112 · CMN – Treatment · Table 112.10",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — the delay is to lower general-anesthesia risk in early infancy.",
+   "B": "Wrong — melanoma risk in giant nevi is present from birth, not negligible until 6 months.",
+   "C": "Wrong — giant congenital nevi do not spontaneously regress.",
+   "D": "Wrong — MRI for NCM is most sensitive in the first ~6 months, so this is not the reason to delay surgery."
+  }
+ },
+ {
+  "id": "B112.57",
+  "chapter": "Ch112",
+  "section": "Nevus spilus",
+  "stem": "A tan patch studded with multiple darker brown macules and papules has been present since early childhood. Which statement about nevus spilus (speckled lentiginous nevus) is correct?",
+  "options": {
+   "A": "It carries mosaic HRAS mutations and is classified as a type of congenital melanocytic nevus; melanoma can rarely arise within it",
+   "B": "It is distinguished from agminated nevi by the absence of a background tan patch",
+   "C": "It is driven by GNAQ, like blue nevi",
+   "D": "The background tan patch reliably excludes any melanoma risk"
+  },
+  "answer": "A",
+  "exp": "Nevus spilus (speckled lentiginous nevus) is a tan background patch studded with darker macules/papules (ranging from lentigines to junctional/compound and even Spitz or blue nevi); both the patch and the speckles carry mosaic HRAS mutations, and the lesion is classified as a type of congenital melanocytic nevus. Melanoma can rarely arise within it. It is distinguished from agminated nevi and partial unilateral lentiginosis by the PRESENCE of the background tan patch.",
+  "hy": "Nevus spilus = HRAS mosaic, tan patch + speckles, a CMN variant; rare melanoma.",
+  "src": "Bologna Ch112 · Nevus Spilus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — mosaic HRAS, congenital-nevus classification, and rare melanoma risk define nevus spilus.",
+   "B": "Wrong — nevus spilus is distinguished BY its background tan patch (agminated nevi lack it).",
+   "C": "Wrong — it is HRAS-driven, not GNAQ-driven.",
+   "D": "Wrong — the tan patch does not exclude melanoma risk; melanoma can arise within a nevus spilus."
+  }
+ },
+ {
+  "id": "B112.58",
+  "chapter": "Ch112",
+  "section": "Halo (Sutton) nevus",
+  "stem": "A 52-year-old man develops a new halo nevus. In contrast to the same finding in a teenager, why does new-onset halo phenomenon in an older adult warrant a careful examination?",
+  "options": {
+   "A": "It can be a clue to a melanoma (ocular, mucosal, or cutaneous) elsewhere, so a full skin and ocular exam is indicated",
+   "B": "Halo formation in adults indicates the central nevus is malignant and must be excised",
+   "C": "Halo nevi in adults are caused by B-cell lymphoma and require a marrow biopsy",
+   "D": "The halo means the nevus has become a blue nevus"
+  },
+  "answer": "A",
+  "exp": "A new halo (Sutton) nevus in an OLDER adult is a red flag: multiple or new-onset halo nevi after ~40 years of age can be a clue to a melanoma (ocular, mucosal, or cutaneous) elsewhere, so a complete skin and ophthalmologic examination is indicated. In teenagers, by contrast, halo nevi are common and benign. The halo reflects a CD8+ cytotoxic T-cell reaction against nevus cells; it does not itself mean the central nevus is malignant or that the nevus has become a blue nevus.",
+  "hy": "New halo nevus in an adult >40 → search for melanoma (skin, mucosa, eye).",
+  "src": "Bologna Ch112 · Halo Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — new-onset halo nevi in older adults warrant a search for an occult melanoma.",
+   "B": "Wrong — the halo itself does not mean the central nevus is malignant.",
+   "C": "Wrong — halo nevi are not caused by B-cell lymphoma; the infiltrate is CD8+ T cells.",
+   "D": "Wrong — the halo is depigmentation around the nevus, not transformation into a blue nevus."
+  }
+ },
+ {
+  "id": "B112.59",
+  "chapter": "Ch112",
+  "section": "Combined nevus",
+  "stem": "A lesion shows two distinct melanocytic populations — a banal compound nevus admixed with a discrete focus of pigmented epithelioid/spindled dermal melanocytes. Why does this \"combined nevus\" pattern matter clinically?",
+  "options": {
+   "A": "The presence of two or more components raises the possibility of melanoma arising in a nevus, so biopsy of the whole lesion and immunostains (e.g. BAP1, β-catenin/LEF1, PRKAR1A) help classify it",
+   "B": "Two components are diagnostic of melanoma and require wide excision",
+   "C": "A combined nevus is a purely junctional lesion with a single cell population",
+   "D": "Combined nevi cannot be confused with melanoma and never need biopsy"
+  },
+  "answer": "A",
+  "exp": "A combined nevus contains two or more phenotypically distinct melanocytic populations (commonly a banal compound/intradermal nevus plus a focus of pigmented epithelioid/spindled dermal melanocytes, e.g. a blue-nevus component). Because two components in one lesion can also be the look of melanoma arising in a nevus, a suspicious lesion should be biopsied in its entirety, and immunostains (BAP1, β-catenin/LEF1, PRKAR1A) help reclassify many former \"combined nevi\" (e.g. BAP1-inactivated, deep penetrating, PEM).",
+  "hy": "Combined nevus = ≥2 populations → exclude melanoma; IHC classifies the components.",
+  "src": "Bologna Ch112 · Combined Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — multiple components raise melanoma concern; full biopsy plus IHC classifies the lesion.",
+   "B": "Wrong — two components are not by themselves diagnostic of melanoma.",
+   "C": "Wrong — a combined nevus is defined by ≥2 distinct populations, not a single junctional one.",
+   "D": "Wrong — combined nevi CAN be confused with melanoma, which is precisely why biopsy may be needed."
+  }
+ },
+ {
+  "id": "B112.60",
+  "chapter": "Ch112",
+  "section": "Recurrent (persistent) nevus",
+  "stem": "Six weeks after a shave removal of a nevus, irregular brown pigment reappears strictly within the surgical scar and does not extend beyond it. What is the best interpretation?",
+  "options": {
+   "A": "This is a recurrent (persistent) nevus / \"pseudomelanoma\" — pigmentation confined to the scar favors observation over re-biopsy",
+   "B": "Pigment within a scar always indicates residual melanoma and mandates wide excision",
+   "C": "Recurrence at any time and extent is reassuring and never needs review",
+   "D": "Recurrence beyond the scar or after >12 months would be MORE reassuring than this"
+  },
+  "answer": "A",
+  "exp": "A recurrent (persistent) nevus — \"pseudomelanoma\" — is irregular pigmentation reappearing within a scar after incomplete (usually shave) removal, typically within ~6 months; residual nevus cells migrate up into the epidermis over the scar and can look alarming histologically. When the pigment is confined to the scar, observation is appropriate. Recurrence that extends BEYOND the scar, or appears >12 months later, is the worrisome scenario that should prompt re-evaluation of the original biopsy/re-biopsy.",
+  "hy": "Pigment confined to a scar after shave = recurrent nevus (pseudomelanoma) → observe; beyond scar/>12 mo → re-biopsy.",
+  "src": "Bologna Ch112 · Recurrent Melanocytic Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "why": {
+   "A": "Correct — pigment confined to the scar favors a benign recurrent nevus and observation.",
+   "B": "Wrong — scar pigment confined to the scar does not always indicate melanoma or mandate wide excision.",
+   "C": "Wrong — recurrence beyond the scar or after a long interval is NOT reassuring and needs review.",
+   "D": "Wrong — this inverts the rule; beyond-scar/late recurrence is more concerning, not more reassuring."
+  }
+ },
+ {
+  "id": "B112.61",
+  "chapter": "Ch112",
+  "section": "Blue nevus – recognition",
+  "stem": "A young adult has the lesion shown below, a stable, firm, well-circumscribed dome-shaped papule. What is the most likely diagnosis?",
+  "options": {
+   "A": "Blue nevus",
+   "B": "Nodular melanoma",
+   "C": "Dermatofibroma",
+   "D": "Pyogenic granuloma"
+  },
+  "answer": "A",
+  "exp": "The image shows a solitary, well-circumscribed, steel-blue to blue-black dome-shaped papule — the classic look of a (common) blue nevus, whose color is the Tyndall effect of dermal melanin. Nodular melanoma is typically a larger, changing, often ulcerated nodule; a dermatofibroma is a firm skin-colored/brown nodule that dimples on lateral compression; and a pyogenic granuloma is a friable, rapidly growing red papule that bleeds. The stable, uniform blue papule is the discriminator.",
+  "hy": "Solitary uniform blue dome papule = blue nevus (Tyndall).",
+  "src": "Bologna Ch112 · Fig 112.10",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-61.jpg",
+  "imgcap": "Solitary steel-blue to blue-black dome-shaped papule",
+  "why": {
+   "A": "Correct — a stable uniform blue-black dome papule is a blue nevus.",
+   "B": "Wrong — nodular melanoma is usually larger, changing, and may be ulcerated, not a small stable blue papule.",
+   "C": "Wrong — a dermatofibroma is a firm brown nodule that dimples on compression, not blue.",
+   "D": "Wrong — a pyogenic granuloma is a friable bleeding red papule, not a blue nevus."
+  }
+ },
+ {
+  "id": "B112.62",
+  "chapter": "Ch112",
+  "section": "Acral dermoscopy – parallel-furrow pattern",
+  "stem": "This is the dermoscopic image of a pigmented macule on the sole. Which pattern is shown and what does it indicate?",
+  "options": {
+   "A": "Parallel-furrow pattern — a benign acral melanocytic nevus",
+   "B": "Parallel-ridge pattern — acral melanoma",
+   "C": "Blue-white veil — nodular melanoma",
+   "D": "Arborizing vessels — basal cell carcinoma"
+  },
+  "answer": "A",
+  "exp": "The dermoscopic image shows pigment arranged along the parallel FURROWS (sulci) of acral skin — the parallel-furrow pattern, the most common benign acral-nevus pattern (nests sit around the furrows). The dangerous counterpart is the parallel-RIDGE pattern (pigment on the ridges), which indicates acral melanoma. A blue-white veil (nodular melanoma) and arborizing vessels (BCC) are different dermoscopic findings altogether.",
+  "hy": "Parallel-FURROW = benign acral nevus; parallel-RIDGE = acral melanoma.",
+  "src": "Bologna Ch112 · Fig 112.15 / Table 112.6",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-62.jpg",
+  "imgcap": "Dermoscopy of acral skin with pigment along the parallel furrows",
+  "why": {
+   "A": "Correct — furrow-aligned pigment is the benign parallel-furrow pattern of an acral nevus.",
+   "B": "Wrong — the parallel-RIDGE pattern (pigment on ridges) is the melanoma sign; that is not what is shown.",
+   "C": "Wrong — a blue-white veil is a melanoma feature, not the acral furrow pattern.",
+   "D": "Wrong — arborizing vessels are a basal cell carcinoma feature."
+  }
+ },
+ {
+  "id": "B112.63",
+  "chapter": "Ch112",
+  "section": "Spitz nevus – recognition",
+  "stem": "A child has the rapidly appearing, symmetric, dome-shaped pink-red papule shown below. Which is the most likely diagnosis?",
+  "options": {
+   "A": "Spitz nevus",
+   "B": "Nodular melanoma",
+   "C": "Dermatofibroma",
+   "D": "Blue nevus"
+  },
+  "answer": "A",
+  "exp": "The image shows a solitary, symmetric, dome-shaped pink-red papule of recent onset in a child — the classic presentation of a Spitz nevus (which is often amelanotic/pink and well-circumscribed). Nodular melanoma is exceedingly rare prepubertally and is usually a larger changing nodule; a dermatofibroma is a firm dimpling nodule; a blue nevus is blue-gray, not pink. The age, symmetry, and pink dome morphology point to Spitz.",
+  "hy": "Symmetric pink dome papule in a child = Spitz nevus.",
+  "src": "Bologna Ch112 · Fig 112.16",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-63.jpg",
+  "imgcap": "Solitary symmetric red-pink dome-shaped papule on a child's skin",
+  "why": {
+   "A": "Correct — a symmetric pink-red dome papule in a child is a Spitz nevus.",
+   "B": "Wrong — melanoma is very rare in prepubertal children and is usually larger and changing.",
+   "C": "Wrong — a dermatofibroma is a firm brown dimpling nodule, not a pink dome papule.",
+   "D": "Wrong — a blue nevus is blue-gray, not pink-red."
+  }
+ },
+ {
+  "id": "B112.64",
+  "chapter": "Ch112",
+  "section": "Spitz nevus – histopathology",
+  "stem": "This H&E image is from a symmetric melanocytic lesion in a child. Which feature is indicated and is characteristic (though not entirely specific) of this entity?",
+  "options": {
+   "A": "A Kamino body (eosinophilic basement-membrane globule), typical of a Spitz nevus",
+   "B": "A keratin pearl, typical of squamous cell carcinoma",
+   "C": "A Michaelis–Gutmann body, typical of malakoplakia",
+   "D": "A Civatte body, typical of lichen planus"
+  },
+  "answer": "A",
+  "exp": "The arrowed dull-pink intraepidermal globule is a Kamino body — an aggregate of basement-membrane material (collagen IV/VII) that is characteristic of (though not entirely specific to) Spitz nevi, in which it is typically numerous and large. A keratin pearl belongs to squamous cell carcinoma, a Michaelis–Gutmann body to malakoplakia, and a Civatte (colloid) body to lichenoid interface dermatitis.",
+  "hy": "Kamino body (BM collagen IV/VII globule) = Spitz nevus clue.",
+  "src": "Bologna Ch112 · Fig 112.18",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-64.jpg",
+  "imgcap": "H&E showing a dull-pink intraepidermal globule (arrow) in a spitzoid lesion",
+  "why": {
+   "A": "Correct — the eosinophilic basement-membrane globule is a Kamino body, typical of Spitz nevi.",
+   "B": "Wrong — keratin pearls are a squamous cell carcinoma feature.",
+   "C": "Wrong — Michaelis–Gutmann bodies are seen in malakoplakia.",
+   "D": "Wrong — Civatte (colloid) bodies are apoptotic keratinocytes in lichenoid dermatitis."
+  }
+ },
+ {
+  "id": "B112.65",
+  "chapter": "Ch112",
+  "section": "Atypical (dysplastic) nevus – recognition",
+  "stem": "A patient has the lesion shown below, displaying asymmetry and several shades of brown. Which is the most likely diagnosis?",
+  "options": {
+   "A": "Atypical (dysplastic) melanocytic nevus",
+   "B": "Seborrheic keratosis",
+   "C": "Dermatofibroma",
+   "D": "Blue nevus"
+  },
+  "answer": "A",
+  "exp": "The lesion shown is asymmetric with several shades of brown — the morphology of an atypical (dysplastic) melanocytic nevus, which simulates the clinical features of melanoma. A seborrheic keratosis is a \"stuck-on\" waxy verrucous plaque with milia-like cysts; a dermatofibroma is a firm dimpling nodule; a blue nevus is a uniform blue papule. The flat, color-variegated, asymmetric pigmented macule is the atypical nevus.",
+  "hy": "Asymmetric, color-variegated flat pigmented lesion = atypical (dysplastic) nevus.",
+  "src": "Bologna Ch112 · Fig 112.23",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-65.jpg",
+  "imgcap": "Macular/slightly raised pigmented lesion with asymmetry and color variegation",
+  "why": {
+   "A": "Correct — asymmetry plus color variegation in a flat pigmented lesion is an atypical nevus.",
+   "B": "Wrong — a seborrheic keratosis is a waxy \"stuck-on\" plaque with horn cysts, not a flat variegated macule.",
+   "C": "Wrong — a dermatofibroma is a firm dimpling nodule, not a variegated macule.",
+   "D": "Wrong — a blue nevus is a uniform blue papule, not a multicolored asymmetric macule."
+  }
+ },
+ {
+  "id": "B112.66",
+  "chapter": "Ch112",
+  "section": "Giant congenital melanocytic nevus – recognition",
+  "stem": "This newborn has the lesion shown below. What is the most likely diagnosis and its key association?",
+  "options": {
+   "A": "Giant congenital melanocytic nevus with satellite nevi — at risk for neurocutaneous melanosis",
+   "B": "Extensive dermal melanocytosis (Mongolian spots)",
+   "C": "Plexiform neurofibroma",
+   "D": "Diffuse cutaneous mastocytosis"
+  },
+  "answer": "A",
+  "exp": "The newborn has a giant pigmented (often hairy) plaque in an axial distribution with numerous smaller satellite nevi — a giant congenital melanocytic nevus, which is at risk for neurocutaneous melanosis (especially with ≥20 satellites and a posterior axial location) and carries an elevated melanoma risk. Extensive Mongolian spots are blue-gray and flat without satellites; a plexiform neurofibroma is a soft \"bag of worms\"; diffuse mastocytosis shows urticating tan papules/plaques (Darier sign), not a giant hairy nevus with satellites.",
+  "hy": "Giant hairy axial nevus + satellites = giant CMN → NCM risk.",
+  "src": "Bologna Ch112 · Fig 112.25",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-66.jpg",
+  "imgcap": "Giant pigmented hairy plaque in an axial distribution with numerous smaller satellite lesions",
+  "why": {
+   "A": "Correct — a giant pigmented nevus with satellites is a giant CMN with neurocutaneous-melanosis risk.",
+   "B": "Wrong — dermal melanocytosis is flat blue-gray pigment without satellite nevi.",
+   "C": "Wrong — a plexiform neurofibroma is a soft \"bag of worms,\" not a giant pigmented satellited nevus.",
+   "D": "Wrong — diffuse mastocytosis shows urticating papules with a positive Darier sign, not this morphology."
+  }
+ },
+ {
+  "id": "B112.67",
+  "chapter": "Ch112",
+  "section": "Nevus spilus – recognition",
+  "stem": "The lesion shown below consists of darker brown macules and papules superimposed on a uniform tan background patch. What is the diagnosis?",
+  "options": {
+   "A": "Nevus spilus (speckled lentiginous nevus)",
+   "B": "Agminated melanocytic nevi",
+   "C": "Café-au-lait macule",
+   "D": "Partial unilateral lentiginosis"
+  },
+  "answer": "A",
+  "exp": "The lesion shows darker brown macules and papules superimposed on a uniform tan background patch — nevus spilus (speckled lentiginous nevus). The defining feature is the tan BACKGROUND patch: agminated nevi and partial unilateral lentiginosis lack that background, and a plain café-au-lait macule has no darker speckles.",
+  "hy": "Tan patch + darker speckles = nevus spilus.",
+  "src": "Bologna Ch112 · Fig 112.30",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-67.jpg",
+  "imgcap": "Tan background patch studded with multiple darker brown speckles",
+  "why": {
+   "A": "Correct — darker speckles on a tan background patch define nevus spilus.",
+   "B": "Wrong — agminated nevi are grouped nevi WITHOUT a background tan patch.",
+   "C": "Wrong — a café-au-lait macule is a uniform tan patch without darker speckles.",
+   "D": "Wrong — partial unilateral lentiginosis is segmental lentigines without a background tan patch."
+  }
+ },
+ {
+  "id": "B112.68",
+  "chapter": "Ch112",
+  "section": "Halo (Sutton) nevus – recognition",
+  "stem": "The lesion shown below is a central melanocytic nevus surrounded by a sharply marginated rim of depigmentation. What is the diagnosis?",
+  "options": {
+   "A": "Halo (Sutton) nevus",
+   "B": "Vitiligo without a nevus",
+   "C": "Amelanotic melanoma with a halo",
+   "D": "Blue nevus"
+  },
+  "answer": "A",
+  "exp": "The image shows a central pigmented nevus encircled by a sharply demarcated, symmetric rim of depigmentation — a halo (Sutton) nevus, due to a CD8+ T-cell reaction against the nevus. Vitiligo without a nevus would be a depigmented patch with no central lesion; an amelanotic melanoma with a halo would show an atypical/changing central tumor (a concern mainly in older adults); a blue nevus is a uniform blue papule without a halo.",
+  "hy": "Central nevus + symmetric white halo = halo (Sutton) nevus.",
+  "src": "Bologna Ch112 · Fig 112.31",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "112",
+  "chname": "Benign Melanocytic Neoplasms and Melanotic Lesions",
+  "image": "images/B112-68.jpg",
+  "imgcap": "Central pigmented nevus surrounded by a symmetric white (depigmented) halo",
+  "why": {
+   "A": "Correct — a central nevus with a symmetric depigmented halo is a halo (Sutton) nevus.",
+   "B": "Wrong — vitiligo alone has no central melanocytic nevus.",
+   "C": "Wrong — an amelanotic melanoma with a halo would show an atypical central tumor, not a banal nevus (and is mainly a concern in older adults).",
+   "D": "Wrong — a blue nevus is a uniform blue papule and does not have a depigmented halo."
+  }
  }
 ]
