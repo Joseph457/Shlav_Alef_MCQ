@@ -29420,5 +29420,825 @@
    "C": "Wrong — an amelanotic melanoma with a halo would show an atypical central tumor, not a banal nevus (and is mainly a concern in older adults).",
    "D": "Wrong — a blue nevus is a uniform blue papule and does not have a depigmented halo."
   }
+ },
+ {
+  "id": "SYN-MARGINS.1",
+  "chapter": "Ch1",
+  "section": "Margins · Melanoma",
+  "stem": "A 1.4 mm thick cutaneous melanoma is widely excised. The recommended peripheral surgical margin is:",
+  "options": {
+   "A": "0.5–1.0 cm",
+   "B": "1.0 cm",
+   "C": "1.0–2.0 cm",
+   "D": "2.0 cm"
+  },
+  "answer": "C",
+  "exp": "Cutaneous melanoma is excised with a margin scaled to Breslow thickness — the perpendicular depth from the granular layer to the deepest tumor cell, the dominant prognostic variable. A 1.4 mm tumor falls in the >1–2 mm band, for which a 1.0–2.0 cm margin is recommended (the exact width tailored to site and closure). Wider excision lowers local recurrence but confers no survival benefit beyond 2 cm, so margins plateau there; randomized trials underpin these bands. A and B (0.5–1 cm, 1 cm) are the in-situ/≤1 mm margins; D (2 cm) is reserved for >2 mm. 📋 Margins — AK: field therapy (no margin); BCC <2 cm: 4 mm (Mohs if high-risk); cSCC low-risk: 4–6 mm; melanoma in situ: 0.5–1 cm; ≤1 mm: 1 cm; >1–2 mm: 1–2 cm; >2 mm: 2 cm. SLNB: melanoma ≥1 mm & most Merkel.",
+  "hy": "Margins step up with thickness and plateau at 2 cm.",
+  "src": "Bologna Derm 5e Ch113 · Table 113.15",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.2",
+  "chapter": "Ch1",
+  "section": "Margins · Cross-tumor",
+  "stem": "Which lesion is paired with its correct standard peripheral excision margin?",
+  "options": {
+   "A": "Actinic keratosis — 4 mm margin",
+   "B": "Non-morpheaform BCC <2 cm — 4 mm",
+   "C": "Low-risk cutaneous SCC — 2 mm",
+   "D": "Melanoma in situ — 2.0 cm margin"
+  },
+  "answer": "B",
+  "exp": "A non-morpheaform BCC under 2 cm is cleared by a 4 mm margin in ~98% of cases — the anchor figure for keratinocyte cancers. Each tumor class has its own rule: AK is intraepidermal/precancerous and treated by field-directed therapy (no excision margin); low-risk cutaneous SCC needs 4–6 mm (not 2 mm); melanoma in situ needs 0.5–1.0 cm (2 cm is the thick-melanoma ceiling, never used for in situ). Knowing one anchor per class lets you reconstruct the rest. 📋 Margins — AK: field therapy (no margin); BCC <2 cm: 4 mm (Mohs if high-risk); cSCC low-risk: 4–6 mm; melanoma in situ: 0.5–1 cm; ≤1 mm: 1 cm; >1–2 mm: 1–2 cm; >2 mm: 2 cm. SLNB: melanoma ≥1 mm & most Merkel.",
+  "hy": "BCC <2 cm = 4 mm is the anchor; each class differs.",
+  "src": "Bologna Derm 5e Ch108",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.3",
+  "chapter": "Ch1",
+  "section": "Margins · SLNB",
+  "stem": "For which lesion is sentinel lymph node biopsy considered standard staging?",
+  "options": {
+   "A": "Basal cell carcinoma larger than 2 cm",
+   "B": "Cutaneous melanoma ≥1 mm Breslow thickness",
+   "C": "Low-risk cutaneous squamous cell carcinoma",
+   "D": "Hypertrophic actinic keratosis with scale"
+  },
+  "answer": "B",
+  "exp": "Sentinel lymph node biopsy maps the first draining node to detect occult regional spread; in melanoma it is the strongest prognostic factor and is standard at ≥1 mm Breslow (and considered in thinner T1b lesions with ulceration, mitoses ≥2/mm², or LVI). BCC essentially never metastasizes, so it is never nodally staged; low-risk cSCC is not routinely sampled; AK cannot metastasize at all. 📋 Margins — AK: field therapy (no margin); BCC <2 cm: 4 mm (Mohs if high-risk); cSCC low-risk: 4–6 mm; melanoma in situ: 0.5–1 cm; ≤1 mm: 1 cm; >1–2 mm: 1–2 cm; >2 mm: 2 cm. SLNB: melanoma ≥1 mm & most Merkel.",
+  "hy": "\"≥1 mm melanoma → SLNB\"; thinner only with high-risk histology.",
+  "src": "Bologna Derm 5e Ch113 · Table 113.13",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.4",
+  "chapter": "Ch1",
+  "section": "Margins · Threshold",
+  "stem": "The T1a/T1b boundary for thin melanoma is defined at a Breslow thickness of:",
+  "options": {
+   "A": "0.5 mm",
+   "B": "0.8 mm",
+   "C": "1.0 mm",
+   "D": "1.2 mm"
+  },
+  "answer": "B",
+  "exp": "AJCC-8 subdivides T1 melanoma at 0.8 mm: T1a is <0.8 mm without ulceration; T1b is <0.8 mm with ulceration, or 0.8–1.0 mm with or without ulceration. The 0.8 mm cut matters because it shifts SLNB discussion. The classic trap is to place the line at 1.0 mm — but that is the T1/T2 boundary, not the a/b split. 📋 Melanoma AJCC T — Tis: in situ; T1: ≤1 mm (T1a/T1b split at 0.8 mm); T2: >1–2 mm; T3: >2–4 mm; T4: >4 mm; suffix a/b = without/with ulceration.",
+  "hy": "T1a/T1b = 0.8 mm; T1/T2 = 1.0 mm.",
+  "src": "Bologna Derm 5e Ch113 · Table 113.11",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.5",
+  "chapter": "Ch1",
+  "section": "Margins · Staging",
+  "stem": "The single strongest determinant of melanoma T-stage and the excision margin is:",
+  "options": {
+   "A": "Clark anatomic level",
+   "B": "Breslow tumor thickness",
+   "C": "Maximum surface diameter",
+   "D": "Number of primary lesions"
+  },
+  "answer": "B",
+  "exp": "Breslow tumor thickness is the dominant prognostic variable and the basis of both T-staging and margin selection; ulceration and mitoses refine it. Clark level (anatomic depth I–V) was the old system but was dropped from AJCC-8 because thickness predicts outcome better. Surface diameter and lesion number are not melanoma staging axes. 📋 Melanoma AJCC T — Tis: in situ; T1: ≤1 mm (T1a/T1b split at 0.8 mm); T2: >1–2 mm; T3: >2–4 mm; T4: >4 mm; suffix a/b = without/with ulceration.",
+  "hy": "Breslow drives stage and margin; Clark level is obsolete.",
+  "src": "Bologna Derm 5e Ch113 · Fig 113.26",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.6",
+  "chapter": "Ch1",
+  "section": "Margins · Merkel",
+  "stem": "Regarding Merkel cell carcinoma, which statement is correct?",
+  "options": {
+   "A": "A wide-local-excision margin of exactly 2 cm is specified as standard",
+   "B": "SLNB is advised for most patients and may be positive in small tumors",
+   "C": "Sentinel node biopsy is reserved only for tumors over 2 cm in diameter",
+   "D": "Like basal cell carcinoma, it rarely warrants any nodal staging at all"
+  },
+  "answer": "B",
+  "exp": "Merkel cell carcinoma is an aggressive neuroendocrine skin cancer; Bologna recommends excision of the primary plus SLNB for most patients because nodal spread is common — the SLN is positive in ~35% at diagnosis and in ~15% even of tumors ≤5 mm, so small size does not make it \"safe.\" Adjuvant radiation to the primary ± nodal basin is frequently added. Option A is wrong because Bologna gives no specific cm WLE margin; C and D understate its nodal risk. 📋 Merkel AJCC — I: ≤2 cm; IIA: >2 cm; IIB: invades bone/muscle/fascia/cartilage; III: node-positive; IV: distant metastasis.",
+  "hy": "Merkel: SLNB for nearly everyone — size doesn't make it safe.",
+  "src": "Bologna Derm 5e Ch115",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.7",
+  "chapter": "Ch1",
+  "section": "Margins · Mohs",
+  "stem": "Mohs micrographic surgery is the preferred treatment for which of the following?",
+  "options": {
+   "A": "A superficial actinic keratosis located on the forehead",
+   "B": "A recurrent morpheaform basal cell carcinoma on the nasal ala",
+   "C": "A 1.2 mm cutaneous melanoma on the upper back with no ulceration",
+   "D": "A low-risk 6 mm squamous cell carcinoma on the trunk"
+  },
+  "answer": "B",
+  "exp": "Mohs micrographic surgery examines 100% of the peripheral and deep margin intra-operatively, so it is preferred for tumors that are ill-defined, recurrent, high-risk, or on cosmetically/functionally critical sites — a recurrent morpheaform BCC on the nasal ala is the textbook indication (Mohs recurrence ~1% vs ~10% for standard excision). AK is field-treated; invasive melanoma and low-risk truncal SCC are managed by wide excision, not Mohs. 📋 Margins — AK: field therapy (no margin); BCC <2 cm: 4 mm (Mohs if high-risk); cSCC low-risk: 4–6 mm; melanoma in situ: 0.5–1 cm; ≤1 mm: 1 cm; >1–2 mm: 1–2 cm; >2 mm: 2 cm.",
+  "hy": "Mohs = ill-defined / recurrent / high-risk facial keratinocyte tumors.",
+  "src": "Bologna Derm 5e Ch108",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-MARGINS.8",
+  "chapter": "Ch1",
+  "section": "Margins · Melanoma in situ",
+  "stem": "A melanoma in situ on the cheek is excised. The recommended peripheral margin is:",
+  "options": {
+   "A": "0.5–1.0 cm",
+   "B": "exactly 2.0 cm",
+   "C": "4 mm, as for BCC",
+   "D": "none — topical therapy only"
+  },
+  "answer": "A",
+  "exp": "Melanoma in situ is confined to the epidermis (no metastatic risk) and is excised with a 0.5–1.0 cm margin; the lentigo maligna subtype, with its broad subclinical extension, may need ≥1 cm or staged/Mohs margin control on the face. 2 cm is the ceiling for thick invasive melanoma; 4 mm is the BCC figure; topical therapy alone is inadequate for definitive treatment. 📋 Margins — AK: field therapy (no margin); BCC <2 cm: 4 mm; cSCC low-risk: 4–6 mm; melanoma in situ: 0.5–1 cm; ≤1 mm: 1 cm; >1–2 mm: 1–2 cm; >2 mm: 2 cm.",
+  "hy": "In-situ margin = 0.5–1.0 cm (wider for lentigo maligna).",
+  "src": "Bologna Derm 5e Ch113 · Table 113.15",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "1",
+  "chname": "Excision Margins"
+ },
+ {
+  "id": "SYN-FLAP.1",
+  "chapter": "Ch2",
+  "section": "Flap · Delay",
+  "stem": "The delay phenomenon increases the surviving territory of a flap mainly by:",
+  "options": {
+   "A": "dilating the choke vessels linking adjacent angiosomes",
+   "B": "raising systemic cardiac output and flap inflow pressure",
+   "C": "inducing new lymphatic channels within the flap",
+   "D": "thickening the subdermal plexus and overlying dermis"
+  },
+  "answer": "A",
+  "exp": "A flap spans several angiosomes (each the territory of one source artery); adjacent angiosomes are joined by reduced-caliber \"choke\" vessels. The delay phenomenon — partially raising or dividing part of the pedicle in a staged first operation — provokes these choke vessels to dilate toward true anastomoses over ~48 h to weeks, so the flap can then survive on a larger captured territory. It is a local vascular conditioning, not a systemic, lymphatic, or fat-layer effect; necrosis, if it occurs, falls at the next choke connection beyond the delayed territory. 📋 Flap concepts — angiosome = one source artery's tissue block; choke vessels link angiosomes; delay = choke-vessel dilation; no-reflow = no capillary flow despite patent anastomosis; arc of rotation ∝ 1/number of pedicles.",
+  "hy": "Delay works by opening choke vessels.",
+  "src": "Neligan Vol I Ch24",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.2",
+  "chapter": "Ch2",
+  "section": "Flap · Ischemia",
+  "stem": "The \"no-reflow\" phenomenon refers to:",
+  "options": {
+   "A": "failure of capillary perfusion after ischemia despite a patent anastomosis",
+   "B": "venous outflow thrombosis caused by a kinked or twisted pedicle",
+   "C": "arterial spasm that is reversed by topical papaverine application",
+   "D": "progressive compression of the pedicle by an expanding postoperative hematoma"
+  },
+  "answer": "A",
+  "exp": "No-reflow (May) is the failure of capillary perfusion after prolonged warm ischemia even though the arterial and venous anastomoses are patent — endothelial and parenchymal swelling plus microthrombi plug the microcirculation, so blood cannot re-enter the capillary bed. This is why ischemia time must be minimized and why a flap can fail despite a technically perfect anastomosis. B–D are mechanical or spasm causes of compromise, not no-reflow. 📋 Flap monitoring — clinical exam = gold standard (color/refill/turgor/temp/pinprick); checks q30 min ×24 h → q1–2 h → q4 h; ΔT 1.8°C = 98% sensitive, <30°C = failure; laser Doppler distinguishes venous vs arterial; tissue oximetry drives the take-back decision.",
+  "hy": "Patent anastomosis but no capillary flow = no-reflow.",
+  "src": "Neligan Vol I Ch25",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.3",
+  "chapter": "Ch2",
+  "section": "Flap · Monitoring",
+  "stem": "The gold standard for postoperative free-flap monitoring is:",
+  "options": {
+   "A": "an implantable Doppler probe on the pedicle",
+   "B": "clinical observation of the flap",
+   "C": "laser Doppler flowmetry of the skin",
+   "D": "near-infrared spectroscopy monitoring"
+  },
+  "answer": "B",
+  "exp": "Direct clinical observation of the flap — color, capillary refill, turgor, surface temperature, and pinprick (color and speed of bleeding) — remains the gold standard for monitoring; it is cheap, continuous, and reliable in experienced hands. Implantable Doppler, laser Doppler, and near-infrared spectroscopy are useful adjuncts but supplement rather than replace serial clinical exam. 📋 Flap monitoring — clinical exam = gold standard (color/refill/turgor/temp/pinprick); checks q30 min ×24 h → q1–2 h → q4 h; ΔT 1.8°C = 98% sensitive, <30°C = failure; laser Doppler distinguishes venous vs arterial; tissue oximetry drives take-back.",
+  "hy": "Nothing beats serial clinical exam.",
+  "src": "Neligan Vol I Ch25",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.4",
+  "chapter": "Ch2",
+  "section": "Flap · Threshold",
+  "stem": "A surface-temperature difference of what magnitude between flap and control site is ~98% sensitive for vascular compromise?",
+  "options": {
+   "A": "0.5°C",
+   "B": "1.0°C",
+   "C": "1.8°C",
+   "D": "3.0°C"
+  },
+  "answer": "C",
+  "exp": "A flap-to-control surface-temperature difference of 1.8°C is ~98% sensitive and 75% predictive of vascular compromise, and an absolute flap temperature below 30°C indicates failure — temperature trend is an easy, inexpensive adjunct. Smaller gaps (0.5–1.0°C) are within normal variation; 3.0°C is past the validated cut-point. 📋 Flap monitoring — clinical exam = gold standard; checks q30 min ×24 h → q1–2 h → q4 h; ΔT 1.8°C = 98% sensitive, <30°C = failure; laser Doppler distinguishes venous vs arterial; tissue oximetry drives take-back.",
+  "hy": "ΔT 1.8°C is the threshold; <30°C = failing.",
+  "src": "Neligan Vol I Ch25",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.5",
+  "chapter": "Ch2",
+  "section": "Flap · Monitoring",
+  "stem": "Which adjunct can distinguish venous obstruction from arterial occlusion?",
+  "options": {
+   "A": "surface-temperature probe",
+   "B": "laser Doppler flowmetry",
+   "C": "pinprick testing",
+   "D": "capillary refill time"
+  },
+  "answer": "B",
+  "exp": "Laser Doppler flowmetry (and implantable Doppler waveform analysis) can differentiate venous obstruction from arterial occlusion — useful because the two emergencies look different and demand different action. A temperature probe, pinprick, and capillary refill flag that something is wrong but do not localize the problem to artery versus vein. Venous compromise (congested, blue, brisk dark pinprick bleeding) is the more common early free-flap problem. 📋 Flap monitoring — clinical exam = gold standard; checks q30 min ×24 h → q1–2 h → q4 h; ΔT 1.8°C = 98% sensitive, <30°C = failure; laser Doppler distinguishes venous vs arterial; tissue oximetry drives take-back.",
+  "hy": "Laser Doppler tells venous from arterial.",
+  "src": "Neligan Vol I Ch25",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.6",
+  "chapter": "Ch2",
+  "section": "Flap · Monitoring",
+  "stem": "The recommended frequency of flap checks during the first 24 hours after free tissue transfer is approximately:",
+  "options": {
+   "A": "hourly",
+   "B": "every 30 minutes",
+   "C": "every 4 hours",
+   "D": "continuous monitoring only"
+  },
+  "answer": "B",
+  "exp": "Standard protocols check a free flap every 30 minutes for the first 24 h, then every 1–2 h for the next 24 h, then every 4 h for the next 48 h — the first 72 h carry the highest thrombosis risk and earliest detection drives salvage (success ~96–98%). Hourly and 4-hourly are later-window frequencies; machines supplement but do not replace the timed clinical checks. 📋 Flap monitoring — clinical exam = gold standard; checks q30 min ×24 h → q1–2 h → q4 h; ΔT 1.8°C = 98% sensitive, <30°C = failure; laser Doppler distinguishes venous vs arterial; tissue oximetry drives take-back.",
+  "hy": "q30 min in the first day; intensify early.",
+  "src": "Neligan Vol I Ch25",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.7",
+  "chapter": "Ch2",
+  "section": "Flap · Arc of rotation",
+  "stem": "The arc of rotation of a muscle flap is:",
+  "options": {
+   "A": "inversely proportional to the number of vascular pedicles",
+   "B": "directly proportional to the total muscle mass and bulk",
+   "C": "determined primarily by the muscle's motor nerve supply",
+   "D": "essentially identical across all Mathes–Nahai muscle types"
+  },
+  "answer": "A",
+  "exp": "Arc of rotation — how far a pedicled flap can reach — is inversely proportional to the number of vascular pedicles: a muscle tethered by many segmental pedicles (Type IV, e.g. sartorius) barely reaches, while a muscle fed by one dominant pedicle near its insertion (Type V, e.g. latissimus dorsi) swings widely and may even have two arcs. It is not set by muscle mass or motor nerve, and it differs markedly across Mathes–Nahai types. 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "Fewer pedicles → wider arc.",
+  "src": "Neligan Vol I Ch24",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-FLAP.8",
+  "chapter": "Ch2",
+  "section": "Flap · Angiosome",
+  "stem": "An angiosome is best defined as:",
+  "options": {
+   "A": "the cutaneous territory supplied by a single perforating vessel",
+   "B": "a composite block of tissue supplied by a single source artery",
+   "C": "the venous drainage basin of a single named muscle belly",
+   "D": "the zone of stasis surrounding a deep thermal burn wound"
+  },
+  "answer": "B",
+  "exp": "An angiosome (Taylor & Palmer) is a composite three-dimensional block of tissue — skin, fascia, muscle, and bone — supplied by a single source artery and drained by its accompanying vein; the body is a jigsaw of these units linked by choke vessels. This concept underpins flap design and the delay phenomenon. A describes a single perforator's territory (a subunit); C and D are distractors (D belongs to burn pathophysiology). 📋 Flap concepts — angiosome = one source artery's tissue block; choke vessels link angiosomes; delay = choke-vessel dilation; no-reflow = no capillary flow despite patent anastomosis; arc of rotation ∝ 1/pedicles.",
+  "hy": "Angiosome = one source artery's full tissue block.",
+  "src": "Neligan Vol I Ch24",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "2",
+  "chname": "Flap Physiology & Failure"
+ },
+ {
+  "id": "SYN-STAGING.1",
+  "chapter": "Ch3",
+  "section": "Staging · Burns",
+  "stem": "Using the Parkland formula, the total first-24-hour fluid volume for a 70 kg adult with 40% TBSA burns is:",
+  "options": {
+   "A": "5,600 mL",
+   "B": "11,200 mL",
+   "C": "16,800 mL",
+   "D": "22,400 mL"
+  },
+  "answer": "B",
+  "exp": "The Parkland formula estimates the first-24-hour crystalloid need after a major burn as 4 mL × body weight (kg) × %TBSA of lactated Ringer's: 4 × 70 × 40 = 11,200 mL. It guides initial resuscitation of the massive capillary leak; the rate is then titrated to urine output, not given blindly. 5,600 halves the multiplier; 16,800 and 22,400 over-scale it (6 and 8 mL/kg). 📋 Parkland — 4 mL/kg/%TBSA LR over 24 h, half in first 8 h; start resuscitation >20% adult (≥10% infant, ≥15% child); urine output adult 0.5 / child 1.0 mL/kg/h.",
+  "hy": "4 mL/kg/%TBSA — memorize the multiplier.",
+  "src": "Neligan Vol IV Ch18 · Table 18.5",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.2",
+  "chapter": "Ch3",
+  "section": "Staging · Burns",
+  "stem": "Under the Parkland formula, the first half of the calculated volume is delivered over the:",
+  "options": {
+   "A": "first 4 hours",
+   "B": "first 8 hours",
+   "C": "first 12 hours",
+   "D": "first 16 hours"
+  },
+  "answer": "B",
+  "exp": "Parkland delivers half the calculated volume in the first 8 hours (timed from the moment of injury, not from arrival) and the second half over the next 16 hours, because capillary leak is greatest early. The endpoint is urine output — about 0.5 mL/kg/h in adults and 1.0 mL/kg/h in children — and the rate is adjusted up or down to hit it. 📋 Parkland — 4 mL/kg/%TBSA LR over 24 h, half in first 8 h; start resuscitation >20% adult (≥10% infant, ≥15% child); urine output adult 0.5 / child 1.0 mL/kg/h.",
+  "hy": "Half in 8 h, half in 16 h, titrate to urine.",
+  "src": "Neligan Vol IV Ch18 · Table 18.5",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.3",
+  "chapter": "Ch3",
+  "section": "Staging · Pressure",
+  "stem": "A pressure injury with directly visible or palpable bone is classified as:",
+  "options": {
+   "A": "Stage II",
+   "B": "Stage III",
+   "C": "Stage IV",
+   "D": "Unstageable"
+  },
+  "answer": "C",
+  "exp": "Pressure-injury staging reflects the depth of tissue loss. Stage IV is full-thickness loss with directly visible or palpable bone, tendon, or muscle, carrying osteomyelitis risk and usually requiring flap reconstruction. Stage II is partial-thickness; unstageable means the depth is hidden by slough/eschar; only Stage IV exposes deep structures. 📋 Pressure injury — I: intact skin, nonblanchable erythema; II: partial-thickness/blister; III: full-thickness, fat may show, no bone/tendon/muscle; IV: exposed bone/tendon/muscle; unstageable: base obscured; DTI: purple intact skin.",
+  "hy": "Exposed bone/tendon/muscle = Stage IV.",
+  "src": "Neligan Vol IV Ch16 · Table 16.1",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.4",
+  "chapter": "Ch3",
+  "section": "Staging · Pressure",
+  "stem": "Stage III is distinguished from Stage IV pressure injury by:",
+  "options": {
+   "A": "the presence of an intact serum-filled blister",
+   "B": "nonblanchable erythema of fully intact skin",
+   "C": "whether bone, tendon, or muscle is exposed",
+   "D": "a wound base obscured by slough or eschar"
+  },
+  "answer": "C",
+  "exp": "The III-versus-IV distinction hinges on a single feature: whether bone, tendon, or muscle is exposed. Stage III is full-thickness with possible visible subcutaneous fat but those deep structures are NOT exposed; Stage IV exposes them. A blister is Stage II; nonblanchable intact-skin erythema is Stage I; a base obscured by slough/eschar is unstageable — each distractor is a real neighboring category. 📋 Pressure injury — I: intact skin, nonblanchable erythema; II: partial-thickness/blister; III: full-thickness, fat may show, no bone/tendon/muscle; IV: exposed bone/tendon/muscle; unstageable: base obscured; DTI: purple intact skin.",
+  "hy": "III = no bone/tendon/muscle; IV = exposed.",
+  "src": "Neligan Vol IV Ch16 · Table 16.1",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.5",
+  "chapter": "Ch3",
+  "section": "Staging · Burns",
+  "stem": "A burn that is insensate with a white, waxy, non-blanching surface is classified as:",
+  "options": {
+   "A": "superficial partial-thickness",
+   "B": "deep partial-thickness",
+   "C": "full-thickness",
+   "D": "epidermal (first-degree)"
+  },
+  "answer": "C",
+  "exp": "Burn depth is read off appearance, blanching, sensation, and healing. A full-thickness burn destroys the entire dermis including nerve endings, so it is insensate, with a white/waxy/charred, leathery, non-blanching surface and no capacity to heal — it needs excision and grafting. Partial-thickness burns blanch and are painful (superficial PT very painful, deep PT with sluggish refill and reduced sensation); epidermal burns are red, dry, and blanch. 📋 Burn depth — epidermal: red, blanches; superficial PT: blisters, blanches, very painful; deep PT: sluggish refill, reduced sensation; full-thickness: white/waxy, insensate, no healing.",
+  "hy": "Insensate + non-blanching white = full-thickness.",
+  "src": "Neligan Vol IV Ch18 · Table 18.3",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.6",
+  "chapter": "Ch3",
+  "section": "Staging · Melanoma",
+  "stem": "A 4.5 mm thick melanoma without ulceration is staged:",
+  "options": {
+   "A": "T3a",
+   "B": "T4a",
+   "C": "T3b",
+   "D": "T4b"
+  },
+  "answer": "B",
+  "exp": "Melanoma T-category is set by thickness then ulceration: >4.0 mm is T4, and absence of ulceration makes it the \"a\" subtype → T4a (ulceration would make it T4b). T3 covers >2–4 mm, so a 4.5 mm tumor is beyond T3a/T3b. 📋 Melanoma AJCC T — Tis: in situ; T1: ≤1 mm (T1a/T1b split at 0.8 mm); T2: >1–2 mm; T3: >2–4 mm; T4: >4 mm; suffix a/b = without/with ulceration.",
+  "hy": ">4 mm = T4; suffix a/b by ulceration.",
+  "src": "Bologna Derm 5e Ch113 · Table 113.11",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.7",
+  "chapter": "Ch3",
+  "section": "Staging · Merkel",
+  "stem": "A 2.5 cm Merkel cell carcinoma that is node-negative with no deep structural invasion is AJCC stage:",
+  "options": {
+   "A": "I",
+   "B": "IIA",
+   "C": "IIB",
+   "D": "III"
+  },
+  "answer": "B",
+  "exp": "Merkel cell carcinoma AJCC-8 pivots on a 2 cm primary: ≤2 cm node-negative = Stage I; >2 cm node-negative = Stage IIA; invasion of bone/muscle/fascia/cartilage = IIB; any node-positive = III; distant disease = IV. A 2.5 cm, node-negative tumor without deep invasion is therefore IIA. 📋 Merkel AJCC — I: ≤2 cm; IIA: >2 cm; IIB: invades bone/muscle/fascia/cartilage; III: node-positive; IV: distant metastasis.",
+  "hy": "Merkel size cut-point is 2 cm.",
+  "src": "Bologna Derm 5e Ch115 · Table 115.6",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.8",
+  "chapter": "Ch3",
+  "section": "Staging · Cross-system",
+  "stem": "Which statement about these staging systems is correct?",
+  "options": {
+   "A": "Melanoma T-stage is based on Breslow thickness, not Clark level",
+   "B": "Total body surface area in burns includes first-degree burns",
+   "C": "Stage I pressure injury involves partial-thickness skin loss",
+   "D": "The Parkland resuscitation formula uses colloid during the first 8 hours"
+  },
+  "answer": "A",
+  "exp": "Only A is true: melanoma T-stage uses Breslow thickness (plus ulceration), not Clark level. B is false — first-degree burns are excluded from TBSA; C is false — Stage I pressure injury is intact skin with nonblanchable erythema (Stage II is the partial-thickness one); D is false — Parkland uses crystalloid (lactated Ringer's), not colloid, in the first 24 h. Each distractor swaps a real rule from a neighboring system. 📋 Cross-system anchors — melanoma T = Breslow (not Clark); TBSA excludes first-degree burns; pressure Stage I = intact skin; Parkland = crystalloid (LR), no colloid in the first 24 h.",
+  "hy": "One true claim per same-class set — here, Breslow over Clark.",
+  "src": "Bologna Ch113; Neligan Vol IV Ch16/18",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.9",
+  "chapter": "Ch3",
+  "section": "Classification · Capsular contracture",
+  "stem": "A Baker grade III capsular contracture is characterized by:",
+  "options": {
+   "A": "a soft breast with a non-palpable implant",
+   "B": "a firm breast with a palpable but not visible implant",
+   "C": "a hardened breast with a palpable and visible implant",
+   "D": "a hard, painful, and visibly distorted breast"
+  },
+  "answer": "C",
+  "exp": "Baker grades the firmness of the fibrous capsule that forms around every breast implant: I soft (implant not palpable), II firm (palpable, not visible), III hardened (palpable AND visible distortion), IV hard, painful, and distorted. Grades III–IV are the ones generally taken back for capsulectomy/implant exchange. Option D conflates IV's pain/distortion with III. 📋 Baker capsular contracture — I: soft, implant not palpable; II: firm, palpable not visible; III: hardened, palpable+visible; IV: hard, painful, distorted (surgery for III–IV).",
+  "hy": "III = hard + visible; IV adds pain/distortion.",
+  "src": "Neligan Vol V Ch7 · Table 7.1",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.10",
+  "chapter": "Ch3",
+  "section": "Classification · Gynecomastia",
+  "stem": "In the Simon classification, grade IIa is separated from grade IIb by:",
+  "options": {
+   "A": "the absolute degree of breast enlargement",
+   "B": "the presence of marked skin redundancy",
+   "C": "a glandular rather than a fatty composition",
+   "D": "unilateral versus bilateral involvement"
+  },
+  "answer": "B",
+  "exp": "Simon grades gynecomastia by breast volume and skin envelope. Grades IIa and IIb are both moderate enlargement; the discriminator is skin redundancy — IIa minimal, IIb marked — because marked redundancy changes the operation (adds skin excision to gland/liposuction removal). Grade I is small with minimal redundancy; III is marked enlargement with marked redundancy. Tissue type and laterality are not Simon criteria. 📋 Simon gynecomastia — I: small/minimal; IIa: moderate/minimal redundancy; IIb: moderate/marked redundancy; III: marked/marked.",
+  "hy": "IIa vs IIb = skin redundancy, not size.",
+  "src": "Neligan Vol V Ch15 · Table 15.1",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.11",
+  "chapter": "Ch3",
+  "section": "Classification · Ptosis",
+  "stem": "In breast ptosis, the term \"pseudoptosis\" describes:",
+  "options": {
+   "A": "a nipple that has descended below the inframammary fold",
+   "B": "a well-positioned nipple with a ptotic, descended lower pole",
+   "C": "a nipple that points directly toward the floor",
+   "D": "both the nipple and the gland sitting above the inframammary fold"
+  },
+  "answer": "B",
+  "exp": "Pseudoptosis is a well-positioned nipple (still at or above the inframammary fold) with descent of the lower-pole parenchyma below the fold — a \"bottomed-out\" lower pole — and is corrected by lower-pole/parenchymal work rather than nipple elevation. True ptosis (Regnault) is graded by how far the nipple has dropped below the fold. A describes true ptosis; C is severe (grade III) ptosis; D is a non-ptotic breast. 📋 Regnault ptosis — I: nipple at IMF; II: below IMF, above lower contour; III: at lowest contour, points down; pseudoptosis: nipple OK, lower pole descended.",
+  "hy": "Pseudoptosis = good nipple, sagging lower pole.",
+  "src": "Neligan Vol V Ch5 · Fig 5.2",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.12",
+  "chapter": "Ch3",
+  "section": "Classification · Le Fort",
+  "stem": "A Le Fort III midface fracture is also termed:",
+  "options": {
+   "A": "a nasomaxillary fracture",
+   "B": "a zygomaticomaxillary fracture",
+   "C": "craniofacial disjunction",
+   "D": "a piriform-rim level fracture"
+  },
+  "answer": "C",
+  "exp": "Le Fort classified midface fractures by the level of the transverse fracture line. Le Fort III separates the entire midface from the cranial base (fractures through the nasofrontal junction, orbits, and zygomatic arches), producing \"craniofacial disjunction\" with mobility at the nasofrontal junction and lateral orbital rims. Le Fort II is the pyramidal \"nasomaxillary\" fracture (central midface from lateral); Le Fort I is the low transverse fracture at the piriform-rim/buttress level. \"Zygomaticomaxillary fracture\" is the ZMC, not a Le Fort level. 📋 Le Fort — I: maxilla from zygoma/nasal complex (low transverse); II: nasomaxillary (pyramidal); III: craniofacial disjunction.",
+  "hy": "III = craniofacial disjunction; II = nasomaxillary; I = low transverse.",
+  "src": "Neligan Vol III Ch1 · Fig 1.28",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.13",
+  "chapter": "Ch3",
+  "section": "Classification · Nerve",
+  "stem": "The Seddon category defined by conduction block with no Wallerian degeneration and full recovery is:",
+  "options": {
+   "A": "neurapraxia",
+   "B": "axonotmesis",
+   "C": "neurotmesis",
+   "D": "neuroma-in-continuity"
+  },
+  "answer": "A",
+  "exp": "Seddon classified nerve injury by severity. Neurapraxia is a focal conduction block (usually segmental demyelination) with the axon intact, so there is no Wallerian degeneration and recovery is full, typically within ~3 months — it equals Sunderland 1st degree. Axonotmesis has axonal loss with Wallerian degeneration distally; neurotmesis is complete transection with no spontaneous recovery; neuroma-in-continuity is a 4th-degree scar block. 📋 Nerve injury — neurapraxia = Sunderland 1st (block, no Wallerian, full recovery); axonotmesis = 2nd (axon out, endoneurium intact)/3rd (+endoneurium+scar); neurotmesis = 4th (neuroma-in-continuity)/5th (transection).",
+  "hy": "Neurapraxia = block, no Wallerian, full recovery.",
+  "src": "Neligan Vol I Ch21 · Table 21.1",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.14",
+  "chapter": "Ch3",
+  "section": "Classification · Nerve",
+  "stem": "A Sunderland second-degree nerve injury involves:",
+  "options": {
+   "A": "focal demyelination with conduction block alone",
+   "B": "axonal disruption with intact endoneurial tubes",
+   "C": "rupture of axons and endoneurium with scar formation",
+   "D": "complete transection of the whole nerve trunk"
+  },
+  "answer": "B",
+  "exp": "Sunderland refines Seddon by which connective-tissue layer is breached. Second-degree injury is axonal disruption with the endoneurial (basal lamina) tubes still intact — equivalent to Seddon axonotmesis — so the regenerating axons follow their original tubes and recover well at ~1 mm/day. First degree is demyelination/conduction block; third degree adds endoneurial rupture and scar (less complete recovery); fifth degree is complete transection. 📋 Nerve injury — neurapraxia = Sunderland 1st; axonotmesis = 2nd (axon out, endoneurium intact)/3rd (+endoneurium+scar); neurotmesis = 4th (neuroma-in-continuity)/5th (transection).",
+  "hy": "2nd degree = axon out, endoneurium intact.",
+  "src": "Neligan Vol I Ch21 · Table 21.1",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.15",
+  "chapter": "Ch3",
+  "section": "Classification · Lymphedema",
+  "stem": "In ISL lymphedema staging, Stage II differs from Stage I in that it is:",
+  "options": {
+   "A": "reversible with simple limb elevation",
+   "B": "characterized by pitting edema alone",
+   "C": "irreversible and non-pitting (spongy)",
+   "D": "marked by warty epidermal overgrowth"
+  },
+  "answer": "C",
+  "exp": "ISL stages lymphedema by reversibility and tissue change. Stage I is reversible — soft, pitting swelling that improves with elevation/compression. Stage II is irreversible and no longer pits (spongy, from fibro-adipose deposition); elevation does not resolve it. Stage III is lymphostatic elephantiasis with skin fibrosis, thickening, and warty overgrowth. A and B describe Stage I; D describes Stage III. 📋 ISL lymphedema — 0: latent; I: reversible, pitting; II: irreversible, non-pitting (spongy); III: elephantiasis/fibrosis.",
+  "hy": "I = pitting/reversible; II = non-pitting/irreversible; III = elephantiasis.",
+  "src": "Neligan Vol I Ch28 · Table 28.2",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.16",
+  "chapter": "Ch3",
+  "section": "Classification · Flexor tendon",
+  "stem": "Flexor tendon Zone II — Bunnell's \"no man's land\" — extends:",
+  "options": {
+   "A": "distal to the FDS insertion down to the FDP insertion",
+   "B": "from the proximal digital sheath to the FDS insertion",
+   "C": "beneath the transverse carpal ligament",
+   "D": "proximal to the transverse carpal ligament"
+  },
+  "answer": "B",
+  "exp": "Verdan divided the flexor system into zones to guide repair and prognosis. Zone II runs from the proximal reflection of the digital synovial sheath (about the distal palmar crease) to the FDS insertion — here FDS and FDP run together within the tight fibro-osseous sheath, so adhesions are common and outcomes historically poor, earning Bunnell's name \"no man's land.\" Zone I is distal to the FDS insertion (FDP alone); Zone IV is within the carpal tunnel under the TCL; Zone V is proximal to the TCL. 📋 Flexor zones — I: distal to FDS insertion → FDP insertion; II: digital sheath → FDS insertion (no man's land); III: TCL → sheath; IV: under TCL; V: proximal to TCL.",
+  "hy": "Zone II = digital sheath → FDS insertion.",
+  "src": "Neligan Vol VI Ch9 · Fig 9.4",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-STAGING.17",
+  "chapter": "Ch3",
+  "section": "Classification · Fitzpatrick",
+  "stem": "Fitzpatrick skin phototype I is defined as skin that:",
+  "options": {
+   "A": "always burns and never tans",
+   "B": "burns easily and tans poorly",
+   "C": "rarely burns and tans easily",
+   "D": "never burns and tans readily"
+  },
+  "answer": "A",
+  "exp": "Fitzpatrick phototype grades constitutive skin color by its UV burn-versus-tan response and predicts skin-cancer risk and laser/peel settings. Type I always burns and never tans (palest skin); II burns easily and tans poorly; IV rarely burns and tans easily; VI never burns. The scale is about the response to sun, not color alone. 📋 Fitzpatrick — I: always burns/never tans; II: burns easily/tans poorly; III: mild burn/tans gradually; IV: rarely burns/tans easily; V: very rarely burns; VI: never burns.",
+  "hy": "Type I: always burns, never tans.",
+  "src": "Bologna Derm 5e · Table 0.6",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "3",
+  "chname": "Staging & Classification Systems"
+ },
+ {
+  "id": "SYN-MATHES.1",
+  "chapter": "Ch4",
+  "section": "Mathes · Muscle type",
+  "stem": "The latissimus dorsi muscle has which Mathes–Nahai vascular pattern?",
+  "options": {
+   "A": "Type I",
+   "B": "Type III",
+   "C": "Type V",
+   "D": "Type II"
+  },
+  "answer": "C",
+  "exp": "Latissimus dorsi is a broad back muscle (origin: thoracolumbar fascia, lower ribs, and iliac crest; insertion: intertubercular groove of the humerus; action: shoulder adduction/extension/internal rotation). Its dominant pedicle is the thoracodorsal artery (from the subscapular off the axillary), with secondary segmental perforators from the posterior intercostal and lumbar arteries — the one-dominant-plus-secondary-segmental arrangement that defines Mathes–Nahai Type V and gives it two arcs of rotation. Clinically it is a workhorse pedicled or free flap for breast reconstruction, chest-wall and back coverage, and functional muscle transfer (e.g., restoring elbow flexion), and the segmental supply allows a reverse turnover flap for midline back defects. 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "Latissimus = Type V (thoracodorsal dominant + segmental).",
+  "src": "Neligan Vol I Ch24 · Box 24.6",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.2",
+  "chapter": "Ch4",
+  "section": "Mathes · Muscle type",
+  "stem": "The most common muscle vascular pattern — a dominant pedicle plus minor pedicle(s) — is:",
+  "options": {
+   "A": "Type I",
+   "B": "Type II",
+   "C": "Type III",
+   "D": "Type IV"
+  },
+  "answer": "B",
+  "exp": "Type II — one dominant pedicle plus one or more minor pedicles — is the most common pattern in human muscle: the muscle survives on its dominant pedicle once the minor pedicles are divided during elevation, which makes these reliable flaps. Gracilis is the prototype (dominant pedicle: ascending branch of the medial circumflex femoral artery), a slender medial-thigh adductor used as a free functional muscle for facial reanimation and for perineal/vaginal reconstruction; soleus, trapezius, sternocleidomastoid, and biceps femoris share the pattern. 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "Type II (dominant+minor) is the commonest pattern.",
+  "src": "Neligan Vol I Ch24 · Box 24.3",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.3",
+  "chapter": "Ch4",
+  "section": "Mathes · Muscle type",
+  "stem": "Which muscle has a Type IV (segmental) pattern, making it the least reliable as a flap?",
+  "options": {
+   "A": "Gracilis",
+   "B": "Sartorius",
+   "C": "Rectus abdominis",
+   "D": "Latissimus dorsi"
+  },
+  "answer": "B",
+  "exp": "Sartorius is the classic Type IV muscle: it is fed by multiple segmental pedicles entering along its length (from the superficial femoral artery), each supplying only its own segment. Dividing more than 2–3 of them during elevation causes distal necrosis, and the arc of rotation is short — so it is the least reliable as a transfer (used mainly as a local turnover to cover the femoral vessels in the groin). Gracilis is Type II, rectus abdominis Type III, latissimus Type V. 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "Sartorius/tibialis anterior = Type IV = worst flap.",
+  "src": "Neligan Vol I Ch24 · Box 24.5",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.4",
+  "chapter": "Ch4",
+  "section": "Mathes · Muscle type",
+  "stem": "The rectus abdominis muscle has which Mathes–Nahai vascular pattern?",
+  "options": {
+   "A": "Type I",
+   "B": "Type II",
+   "C": "Type III",
+   "D": "Type V"
+  },
+  "answer": "C",
+  "exp": "Rectus abdominis is Type III — two dominant pedicles from separate sources (the superior epigastric from the internal mammary, and the inferior epigastric from the external iliac), so it can be split and will survive on either. This dual supply is the basis of the TRAM/VRAM and the inferior-epigastric-based free flaps; the deep inferior epigastric perforators also supply the abdominal skin used in DIEP breast reconstruction. Type I is single, II dominant+minor, V dominant+segmental. 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "Rectus abdominis = Type III (two dominant pedicles).",
+  "src": "Neligan Vol I Ch24 · Box 24.4",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.5",
+  "chapter": "Ch4",
+  "section": "Mathes · Muscle type",
+  "stem": "Which muscle is a classic Type I (single vascular pedicle) flap?",
+  "options": {
+   "A": "Tensor fascia lata",
+   "B": "Gracilis muscle",
+   "C": "Sartorius muscle",
+   "D": "Pectoralis major muscle"
+  },
+  "answer": "A",
+  "exp": "Tensor fascia lata is a classic Type I muscle — a single vascular pedicle (the ascending branch of the lateral circumflex femoral artery) supplies the whole muscle, so the entire unit is reliably perfused from one source. As the TFL/anterolateral-thigh-region flap it is used for trochanteric pressure sores, groin and abdominal-wall coverage. Gracilis is Type II, sartorius Type IV, pectoralis major Type V. 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "TFL = Type I (single pedicle).",
+  "src": "Neligan Vol I Ch24 · Box 24.2",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.6",
+  "chapter": "Ch4",
+  "section": "Mathes · Fasciocutaneous",
+  "stem": "The radial forearm flap is which Mathes–Nahai fasciocutaneous type?",
+  "options": {
+   "A": "Type A",
+   "B": "Type B",
+   "C": "Type C",
+   "D": "Type II"
+  },
+  "answer": "B",
+  "exp": "The radial forearm flap is fasciocutaneous Type B — a single septocutaneous pedicle (the radial artery and its perforators running in the lateral intermuscular septum) supplies the skin. It is a thin, pliable, well-vascularized flap with a long pedicle, the workhorse for intraoral/tongue and head-and-neck resurfacing and for phalloplasty. Type A is direct-cutaneous/axial (groin, scalp); Type C is multiple segmental perforators (deltopectoral); \"Type II\" belongs to the muscle classification, not the fasciocutaneous one. 📋 Fasciocutaneous (Mathes–Nahai) — A: direct cutaneous/axial (groin, scalp, SIEA, sural); B: septocutaneous (radial forearm, lateral arm, scapular, peroneal); C: multiple segmental perforators (ALT, deltopectoral, nasolabial).",
+  "hy": "Radial forearm = fasciocutaneous Type B.",
+  "src": "Neligan Vol I Ch24 · Box 24.8",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.7",
+  "chapter": "Ch4",
+  "section": "Mathes · Muscle type",
+  "stem": "A Type IV muscle is a poor flap choice because:",
+  "options": {
+   "A": "division of more than 2–3 segmental pedicles causes distal necrosis",
+   "B": "it offers no single pedicle suitable for microvascular anastomosis",
+   "C": "its arc of rotation is excessively wide and inherently unstable",
+   "D": "it carries no musculocutaneous perforators reaching the overlying skin"
+  },
+  "answer": "A",
+  "exp": "A Type IV muscle is supplied by multiple segmental pedicles, each perfusing only its own segment; dividing more than 2–3 of them during elevation causes distal muscle necrosis, and because the pedicles are many and small the arc of rotation is limited — so Type IV muscles (sartorius, tibialis anterior) are the least reliable flaps. They do have pedicles and musculocutaneous perforators (so B and D are false); the arc is too small, not too wide (C false). 📋 Mathes–Nahai muscle — I: 1 pedicle (TFL, gastrocnemius); II: dominant+minor (gracilis, soleus) = commonest; III: 2 dominant (rectus abdominis, gluteus max); IV: segmental (sartorius, tib. ant.) = worst flap; V: dominant+segmental (latissimus, pec major) = 2 arcs.",
+  "hy": "Type IV fails distally when segmental pedicles are divided.",
+  "src": "Neligan Vol I Ch24 · Box 24.5",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
+ },
+ {
+  "id": "SYN-MATHES.8",
+  "chapter": "Ch4",
+  "section": "Mathes · Fasciocutaneous",
+  "stem": "Which flap is correctly matched to its Mathes–Nahai fasciocutaneous type?",
+  "options": {
+   "A": "Groin flap — Type A",
+   "B": "Radial forearm flap — Type C",
+   "C": "Anterolateral thigh flap — Type A",
+   "D": "Scalp flap — Type B"
+  },
+  "answer": "A",
+  "exp": "Groin flap = fasciocutaneous Type A: a direct cutaneous (axial) pedicle, the superficial circumflex iliac artery, runs a long superficial course and can be palpated/Dopplered — historically a key pedicled flap for hand resurfacing. The other pairings are wrong: radial forearm is Type B (not C); anterolateral thigh is Type C (not A); scalp is Type A (not B). 📋 Fasciocutaneous (Mathes–Nahai) — A: direct cutaneous/axial (groin, scalp, SIEA, sural); B: septocutaneous (radial forearm, lateral arm, scapular, peroneal); C: multiple segmental perforators (ALT, deltopectoral, nasolabial).",
+  "hy": "Groin = A, radial forearm = B, ALT = C.",
+  "src": "Neligan Vol I Ch24 · Boxes 24.7–24.9",
+  "book": "Synthesis",
+  "vol": "",
+  "chnum": "4",
+  "chname": "Mathes–Nahai Flap Classification"
  }
 ]

@@ -30,8 +30,17 @@ def parse_bank(path):
 
     # chapter-name map from "## Chapter <n> — <name>" headings (strip trailing "(Vol ...)" )
     chname = {}
+    heads = []
     for m in re.finditer(r'^##\s*Chapter\s+(\d+)\s*[—\-]\s*(.+?)\s*$', qpart, re.M):
-        chname[m.group(1)] = re.sub(r'\s*\(Vol[^)]*\)\s*$', '', m.group(2)).strip()
+        nm = re.sub(r'\s*\([^)]*\)\s*$', '', m.group(2)).strip()
+        chname[m.group(1)] = nm
+        heads.append((m.start(), m.group(1)))
+    def chnum_for(pos):
+        cur = ""
+        for (hp, hn) in heads:
+            if hp <= pos: cur = hn
+            else: break
+        return cur
 
     items = {}
     # optional markdown image line between stem and options: ![caption](images/<id>.jpg)
@@ -39,7 +48,7 @@ def parse_bank(path):
     for m in qre.finditer(qpart):
         qid, tag, stem, imgcap, imgpath, opts = m.groups()
         cm = re.match(r'Ch\s*(\d+)\s*·\s*(.*)', tag)
-        chnum = cm.group(1) if cm else ""
+        chnum = cm.group(1) if cm else chnum_for(m.start())
         section = (cm.group(2).strip() if cm else tag.strip())
         options = {o.group(1): o.group(2).strip() for o in re.finditer(r'- ([A-D])\.\s*(.*)', opts)}
         vol = ""
