@@ -88,6 +88,13 @@ def parse_bank(path):
         if im and cur in items:
             items[cur]['expimage'] = im.group(2).strip()
             if im.group(1).strip(): items[cur]['expimgcap'] = im.group(1).strip()
+            continue
+        tm = re.match(r'^\s*\|(.+)\|\s*$', line)
+        if tm and cur in items:
+            cells = [c.strip() for c in tm.group(1).split('|')]
+            if all(re.fullmatch(r'-{2,}|:?-+:?', c or '-') for c in cells):
+                continue  # markdown separator row
+            items[cur].setdefault('exptable', []).append(cells)
     return items
 
 def main():
@@ -112,7 +119,7 @@ def main():
                 sys.exit(f"ABORT: new item {qid} is incomplete (missing/empty {missing}) -- "
                          f"likely a truncated bank read. Do NOT push.")
             rec = {k: it[k] for k in SCHEMA}
-            for opt in ('image','imgcap','why','expimage','expimgcap'):
+            for opt in ('image','imgcap','why','expimage','expimgcap','exptable'):
                 if it.get(opt): rec[opt] = it[opt]
             new.append(rec)
             have.add(qid)
