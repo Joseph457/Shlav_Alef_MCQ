@@ -31623,5 +31623,2738 @@
     "ALT, deltopectoral, nasolabial"
    ]
   ]
+ },
+ {
+  "id": "B113.1",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis",
+  "stem": "A superficial spreading melanoma is sent for molecular testing. Mutation of which pathway is present (BRAF and NRAS combined) in up to ~80% of cutaneous melanomas AND benign melanocytic nevi, marking it as the central driver of melanocytic neoplasia?",
+  "options": {
+   "A": "BRAF or NRAS (MAPK pathway)",
+   "B": "GNAQ or GNA11 (Gq pathway)",
+   "C": "KIT receptor tyrosine kinase",
+   "D": "PTEN loss (PI3K–AKT pathway)"
+  },
+  "answer": "A",
+  "exp": "Melanoma is fundamentally a disease of constitutive MAPK (RAS–RAF–MEK–ERK) signaling: a BRAF or NRAS mutation is present in up to ~80% of cutaneous melanomas and also in ordinary melanocytic nevi, which is why MAPK activation alone causes only nevus formation/senescence until secondary hits permit malignant progression. The other options are real drivers in *different* melanocytic compartments — GNAQ/GNA11 define uveal melanoma and blue nevi (Gq→PKC signaling), KIT typifies acral/mucosal/high-CSD melanoma, and PTEN loss augments PI3K–AKT signaling as a cooperating (not initiating) event.",
+  "hy": "BRAF/NRAS (MAPK) is mutated in up to 80% of cutaneous melanomas and nevi — the core driver axis.",
+  "src": "Bologna Ch 113 · Molecular Pathogenesis, Fig 113.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.2",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis",
+  "stem": "BRAF V600E, the commonest BRAF mutation in melanoma, drives constitutive MAPK signaling through which precise molecular change?",
+  "options": {
+   "A": "Substitution of glutamic acid for valine at codon 600",
+   "B": "Substitution of lysine for valine at codon 600",
+   "C": "An in-frame kinase fusion that deletes the autoregulatory domain",
+   "D": "A promoter mutation that creates a new transcription-factor binding site"
+  },
+  "answer": "A",
+  "exp": "V600E denotes substitution of glutamic acid (E) for valine (V) at codon 600, locking BRAF kinase \"on\" and driving the MAPK cascade independent of upstream receptor input; it is the basis for BRAF-inhibitor therapy. The distractors are each a genuine alternative mechanism: V600K (lysine for valine) is a real non-E variant enriched in high-CSD melanoma; kinase fusions that excise the regulatory domain activate \"pan-negative\" melanomas; and a promoter mutation creating a new binding site is the TERT-promoter mechanism, a separate non-coding lesion.",
+  "hy": "V600E = glutamic acid→valine at codon 600 → constitutive MAPK; V600K is the high-CSD variant.",
+  "src": "Bologna Ch 113 · Molecular Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.3",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis · Table 113.1",
+  "stem": "A melanoma on the sole and a separate sinonasal mucosal melanoma are tested. Mutation/amplification of which gene is most characteristic of acral lentiginous and mucosal melanomas, raising the possibility of a KIT-inhibitor (e.g. imatinib)?",
+  "options": {
+   "A": "KIT",
+   "B": "BRAF V600E",
+   "C": "CDKN2A",
+   "D": "GNA11"
+  },
+  "answer": "A",
+  "exp": "KIT activation (point mutation or amplification) is found in ~15–40% of acral lentiginous, mucosal, and high-CSD melanomas, and because KIT is a receptor tyrosine kinase these tumors can respond to KIT inhibitors such as imatinib (though response rates are limited). The distractors anchor to other sites: BRAF V600E dominates non-CSD/SSM melanoma, CDKN2A is the familial-melanoma germline gene (~2% of sporadic tumors), and GNA11 marks uveal melanoma.",
+  "hy": "KIT = acral/mucosal/high-CSD melanoma → potential imatinib target.",
+  "src": "Bologna Ch 113 · Table 113.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "Site / context",
+    "Characteristic driver"
+   ],
+   [
+    "Non-CSD (SSM)",
+    "BRAF V600E (50–60%)"
+   ],
+   [
+    "High-CSD (LMM)",
+    "NRAS (most common); NF1; V600K"
+   ],
+   [
+    "Acral / mucosal",
+    "KIT; NRAS; TERT amplification"
+   ],
+   [
+    "Uveal / blue nevus",
+    "GNAQ / GNA11 (80–90%)"
+   ],
+   [
+    "Spitz",
+    "HRAS; NTRK/ALK/ROS1 fusions"
+   ],
+   [
+    "Desmoplastic",
+    "NF1 (~25%)"
+   ]
+  ]
+ },
+ {
+  "id": "B113.4",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis · Table 113.1",
+  "stem": "Which statement about GNAQ/GNA11 mutations is correct?",
+  "options": {
+   "A": "They occur in 80–90% of uveal melanomas and in blue nevi, yet are absent in cutaneous melanoma",
+   "B": "They are the single most common driver found in high-CSD cutaneous melanomas of the elderly",
+   "C": "They are present in roughly 50–60% of superficial spreading (low-CSD) cutaneous melanomas",
+   "D": "They are the activating mutation that defines Spitz melanomas and atypical Spitz tumors"
+  },
+  "answer": "A",
+  "exp": "GNAQ and GNA11 encode Gq-class G-protein α-subunits; their activating mutations occur in 80–90% of uveal melanomas and in blue nevi, but characteristically NOT in conventional cutaneous melanoma — a classic discriminator. The wrong options misassign drivers: high-CSD cutaneous melanoma is most often NRAS-mutant, SSM is typically BRAF V600E, and Spitz tumors carry HRAS mutations or kinase fusions.",
+  "hy": "GNAQ/GNA11 = uveal melanoma + blue nevi, not cutaneous melanoma.",
+  "src": "Bologna Ch 113 · Table 113.1, Ocular Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.5",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis · Table 113.1",
+  "stem": "CDKN2A is the major high-penetrance familial-melanoma gene. Which statement about it is correct?",
+  "options": {
+   "A": "It encodes both p16 and p14ARF, and explains roughly 2% of all cutaneous melanomas",
+   "B": "It encodes the BRAF kinase and is somatically mutated in about half of all melanomas",
+   "C": "Its germline loss is the defining lesion underlying the BAP1 tumor predisposition syndrome",
+   "D": "It is amplified rather than deleted in the large majority of uveal (choroidal) melanomas"
+  },
+  "answer": "A",
+  "exp": "The CDKN2A locus uniquely encodes two proteins via alternate reading frames — p16 (inhibits CDK4/6 → Rb pathway) and p14ARF (inhibits MDM2 → stabilizes p53) — so its loss disables two checkpoints; it is the most common germline mutation in familial melanoma yet explains only ~2% of all cutaneous melanomas. The distractors describe other genes: BRAF is the kinase mutated in ~50% of melanomas, BAP1 (not CDKN2A) defines the BAP1 tumor syndrome, and uveal melanomas are driven by GNAQ/GNA11 with BAP1 loss, not CDKN2A amplification.",
+  "hy": "CDKN2A → p16 + p14ARF; commonest familial gene but ~2% of sporadic melanoma.",
+  "src": "Bologna Ch 113 · Genetic Risk Factors",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.6",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis · Table 113.1",
+  "stem": "Loss of NF1, activating both the MAPK and PI3K pathways, is most characteristically found in which melanoma context?",
+  "options": {
+   "A": "Desmoplastic melanoma (~25%) and high-CSD melanoma (~30%)",
+   "B": "Uveal melanoma (~50%) and melanoma arising in blue nevi",
+   "C": "Acral lentiginous and mucosal melanoma (~15–40%)",
+   "D": "Spitz melanoma and atypical Spitz tumors of childhood"
+  },
+  "answer": "A",
+  "exp": "NF1 is a RAS-GAP tumor suppressor; its loss releases RAS, activating both MAPK and PI3K, and is found in ~25% of desmoplastic melanomas and ~30% of high-CSD melanomas. The distractors place the wrong driver at each site: uveal melanoma is GNAQ/GNA11 (with BAP1 loss in ~50%), acral melanoma favors KIT/NRAS, and Spitz tumors carry HRAS or fusions.",
+  "hy": "NF1 loss = desmoplastic (~25%) and high-CSD (~30%) melanoma.",
+  "src": "Bologna Ch 113 · Table 113.1",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.7",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis · Table 113.1",
+  "stem": "A germline E318K variant in MITF is associated with which phenotype?",
+  "options": {
+   "A": "Light skin, high nevus count, and increased melanoma and renal cell carcinoma risk",
+   "B": "Café-au-lait macules, axillary freckling, neurofibromas, and optic glioma risk",
+   "C": "Numerous early basal cell carcinomas with odontogenic jaw cysts and palmar pits",
+   "D": "Marked photosensitivity and early skin cancers from defective nucleotide-excision repair"
+  },
+  "answer": "A",
+  "exp": "The MITF p.E318K germline variant impairs SUMOylation of this master melanocyte transcription factor, producing a light-skin/high-nevus-count phenotype with increased risk of melanoma (including amelanotic) and renal cell carcinoma. Each distractor is a different cancer-predisposition phenotype: café-au-lait macules with axillary freckling and neurofibromas is NF1; numerous early BCCs with jaw cysts is Gorlin (nevoid BCC) syndrome; and photosensitivity with early skin cancers from defective nucleotide-excision repair is xeroderma pigmentosum.",
+  "hy": "MITF E318K = light skin, ↑nevi, melanoma + RCC risk.",
+  "src": "Bologna Ch 113 · Table 113.1, Genetic Risk",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.8",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis",
+  "stem": "A \"pan-negative\" melanoma (wild-type BRAF, NRAS, NF1) is found to carry an NTRK gene fusion. Which agent specifically targets this alteration?",
+  "options": {
+   "A": "Larotrectinib, a selective TRK inhibitor",
+   "B": "Vemurafenib, a selective BRAF V600 inhibitor",
+   "C": "Imatinib, a KIT/ABL receptor tyrosine kinase inhibitor",
+   "D": "Trametinib, an allosteric downstream MEK pathway inhibitor"
+  },
+  "answer": "A",
+  "exp": "A subset of BRAF/NRAS/NF1-negative (\"pan-negative\") melanomas harbor MAPK-activating kinase fusions, including NTRK fusions, which are actionable with the selective TRK inhibitor larotrectinib. The distractors require a different lesion: vemurafenib needs a BRAF V600 mutation, imatinib targets KIT (acral/mucosal melanoma), and trametinib is a MEK inhibitor used with a BRAF inhibitor, not a stand-alone match for an NTRK fusion.",
+  "hy": "NTRK fusion melanoma → larotrectinib (TRK inhibitor).",
+  "src": "Bologna Ch 113 · Molecular Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.9",
+  "chapter": "Ch113",
+  "section": "Molecular Pathogenesis",
+  "stem": "The 2018/2023 WHO classification of melanoma is organized primarily around which axis?",
+  "options": {
+   "A": "Cumulative sun damage (high-, low-, non-CSD) plus site of origin",
+   "B": "The Breslow thickness category as measured at the time of diagnosis",
+   "C": "The presence or absence of histologic ulceration of the primary tumor",
+   "D": "Predominance of the radial versus the vertical growth phase histologically"
+  },
+  "answer": "A",
+  "exp": "The WHO taxonomy of melanocytic neoplasia is built on the degree of cumulative sun damage (high-, low-, or non-CSD) integrated with site of origin and the frequency of BRAF/NRAS and other mutations — linking biology to anatomy. The distractors are all genuine prognostic/morphologic variables (Breslow thickness and ulceration drive AJCC T-stage; radial vs vertical growth phase is a histologic concept), but none is the organizing axis of the WHO classification.",
+  "hy": "WHO melanoma classes = cumulative sun damage + site + mutation pattern.",
+  "src": "Bologna Ch 113 · Molecular Pathogenesis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.10",
+  "chapter": "Ch113",
+  "section": "Host Immune Response",
+  "stem": "Tyrosinase, gp100/PMEL17, and MART-1/Melan-A belong to which class of melanoma antigen?",
+  "options": {
+   "A": "Melanocyte differentiation (lineage) antigens",
+   "B": "Cancer/testis shared tumor-specific antigens",
+   "C": "Mutant tumor-specific neoantigens (e.g. p16)",
+   "D": "Viral oncoproteins from an oncogenic virus"
+  },
+  "answer": "A",
+  "exp": "Tyrosinase, gp100/PMEL17, and MART-1/Melan-A are melanocyte *differentiation* (lineage) antigens — normal melanosomal proteins overexpressed by melanoma and recognized by autologous T cells. The distractors are the other antigen categories the chapter lists: cancer/testis antigens are MAGE-1/-3 and NY-ESO-1; mutant neoantigens include altered p16 (CDKN2A); and viral oncoproteins drive a different skin tumor (Merkel-cell carcinoma), not conventional melanoma.",
+  "hy": "Tyrosinase/gp100/MART-1 = melanocyte differentiation antigens.",
+  "src": "Bologna Ch 113 · Host Immune Response",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.11",
+  "chapter": "Ch113",
+  "section": "Host Immune Response",
+  "stem": "CTLA-4, the target of ipilimumab, inhibits T-cell activation by which mechanism?",
+  "options": {
+   "A": "An inhibitory CD28 homolog that competes for B7, removing costimulation",
+   "B": "A receptor whose ligand PD-L1 triggers apoptosis of tumor-specific T cells",
+   "C": "An inhibitory receptor blocked by the anti-LAG3 antibody relatlimab",
+   "D": "A molecule presenting antigen on MHC class I to cytotoxic T cells"
+  },
+  "answer": "A",
+  "exp": "CTLA-4 is an inhibitory homolog of CD28 that is upregulated after T-cell activation and outcompetes CD28 for B7 on antigen-presenting cells, removing the costimulatory signal and acting as a natural \"brake\"; ipilimumab blocks it. The distractors describe sibling checkpoints/mechanisms: the PD-1/PD-L1 axis induces T-cell apoptosis at the effector phase, LAG3 is the relatlimab target, and antigen presentation on MHC I is the function of the tumor/APC, not CTLA-4.",
+  "hy": "CTLA-4 = CD28 homolog that steals B7 → removes costimulation (ipilimumab target).",
+  "src": "Bologna Ch 113 · Host Immune Response",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.12",
+  "chapter": "Ch113",
+  "section": "Host Immune Response",
+  "stem": "During checkpoint-inhibitor therapy, development of vitiligo-like leukoderma is notable because it:",
+  "options": {
+   "A": "Correlates with improved progression-free survival",
+   "B": "Mandates immediate permanent discontinuation of immunotherapy",
+   "C": "Signals progression to distant metastatic disease",
+   "D": "Predicts treatment failure and a switch to chemotherapy"
+  },
+  "answer": "A",
+  "exp": "Vitiligo-like leukoderma is a melanocyte-directed immune-related adverse event occurring in ~2–25% of patients, and its appearance correlates with improved progression-free survival — a favorable on-treatment sign rather than a reason to stop therapy. The distractors invert this: it does not require discontinuation, does not signal metastatic progression, and does not predict failure.",
+  "hy": "Checkpoint-inhibitor vitiligo = good prognostic sign (better PFS).",
+  "src": "Bologna Ch 113 · Host Immune Response",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.13",
+  "chapter": "Ch113",
+  "section": "Host Immune Response · Table 113.2",
+  "stem": "Which is a recognized mechanism of melanoma immune escape?",
+  "options": {
+   "A": "Loss of MHC class I molecules from the tumor-cell surface",
+   "B": "Upregulation of MHC class II on all surrounding keratinocytes",
+   "C": "Increased CD28-mediated costimulation of cytotoxic T cells",
+   "D": "Enhanced presentation of tumor neoantigens to dendritic cells"
+  },
+  "answer": "A",
+  "exp": "Tumors evade immunity by losing antigen-presentation machinery — including loss of MHC class I — alongside loss of tumor antigens, secretion of inhibitory cytokines (IL-10, TGF-β), and upregulation of inhibitory ligands (PD-L1, CTLA-4). The distractors are all immune-*promoting* (more MHC II, more CD28 costimulation, more neoantigen presentation), the opposite of escape.",
+  "hy": "Immune escape = lose MHC I/antigens, secrete IL-10/TGF-β, upregulate PD-L1/CTLA-4.",
+  "src": "Bologna Ch 113 · Table 113.2",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.14",
+  "chapter": "Ch113",
+  "section": "Host Immune Response",
+  "stem": "Immune checkpoint blockade was first introduced clinically for melanoma. Which agent was approved first?",
+  "options": {
+   "A": "Ipilimumab (anti-CTLA-4)",
+   "B": "Nivolumab (anti-PD-1)",
+   "C": "Pembrolizumab (anti-PD-1)",
+   "D": "Relatlimab (anti-LAG3)"
+  },
+  "answer": "A",
+  "exp": "Ipilimumab, an anti-CTLA-4 antibody, was the first checkpoint inhibitor approved and was introduced first for melanoma; anti-PD-1 antibodies (nivolumab, pembrolizumab) followed as first-line monotherapy, and the anti-LAG3 antibody relatlimab is the most recent (with nivolumab). The distractors are all real checkpoint agents but later to approval.",
+  "hy": "Checkpoint blockade debuted in melanoma with ipilimumab (anti-CTLA-4).",
+  "src": "Bologna Ch 113 · Host Immune Response",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.15",
+  "chapter": "Ch113",
+  "section": "Host Immune Response",
+  "stem": "The PD-1/PD-L1 interaction promotes tumor immune escape by:",
+  "options": {
+   "A": "Driving apoptosis of tumor-specific T cells while sparing regulatory T cells",
+   "B": "Competing with CD28 for B7 to strip away the early costimulatory signal",
+   "C": "Blocking the loading of antigenic peptides onto tumor-cell MHC class I",
+   "D": "Preventing antigen-loaded dendritic cells from migrating to the draining node"
+  },
+  "answer": "A",
+  "exp": "PD-1 engagement by PD-L1/PD-L2 drives apoptosis of tumor-antigen-specific effector T cells while reducing apoptosis of regulatory T cells, tilting the microenvironment toward tolerance at the effector phase. The distractors belong elsewhere: competing with CD28 for B7 is the CTLA-4 mechanism, and blocking MHC-I loading or dendritic-cell migration to nodes are different (afferent-phase) escape routes.",
+  "hy": "PD-1/PD-L1 = apoptosis of tumor-specific T cells, sparing Tregs (effector-phase brake).",
+  "src": "Bologna Ch 113 · Host Immune Response",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.16",
+  "chapter": "Ch113",
+  "section": "Epidemiology",
+  "stem": "The annual increase in cutaneous melanoma incidence in White populations has generally been estimated at:",
+  "options": {
+   "A": "3–7% per year, predicting a doubling every 10–20 years",
+   "B": "Under 1% per year, with essentially stable long-term rates",
+   "C": "About 15% per year, the fastest rate of any human cancer",
+   "D": "About 25% per year, doubling roughly every 3 years"
+  },
+  "answer": "A",
+  "exp": "Across populations the annual rise in melanoma incidence is roughly 3–7%, which predicts a doubling every 10–20 years and makes melanoma the most rapidly increasing cancer in White populations (partly genuine, partly enhanced detection). The distractors are the neighbouring wrong magnitudes: stable/<1% understates it, and 15–25%/year with 3-year doubling wildly overstates it.",
+  "hy": "Melanoma incidence rising ~3–7%/yr → doubling every 10–20 yr.",
+  "src": "Bologna Ch 113 · Epidemiology, Fig 113.3",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.17",
+  "chapter": "Ch113",
+  "section": "Epidemiology",
+  "stem": "Which region carries the world's highest cutaneous melanoma incidence rates?",
+  "options": {
+   "A": "Australia/New Zealand (~54 per 100,000 per year)",
+   "B": "Northern Europe (~25–26 per 100,000 per year)",
+   "C": "North America (high but below Australasia)",
+   "D": "Southern Europe (lower than Northern Europe)"
+  },
+  "answer": "A",
+  "exp": "Australia and New Zealand carry the world's highest melanoma incidence (~54/100,000), driven by fair-skinned populations under intense UV; Northern Europe is the next-highest band (~25/100,000). The other regions (North America, Southern Europe) have substantial but lower rates, so the discriminator is recalling that Australia/NZ leads.",
+  "hy": "Highest melanoma incidence = Australia/New Zealand (~54/100,000).",
+  "src": "Bologna Ch 113 · Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.18",
+  "chapter": "Ch113",
+  "section": "Epidemiology",
+  "stem": "Which statement about melanoma mortality and tumor-thickness trends is correct?",
+  "options": {
+   "A": "Mortality has stabilized/declined since the 1990s, though older men still show rising rates",
+   "B": "Mortality has fallen uniformly across every age group and both sexes in all countries worldwide",
+   "C": "Mean Breslow thickness at diagnosis has risen steadily across recent decades in most populations",
+   "D": "The proportion of thick melanomas at diagnosis falls progressively with each increase in patient age"
+  },
+  "answer": "A",
+  "exp": "Melanoma mortality has broadly stabilized or declined since the 1990s — chiefly from earlier detection of thinner, curable tumors and, more recently, effective systemic therapy — even as incidence keeps rising; the exception is a continued rise among older men. The distractors are real-sounding but false: the decline is *not* uniform (older men rise), mean Breslow thickness has *fallen* with earlier detection, and the proportion of thick melanomas *increases* with age (≈20% by age 80).",
+  "hy": "Mortality stabilizing (thinner tumors), but older men still rising; thick-tumor share ↑ with age.",
+  "src": "Bologna Ch 113 · Epidemiology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.19",
+  "chapter": "Ch113",
+  "section": "Risk Factors · Table 113.3",
+  "stem": "A patient has more than 100 common melanocytic nevi. Approximately what relative risk of melanoma does this confer?",
+  "options": {
+   "A": "~8- to 10-fold",
+   "B": "~2-fold",
+   "C": "~3- to 4-fold",
+   "D": "~20- to 30-fold"
+  },
+  "answer": "A",
+  "exp": "Having >100 (or even >50) common melanocytic nevi confers a relative melanoma risk of roughly 8–10-fold — nevus count is one of the strongest phenotypic risk markers because it reflects both UV exposure and a melanocytic-proliferation phenotype. The distractors are the adjacent risk magnitudes for *other* lesion categories (solar lentigines ~3–4×; atypical-nevus thresholds up to ~30×), so the reader must match the right lesion to the right number.",
+  "hy": ">100 common nevi ≈ RR 8–10×; the dose-response is near-linear.",
+  "src": "Bologna Ch 113 · Table 113.3",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "Phenotypic risk marker",
+    "Relative risk"
+   ],
+   [
+    ">100 common melanocytic nevi",
+    "~8–10×"
+   ],
+   [
+    "≥5 atypical (dysplastic) nevi",
+    "~4–6×"
+   ],
+   [
+    "≥10 atypical nevi (max reported)",
+    "up to ~32×"
+   ],
+   [
+    "Multiple solar lentigines",
+    "~3–4×"
+   ]
+  ]
+ },
+ {
+  "id": "B113.20",
+  "chapter": "Ch113",
+  "section": "Risk Factors · Table 113.3",
+  "stem": "Above how many clinically atypical melanocytic nevi does relative risk rise sharply (defining atypical mole syndrome), with little further increase beyond that threshold?",
+  "options": {
+   "A": "5 or more",
+   "B": "2 or more",
+   "C": "10 or more",
+   "D": "50 or more"
+  },
+  "answer": "A",
+  "exp": "Five or more clinically atypical nevi marks a sharp step-up in risk and is the threshold used to define atypical mole syndrome (typically alongside ≥50, often >100, common nevi); beyond five there is little *further* incremental risk in the studies. The distractors are the adjacent counts that don't define the threshold (2 is too few; 10 is where the maximum ~32× risk is reported; 50 refers to common-nevus count).",
+  "hy": "≥5 atypical nevi = atypical mole syndrome threshold; risk plateaus beyond.",
+  "src": "Bologna Ch 113 · Risk Factors",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.21",
+  "chapter": "Ch113",
+  "section": "Risk Factors · Table 113.3",
+  "stem": "Which phenotype reflects the pheomelanin-predominant, high-risk pigmentation pattern?",
+  "options": {
+   "A": "Red hair and blue eyes, a tendency to burn, and an inability to tan",
+   "B": "Black hair and brown eyes that tan readily without ever burning",
+   "C": "Extensive congenital dermal melanocytosis over the trunk and buttocks",
+   "D": "Constitutively dark (Fitzpatrick phototype V–VI) sun-resistant skin"
+  },
+  "answer": "A",
+  "exp": "Red hair with blue eyes and a burn-without-tan phenotype reflects pheomelanin-predominant pigmentation (often MC1R-related), a well-established melanoma risk phenotype because pheomelanin offers little UV protection and may itself be pro-oxidant. The distractors are lower-risk patterns: a readily-tanning dark-haired/brown-eyed phenotype, dermal melanocytosis (benign), and constitutively dark skin all carry lower melanoma risk.",
+  "hy": "Red hair/blue eyes/burns-not-tans (pheomelanin) = high-risk phenotype.",
+  "src": "Bologna Ch 113 · Table 113.3",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.22",
+  "chapter": "Ch113",
+  "section": "Risk Factors",
+  "stem": "Regarding ultraviolet exposure and melanoma, which statement is correct?",
+  "options": {
+   "A": "Indoor tanning before age 35 substantially raises risk and is a classified human carcinogen",
+   "B": "Intense intermittent sun exposure lowers melanoma risk relative to chronic daily exposure",
+   "C": "Blistering childhood sunburns bear essentially no relationship to later melanoma risk",
+   "D": "Residence at equatorial latitudes is protective through gradual pigment adaptation"
+  },
+  "answer": "A",
+  "exp": "Indoor tanning, especially before age 35, substantially raises melanoma risk and is classified by the WHO/IARC as a human carcinogen — the basis for legislation restricting minors' access. The distractors are false reversals: intense *intermittent* sun (and blistering childhood sunburns) *raises* risk, sunburns are firmly linked to melanoma, and equatorial residence increases (not lowers) risk.",
+  "hy": "Tanning beds <35 = carcinogen, ↑melanoma; intermittent sun & childhood sunburns also raise risk.",
+  "src": "Bologna Ch 113 · Risk Factors",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.23",
+  "chapter": "Ch113",
+  "section": "Risk Factors",
+  "stem": "Which population has increased melanoma risk specifically because of acquired immunosuppression?",
+  "options": {
+   "A": "Solid-organ transplant recipients and people living with HIV infection",
+   "B": "Patients using topical retinoids long-term for chronic inflammatory acne",
+   "C": "Patients with active, spreading, non-segmental generalized vitiligo",
+   "D": "Otherwise healthy women taking combined oral contraceptive pills"
+  },
+  "answer": "A",
+  "exp": "Acquired immunosuppression — solid-organ transplant recipients on immunosuppressants and people with HIV — carries increased melanoma risk (reduced immune surveillance). The distractors are non-risks or even inverse: topical retinoids are not a melanoma risk, vitiligo correlates with *better* checkpoint-therapy response, and oral contraceptives have not been shown to increase melanoma risk.",
+  "hy": "Transplant recipients and HIV = immunosuppression-related ↑melanoma risk.",
+  "src": "Bologna Ch 113 · Risk Factors",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.24",
+  "chapter": "Ch113",
+  "section": "Risk Factors",
+  "stem": "Why is prophylactic removal of clinically banal melanocytic nevi NOT recommended?",
+  "options": {
+   "A": "Single-nevus transformation is ~1/thousands (common) to 1/hundreds (atypical), and most melanoma is de novo",
+   "B": "Banal melanocytic nevi essentially never carry any of the driver mutations that are also seen in melanoma",
+   "C": "Excising a melanocytic nevus paradoxically raises the risk of a melanoma developing later at distant sites",
+   "D": "Melanomas that arise within a pre-existing benign nevus are uniformly fatal regardless of complete excision"
+  },
+  "answer": "A",
+  "exp": "Because the malignant-transformation risk of any single nevus is tiny — on the order of 1 in thousands for a common nevus and 1 in hundreds for an atypical one — and most melanomas arise de novo rather than within a nevus, removing banal nevi prophylactically is not justified. The distractors are false: nevi *can* harbor BRAF and other melanoma drivers, excision does not raise distant risk, and nevus-associated melanomas are not uniformly fatal.",
+  "hy": "Single-nevus transformation ≈ 1/thousands–1/hundreds; most melanoma is de novo → don't excise banal nevi.",
+  "src": "Bologna Ch 113 · Risk Factors",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.25",
+  "chapter": "Ch113",
+  "section": "Genetic Risk",
+  "stem": "Approximately what proportion of familial melanoma kindreds carry a germline CDKN2A mutation?",
+  "options": {
+   "A": "20–40%",
+   "B": "About 2%",
+   "C": "70–90%",
+   "D": "About 5%"
+  },
+  "answer": "A",
+  "exp": "Germline CDKN2A mutations are detected in 20–40% of familial melanoma kindreds (range 5–70% by region). The key trap is the adjacent figure ~2%, which is the fraction of *all cutaneous melanomas* attributable to CDKN2A — a different denominator. The other values (70–90%, ~5%) are simply wrong magnitudes for kindred penetrance.",
+  "hy": "CDKN2A in 20–40% of familial kindreds, but only ~2% of all cutaneous melanomas.",
+  "src": "Bologna Ch 113 · Genetic Risk, Fig 113.4",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.26",
+  "chapter": "Ch113",
+  "section": "Genetic Risk",
+  "stem": "Which statement about MC1R variants and melanoma is correct?",
+  "options": {
+   "A": "They are low/moderate-penetrance pigment alleles; two variants raise BRAF-mutant melanoma risk up to ~17×",
+   "B": "They constitute the single highest-penetrance familial melanoma susceptibility gene currently known",
+   "C": "They encode the p16 tumor-suppressor protein that brakes the CDK4/6–Rb cell-cycle checkpoint",
+   "D": "They are somatic UV-induced mutations rather than inherited germline pigmentation gene variants"
+  },
+  "answer": "A",
+  "exp": "MC1R variants are common, low-to-moderate-penetrance pigmentation alleles; while they raise overall melanoma risk only ~1.5–3×, carrying two variants raises the risk of *BRAF-mutant* melanoma up to ~17-fold — a striking gene-specific interaction. The distractors misclass MC1R: the highest-penetrance familial gene is CDKN2A, p16 is encoded by CDKN2A (not MC1R), and MC1R variants are germline, not somatic.",
+  "hy": "MC1R = pigmentation susceptibility allele; 2 variants → up to 17× BRAF-mutant melanoma.",
+  "src": "Bologna Ch 113 · Genetic Risk",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.27",
+  "chapter": "Ch113",
+  "section": "Genetic Risk",
+  "stem": "A patient develops several small red-orange papules (\"BAPomas\"/MBAITs) showing loss of nuclear BAP1 staining. The associated tumor syndrome predisposes to which constellation?",
+  "options": {
+   "A": "Cutaneous and uveal melanoma, mesothelioma, and renal cell carcinoma",
+   "B": "Pancreatic carcinoma, astrocytoma, and early-onset cutaneous melanoma",
+   "C": "Medullary thyroid carcinoma, pheochromocytoma, and mucosal neuromas",
+   "D": "Basal cell carcinomas with palmar pits, jaw cysts, and medulloblastoma"
+  },
+  "answer": "A",
+  "exp": "BAP1 tumor syndrome arises from germline BAP1 (a deubiquitylase) loss and predisposes to cutaneous and uveal melanoma, mesothelioma, and renal cell carcinoma (with lesser BCC/meningioma/cholangiocarcinoma risk); the characteristic skin lesions are BAP1-inactivated melanocytomas (MBAITs/\"BAPomas\") with loss of nuclear BAP1 staining. The distractors are other tumor syndromes: pancreatic cancer + neural tumors fits CDKN2A, MTC + pheochromocytoma is MEN2, and BCCs with palmar pits + medulloblastoma is Gorlin syndrome.",
+  "hy": "BAP1 syndrome = cutaneous + uveal melanoma, mesothelioma, RCC; MBAITs lose nuclear BAP1.",
+  "src": "Bologna Ch 113 · BAP1 Tumor Syndrome",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.28",
+  "chapter": "Ch113",
+  "section": "Genetic Risk · Table 113.4",
+  "stem": "By the AAD \"rule of 3,\" genetic testing for familial melanoma is indicated for an individual with:",
+  "options": {
+   "A": "≥3 primary invasive melanomas, or a family with ≥3 melanoma/pancreatic-cancer diagnoses on one side",
+   "B": "A single thin invasive melanoma in a person who has no relevant personal or family history of cancer",
+   "C": "Any patient over the age of 40 years who presents with their first single primary invasive melanoma",
+   "D": "Only those patients in whom a pathogenic germline CDKN2A mutation has already been formally confirmed"
+  },
+  "answer": "A",
+  "exp": "The \"rule of 3\" flags those most likely to carry a CDKN2A germline mutation: a personal history of ≥3 primary invasive melanomas, or a family with ≥3 invasive-melanoma and/or pancreatic-cancer diagnoses among close relatives on the same side. The distractors miss this bar: a single melanoma without family history, or any patient simply over 40 with one melanoma, does not meet criteria, and an already-confirmed mutation is not a prerequisite for testing.",
+  "hy": "Rule of 3 = ≥3 melanomas in one person, or ≥3 melanoma/pancreatic dx on one side of the family.",
+  "src": "Bologna Ch 113 · Table 113.4",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.29",
+  "chapter": "Ch113",
+  "section": "Genetic Risk",
+  "stem": "For genetic risk assessment of familial melanoma, current AAD guidance prefers:",
+  "options": {
+   "A": "Multi-gene panel testing rather than single-gene (CDKN2A-only) testing",
+   "B": "Single-gene CDKN2A testing alone as sufficient in essentially all cases",
+   "C": "Routine germline testing of every patient who presents with one melanoma",
+   "D": "Deferring counseling entirely unless a pathogenic mutation is already known"
+  },
+  "answer": "A",
+  "exp": "Because single-gene assays miss relevant mutations in other susceptibility genes (and associated internal malignancies), multi-gene panel testing is preferred over CDKN2A-only testing for familial melanoma risk assessment. The distractors over- or under-reach: testing is *not* recommended for every patient with one melanoma, single-gene testing is no longer preferred, and counseling is recommended regardless of whether a mutation is already known.",
+  "hy": "Use multi-gene panels (not CDKN2A alone) for familial-melanoma genetic testing.",
+  "src": "Bologna Ch 113 · Table 113.4, Genetic Screening",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.30",
+  "chapter": "Ch113",
+  "section": "Prevention",
+  "stem": "The Nambour (Queensland) randomized trial provided the pivotal evidence that regular sunscreen use:",
+  "options": {
+   "A": "Reduced new primary melanoma incidence by ~50–73% at 10-year follow-up",
+   "B": "Had no effect on melanoma but reduced actinic keratosis counts only",
+   "C": "Increased melanoma risk by lowering circulating vitamin D levels",
+   "D": "Lowered melanoma mortality but left overall incidence unchanged"
+  },
+  "answer": "A",
+  "exp": "The Nambour Skin Cancer Prevention trial (Queensland, Australia) is the single RCT demonstrating that daily sunscreen prevents melanoma: regular SPF-16 application reduced new primary cutaneous melanoma incidence by ~50–73% measured 10 years after the intervention. The distractors understate or invert this: it showed a genuine melanoma reduction (not AK-only), did not raise risk via vitamin D, and the headline endpoint was incidence, not mortality.",
+  "hy": "Nambour RCT: daily sunscreen ↓ new melanoma ~50–73% at 10 yr.",
+  "src": "Bologna Ch 113 · Prevention/Sun Protection",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.31",
+  "chapter": "Ch113",
+  "section": "Types of Primary Melanomas · Table 113.5",
+  "stem": "Which is the most common subtype of cutaneous melanoma in light-skinned individuals, accounting for ~60–70% of cases and arising most often in the fourth-to-sixth decades?",
+  "options": {
+   "A": "Superficial spreading melanoma",
+   "B": "Nodular melanoma",
+   "C": "Lentigo maligna melanoma",
+   "D": "Acral lentiginous melanoma"
+  },
+  "answer": "A",
+  "exp": "Superficial spreading melanoma (SSM) — broadly corresponding to low-CSD melanoma — is the commonest subtype in light skin (~60–70%), diagnosed most often between 40 and 60 years. It begins as a slowly enlarging macule with a radial (horizontal) growth phase before any vertical phase. The distractors are the other classic subtypes with different epidemiology: nodular (~10–25%, 6th decade, de novo vertical growth), lentigo maligna (~10–15%, 7th decade, sun-damaged face), and acral lentiginous (~2–5%, palms/soles/nail).",
+  "hy": "SSM = most common (~60–70%), low-CSD, radial then vertical growth.",
+  "src": "Bologna Ch 113 · Types of Primary Melanomas, Table 113.5",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.32",
+  "chapter": "Ch113",
+  "section": "Superficial Spreading Melanoma",
+  "stem": "Which statement about superficial spreading melanoma (SSM) is correct?",
+  "options": {
+   "A": "It favors the back in men and the legs in women, arising in a pre-existing nevus in about half of cases",
+   "B": "It arises de novo as a vertical-growth-phase tumor without any preceding horizontal radial growth phase",
+   "C": "It occurs almost exclusively on the chronically sun-damaged facial skin of much older elderly patients",
+   "D": "It is the melanoma subtype most disproportionately frequent in darkly pigmented non-White populations"
+  },
+  "answer": "A",
+  "exp": "SSM favors the trunk (especially the back) in men and the legs in women, and is the subtype most likely to arise within a pre-existing nevus — about half in one study (though any single nevus's transformation risk remains tiny). The distractors describe other subtypes: arising de novo as pure vertical growth is nodular melanoma, chronically sun-damaged facial skin of the elderly is LMM, and disproportionate frequency in dark skin is ALM.",
+  "hy": "SSM: back (men)/legs (women); ~50% arise in a pre-existing nevus.",
+  "src": "Bologna Ch 113 · Superficial Spreading Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.33",
+  "chapter": "Ch113",
+  "section": "Nodular Melanoma",
+  "stem": "Which feature distinguishes nodular melanoma (NM) from the other growth-pattern subtypes?",
+  "options": {
+   "A": "It arises de novo as a vertical-growth-phase tumor with no preceding radial growth phase",
+   "B": "It is defined by a prolonged radial growth phase confined for years to the epidermis",
+   "C": "It is the subtype most strongly correlated with high cumulative ultraviolet sun damage",
+   "D": "It almost always retains heavy uniform pigmentation and very rarely ulcerates or bleeds"
+  },
+  "answer": "A",
+  "exp": "Nodular melanoma is believed to arise de novo as a vertical-growth-phase tumor, lacking the preceding radial growth phase that characterizes the other types — which is why it presents as a rapidly enlarging papule/nodule and is detected later. The distractors invert this: a prolonged epidermal radial phase describes SSM/LMM, cumulative sun damage characterizes LMM, and nodular melanoma can ulcerate, bleed, and be amelanotic.",
+  "hy": "NM = de novo vertical growth, no radial phase → presents thick.",
+  "src": "Bologna Ch 113 · Nodular Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.34",
+  "chapter": "Ch113",
+  "section": "Nodular Melanoma",
+  "stem": "Although nodular melanoma represents only ~10–25% of melanomas, why does it contribute disproportionately to melanoma deaths?",
+  "options": {
+   "A": "It is detected late and thick — making up ~50% of melanomas >2 mm and ~40% of fatal cases",
+   "B": "It is intrinsically more resistant to systemic chemotherapy than other subtypes at equal stage",
+   "C": "Its melanoma-specific survival is far worse stage-for-stage than that of the other subtypes",
+   "D": "It spreads hematogenously to viscera while the other subtypes metastasize only via lymphatics"
+  },
+  "answer": "A",
+  "exp": "Nodular melanoma's outsized mortality is a *detection* problem, not a unique biology: lacking a radial phase, it is found late and thick — making up nearly 50% of melanomas >2 mm at diagnosis and ~40% of ultimately fatal cases. The distractors propose biology that the chapter explicitly does not support: melanoma-specific survival is not clearly worse stage-for-stage, and there is no special chemoresistance or exclusively hematogenous spread.",
+  "hy": "NM kills via late/thick detection (~40% of fatal cases), not worse stage-for-stage biology.",
+  "src": "Bologna Ch 113 · Nodular Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.35",
+  "chapter": "Ch113",
+  "section": "Lentigo Maligna Melanoma",
+  "stem": "Lentigo maligna melanoma (LMM, high-CSD melanoma) characteristically:",
+  "options": {
+   "A": "Arises on sun-damaged face/scalp of older adults from a macular in-situ precursor (lentigo maligna)",
+   "B": "Arises on the trunk of young adults who have had intense intermittent recreational sun exposure",
+   "C": "Occurs on the palms, soles, and nail units largely independent of ultraviolet sun exposure",
+   "D": "Presents abruptly as a rapidly growing amelanotic dermal nodule over a few weeks to months"
+  },
+  "answer": "A",
+  "exp": "LMM (high-CSD melanoma) develops on chronically photodamaged skin — classically the face and the scalp of balding older men — beginning as a slowly enlarging macular precursor (lentigo maligna = melanoma in situ) before an invasive papule/nodule appears. The distractors describe other subtypes: trunk of young adults with intermittent sun is SSM, acral/nail sites independent of sun is ALM, and a rapid amelanotic nodule is nodular melanoma.",
+  "hy": "LMM = sun-damaged face/scalp of elderly; macular LM precursor.",
+  "src": "Bologna Ch 113 · Lentigo Maligna Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.36",
+  "chapter": "Ch113",
+  "section": "Lentigo Maligna Melanoma",
+  "stem": "Regarding lentigo maligna (LM), which statement is correct?",
+  "options": {
+   "A": "LM is melanoma in situ of sun-damaged skin; about 5% of LM lesions progress to invasive melanoma",
+   "B": "LM is by definition an invasive melanoma as soon as it becomes clinically pigmented and visible",
+   "C": "LM is a wholly benign lentigo of photodamaged skin with essentially no malignant potential at all",
+   "D": "Roughly half of all LM lesions progress to frank invasive melanoma within the first year of onset"
+  },
+  "answer": "A",
+  "exp": "Lentigo maligna is melanoma in situ arising in sun-damaged skin; roughly 5% of LM lesions are estimated to progress to invasive melanoma, though true rates from the in-situ precursor are unknown. The distractors misstate its nature: LM is in situ (not invasive by definition), it is not benign without malignant potential, and ~50% progression within a year grossly overstates the rate.",
+  "hy": "LM = melanoma in situ of CSD skin; ~5% progress to invasive.",
+  "src": "Bologna Ch 113 · Lentigo Maligna Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.37",
+  "chapter": "Ch113",
+  "section": "Acral Lentiginous Melanoma",
+  "stem": "Which statement about acral lentiginous melanoma (ALM) is correct?",
+  "options": {
+   "A": "Its absolute incidence is similar across races, but it is a far higher proportion of melanomas in Black/Asian patients",
+   "B": "It is caused by cumulative ultraviolet sun exposure delivered directly to the palms and soles over decades",
+   "C": "It is the single most common melanoma subtype overall among non-Hispanic White patients in the SEER data",
+   "D": "It is biologically and genetically identical to superficial spreading melanoma despite its acral location"
+  },
+  "answer": "A",
+  "exp": "ALM incidence is roughly similar across racial/ethnic groups, but because darker-skinned people develop few UV-related melanomas, ALM makes up a disproportionate share of their melanomas — up to ~36% in Black and ~22% in Asian patients, versus ~2% in non-Hispanic Whites. The distractors are false: ALM is not UV-driven, it is not the commonest subtype in White patients (that is SSM), and it is a genetically distinct subtype, not identical to SSM.",
+  "hy": "ALM: similar absolute incidence across races, but up to ~36% of melanomas in Black patients.",
+  "src": "Bologna Ch 113 · Acral Lentiginous Melanoma, Table 113.5",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.38",
+  "chapter": "Ch113",
+  "section": "Acral Lentiginous Melanoma",
+  "stem": "ALM is frequently diagnosed at an advanced stage. Which factor most contributes to this delay?",
+  "options": {
+   "A": "Primary misdiagnosis (e.g. as a wart or traumatic lesion) occurs in roughly one-third of patients",
+   "B": "ALM grows faster than any other melanoma subtype, outpacing the interval between skin examinations",
+   "C": "ALM is essentially invisible to dermoscopy because of the thick keratin of the acral stratum corneum",
+   "D": "ALM never produces any pigment, so it is uniformly amelanotic and missed on routine inspection"
+  },
+  "answer": "A",
+  "exp": "About one-third of ALMs are initially misdiagnosed — e.g. treated as a wart, callus, or traumatic change — causing substantial delay; lack of awareness of acral melanoma and a high biopsy threshold (surgical morbidity at acral sites) compound it. The distractors are unsupported: ALM is not the fastest-growing subtype, dermoscopy (acral parallel patterns) does help, and ALM is usually pigmented (not always amelanotic).",
+  "hy": "~1/3 of ALMs are misdiagnosed → diagnostic delay and advanced stage.",
+  "src": "Bologna Ch 113 · Acral Lentiginous Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.39",
+  "chapter": "Ch113",
+  "section": "Table 113.5",
+  "stem": "By the SEER frequency data, which ordering of the four classic subtypes from most to least common (overall) is correct?",
+  "options": {
+   "A": "Superficial spreading > nodular ≈ lentigo maligna > acral lentiginous",
+   "B": "Nodular > superficial spreading > acral lentiginous > lentigo maligna",
+   "C": "Lentigo maligna > superficial spreading > nodular > acral lentiginous",
+   "D": "Acral lentiginous > nodular > lentigo maligna > superficial spreading"
+  },
+  "answer": "A",
+  "exp": "Per SEER frequency data (Table 113.5), the descending order is superficial spreading (~68%) > nodular (~16%) ≈ lentigo maligna (~14%) > acral lentiginous (~2%). The distractors scramble this ranking; the key facts are that SSM dominates and ALM is the rarest of the four classic subtypes overall (despite its prominence in darker-skinned patients).",
+  "hy": "SSM (68%) > NM (16%) ≈ LMM (14%) > ALM (2%).",
+  "src": "Bologna Ch 113 · Table 113.5",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "Subtype",
+    "Average %",
+    "Median age (yr)"
+   ],
+   [
+    "Superficial spreading",
+    "~68%",
+    "54"
+   ],
+   [
+    "Nodular",
+    "~16%",
+    "61"
+   ],
+   [
+    "Lentigo maligna",
+    "~14%",
+    "69"
+   ],
+   [
+    "Acral lentiginous",
+    "~2%",
+    "64"
+   ]
+  ]
+ },
+ {
+  "id": "B113.40",
+  "chapter": "Ch113",
+  "section": "Desmoplastic Melanoma",
+  "stem": "A spindle-cell dermal melanoma stains negative for HMB45, MART-1/Melan-A, and MITF. Which marker is most reliably positive and key to the diagnosis?",
+  "options": {
+   "A": "S100 and SOX10",
+   "B": "HMB45 (gp100)",
+   "C": "MART-1/Melan-A",
+   "D": "Cytokeratin AE1/AE3"
+  },
+  "answer": "A",
+  "exp": "Desmoplastic melanoma is a spindle-cell tumor in which the usual melanocytic markers HMB45, MART-1/Melan-A, and MITF are often negative — a classic pitfall — so S100 and SOX10 (sensitive for spindled/desmoplastic melanoma) are the markers that establish melanocytic lineage; SOX10's nuclear staining is especially useful. The distractors are the markers that fail in desmoplastic melanoma (HMB45, MART-1) or an epithelial marker (cytokeratin) that would be negative in melanoma.",
+  "hy": "Desmoplastic melanoma: HMB45/MART-1/MITF often negative → rely on S100/SOX10.",
+  "src": "Bologna Ch 113 · Immunohistochemistry",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.41",
+  "chapter": "Ch113",
+  "section": "Desmoplastic Melanoma",
+  "stem": "Which set of features is characteristic of desmoplastic melanoma?",
+  "options": {
+   "A": "Spindle cells in fibroblastic stroma, frequent neurotropism, NF1 mutation, and possible adjuvant radiotherapy",
+   "B": "Pagetoid epidermal spread of large pigmented epithelioid melanocytes with abundant cytoplasmic melanin",
+   "C": "A dermal dendritic-melanocyte proliferation driven by GNAQ/GNA11, arising as a blue nodule on the scalp",
+   "D": "A KIT-mutant amelanotic tumor of the oral, nasopharyngeal, and anogenital mucosal surfaces"
+  },
+  "answer": "A",
+  "exp": "Desmoplastic melanoma is composed of spindled cells within a fibroblastic (desmoplastic) stroma, shows frequent perineural invasion/neurotropism, often carries NF1 mutations, and — when thick with \"pure\" desmoplastic histology, neurotropism, or head/neck location — may be considered for adjuvant radiotherapy. The distractors describe other entities: pagetoid epithelioid spread is SSM, a GNAQ/GNA11-driven scalp dermal tumor is blue nevus-like melanoma, and a KIT-mutant mucosal tumor is mucosal melanoma.",
+  "hy": "Desmoplastic = spindle cells + neurotropism + NF1; consider adjuvant RT.",
+  "src": "Bologna Ch 113 · Desmoplastic Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.42",
+  "chapter": "Ch113",
+  "section": "Melanoma Arising in a Blue Nevus",
+  "stem": "Blue nevus-like melanoma (\"malignant blue nevus\") most characteristically:",
+  "options": {
+   "A": "Is a blue-black scalp dermal nodule with an associated cellular blue nevus and GNAQ/GNA11 (± BAP1) mutations",
+   "B": "Is an indolent intraepidermal lentiginous melanocytic proliferation arising on the palms and soles",
+   "C": "Carries a BRAF V600E mutation and behaves like a low-CSD superficial spreading melanoma of the trunk",
+   "D": "Is the single most common subtype of cutaneous melanoma encountered in prepubertal children"
+  },
+  "answer": "A",
+  "exp": "Blue nevus-like melanoma is a rare dermal tumor, most often on the scalp, presenting as a blue-black deep nodule with an associated cellular blue nevus; the blue-nevus component carries GNAQ or GNA11 mutations, with BAP1/SF3B1/EIF1AX changes in the malignant portion, and it behaves aggressively (high recurrence/metastasis). The distractors are wrong subtypes: an indolent acral intraepidermal lesion, a BRAF V600E SSM, and \"most common pediatric melanoma\" all describe other entities.",
+  "hy": "Blue nevus-like melanoma = scalp dermal nodule, GNAQ/GNA11 (+BAP1/SF3B1), aggressive.",
+  "src": "Bologna Ch 113 · Melanoma Arising in a Blue Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.43",
+  "chapter": "Ch113",
+  "section": "Primary Dermal Melanoma",
+  "stem": "\"Primary dermal melanoma\" is distinguished from metastatic melanoma chiefly because it:",
+  "options": {
+   "A": "Lacks epidermal involvement/regression yet has a favorable prognosis (~80–100% 5-yr) despite thick depth",
+   "B": "Always displays a well-developed overlying intraepidermal in-situ component above the dermal tumor",
+   "C": "Pursues a uniformly fatal metastatic course despite its small size and limited Breslow thickness",
+   "D": "Is defined by a Breslow depth under 1 mm with brisk regression and a prominent radial growth phase"
+  },
+  "answer": "A",
+  "exp": "Primary dermal melanoma is a dermal-based tumor lacking overlying epidermal involvement and regression; it can mimic metastasis and present with a thick Breslow depth (average 3–9 mm), yet paradoxically carries a relatively favorable prognosis (~80–100% 5-year survival) once metastatic disease is excluded clinically/radiologically. The distractors are false: it characteristically *lacks* an in-situ component, is not uniformly fatal, and is not defined by thin (<1 mm) depth.",
+  "hy": "Primary dermal melanoma: no epidermal component, thick but favorable (80–100% 5-yr).",
+  "src": "Bologna Ch 113 · Primary Dermal Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.44",
+  "chapter": "Ch113",
+  "section": "Ocular Melanoma",
+  "stem": "A uveal (choroidal) melanoma is analyzed for prognosis. Which molecular finding most strongly predicts poor survival?",
+  "options": {
+   "A": "Monosomy 3 (loss of a copy of chromosome 3)",
+   "B": "A BRAF V600E activating point mutation",
+   "C": "A germline CDKN2A (p16) gene deletion",
+   "D": "An NTRK1/3 receptor kinase gene fusion"
+  },
+  "answer": "A",
+  "exp": "In uveal melanoma, monosomy 3 is the dominant adverse prognostic marker, dropping 5-year survival from ~100% to <50% (worst when combined with chromosome 8 abnormalities). The distractors do not apply to uveal melanoma prognostication: BRAF V600E and CDKN2A are cutaneous-melanoma lesions, and NTRK fusions characterize Spitz tumors.",
+  "hy": "Uveal melanoma: monosomy 3 → 5-yr survival ~100% to <50%.",
+  "src": "Bologna Ch 113 · Ocular Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.45",
+  "chapter": "Ch113",
+  "section": "Ocular Melanoma",
+  "stem": "Which statement about uveal melanoma is correct?",
+  "options": {
+   "A": "It harbors GNAQ/GNA11 mutations, metastasizes to the liver, and is treated with proton-beam radiotherapy",
+   "B": "It responds to immune checkpoint inhibitors essentially as well as cutaneous melanoma of similar stage",
+   "C": "It is driven by BRAF V600E and is therefore treated first-line with combined BRAF and MEK inhibitors",
+   "D": "Its single most frequent site of distant metastasis is the lung rather than the liver or the brain"
+  },
+  "answer": "A",
+  "exp": "Uveal melanoma frequently harbors GNAQ/GNA11 mutations, metastasizes preferentially to the liver, and is now treated with eye-sparing proton-beam radiotherapy rather than enucleation. The distractors are false: checkpoint inhibitors do *not* work as well as in cutaneous melanoma (tebentafusp is the approved agent for HLA-A*02:01-positive disease), it is not BRAF-driven, and its dominant metastatic site is liver, not lung.",
+  "hy": "Uveal melanoma = GNAQ/GNA11, liver mets, proton beam; poor ICI response.",
+  "src": "Bologna Ch 113 · Ocular Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.46",
+  "chapter": "Ch113",
+  "section": "Mucosal Melanoma",
+  "stem": "Mucosal melanoma characteristically:",
+  "options": {
+   "A": "Is ~1% of melanomas, is amelanotic in up to ~35%, and can carry activating KIT mutations",
+   "B": "Is the most common melanoma subtype encountered in fair-skinned White populations",
+   "C": "Is reliably detected at an early stage because of its accessible mucosal location",
+   "D": "Is defined by a BRAF V600E mutation and carries an excellent overall prognosis"
+  },
+  "answer": "A",
+  "exp": "Mucosal melanomas are rare (~1% of melanomas), arise near mucocutaneous junctions, are amelanotic in up to ~35% (complicating diagnosis), and — like ALM — are genetically distinct and may carry activating KIT mutations potentially sensitive to KIT inhibitors. The distractors are false: they are uncommon (not the commonest subtype), are usually advanced at diagnosis (not detected early), and are not defined by BRAF V600E or a good prognosis.",
+  "hy": "Mucosal melanoma: ~1%, ~35% amelanotic, KIT-mutant, poor prognosis.",
+  "src": "Bologna Ch 113 · Mucosal Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.47",
+  "chapter": "Ch113",
+  "section": "Melanoma and Pregnancy",
+  "stem": "A pregnant woman has a suspicious pigmented lesion. Which management statement is correct?",
+  "options": {
+   "A": "Biopsy/excision with lidocaine-epinephrine are safe; if SLNB is needed defer to ≥2nd trimester and avoid blue dyes",
+   "B": "All diagnostic biopsies and definitive excisions must be deferred entirely until after the delivery",
+   "C": "Sentinel-node biopsy should be performed immediately in the first trimester using isosulfan blue dye",
+   "D": "Pregnancy is an absolute contraindication to any surgical treatment of a suspected melanoma at all"
+  },
+  "answer": "A",
+  "exp": "In pregnancy, both diagnostic biopsy and wide local excision with small amounts of lidocaine/epinephrine are considered safe and should not be delayed; if SLNB is indicated, guidelines advise waiting until at least the second trimester (to avoid general-anesthesia risks), and isosulfan/methylene blue dyes are contraindicated (radiotracer is preferred, or regional ultrasound surveillance). The distractors over-restrict care (deferring all surgery) or recommend unsafe practice (first-trimester SLNB with blue dye).",
+  "hy": "Pregnancy: biopsy/WLE safe; SLNB ≥2nd trimester; avoid blue dyes.",
+  "src": "Bologna Ch 113 · Melanoma and Pregnancy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.48",
+  "chapter": "Ch113",
+  "section": "Melanoma and Pregnancy",
+  "stem": "Which statement about hormones, pregnancy, and melanoma is correct?",
+  "options": {
+   "A": "Exogenous hormones have not been shown to raise risk, and higher parity is linked to lower melanoma risk",
+   "B": "Combined oral contraceptive pills roughly double a woman's lifetime risk of developing melanoma",
+   "C": "Pregnancy occurring after a melanoma diagnosis markedly increases the risk of disease recurrence",
+   "D": "Postmenopausal hormone replacement therapy is the single strongest known melanoma risk factor"
+  },
+  "answer": "A",
+  "exp": "Exogenous hormones (oral contraceptives, HRT, fertility hormones) have not been shown to increase melanoma risk, and higher parity is actually associated with *decreased* risk; pregnancy itself has not been shown to worsen prognosis in stage 0–III disease. The distractors invert the evidence (OCPs do not double risk, subsequent pregnancy does not markedly raise recurrence, and HRT is not a major risk factor).",
+  "hy": "Hormones/OCP/HRT not shown to raise melanoma risk; higher parity → lower risk.",
+  "src": "Bologna Ch 113 · Melanoma and Pregnancy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.49",
+  "chapter": "Ch113",
+  "section": "Pediatric Melanoma",
+  "stem": "Because conventional ABCDE criteria often fail in prepubertal children, modified pediatric criteria were proposed. What does the pediatric \"ABCD\" stand for?",
+  "options": {
+   "A": "Amelanotic; Bleeding/Bump; Color uniformity; De novo/any Diameter",
+   "B": "Asymmetry; Border irregularity; Color variation; Diameter >6 mm",
+   "C": "Age young; Brisk mitoses; Caliber of vessels; Depth of invasion",
+   "D": "Atypia; Breslow thickness; Clark level; Dermoscopy pattern"
+  },
+  "answer": "A",
+  "exp": "Because prepubertal melanomas frequently lack conventional ABCDE features, a modified pediatric \"ABCD\" was proposed: Amelanotic; Bleeding or Bump; Color uniformity; De novo appearance/any Diameter. The distractors are the adult ABCDE (with Diameter >6 mm), or invented mnemonics (\"Age/Brisk/Caliber/Depth\"; \"Atypia/Breslow/Clark/Dermoscopy\") that do not exist.",
+  "hy": "Pediatric ABCD = Amelanotic, Bleeding/Bump, Color uniformity, De novo/any Diameter.",
+  "src": "Bologna Ch 113 · Pediatric Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.50",
+  "chapter": "Ch113",
+  "section": "Diagnosis",
+  "stem": "In the ABCDE rule for melanoma, what does \"D\" denote per Bologna, and which letter do patients most often use to recognize melanoma?",
+  "options": {
+   "A": "Diameter >5 mm; \"E\" (evolution/change) is most often the patient-recognized clue",
+   "B": "Depth beyond 1 mm; \"A\" (asymmetry) is most often the patient-recognized clue",
+   "C": "Dermoscopy positivity; \"C\" (color variegation) is the main patient-recognized clue",
+   "D": "Diameter beyond 10 mm; \"B\" (border irregularity) is the main patient clue"
+  },
+  "answer": "A",
+  "exp": "Bologna's ABCDE stands for Asymmetry, Border irregularity, Color variegation, Diameter >5 mm, and Evolution; patients most commonly recognize melanoma through \"E\" — a new lesion or a change in size/color — underscoring evolution as the most useful warning sign. The distractors substitute the wrong \"D\" (depth, dermoscopy, >10 mm) or the wrong patient-recognized letter.",
+  "hy": "ABCDE: D = diameter >5 mm; \"E\" (change) is the key patient clue.",
+  "src": "Bologna Ch 113 · Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.51",
+  "chapter": "Ch113",
+  "section": "Diagnosis",
+  "stem": "A clinician notices one pigmented lesion on the back that looks strikingly different from all the patient's other \"signature\" nevi. This recognition principle is termed:",
+  "options": {
+   "A": "The \"ugly duckling\" sign",
+   "B": "The Hutchinson sign",
+   "C": "The \"Little Red Riding Hood\" sign",
+   "D": "The \"EFG\" rule"
+  },
+  "answer": "A",
+  "exp": "The \"ugly duckling\" sign is the comparative recognition of a lesion that stands out as a morphologic outlier among a patient's otherwise similar \"signature\" nevi — a robust, reproducible clue. The distractors are different signs: Hutchinson sign is periungual pigment spread in subungual melanoma, the \"Little Red Riding Hood\" sign is surrounding erythema, and \"EFG\" (Elevated/Firm/Growing) aids amelanotic nodular melanoma.",
+  "hy": "Ugly duckling = the outlier lesion unlike the patient's other nevi.",
+  "src": "Bologna Ch 113 · Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.52",
+  "chapter": "Ch113",
+  "section": "Diagnosis",
+  "stem": "The \"EFG\" rule is a clinical aid most useful for detecting which melanoma presentation?",
+  "options": {
+   "A": "Amelanotic nodular melanoma — Elevated, Firm, and Growing",
+   "B": "Lentigo maligna on the cheek of a sun-damaged elderly man",
+   "C": "Subungual acral melanoma of the thumb with a pigment band",
+   "D": "Superficial spreading melanoma in situ on the upper back"
+  },
+  "answer": "A",
+  "exp": "\"EFG\" — Elevated, Firm, Growing — is the clinical aid for catching amelanotic nodular melanoma, which lacks the pigment-based ABCDE clues and can otherwise be overlooked. The distractors are presentations where pigment/other signs apply: LMM (ABCDE/dermoscopy), subungual melanoma (Hutchinson sign), and SSM in situ (ABCDE).",
+  "hy": "EFG (Elevated/Firm/Growing) → amelanotic nodular melanoma.",
+  "src": "Bologna Ch 113 · Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.53",
+  "chapter": "Ch113",
+  "section": "Diagnosis",
+  "stem": "Clinical (naked-eye) diagnostic accuracy for melanoma and the effect of dermoscopy are best described as:",
+  "options": {
+   "A": "~75% by visual inspection alone, rising to ~90% with expert dermoscopy use",
+   "B": "~95% by visual inspection alone, with expert dermoscopy adding essentially nothing",
+   "C": "~50% by visual inspection alone, left entirely unchanged by the use of dermoscopy",
+   "D": "~30% by visual inspection alone, paradoxically falling further when dermoscopy is used"
+  },
+  "answer": "A",
+  "exp": "Naked-eye clinical diagnosis of melanoma is correct in no more than ~75% of cases, rising to ~90% in expert hands using dermoscopy (which also prevents unnecessary biopsies); even so, 10–25% of melanomas may be missed (\"featureless\" melanoma). The distractors over- or under-state these figures or claim dermoscopy is useless/harmful.",
+  "hy": "Visual accuracy ~75% → ~90% with expert dermoscopy.",
+  "src": "Bologna Ch 113 · Diagnosis/Dermoscopy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.54",
+  "chapter": "Ch113",
+  "section": "Dermoscopy",
+  "stem": "In the two-step dermoscopic algorithm, step 1 asks whether a lesion is melanocytic. Which finding qualifies a lesion as melanocytic?",
+  "options": {
+   "A": "A pigment network, aggregated globules, streaks, homogeneous blue, or an acral parallel pattern",
+   "B": "Arborizing (branched) telangiectasias radiating across an otherwise pearly translucent papule",
+   "C": "Multiple milia-like cysts together with comedo-like openings in a \"stuck-on\" verrucous plaque",
+   "D": "Sharply demarcated red-blue lacunae corresponding to dilated vascular spaces in the dermis"
+  },
+  "answer": "A",
+  "exp": "Step 1 classifies a lesion as melanocytic if it shows at least one of: a pigment network, aggregated globules, streaks, homogeneous blue pigment, or (on acral skin) a parallel pattern. The distractors are features of *non-melanocytic* tumors: arborizing vessels (BCC), milia-like cysts/comedo-like openings (seborrheic keratosis), and red-blue lacunae (vascular lesion).",
+  "hy": "Melanocytic clues = network, globules, streaks, homogeneous blue, acral parallel pattern.",
+  "src": "Bologna Ch 113 · Dermoscopy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.55",
+  "chapter": "Ch113",
+  "section": "Dermoscopy · Table 113.8",
+  "stem": "Which local dermoscopic feature most specifically raises concern for melanoma?",
+  "options": {
+   "A": "A blue-white veil",
+   "B": "Comma-shaped vessels",
+   "C": "A regular narrow network",
+   "D": "Multiple milia-like cysts"
+  },
+  "answer": "A",
+  "exp": "Blue-white veil — confluent gray-blue to whitish-blue structureless pigmentation — is among the most specific local dermoscopic signs of melanoma (histologically, acanthotic epidermis with hypergranulosis over heavily pigmented dermal melanocytes). The distractors point elsewhere: comma vessels and a regular narrow network indicate benign lesions, and milia-like cysts indicate seborrheic keratosis.",
+  "hy": "Blue-white veil = high-specificity melanoma clue.",
+  "src": "Bologna Ch 113 · Table 113.8",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.56",
+  "chapter": "Ch113",
+  "section": "Dermoscopy · Table 113.8",
+  "stem": "On dermoscopy, which structure-to-histology correlation is correct?",
+  "options": {
+   "A": "Streaks correspond to confluent junctional nests of melanocytes at the lesion margin",
+   "B": "Blue-white veil corresponds to dilated, blood-filled vascular spaces in the upper dermis",
+   "C": "Milia-like cysts correspond to pigmented basaloid-cell aggregates in the papillary dermis",
+   "D": "Regression structures correspond to elongated, regular, evenly pigmented rete ridges"
+  },
+  "answer": "A",
+  "exp": "Streaks correspond histologically to confluent junctional nests of melanocytes, an irregular-distribution sign of melanoma. The distractors are mismatched correlates: blue-white veil reflects pigmented dermal melanocytes (not dilated vessels), milia-like cysts are intraepidermal horn pseudocysts of seborrheic keratosis (not basaloid aggregates), and regression structures reflect dermal fibrosis/melanophages (not regular rete ridges).",
+  "hy": "Streaks = confluent junctional nests.",
+  "src": "Bologna Ch 113 · Table 113.8",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.57",
+  "chapter": "Ch113",
+  "section": "Dermoscopy · Table 113.8",
+  "stem": "On dermoscopy of a non-melanocytic lesion, arborizing (branched) vessels are the hallmark of which tumor?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "A seborrheic keratosis",
+   "C": "A cherry hemangioma",
+   "D": "Amelanotic melanoma"
+  },
+  "answer": "A",
+  "exp": "Arborizing (branched, tree-like) telangiectasias are the dermoscopic hallmark of basal cell carcinoma. The distractors carry their own signatures: seborrheic keratosis shows milia-like cysts/comedo-like openings (and hairpin vessels), hemangiomas show red-blue lacunae, and melanoma shows atypical/dotted-irregular vessels with blue-white veil.",
+  "hy": "Arborizing vessels = BCC; each non-melanocytic tumor has its own vascular pattern.",
+  "src": "Bologna Ch 113 · Table 113.8",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.58",
+  "chapter": "Ch113",
+  "section": "Non-Invasive Imaging",
+  "stem": "Two non-invasive imaging tools are FDA-approved for melanoma. Which pairing of test and performance is correct?",
+  "options": {
+   "A": "RCM ~92% sensitivity/~70% specificity; electrical impedance spectroscopy >96% sensitivity/~35% specificity",
+   "B": "Both reflectance confocal microscopy and impedance spectroscopy exceed 95% specificity and replace histopathology",
+   "C": "Electrical impedance spectroscopy has the higher specificity of the two and rarely yields false-positive results",
+   "D": "Reflectance confocal microscopy images only structures lying below the reticular dermis and subcutis"
+  },
+  "answer": "A",
+  "exp": "Two non-invasive tools are FDA-approved: reflectance confocal microscopy (RCM; pooled sensitivity ~92%, specificity ~70%, imaging epidermis/papillary dermis like in vivo histology) and electrical impedance spectroscopy (EIS; sensitivity >96% but specificity only ~35%, with frequent seborrheic-keratosis false positives). The distractors are false: neither replaces histopathology, RCM (not EIS) has the higher specificity, and RCM images the superficial skin, not below the reticular dermis.",
+  "hy": "RCM ~92%/~70%; EIS >96%/~35% (low specificity).",
+  "src": "Bologna Ch 113 · Non-Invasive Diagnostic Imaging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.59",
+  "chapter": "Ch113",
+  "section": "Pathology · Table 113.9",
+  "stem": "Which histopathologic feature favors melanoma over a benign melanocytic nevus?",
+  "options": {
+   "A": "Absence of maturation — dermal nests and nuclei fail to become smaller with descent",
+   "B": "Architectural symmetry with sharp, well-defined lateral circumscription of the lesion",
+   "C": "Progressive maturation, with smaller nests and nuclei in the deeper dermal component",
+   "D": "Evenly spaced, uniformly sized and shaped junctional nests along the rete ridges"
+  },
+  "answer": "A",
+  "exp": "A defining histologic feature of melanoma is *absence of maturation* — dermal nests and melanocyte nuclei fail to become smaller with progressive descent — alongside asymmetry, poor circumscription, and pagetoid scatter. The distractors describe the benign-nevus pattern: symmetry, sharp circumscription, progressive maturation, and evenly spaced uniform nests.",
+  "hy": "Melanoma = no maturation with descent (+ asymmetry, pagetoid scatter).",
+  "src": "Bologna Ch 113 · Table 113.9, Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.60",
+  "chapter": "Ch113",
+  "section": "Pathology",
+  "stem": "In the two-phase model of melanoma growth, which statement is correct?",
+  "options": {
+   "A": "The vertical growth phase (dermal nests larger than intraepidermal cells) confers metastatic potential",
+   "B": "The radial (horizontal) growth phase is the phase that confers metastatic potential, even when in situ",
+   "C": "Pagetoid scatter of single melanocytes through the epidermis is what defines the vertical growth phase",
+   "D": "Growth phase (radial vs vertical) is a required, scored component of current AJCC-8 melanoma staging"
+  },
+  "answer": "A",
+  "exp": "The vertical growth phase — dermal nests/nodules of melanocytes that are larger than and/or cytologically distinct from the intraepidermal cells — is the phase postulated to carry metastatic potential, whereas the radial growth phase generally lacks it even with focal dermal invasion. The distractors invert this (radial phase is not the metastatic one), misdefine pagetoid scatter (an intraepidermal in-situ feature), or wrongly claim growth phase is part of AJCC staging (it is not).",
+  "hy": "VGP = metastatic potential; RGP generally lacks it; growth phase is not in AJCC staging.",
+  "src": "Bologna Ch 113 · Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.61",
+  "chapter": "Ch113",
+  "section": "Pathology · Immunohistochemistry",
+  "stem": "Which immunohistochemical marker is most sensitive for melanocytes (including spindled/desmoplastic melanoma) and is favored for its easily interpreted nuclear staining?",
+  "options": {
+   "A": "SOX10",
+   "B": "HMB45 (gp100)",
+   "C": "MART-1/Melan-A",
+   "D": "CD68"
+  },
+  "answer": "A",
+  "exp": "SOX10, a nuclear transcription factor, is highly sensitive for melanocytes — including the spindled cells of desmoplastic melanoma — and is favored because its nuclear pattern is easier to interpret with less background than S100 (though neither is fully melanocyte-specific). The distractors are less suitable: HMB45 and MART-1 are less sensitive and often negative in desmoplastic melanoma, and CD68 is a histiocyte marker.",
+  "hy": "SOX10 = sensitive nuclear melanocyte marker (catches desmoplastic), easier than S100.",
+  "src": "Bologna Ch 113 · Immunohistochemistry",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.62",
+  "chapter": "Ch113",
+  "section": "Pathology · Immunohistochemistry",
+  "stem": "PRAME immunohistochemistry is useful in melanocytic lesions because:",
+  "options": {
+   "A": "It is usually negative in benign nevi but diffusely nuclear-positive in most melanomas (desmoplastic/spitzoid excepted)",
+   "B": "It is positive in essentially all benign nevi while remaining negative in the majority of true melanomas",
+   "C": "It reliably stains desmoplastic melanoma in nearly every case, making it the marker of choice for that subtype",
+   "D": "It is a cytoplasmic marker that is specific for keratinocytes rather than for cells of melanocytic lineage"
+  },
+  "answer": "A",
+  "exp": "PRAME (PReferentially expressed Antigen in MElanoma) is generally negative in benign nevi/solar lentigines but shows diffuse nuclear positivity in most primary melanomas and metastases, aiding margin assessment and micrometastasis detection; notable exceptions are desmoplastic melanoma (only ~1/3 positive) and spitzoid neoplasms (less reliable). The distractors invert the staining pattern, overstate desmoplastic positivity, or miscall it a keratinocyte marker.",
+  "hy": "PRAME: negative in nevi, positive in most melanoma; weak in desmoplastic/spitzoid.",
+  "src": "Bologna Ch 113 · Immunohistochemistry",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.63",
+  "chapter": "Ch113",
+  "section": "Pathology · Molecular · Table 113.10",
+  "stem": "Which statement about molecular tests used to classify ambiguous melanocytic lesions is correct?",
+  "options": {
+   "A": "CGH screens the whole genome for copy-number change, whereas FISH targets a few loci (6p25/RREB1, 11q13/CCND1, 9p21)",
+   "B": "FISH provides broad genome-wide, hypothesis-free copy-number screening across all chromosomes simultaneously",
+   "C": "CGH reliably detects single-nucleotide point mutations as well as balanced reciprocal translocations and fusions",
+   "D": "Gene expression profiling works by sequencing the entire genome of the tumor to identify its driver mutations"
+  },
+  "answer": "A",
+  "exp": "CGH provides genome-wide, hypothesis-free screening for DNA copy-number gains and losses, whereas FISH interrogates only a limited set of preselected loci (e.g. 6p25/RREB1, 6q23/MYB, 11q13/CCND1, 9p21/CDKN2A). The distractors invert their roles (FISH is targeted, not genome-wide), overstate CGH (it misses point mutations and balanced translocations), or misdefine GEP (it measures mRNA expression of selected genes, not whole-genome sequencing).",
+  "hy": "CGH = genome-wide copy number; FISH = a few targeted loci.",
+  "src": "Bologna Ch 113 · Table 113.10",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.64",
+  "chapter": "Ch113",
+  "section": "Pathology · Molecular",
+  "stem": "In distinguishing Spitz neoplasms from melanoma, which molecular finding actually favors a Spitz lesion rather than conventional melanoma?",
+  "options": {
+   "A": "An isolated gain of chromosome 11p (HRAS) or an isolated loss of chromosome 3 (BAP1)",
+   "B": "A homozygous deletion of the 9p21 (CDKN2A) tumor-suppressor locus by FISH testing",
+   "C": "A TERT promoter mutation, which is associated with extranodal metastatic spread",
+   "D": "A BRAF V600E mutation accompanied by multiple chromosomal copy-number changes"
+  },
+  "answer": "A",
+  "exp": "About 20% of Spitz nevi show an isolated 11p gain (HRAS activation) or an isolated loss of chromosome 3 (BAP1) — aberrations not typical of conventional melanoma — so these findings actually support a Spitz lesion. The distractors point toward malignancy/aggressiveness instead: homozygous 9p21 (CDKN2A) deletion, TERT promoter mutation, and BRAF V600E with multiple copy-number changes favor melanoma.",
+  "hy": "Isolated 11p (HRAS) gain or chr-3/BAP1 loss favors Spitz, not melanoma.",
+  "src": "Bologna Ch 113 · Molecular Analysis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.65",
+  "chapter": "Ch113",
+  "section": "Pathology · Molecular",
+  "stem": "In spitzoid neoplasms, which molecular finding is most associated with aggressive behavior (advanced locoregional disease or death)?",
+  "options": {
+   "A": "Homozygous deletion of 9p21 (CDKN2A)",
+   "B": "Gain of chromosome 11p (HRAS)",
+   "C": "Isolated loss of chromosome 3",
+   "D": "A kinase fusion without copy-number change"
+  },
+  "answer": "A",
+  "exp": "In spitzoid neoplasms, homozygous deletion of 9p21 (CDKN2A) is the molecular finding most associated with aggressive behavior — advanced locoregional disease or death — and adding the 9p21/CEP9 FISH probe boosts sensitivity for spitzoid melanoma. The distractors are lower-risk or Spitz-favoring: 11p (HRAS) gain and isolated chr-3 loss favor benignity, and gains of 8q24/11q13 carry lower risk than 9p21 loss.",
+  "hy": "Homozygous 9p21 (CDKN2A) deletion = aggressive spitzoid behavior.",
+  "src": "Bologna Ch 113 · Molecular Analysis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.66",
+  "chapter": "Ch113",
+  "section": "Diagnosis",
+  "stem": "Subungual melanoma may present with longitudinal melanonychia. Pigment extending onto the proximal/lateral nail fold or hyponychium is termed:",
+  "options": {
+   "A": "The Hutchinson sign",
+   "B": "The ugly-duckling sign",
+   "C": "The Little Red Riding Hood sign",
+   "D": "The EFG sign"
+  },
+  "answer": "A",
+  "exp": "The Hutchinson sign is periungual extension of pigment from a longitudinal melanonychia band onto the proximal/lateral nail fold or hyponychium, a worrying clue for subungual melanoma. The distractors are unrelated signs: ugly duckling (outlier nevus), Little Red Riding Hood (surrounding erythema), and EFG (Elevated/Firm/Growing amelanotic nodular melanoma).",
+  "hy": "Hutchinson sign = periungual pigment spread in subungual melanoma.",
+  "src": "Bologna Ch 113 · Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.67",
+  "chapter": "Ch113",
+  "section": "Subtypes — figure",
+  "stem": "A fair-skinned 50-year-old has this flat-to-slightly-raised lesion on the back showing asymmetry, irregular notched borders, and brown-black color variation. Which melanoma subtype does the morphology best represent?",
+  "options": {
+   "A": "Superficial spreading melanoma",
+   "B": "Nodular melanoma",
+   "C": "Lentigo maligna melanoma",
+   "D": "Acral lentiginous melanoma"
+  },
+  "answer": "A",
+  "exp": "The flat, asymmetric lesion with irregular notched borders and brown-black color variation on the trunk is the classic look of superficial spreading melanoma (low-CSD), the commonest subtype. The same-class distractors are the other growth-pattern subtypes, distinguished by morphology/site: nodular is a raised dome, lentigo maligna is a facial macule of sun-damaged skin, and acral lentiginous is on palm/sole/nail.",
+  "hy": "Flat asymmetric trunk lesion with color variation = SSM.",
+  "src": "Bologna Ch 113 · Fig 113.8, Superficial Spreading Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-67.jpg",
+  "imgcap": "Pigmented lesion on the back"
+ },
+ {
+  "id": "B113.68",
+  "chapter": "Ch113",
+  "section": "Subtypes — figure",
+  "stem": "This darkly pigmented dome-shaped papule developed rapidly over weeks. Which subtype is most consistent with the appearance?",
+  "options": {
+   "A": "Nodular melanoma",
+   "B": "Superficial spreading melanoma",
+   "C": "Lentigo maligna melanoma",
+   "D": "Dysplastic nevus"
+  },
+  "answer": "A",
+  "exp": "A darkly pigmented dome-shaped papule developing rapidly over weeks is typical of nodular melanoma, which grows vertically from the outset. The distractors are other subtypes: SSM is flat with a radial phase, lentigo maligna is a facial macule, and a dysplastic nevus is a flatter, more symmetric benign lesion.",
+  "hy": "Rapidly growing pigmented nodule = nodular melanoma.",
+  "src": "Bologna Ch 113 · Fig 113.12, Nodular Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-68.jpg",
+  "imgcap": "Pigmented papule"
+ },
+ {
+  "id": "B113.69",
+  "chapter": "Ch113",
+  "section": "Subtypes — figure",
+  "stem": "This asymmetric pigmented macule/plaque is on the face of an elderly man with chronic sun damage. Which subtype does it represent?",
+  "options": {
+   "A": "Lentigo maligna melanoma",
+   "B": "Superficial spreading melanoma",
+   "C": "Acral lentiginous melanoma",
+   "D": "Nodular melanoma"
+  },
+  "answer": "A",
+  "exp": "An asymmetric pigmented macule on the chronically sun-damaged face of an elderly person is the classic presentation of lentigo maligna melanoma (high-CSD). The distractors differ by site/biology: SSM favors the trunk of younger adults, ALM is acral, and nodular melanoma is a raised rapidly growing nodule.",
+  "hy": "Pigmented facial macule in elderly CSD skin = LMM.",
+  "src": "Bologna Ch 113 · Fig 113.13, Lentigo Maligna Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-69.jpg",
+  "imgcap": "Pigmented facial lesion"
+ },
+ {
+  "id": "B113.70",
+  "chapter": "Ch113",
+  "section": "Subtypes — figure",
+  "stem": "This irregularly pigmented lesion is on the plantar surface. Which subtype is most likely?",
+  "options": {
+   "A": "Acral lentiginous melanoma",
+   "B": "Superficial spreading melanoma",
+   "C": "Lentigo maligna melanoma",
+   "D": "Blue nevus-like melanoma"
+  },
+  "answer": "A",
+  "exp": "An irregularly pigmented lesion on the plantar (sole) surface is the classic site for acral lentiginous melanoma. The same-class distractors are the other subtypes, which favor different sites (SSM trunk, LMM face, blue nevus-like melanoma the scalp).",
+  "hy": "Pigmented plantar lesion = acral lentiginous melanoma.",
+  "src": "Bologna Ch 113 · Fig 113.15, Acral Lentiginous Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-70.jpg",
+  "imgcap": "Pigmented lesion on the sole"
+ },
+ {
+  "id": "B113.71",
+  "chapter": "Ch113",
+  "section": "Diagnosis — figure",
+  "stem": "This nail shows a pigmented band with extension of pigment onto the proximal nail fold. The periungual extension is which clinical sign?",
+  "options": {
+   "A": "Hutchinson sign",
+   "B": "Ugly-duckling sign",
+   "C": "Little Red Riding Hood sign",
+   "D": "EFG sign"
+  },
+  "answer": "A",
+  "exp": "Pigment extending from the nail band onto the proximal nail fold is the Hutchinson sign, a clue to subungual melanoma. The distractors are unrelated signs (ugly duckling = outlier nevus; Little Red Riding Hood = surrounding erythema; EFG = elevated/firm/growing amelanotic nodule).",
+  "hy": "Periungual pigment spread = Hutchinson sign (subungual melanoma).",
+  "src": "Bologna Ch 113 · Fig 113.16, Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-71.jpg",
+  "imgcap": "Nail with pigmented band"
+ },
+ {
+  "id": "B113.72",
+  "chapter": "Ch113",
+  "section": "Subtypes — figure",
+  "stem": "This skin-colored to light-pink nodule lacked obvious pigment; biopsy confirmed melanoma 4 mm thick. Which descriptor fits?",
+  "options": {
+   "A": "Amelanotic melanoma",
+   "B": "Lentigo maligna melanoma",
+   "C": "Superficial spreading melanoma in situ",
+   "D": "Dermal nevus"
+  },
+  "answer": "A",
+  "exp": "A skin-colored to light-pink nodule lacking obvious pigment that proves to be a thick melanoma is an amelanotic melanoma — easily mistaken for a benign nodule and a reason for the EFG rule. The distractors are pigmented or benign: LMM and SSM in situ are pigmented macular lesions, and a dermal nevus is benign.",
+  "hy": "Non-pigmented melanoma nodule = amelanotic melanoma.",
+  "src": "Bologna Ch 113 · Fig 113.17, Amelanotic Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-72.jpg",
+  "imgcap": "Skin-colored nodule"
+ },
+ {
+  "id": "B113.73",
+  "chapter": "Ch113",
+  "section": "Subtypes — figure",
+  "stem": "This blue-black, deeply situated nodule arose on the scalp; histology showed an associated cellular blue nevus. Which subtype is most likely?",
+  "options": {
+   "A": "Blue nevus-like melanoma",
+   "B": "Nodular melanoma arising de novo",
+   "C": "Acral lentiginous melanoma",
+   "D": "Lentigo maligna melanoma"
+  },
+  "answer": "A",
+  "exp": "A blue-black deep nodule on the scalp with an associated cellular blue nevus is blue nevus-like melanoma. The same-class distractors are other subtypes differing by site/origin: de novo nodular melanoma lacks the blue-nevus association, and ALM/LMM occur at acral/facial sites.",
+  "hy": "Blue-black scalp nodule + cellular blue nevus = blue nevus-like melanoma.",
+  "src": "Bologna Ch 113 · Fig 113.19, Melanoma Arising in a Blue Nevus",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-73.jpg",
+  "imgcap": "Blue-black scalp nodule"
+ },
+ {
+  "id": "B113.74",
+  "chapter": "Ch113",
+  "section": "Dermoscopy — figure",
+  "stem": "This dermoscopic image of a melanoma shows a confluent gray-blue to whitish-blue structureless area. What is this feature called?",
+  "options": {
+   "A": "Blue-white veil",
+   "B": "Milia-like cysts",
+   "C": "Arborizing vessels",
+   "D": "Red-blue lacunae"
+  },
+  "answer": "A",
+  "exp": "The confluent gray-blue to whitish-blue structureless zone is the blue-white veil, a high-specificity dermoscopic melanoma feature. The same-class distractors are other dermoscopic structures with different \"homes\": milia-like cysts (seborrheic keratosis), arborizing vessels (BCC), and red-blue lacunae (vascular lesion).",
+  "hy": "Confluent blue-white structureless area = blue-white veil.",
+  "src": "Bologna Ch 113 · Fig 113.8, Table 113.8",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-74.jpg",
+  "imgcap": "Dermoscopy of a pigmented lesion"
+ },
+ {
+  "id": "B113.75",
+  "chapter": "Ch113",
+  "section": "Pathology — figure",
+  "stem": "This H&E section shows atypical melanocytes as solitary units and irregular nests scattered at all levels of the epidermis. This pattern is termed:",
+  "options": {
+   "A": "Pagetoid scatter",
+   "B": "Maturation with descent",
+   "C": "Kamino bodies",
+   "D": "Cowdry inclusions"
+  },
+  "answer": "A",
+  "exp": "Atypical melanocytes scattered as solitary units and irregular nests at *all* levels of the epidermis define pagetoid scatter, a hallmark of melanoma (in situ when confined to the epidermis). The distractors are different concepts: maturation with descent is a benign-nevus feature, Kamino bodies are seen in Spitz nevi, and Cowdry inclusions are viral.",
+  "hy": "Upward (all-level) intraepidermal spread = pagetoid scatter.",
+  "src": "Bologna Ch 113 · Fig 113.21/113.22, Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-75.jpg",
+  "imgcap": "Histopathology of a melanocytic lesion"
+ },
+ {
+  "id": "B113.76",
+  "chapter": "Ch113",
+  "section": "Pathology — figure",
+  "stem": "This H&E section from sun-damaged facial skin shows a lentiginous proliferation of single atypical melanocytes along the basal layer with extension down hair follicles and marked dermal solar elastosis. Which subtype's histology is shown?",
+  "options": {
+   "A": "Lentigo maligna",
+   "B": "Superficial spreading melanoma",
+   "C": "Nodular melanoma",
+   "D": "Acral lentiginous melanoma"
+  },
+  "answer": "A",
+  "exp": "A lentiginous proliferation of single atypical basal melanocytes with extension down follicular epithelium plus marked dermal solar elastosis is the histology of lentigo maligna (high-CSD melanoma in situ). The same-class distractors are other subtypes' histology: SSM shows broad pagetoid spread without prominent elastosis, nodular melanoma is a dermal nodule, and ALM shows lentiginous spread in a thick acral epidermis.",
+  "hy": "Lentiginous single-cell spread + adnexal extension + solar elastosis = lentigo maligna.",
+  "src": "Bologna Ch 113 · Fig 113.24, Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-76.jpg",
+  "imgcap": "Histopathology with dermal changes"
+ },
+ {
+  "id": "B113.77",
+  "chapter": "Ch113",
+  "section": "Pathology — figure",
+  "stem": "This dermal tumor shows loosely textured spindle cells within a fibroblastic stroma with scattered lymphoid aggregates; HMB45 and MART-1 were negative but S100 was positive. Which diagnosis fits?",
+  "options": {
+   "A": "Desmoplastic melanoma",
+   "B": "Nodular melanoma",
+   "C": "Superficial spreading melanoma",
+   "D": "Blue nevus"
+  },
+  "answer": "A",
+  "exp": "Loosely textured spindle cells in a fibroblastic stroma with lymphoid aggregates, negative for HMB45/MART-1 but S100-positive, is desmoplastic melanoma — the IHC profile is the giveaway and a classic pitfall. The same-class distractors are other melanocytic lesions that do *not* fit a spindle-cell S100-only profile: nodular and superficial spreading melanoma are epithelioid and usually marker-positive, and blue nevus is benign dendritic/pigmented.",
+  "hy": "Spindle cells + fibrous stroma + S100+/HMB45−/MART-1− = desmoplastic melanoma.",
+  "src": "Bologna Ch 113 · Fig 113.18, Desmoplastic Melanoma",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-77.jpg",
+  "imgcap": "Spindle-cell dermal tumor"
+ },
+ {
+  "id": "B113.78",
+  "chapter": "Ch113",
+  "section": "Pathology — figure",
+  "stem": "This H&E section shows a relatively well-circumscribed dermal nodule of confluent atypical melanocytes with minimal overlying epidermal involvement. Which subtype's histology is shown?",
+  "options": {
+   "A": "Nodular melanoma",
+   "B": "Lentigo maligna",
+   "C": "Melanoma in situ",
+   "D": "Acral lentiginous melanoma"
+  },
+  "answer": "A",
+  "exp": "A relatively well-circumscribed dermal nodule of confluent atypical melanocytes with little overlying epidermal involvement is the histology of nodular melanoma (vertical growth, minimal radial phase). The same-class distractors differ histologically: lentigo maligna and melanoma in situ are intraepidermal processes, and ALM shows lentiginous spread in a thick acral epidermis.",
+  "hy": "Dermal nodule, scant epidermal component = nodular melanoma histology.",
+  "src": "Bologna Ch 113 · Fig 113.23, Pathology",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-78.jpg",
+  "imgcap": "Dermal nodule histopathology"
+ },
+ {
+  "id": "B113.79",
+  "chapter": "Ch113",
+  "section": "Diagnosis — figure",
+  "stem": "On the dorsal foot of an 84-year-old man, this asymmetric, poorly circumscribed light-brown macule was the \"outlier\" lesion compared with the patient's other nevi. The lesion is best classified as:",
+  "options": {
+   "A": "Melanoma in situ",
+   "B": "Invasive nodular melanoma",
+   "C": "Solar lentigo",
+   "D": "Dermatofibroma"
+  },
+  "answer": "A",
+  "exp": "A subtle, asymmetric, poorly circumscribed light-brown macule that is the morphologic \"outlier\" among the patient's nevi is melanoma in situ — small early melanomas are easily overlooked, and dermoscopy aids detection. The distractors differ: an invasive nodular melanoma would be a raised nodule, and a solar lentigo or dermatofibroma would be a benign, well-defined lesion.",
+  "hy": "Subtle outlier macule on sun-damaged skin = melanoma in situ.",
+  "src": "Bologna Ch 113 · Fig 113.10, Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-79.jpg",
+  "imgcap": "Subtle pigmented macule"
+ },
+ {
+  "id": "B113.80",
+  "chapter": "Ch113",
+  "section": "Microstaging",
+  "stem": "Which single histologic feature of a primary cutaneous melanoma is the strongest predictor of survival?",
+  "options": {
+   "A": "Breslow tumor thickness",
+   "B": "Clark level of invasion",
+   "C": "Dermal mitotic rate",
+   "D": "Presence of tumor-infiltrating lymphocytes"
+  },
+  "answer": "A",
+  "exp": "Breslow thickness — the vertical extent of the tumor in millimeters — is the strongest single histologic predictor of survival and the primary driver of T-staging. The distractors are weaker or superseded: Clark level (anatomic level of invasion) was largely abandoned, dermal mitotic rate is prognostic but no longer upstages, and tumor-infiltrating lymphocytes are a secondary feature.",
+  "hy": "Breslow depth = strongest histologic survival predictor.",
+  "src": "Bologna Ch 113 · Microstaging, Staging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.81",
+  "chapter": "Ch113",
+  "section": "Microstaging — figure",
+  "stem": "This schematic illustrates how melanoma thickness is measured. The double-headed arrow (the Breslow measurement) is taken from which landmark to which?",
+  "options": {
+   "A": "From the top of the granular layer (or ulcer base) to the deepest tumor cell",
+   "B": "From the outer stratum corneum surface down to the dermal–subcutaneous junction",
+   "C": "From the dermal–epidermal junction down to the deepest invasive tumor cell",
+   "D": "By the anatomic level of invasion reached (papillary versus reticular dermis)"
+  },
+  "answer": "A",
+  "exp": "The Breslow method measures from the top of the granular cell layer of the epidermis (or, if ulcerated, from the base of the ulcer) to the deepest point of tumor invasion, using an ocular micrometer. The distractors misplace the landmarks (whole-skin thickness, the dermal–epidermal junction) or describe the *Clark level* system (anatomic levels), which is a different, largely abandoned method.",
+  "hy": "Breslow = granular layer (or ulcer base) → deepest tumor cell.",
+  "src": "Bologna Ch 113 · Fig 113.26, Microstaging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "image": "images/B113-81.jpg",
+  "imgcap": "Microstaging schematic of skin layers"
+ },
+ {
+  "id": "B113.82",
+  "chapter": "Ch113",
+  "section": "Staging · Table 113.11",
+  "stem": "In AJCC-8, which Breslow thickness boundaries separate the T categories?",
+  "options": {
+   "A": "T1 ≤1.0 mm; T2 >1.0–2.0 mm; T3 >2.0–4.0 mm; T4 >4.0 mm",
+   "B": "T1 ≤0.8 mm; T2 0.8–1.6 mm; T3 1.6–3.0 mm; T4 >3.0 mm",
+   "C": "T1 ≤2.0 mm; T2 >2.0–4.0 mm; T3 >4.0–6.0 mm; T4 >6.0 mm",
+   "D": "T1 ≤1.0 mm; T2 >1.0–3.0 mm; T3 >3.0–5.0 mm; T4 >5.0 mm"
+  },
+  "answer": "A",
+  "exp": "AJCC-8 T-category thickness boundaries are T1 ≤1.0 mm, T2 >1.0–2.0 mm, T3 >2.0–4.0 mm, and T4 >4.0 mm — the 1/2/4 mm breakpoints anchor the whole system. The distractors use adjacent but wrong cut-points (0.8/1.6/3.0; 2/4/6; 1/3/5), which is exactly the trap on a numeric staging item — you must recall the exact figures.",
+  "hy": "T boundaries: 1, 2, 4 mm.",
+  "src": "Bologna Ch 113 · Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "T",
+    "Thickness"
+   ],
+   [
+    "T1",
+    "≤1.0 mm"
+   ],
+   [
+    "T2",
+    ">1.0–2.0 mm"
+   ],
+   [
+    "T3",
+    ">2.0–4.0 mm"
+   ],
+   [
+    "T4",
+    ">4.0 mm"
+   ]
+  ]
+ },
+ {
+  "id": "B113.83",
+  "chapter": "Ch113",
+  "section": "Staging · Table 113.11",
+  "stem": "Within T1, what distinguishes T1a from T1b in AJCC-8?",
+  "options": {
+   "A": "T1a = <0.8 mm no ulceration; T1b = <0.8 mm with ulceration OR 0.8–1.0 mm",
+   "B": "T1a = <1.0 mm with any dermal mitoses; T1b = <1.0 mm without any mitoses",
+   "C": "T1a = Clark anatomic level II invasion; T1b = Clark anatomic level III invasion",
+   "D": "T1a = <0.5 mm thickness; T1b = 0.5–1.0 mm thickness, regardless of ulceration"
+  },
+  "answer": "A",
+  "exp": "Within T1, AJCC-8 splits by a 0.8 mm threshold and ulceration: T1a is <0.8 mm without ulceration, while T1b is <0.8 mm WITH ulceration OR 0.8–1.0 mm (with or without ulceration). The distractors use criteria that AJCC-8 dropped or never used here — mitotic rate (removed as a T1 splitter), Clark level, or a 0.5 mm cut-point.",
+  "hy": "T1a <0.8 mm no ulcer; T1b <0.8 mm+ulcer OR 0.8–1.0 mm.",
+  "src": "Bologna Ch 113 · Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.84",
+  "chapter": "Ch113",
+  "section": "Staging",
+  "stem": "How does ulceration affect AJCC T-staging, and how is it defined histologically?",
+  "options": {
+   "A": "It upstages a tumor \"a\"→\"b\" within its thickness band; defined as loss of intact epidermis + host response",
+   "B": "It lowers the assigned T category by one full level because it represents earlier, more superficial disease",
+   "C": "It is determined purely clinically as a visibly eroded or crusted surface, without any histologic criterion",
+   "D": "It has no effect on T-staging in AJCC-8 and is recorded only as an optional descriptive comment"
+  },
+  "answer": "A",
+  "exp": "Ulceration — defined histologically as absence of an intact epidermis over a major portion of the tumor plus a host response (fibrin, inflammation) — upstages a tumor from the \"a\" to the \"b\" subcategory within its thickness band, reflecting worse prognosis. The distractors are false: it does not lower the T category, it is a histologic (not purely clinical) determination, and it definitely affects staging.",
+  "hy": "Ulceration (histologic) = a→b upstaging within each T.",
+  "src": "Bologna Ch 113 · Microstaging, Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.85",
+  "chapter": "Ch113",
+  "section": "Staging",
+  "stem": "What is the current status of dermal mitotic rate in AJCC-8 melanoma staging?",
+  "options": {
+   "A": "It is prognostic but no longer upstages the primary (e.g. ≥11/mm² lowers 5-yr survival to ~84%)",
+   "B": "It is a required staging component that directly defines the T-stage of every primary melanoma",
+   "C": "A mitotic rate of ≥1/mm² now automatically reclassifies a T1a tumor as a higher-risk T1b tumor",
+   "D": "It has been shown to carry no prognostic value at all and is therefore no longer reported by pathologists"
+  },
+  "answer": "A",
+  "exp": "Dermal mitotic rate was a T1 splitter in the prior (AJCC-7) system but in AJCC-8 it no longer upstages the primary tumor; it remains an independent prognostic factor (e.g. ≥11/mm² lowers 5-year survival to ~84% in node-negative disease). The distractors overstate its current staging role (defining T-stage, auto-converting T1a→T1b) or wrongly deny any prognostic value.",
+  "hy": "Mitotic rate: prognostic but no longer upstages in AJCC-8.",
+  "src": "Bologna Ch 113 · Microstaging, Table 113.14",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.86",
+  "chapter": "Ch113",
+  "section": "Staging · Table 113.11",
+  "stem": "Which factor is the principal determinant of the N category?",
+  "options": {
+   "A": "Number of tumor-involved nodes (1; 2–3; ≥4) plus occult-vs-detected status and satellite/in-transit disease",
+   "B": "The Breslow thickness of the primary tumor measured from the granular layer to the deepest cell",
+   "C": "The serum lactate dehydrogenase (LDH) level measured at the time of the initial staging work-up",
+   "D": "The specific anatomic site of any distant metastases, such as skin, lung, liver, or central nervous system"
+  },
+  "answer": "A",
+  "exp": "The N category is driven by the number of tumor-involved regional nodes (1; 2–3; ≥4), whether involvement is clinically occult (microscopic, SLN-detected) versus clinically detected, and the presence of satellite/in-transit/microsatellite disease. The distractors belong to other categories: Breslow thickness drives T, LDH and distant-metastasis site drive M.",
+  "hy": "N = node number (1/2–3/≥4) + occult vs detected + satellite/in-transit.",
+  "src": "Bologna Ch 113 · Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.87",
+  "chapter": "Ch113",
+  "section": "Staging",
+  "stem": "How are satellite and in-transit metastases defined and prognostically weighted in AJCC-8?",
+  "options": {
+   "A": "Satellites are ≤2 cm from the primary, in-transit lesions >2 cm but not past the nodes; both are lymphatic, similar prognosis",
+   "B": "Satellites are >2 cm from the primary tumor whereas in-transit lesions lie within 2 cm of the excision scar",
+   "C": "Both satellite and in-transit lesions are hematogenous visceral deposits and are classified as M1 distant disease",
+   "D": "In-transit metastases carry a markedly better prognosis than satellite lesions despite both being lymphatic"
+  },
+  "answer": "A",
+  "exp": "Satellite metastases lie within 2 cm of the primary and in-transit metastases lie >2 cm away but not beyond the regional nodes; AJCC-8 considers the 2 cm cut-off arbitrary because both are lymphatic spread with similar (poor) prognosis. The distractors reverse the distances, miscall them hematogenous M1 disease, or wrongly split their prognosis.",
+  "hy": "Satellite ≤2 cm, in-transit >2 cm; both lymphatic, similar prognosis.",
+  "src": "Bologna Ch 113 · Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.88",
+  "chapter": "Ch113",
+  "section": "Staging · Table 113.11",
+  "stem": "A patient has in-transit metastases but no tumor-involved lymph nodes. Which N category applies?",
+  "options": {
+   "A": "N1c",
+   "B": "N0",
+   "C": "N2a",
+   "D": "N3b"
+  },
+  "answer": "A",
+  "exp": "N1c denotes in-transit, satellite, and/or microsatellite metastases with NO tumor-involved regional nodes — the \"c\" suffix flags lymphatic non-nodal disease. The distractors are wrong: N0 means no regional disease, N2a is 2–3 occult nodes, and N3b involves ≥4 nodes/matted nodes.",
+  "hy": "N1c = satellite/in-transit disease with no involved nodes.",
+  "src": "Bologna Ch 113 · Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.89",
+  "chapter": "Ch113",
+  "section": "Staging · Table 113.11",
+  "stem": "In AJCC-8 M classification, which mapping of metastatic site to M category is correct?",
+  "options": {
+   "A": "M1a = skin/soft tissue/non-regional node; M1b = lung; M1c = non-CNS visceral; M1d = CNS",
+   "B": "M1a = lung; M1b = liver; M1c = brain; M1d = bone marrow and the skeletal system",
+   "C": "M1a = CNS; M1b = visceral organs; M1c = lung; M1d = skin and distant soft tissue",
+   "D": "M1a = any visceral organ; M1b = skin only; M1c = node only; M1d = lung only"
+  },
+  "answer": "A",
+  "exp": "AJCC-8 M-category maps by anatomic site: M1a = distant skin/soft tissue/non-regional node, M1b = lung, M1c = other (non-CNS) visceral sites, M1d = CNS — with an LDH suffix (0)/(1). The distractors scramble these site assignments.",
+  "hy": "M1a skin/soft tissue, M1b lung, M1c visceral, M1d CNS.",
+  "src": "Bologna Ch 113 · Table 113.11",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "M",
+    "Site"
+   ],
+   [
+    "M1a",
+    "Skin / soft tissue / non-regional node"
+   ],
+   [
+    "M1b",
+    "Lung"
+   ],
+   [
+    "M1c",
+    "Non-CNS visceral"
+   ],
+   [
+    "M1d",
+    "CNS (brain)"
+   ]
+  ]
+ },
+ {
+  "id": "B113.90",
+  "chapter": "Ch113",
+  "section": "Staging",
+  "stem": "What is the role of serum lactate dehydrogenase (LDH) in melanoma staging?",
+  "options": {
+   "A": "It subclassifies stage IV (the M-category suffix) and predicts survival in advanced disease",
+   "B": "It defines the thickness boundary that separates T2 tumors from thicker T3 tumors",
+   "C": "It is recommended as a routine baseline screening test for all newly diagnosed melanomas",
+   "D": "It is the laboratory value that determines whether sentinel lymph node biopsy is indicated"
+  },
+  "answer": "A",
+  "exp": "Since 2002, LDH has been a standard component of stage IV subclassification (the M-category suffix), as elevated LDH predicts worse survival and treatment response in advanced disease. The distractors misuse it: LDH does not define T2/T3 boundaries, is not recommended as a baseline screen in early disease (low sensitivity/specificity), and does not determine SLNB indications.",
+  "hy": "LDH = stage IV M-suffix; advanced-disease survival marker.",
+  "src": "Bologna Ch 113 · Staging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.91",
+  "chapter": "Ch113",
+  "section": "Staging",
+  "stem": "Which description of the AJCC-8 stage groupings is correct?",
+  "options": {
+   "A": "Stage 0 = in situ; I–II = localized; III = regional nodal/lymphatic; IV = distant metastasis",
+   "B": "Stage 0 = localized invasive disease; stage I = in situ; III = distant; IV = nodal metastasis",
+   "C": "Stage I = regional nodal disease; II = in-transit metastasis; III = in situ; IV = localized",
+   "D": "Stage II = distant metastasis; III = melanoma in situ; IV = localized invasive primary tumor"
+  },
+  "answer": "A",
+  "exp": "Stage 0 is melanoma in situ; stages I–II are localized invasive cutaneous disease; stage III is regional nodal and/or lymphatic (satellite/in-transit) metastasis; stage IV is distant metastasis. The distractors scramble these definitions.",
+  "hy": "0 in situ · I–II localized · III regional · IV distant.",
+  "src": "Bologna Ch 113 · Staging, Table 113.12",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.92",
+  "chapter": "Ch113",
+  "section": "Prognosis · Table 113.12",
+  "stem": "Which set of AJCC-8 5-year melanoma-specific survival figures is correct?",
+  "options": {
+   "A": "Stage IA ~99%; thick ulcerated T4bN0 ~82%; stage IIID ~32%",
+   "B": "Stage IA ~75%; thick ulcerated T4bN0 ~50%; stage IIID ~10%",
+   "C": "Stage IA ~99%; thick ulcerated T4bN0 ~99%; stage IIID ~80%",
+   "D": "Stage IA ~60%; thick ulcerated T4bN0 ~40%; stage IIID ~5%"
+  },
+  "answer": "A",
+  "exp": "AJCC-8 survival anchors: stage IA ~99% 5-year melanoma-specific survival, falling to ~82% for a thick ulcerated node-negative tumor (T4b N0), down to ~32% for stage IIID — illustrating the steep prognostic gradient. The distractors are uniformly wrong magnitudes (too pessimistic for early disease or too optimistic for advanced).",
+  "hy": "IA 99% → T4bN0 82% → IIID ~32%.",
+  "src": "Bologna Ch 113 · Table 113.12, Prognosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "Stage",
+    "5-yr MSS"
+   ],
+   [
+    "IA",
+    "~99%"
+   ],
+   [
+    "T4b N0 (IIC)",
+    "~82%"
+   ],
+   [
+    "IIIA",
+    "~93%"
+   ],
+   [
+    "IIID",
+    "~32%"
+   ]
+  ]
+ },
+ {
+  "id": "B113.93",
+  "chapter": "Ch113",
+  "section": "Prognosis",
+  "stem": "Once nodal status is known, which factor is described as the strongest single predictor of survival and recurrence in primary cutaneous melanoma?",
+  "options": {
+   "A": "The pathologic status of the sentinel lymph node(s)",
+   "B": "The patient's chronologic age at the time of diagnosis",
+   "C": "The anatomic body site of the primary melanoma",
+   "D": "The maximum clinical diameter of the primary lesion"
+  },
+  "answer": "A",
+  "exp": "The pathologic status of the sentinel lymph node(s) is repeatedly identified as the strongest single predictor of survival and recurrence for primary cutaneous melanoma ≥1 mm thick — the reason SLNB is offered for staging. The distractors (age, site, diameter) are genuine but weaker prognostic variables.",
+  "hy": "SLN status = strongest survival/recurrence predictor.",
+  "src": "Bologna Ch 113 · Management/SLNB",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.94",
+  "chapter": "Ch113",
+  "section": "Prognosis · Table 113.14",
+  "stem": "In localized (stage I/II) melanoma, which clinical variables independently worsen prognosis?",
+  "options": {
+   "A": "Male sex, older age, and a trunk/head/neck (rather than extremity) primary site",
+   "B": "Female sex together with a distal extremity location of the primary tumor",
+   "C": "Younger patient age combined with a scalp location, but only in women",
+   "D": "Left-sided versus right-sided location of the primary cutaneous tumor"
+  },
+  "answer": "A",
+  "exp": "In localized disease, independent adverse clinical variables are male sex, older age, and a trunk/head/neck location (scalp particularly poor) — extremity tumors and female sex fare better. The distractors invert these associations or invent irrelevant ones (laterality).",
+  "hy": "Worse in localized melanoma: male sex, older age, trunk/head/neck site.",
+  "src": "Bologna Ch 113 · Table 113.14, Prognosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.95",
+  "chapter": "Ch113",
+  "section": "Prognosis",
+  "stem": "Among stage III patients, which nodal feature confers a worse prognosis?",
+  "options": {
+   "A": "Clinically detectable (palpable, macroscopic) nodal disease rather than occult microscopic disease",
+   "B": "Microscopic disease detected only on sentinel-node biopsy rather than clinically palpable adenopathy",
+   "C": "A single tumor-involved regional lymph node rather than four or more tumor-involved regional nodes",
+   "D": "Clinically occult disease without satellites rather than the presence of multiple matted regional nodes"
+  },
+  "answer": "A",
+  "exp": "Among node-positive (stage III) patients, clinically detectable (palpable, macroscopic) nodal metastasis carries a worse prognosis than clinically occult (microscopic, SLN-detected) disease — nodal tumor burden matters. The distractors invert the burden relationship or compare the wrong pair (fewer vs more nodes is true but is not the occult-vs-detected axis asked).",
+  "hy": "Macroscopic (palpable) nodes worse than occult (microscopic) disease.",
+  "src": "Bologna Ch 113 · Prognosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.96",
+  "chapter": "Ch113",
+  "section": "Prognosis",
+  "stem": "In stage IV melanoma, which is the major prognostic factor, and what was the historical outlook before modern therapy?",
+  "options": {
+   "A": "Site of distant mets (visceral worse); historically ~9-month median survival, <10% 5-yr with elevated LDH",
+   "B": "Primary tumor diameter; historically a 5-year survival of roughly 50% even with visceral spread present",
+   "C": "Patient biologic sex; historically a median survival of about 5 years regardless of metastatic burden",
+   "D": "The number of separate primary melanomas; historically an overall cure rate of approximately 80%"
+  },
+  "answer": "A",
+  "exp": "In stage IV, the dominant prognostic factor is the site of distant metastases — visceral disease is worse than non-visceral (skin/subcutaneous/distant node) — and historically (pre-modern therapy) median survival was ~9 months with <10% 5-year survival when LDH was elevated. The distractors cite wrong factors/figures.",
+  "hy": "Stage IV: visceral worse; historical median ~9 mo, <10% 5-yr if LDH high.",
+  "src": "Bologna Ch 113 · Prognosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.97",
+  "chapter": "Ch113",
+  "section": "Evaluation",
+  "stem": "What do guidelines recommend regarding baseline imaging/laboratory tests in an asymptomatic patient with newly diagnosed cutaneous melanoma?",
+  "options": {
+   "A": "They recommend AGAINST routine baseline imaging or labs at any thickness in asymptomatic patients",
+   "B": "They advise whole-body FDG PET-CT for every newly diagnosed patient regardless of tumor thickness",
+   "C": "They advise a baseline contrast-enhanced brain MRI for all patients with T1 (≤1 mm) melanomas",
+   "D": "They advise routine baseline serum LDH and a staging CT scan for all melanoma in-situ lesions"
+  },
+  "answer": "A",
+  "exp": "Evidence-based guidelines uniformly recommend AGAINST routine baseline imaging or labs in asymptomatic patients with cutaneous melanoma of ANY thickness, because synchronous distant disease is rare and unfocused testing yields false positives. The distractors prescribe exactly the over-testing the guidelines reject.",
+  "hy": "No baseline imaging/labs in asymptomatic melanoma, any thickness.",
+  "src": "Bologna Ch 113 · Laboratory Investigations and Imaging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.98",
+  "chapter": "Ch113",
+  "section": "Evaluation",
+  "stem": "Per NCCN/AAD guidance, surveillance cross-sectional imaging (e.g. CT chest/abdomen/pelvis or PET-CT) in asymptomatic patients may be considered starting at which stage?",
+  "options": {
+   "A": "Stage IIB and higher",
+   "B": "Stage 0 (in situ)",
+   "C": "Stage IA",
+   "D": "Only after distant metastasis is confirmed"
+  },
+  "answer": "A",
+  "exp": "NCCN/AAD guidance considers surveillance imaging (CT chest/abdomen/pelvis with contrast or whole-body FDG PET-CT) in asymptomatic patients with stage IIB melanoma and higher, i.e. those at higher recurrence risk. The distractors apply imaging to low-risk disease (in situ, IA) or restrict it until metastasis is already proven.",
+  "hy": "Surveillance imaging considered from stage IIB upward.",
+  "src": "Bologna Ch 113 · Laboratory Investigations and Imaging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.99",
+  "chapter": "Ch113",
+  "section": "Evaluation",
+  "stem": "Which imaging modality has the highest sensitivity for detecting distant metastatic melanoma at staging?",
+  "options": {
+   "A": "Whole-body FDG PET-CT (~80% sensitivity for distant disease)",
+   "B": "Plain chest radiography of the thorax in two projections",
+   "C": "A plain-film skeletal radiographic survey of the axial bones",
+   "D": "Regional nodal-basin ultrasound (best for nodal, not distant, disease)"
+  },
+  "answer": "A",
+  "exp": "Whole-body FDG PET-CT has the highest sensitivity (~80%) and specificity (~87%) for distant metastasis at staging/surveillance, making it the preferred modality when available. The distractors are weaker: chest radiography lacks sensitivity, skeletal survey is not a staging tool, and nodal ultrasound is best for *nodal* (not distant) disease.",
+  "hy": "PET-CT = best for distant mets (~80% sens); nodal US best for nodes.",
+  "src": "Bologna Ch 113 · Laboratory Investigations and Imaging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.100",
+  "chapter": "Ch113",
+  "section": "Evaluation",
+  "stem": "Why is routine serum LDH not recommended in lower-stage melanoma?",
+  "options": {
+   "A": "It has low sensitivity and specificity for detecting metastasis in early-stage disease",
+   "B": "It is far too costly a test to justify ordering in routine lower-stage follow-up",
+   "C": "It becomes elevated only in melanoma in situ and not in invasive or metastatic disease",
+   "D": "It reliably replaces sentinel-node biopsy for nodal staging and so is redundant here"
+  },
+  "answer": "A",
+  "exp": "Routine LDH is not recommended in lower-stage melanoma because it has low sensitivity and specificity for detecting metastasis; its established role is stage IV subclassification (with S100B used in Europe for higher-risk surveillance). The distractors are false (cost is not the reason; LDH is not in-situ-specific; it does not replace SLNB).",
+  "hy": "LDH low sens/spec early → reserved for stage IV.",
+  "src": "Bologna Ch 113 · Laboratory Investigations",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.101",
+  "chapter": "Ch113",
+  "section": "Evaluation",
+  "stem": "Which imaging modality is preferred for evaluating suspected brain metastases in melanoma?",
+  "options": {
+   "A": "MRI with contrast",
+   "B": "Chest radiography",
+   "C": "Nodal-basin ultrasound",
+   "D": "Bone scan"
+  },
+  "answer": "A",
+  "exp": "MRI with contrast is preferred for evaluating brain metastases (and select soft-tissue operability questions); CT with contrast is an alternative. The distractors are inappropriate for brain assessment (chest radiograph, nodal ultrasound, bone scan).",
+  "hy": "Brain metastases → contrast MRI (preferred).",
+  "src": "Bologna Ch 113 · Table 113.15, Imaging",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.102",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "What is the preferred initial biopsy of a lesion suspected to be melanoma, and why?",
+  "options": {
+   "A": "Excisional/complete biopsy with narrow (1–3 mm) margins and adequate depth, allowing accurate microstaging",
+   "B": "A superficial shave biopsy sampling only the single most darkly pigmented portion of the lesion",
+   "C": "Fine-needle aspiration of the lesion to obtain cells for cytologic and immunocytochemical analysis",
+   "D": "An incisional wedge biopsy of the thinnest portion of the lesion to minimize the resulting scar"
+  },
+  "answer": "A",
+  "exp": "A suspected melanoma is best removed by excisional/complete biopsy with narrow (1–3 mm) margins and adequate depth, which prevents sampling error and lets the pathologist assess overall architecture and microstage accurately. The distractors compromise staging: a superficial shave of one area, FNA, or a thin incisional wedge risk transection and under-staging.",
+  "hy": "Complete/excisional biopsy (1–3 mm margins) for accurate microstaging.",
+  "src": "Bologna Ch 113 · Skin Investigation and Clinical Diagnosis",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.103",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Why are superficial shave biopsies generally avoided for a thick or palpable pigmented lesion?",
+  "options": {
+   "A": "They risk transecting the tumor base and so underestimating the Breslow thickness",
+   "B": "They cannot provide any usable tissue for routine histopathologic examination at all",
+   "C": "They almost always seed and disseminate melanoma cells along the biopsy track",
+   "D": "They are contraindicated mainly because of the substantial bleeding risk they carry"
+  },
+  "answer": "A",
+  "exp": "Superficial shave biopsies are avoided for thick/palpable lesions because they risk transecting the tumor base, which underestimates Breslow thickness and corrupts staging (though a broad shave can be useful for thin MIS, LM type). The distractors are false: shave biopsies do yield histology, do not seed melanoma along the track, and the concern is transection, not bleeding.",
+  "hy": "Avoid superficial shave on palpable lesions → risks transection/under-staging.",
+  "src": "Bologna Ch 113 · Skin Investigation",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.104",
+  "chapter": "Ch113",
+  "section": "Management · Table 113.16",
+  "stem": "A patient has an invasive melanoma 2.5 mm thick (>2–4 mm). What is the recommended surgical (wide local excision) margin?",
+  "options": {
+   "A": "2.0 cm",
+   "B": "0.5 cm",
+   "C": "1.0 cm",
+   "D": "4.0 cm"
+  },
+  "answer": "A",
+  "exp": "A melanoma >2–4 mm thick is excised with a 2.0 cm margin — the maximum recommended, since randomized trials showed no benefit beyond 2 cm even for thick tumors. The distractors are the margins for thinner tumors (0.5 cm/1 cm for in situ/≤1 mm) or the obsolete 4 cm wide margin.",
+  "hy": ">2 mm melanoma → 2 cm margin (the ceiling).",
+  "src": "Bologna Ch 113 · Table 113.16",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "Thickness",
+    "WLE margin"
+   ],
+   [
+    "Melanoma in situ",
+    "0.5–1.0 cm"
+   ],
+   [
+    "≤1 mm",
+    "1.0 cm"
+   ],
+   [
+    ">1–2 mm",
+    "1.0–2.0 cm"
+   ],
+   [
+    ">2 mm",
+    "2.0 cm"
+   ]
+  ]
+ },
+ {
+  "id": "B113.105",
+  "chapter": "Ch113",
+  "section": "Management · Table 113.16",
+  "stem": "What is the recommended margin for a melanoma in situ (non-LM type), and what is the maximum WLE margin recommended for any thickness?",
+  "options": {
+   "A": "0.5–1.0 cm for in situ; 2.0 cm maximum for thick melanoma (no benefit beyond)",
+   "B": "1.0 cm for melanoma in situ; up to a 5.0 cm maximum margin for thick tumors",
+   "C": "2.0 cm for melanoma in situ; up to a 4.0 cm maximum margin for thick tumors",
+   "D": "0.5 cm for melanoma in situ; a 1.0 cm maximum margin for the thickest tumors"
+  },
+  "answer": "A",
+  "exp": "Melanoma in situ is excised with 0.5–1.0 cm margins, and 2.0 cm is the maximum WLE margin recommended for any thickness — RCTs showed no added benefit beyond 2 cm. The distractors inflate the ceiling (5 cm was the historical pre-trial practice; 4 cm was the comparator that proved unnecessary) or misstate the in-situ margin.",
+  "hy": "In situ 0.5–1.0 cm; 2 cm is the maximum useful margin.",
+  "src": "Bologna Ch 113 · Table 113.16, Surgical Treatment",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.106",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "For melanoma in situ of the lentigo maligna type on the face, which approach is favored?",
+  "options": {
+   "A": "Mohs/staged excision with complete margin assessment; subclinical spread may need ≥1 cm to clear",
+   "B": "A fixed 5 mm peripheral margin, which is reliably sufficient for facial lentigo maligna in all cases",
+   "C": "Cryotherapy applied to the visible lesion as the first-line definitive treatment of choice for the face",
+   "D": "Observation without treatment, on the basis that lentigo maligna essentially never progresses to invasion"
+  },
+  "answer": "A",
+  "exp": "Facial MIS of the lentigo maligna type is best managed with Mohs or staged excision providing complete circumferential peripheral and deep margin assessment (CCPDMA), because subclinical spread along adnexa may require ≥1 cm for histologic clearance. The distractors are false: a fixed 5 mm margin often fails on the face, cryotherapy is not first-line definitive therapy, and LM (melanoma in situ) can progress.",
+  "hy": "Facial MIS-LM → Mohs/staged excision (CCPDMA); subclinical spread may need ≥1 cm.",
+  "src": "Bologna Ch 113 · Mohs Micrographic Surgery",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.107",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Topical imiquimod is sometimes used for lentigo maligna. What is its mechanism, and when is it typically used?",
+  "options": {
+   "A": "A Toll-like receptor (TLR)-7 agonist; used as primary therapy when surgery is unsuitable, or adjunctively",
+   "B": "An alkylating cytotoxic chemotherapy cream applied directly to the surgical tumor bed after resection",
+   "C": "A topical BRAF-inhibitor preparation applied to V600E-mutant lentigo maligna to shrink it before surgery",
+   "D": "A first-line replacement for wide local excision in essentially all invasive cutaneous melanomas"
+  },
+  "answer": "A",
+  "exp": "Imiquimod is a Toll-like receptor (TLR)-7 agonist used for lentigo maligna either as primary therapy (elderly/poor surgical candidates, disfiguring facial sites) or adjuvantly when surgical margins are narrow (≤1 mm) or transected with no clinical residual tumor. The distractors miscast it as alkylating chemotherapy, a BRAF inhibitor, or a replacement for surgery in invasive melanoma.",
+  "hy": "Imiquimod = TLR-7 agonist; LM primary (non-surgical) or adjuvant.",
+  "src": "Bologna Ch 113 · Topical Imiquimod",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.108",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "What is the current evidence-based status of Mohs micrographic surgery (MMS) for invasive cutaneous melanoma?",
+  "options": {
+   "A": "Evidence is insufficient to recommend MMS for invasive melanoma; its recognized role is mainly MIS (LM/acral)",
+   "B": "MMS is the established, guideline-endorsed standard of care for all invasive cutaneous melanomas at any site",
+   "C": "MMS is formally contraindicated for any melanoma whatsoever, including melanoma in situ of the head and neck",
+   "D": "MMS has demonstrated clearly superior melanoma-specific survival in large prospective randomized trials"
+  },
+  "answer": "A",
+  "exp": "Evidence is currently insufficient for guidelines to recommend MMS for *invasive* melanoma; its recognized value is in melanoma in situ — LM/CSD type and acral type (and minimally invasive T1a LMM at constrained sites) — where complete margin assessment improves local control. The distractors overstate (standard for all invasive melanoma; proven MSS benefit) or wrongly forbid it entirely.",
+  "hy": "MMS: established for MIS (LM/acral), not yet recommended for invasive melanoma.",
+  "src": "Bologna Ch 113 · Mohs Micrographic Surgery",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.109",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Adjuvant pembrolizumab is approved for which resected node-negative (stage II) melanomas?",
+  "options": {
+   "A": "Stage IIB (T3b/T4a N0) and stage IIC (T4b N0)",
+   "B": "Stage IA disease (a T1a N0 thin melanoma)",
+   "C": "All resected melanoma in-situ (stage 0) lesions",
+   "D": "Only resected stage IV distant metastatic disease"
+  },
+  "answer": "A",
+  "exp": "Adjuvant pembrolizumab is approved for resected node-negative stage IIB (T3b/T4a N0) and IIC (T4b N0) melanoma, based on a phase 3 trial showing reduced recurrence/death. The distractors are out of indication: stage IA and in situ are too low-risk, and the stage II approval is specifically about resected node-negative high-risk primaries, not stage IV.",
+  "hy": "Adjuvant pembrolizumab: resected stage IIB/IIC.",
+  "src": "Bologna Ch 113 · Adjuvant Therapy for Stage II",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.110",
+  "chapter": "Ch113",
+  "section": "Management · Table 113.13",
+  "stem": "For which clinical scenario is sentinel lymph node biopsy NOT typically recommended?",
+  "options": {
+   "A": "T1a melanoma (<0.8 mm, no ulceration), with SLN positivity under 5%",
+   "B": "T2a melanoma (>1–2 mm thick, without ulceration of the primary tumor)",
+   "C": "T3b melanoma (>2–4 mm thick, with histologic ulceration of the primary)",
+   "D": "T4a melanoma (>4 mm thick, without ulceration of the primary tumor)"
+  },
+  "answer": "A",
+  "exp": "SLNB is NOT typically recommended for T1a melanoma (<0.8 mm without ulceration), where the probability of a positive node is <5%. The distractors are scenarios where SLNB IS discussed/offered: T2a (>10% positivity), and the higher-risk T3b and T4a tumors.",
+  "hy": "No routine SLNB for T1a (<0.8 mm, no ulcer; <5% positive).",
+  "src": "Bologna Ch 113 · Table 113.13",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma",
+  "exptable": [
+   [
+    "Stage",
+    "SLNB"
+   ],
+   [
+    "Tis / T1a",
+    "Not typically"
+   ],
+   [
+    "T1b",
+    "Discuss and consider (5–10%)"
+   ],
+   [
+    "T2a and higher",
+    "Discuss and offer (>10%)"
+   ]
+  ]
+ },
+ {
+  "id": "B113.111",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Approximately what proportion of clinically node-negative patients with melanoma >1 mm thick have a positive sentinel node?",
+  "options": {
+   "A": "15–20%",
+   "B": "1–2%",
+   "C": "40–50%",
+   "D": "70–80%"
+  },
+  "answer": "A",
+  "exp": "Roughly 15–20% of clinically node-negative patients with melanoma >1 mm thick harbor microscopic nodal disease found on SLNB, with the rate rising with thickness, ulceration, high mitotic index, and lymphovascular invasion. The distractors are far off the cited figure.",
+  "hy": "~15–20% SLNB positivity for melanoma >1 mm, node-negative clinically.",
+  "src": "Bologna Ch 113 · SLNB",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.112",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "During SLNB, which is a criterion for identifying a sentinel node intraoperatively?",
+  "options": {
+   "A": "A node emitting ≥10% of the hottest node's tracer counts (and/or dyed blue or palpably enlarged)",
+   "B": "Only the single anatomically largest node in the basin, irrespective of tracer uptake or dye",
+   "C": "Specifically any node that fails to take up either the blue dye or the radiotracer at all",
+   "D": "All lymph nodes lying within 5 cm of the primary tumor, removed empirically en bloc"
+  },
+  "answer": "A",
+  "exp": "Sentinel nodes are defined intraoperatively as any palpably enlarged node, any node dyed blue, the node with the highest radiotracer emission, and any node emitting ≥10% of the counts of the hottest node. The distractors contradict this (a single largest node, non-uptaking nodes, or empiric removal of all nearby nodes).",
+  "hy": "SLN = blue, hottest, ≥10% of hottest, or palpable.",
+  "src": "Bologna Ch 113 · SLNB",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.113",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "What best describes the role of SLNB in melanoma?",
+  "options": {
+   "A": "A prognostic/staging procedure not shown to improve survival, but it finds occult stage III disease",
+   "B": "A therapeutic procedure that, by removing the first draining node, independently cures regional nodal disease",
+   "C": "A procedure that has now replaced wide local excision as the definitive treatment of the primary tumor",
+   "D": "A staging step that is required in every melanoma, including thin melanoma in situ (stage 0) lesions"
+  },
+  "answer": "A",
+  "exp": "SLNB is primarily a prognostic/staging procedure: apart from select MSLT-1 subgroups it has not been shown to improve overall survival, but it identifies occult stage III disease, enabling relapse-free-survival–improving adjuvant therapy. The distractors overstate it (curative/therapeutic, replaces WLE) or wrongly extend it to in situ disease.",
+  "hy": "SLNB = prognostic, not therapeutic; enables adjuvant therapy.",
+  "src": "Bologna Ch 113 · SLNB",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.114",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Following a positive SLNB, why has completion lymph node dissection (CLND) declined?",
+  "options": {
+   "A": "Two RCTs (MSLT-2, DeCOG) showed no overall-survival benefit versus nodal-ultrasound surveillance",
+   "B": "Completion dissection was actually shown in randomized trials to worsen melanoma-specific survival",
+   "C": "Completion dissection is technically impossible to perform once the sentinel node has been removed",
+   "D": "Nodal ultrasound surveillance now provides full pathologic non-sentinel-node data, making it redundant"
+  },
+  "answer": "A",
+  "exp": "CLND after a positive SLNB has declined because two RCTs (MSLT-2 and DeCOG) showed no overall-survival benefit versus observation with nodal-ultrasound surveillance. The distractors are false: CLND did not worsen MSS, it is technically feasible, and ultrasound does NOT provide pathologic non-sentinel-node information (a stated limitation).",
+  "hy": "No OS benefit for CLND (MSLT-2/DeCOG) → nodal US surveillance.",
+  "src": "Bologna Ch 113 · CLND",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.115",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "A patient develops indurated papulonodules within 2 cm of the melanoma excision scar (satellitosis). How does this change staging?",
+  "options": {
+   "A": "It reclassifies the disease as stage III — prompting imaging, wide excision/possible SLNB, and adjuvant discussion",
+   "B": "It remains stage I provided the original primary tumor was thin and had been completely excised",
+   "C": "It is automatically stage IV distant metastatic disease regardless of how close it lies to the scar",
+   "D": "It carries no staging implication at all as long as the original surgical margins were histologically clear"
+  },
+  "answer": "A",
+  "exp": "Satellitosis (papulonodules within ~2 cm of the scar) is lymphatic (in-transit) disease that reclassifies the melanoma as stage III, prompting staging imaging, referral for wide excision and possible SLNB, and discussion of adjuvant systemic therapy. The distractors understage it (remaining stage I, no implication) or overstage it (automatically stage IV distant disease).",
+  "hy": "Satellite/in-transit recurrence = stage III → restage + adjuvant discussion.",
+  "src": "Bologna Ch 113 · Local Recurrences",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.116",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Talimogene laherparepvec (TVEC), used intralesionally for unresectable cutaneous/in-transit metastases, works by:",
+  "options": {
+   "A": "Being an engineered herpes virus that replicates in tumor cells and secretes GM-CSF to drive antitumor immunity",
+   "B": "Acting as a systemically administered alkylating cytotoxic chemotherapy that crosslinks tumor-cell DNA",
+   "C": "Combining a BRAF inhibitor with a MEK inhibitor to shut down constitutive MAPK pathway signaling",
+   "D": "Functioning as an anti-PD-1 monoclonal antibody that releases the brake on cytotoxic T lymphocytes"
+  },
+  "answer": "A",
+  "exp": "TVEC is a genetically engineered herpes simplex virus that selectively replicates in tumor cells, lysing them and producing GM-CSF to recruit and stimulate an antitumor immune response — used intralesionally for unresectable cutaneous/in-transit disease. The distractors describe entirely different modalities (alkylating chemotherapy, BRAF/MEK inhibition, anti-PD-1 antibody).",
+  "hy": "TVEC = oncolytic engineered HSV expressing GM-CSF.",
+  "src": "Bologna Ch 113 · Skin Satellite and In-Transit Metastases",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.117",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "For multiple in-transit metastases confined to one limb, which regional treatment may have palliative (sometimes curative) value?",
+  "options": {
+   "A": "Isolated limb perfusion using melphalan, with or without added TNF",
+   "B": "Whole-brain external-beam radiotherapy delivered over several fractions",
+   "C": "Systemic single-agent dacarbazine chemotherapy given intravenously",
+   "D": "Prophylactic completion lymphadenectomy of the regional nodal basin"
+  },
+  "answer": "A",
+  "exp": "For multiple in-transit metastases confined to a limb, isolated limb perfusion with melphalan (± TNF) has palliative and sometimes curative value (reported 5-/10-year survival ~40%/30%). The distractors are inappropriate here: whole-brain RT is for brain disease, single-agent dacarbazine is weak salvage chemotherapy, and prophylactic lymphadenectomy does not treat in-transit disease.",
+  "hy": "Limb in-transit disease → isolated limb perfusion (melphalan ± TNF).",
+  "src": "Bologna Ch 113 · Skin Satellite and In-Transit Metastases",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.118",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "For resected stage III melanoma with a BRAF V600 mutation, which adjuvant targeted regimen is approved?",
+  "options": {
+   "A": "Dabrafenib plus trametinib (a BRAF inhibitor with a MEK inhibitor)",
+   "B": "Imatinib monotherapy directed against the KIT receptor tyrosine kinase",
+   "C": "High-dose interleukin-2 immunostimulation given as inpatient therapy",
+   "D": "Larotrectinib, the selective TRK inhibitor used for NTRK-fusion tumors"
+  },
+  "answer": "A",
+  "exp": "For resected stage III BRAF V600-mutant melanoma, adjuvant dabrafenib plus trametinib (BRAF + MEK inhibitors) is approved. The distractors target the wrong lesion or era: imatinib is for KIT-mutant disease, high-dose IL-2 is older unresectable-disease therapy, and larotrectinib is for NTRK-fusion tumors.",
+  "hy": "Adjuvant dabrafenib+trametinib for resected stage III BRAF V600+.",
+  "src": "Bologna Ch 113 · Adjuvant Therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.119",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Why are BRAF inhibitors combined with MEK inhibitors in BRAF-mutant melanoma?",
+  "options": {
+   "A": "The combination delays resistance (response ~10 months) and cuts the cutaneous SCCs/KAs of BRAFi monotherapy",
+   "B": "The MEK inhibitor is required to activate the BRAF inhibitor, which is an inactive prodrug on its own",
+   "C": "Adding a MEK inhibitor reliably eliminates all of the immune-related adverse events of the regimen",
+   "D": "The MEK inhibitor is needed to treat the NRAS mutation that every BRAF-mutant melanoma also carries"
+  },
+  "answer": "A",
+  "exp": "A MEK inhibitor is added to a BRAF inhibitor because the combination delays acquired resistance (extending average response to ~10 months) and reduces the keratinocyte side effects (cutaneous SCCs, keratoacanthomas) caused by BRAF-inhibitor monotherapy. The distractors are false mechanisms: BRAF inhibitors are not prodrugs needing MEK, the combination does not eliminate irAEs, and not all BRAF-mutant tumors carry NRAS mutations.",
+  "hy": "BRAFi+MEKi: delays resistance (~10 mo) and cuts cuSCC/KA.",
+  "src": "Bologna Ch 113 · Molecularly Targeted Therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.120",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "BRAF-inhibitor monotherapy induces cutaneous squamous cell carcinomas/keratoacanthomas in up to ~25% of patients because of:",
+  "options": {
+   "A": "Paradoxical MAPK pathway activation in wild-type-BRAF (often RAS-mutant) keratinocytes",
+   "B": "Direct chemical mutagenesis of keratinocyte DNA by the small-molecule drug itself",
+   "C": "Drug-induced local immunosuppression of the skin permitting keratinocyte outgrowth",
+   "D": "Reactivation of latent oncogenic human papillomavirus within the epidermal keratinocytes"
+  },
+  "answer": "A",
+  "exp": "BRAF-inhibitor monotherapy causes cutaneous SCCs/keratoacanthomas in up to ~25% of patients through *paradoxical* MAPK activation in keratinocytes that have wild-type BRAF and frequently RAS mutations — which is why these lesions fall when a MEK inhibitor is added. The distractors propose mechanisms the chapter does not support (direct DNA mutagenesis, immunosuppression, HPV reactivation).",
+  "hy": "BRAFi → paradoxical MAPK in RAS-mutant keratinocytes → cuSCC/KA (~25%).",
+  "src": "Bologna Ch 113 · Molecularly Targeted Therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.121",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Which statement about first-line systemic therapy for unresectable/metastatic melanoma is correct?",
+  "options": {
+   "A": "ICIs are generally preferred first-line regardless of BRAF status; ipilimumab is largely supplanted by anti-PD-1 agents",
+   "B": "BRAF inhibitors are recommended first-line even for tumors that are confirmed to be BRAF-wild-type on testing",
+   "C": "Single-agent ipilimumab (anti-CTLA-4) is preferred over anti-PD-1 monotherapy because it is less toxic overall",
+   "D": "Cytotoxic chemotherapy with dacarbazine remains the standard first-line treatment of metastatic melanoma"
+  },
+  "answer": "A",
+  "exp": "Immune checkpoint inhibitors are generally preferred first-line for unresectable/metastatic melanoma regardless of BRAF status (durable responses), and the original anti-CTLA-4 agent ipilimumab has been largely supplanted by the more effective, less toxic anti-PD-1 antibodies nivolumab and pembrolizumab. The distractors are false: BRAF inhibitors require a BRAF mutation, single-agent ipilimumab is inferior to anti-PD-1, and chemotherapy is now salvage-only.",
+  "hy": "ICIs first-line (any BRAF status); anti-PD-1 > ipilimumab.",
+  "src": "Bologna Ch 113 · Immune Checkpoint Blockade",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.122",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Approximately what proportion of cutaneous melanomas carry an activating BRAF mutation, and what fraction of BRAF mutations are V600E?",
+  "options": {
+   "A": "~45% are BRAF-mutant; ~90% of BRAF mutations are V600E",
+   "B": "~80% are BRAF-mutant; about half of those mutations are V600E",
+   "C": "~15% are BRAF-mutant; only about 10% of those are V600E",
+   "D": "~95% are BRAF-mutant; nearly all of those are V600K, not V600E"
+  },
+  "answer": "A",
+  "exp": "About 45% of cutaneous melanomas carry an activating BRAF mutation (and ~15% NRAS), and roughly 90% of those BRAF mutations are V600E (glutamic acid for valine). The distractors use wrong proportions (80%/50%; 15%/10%; 95% all-V600K).",
+  "hy": "~45% BRAF-mutant; ~90% of BRAF mutations are V600E.",
+  "src": "Bologna Ch 113 · Molecularly Targeted Therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.123",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Why is caution needed when sequencing a BRAF inhibitor shortly after an immune checkpoint inhibitor?",
+  "options": {
+   "A": "Severe drug hypersensitivity (DRESS) occurs in ~20% when a BRAFi follows ICI priming, versus ~5% without",
+   "B": "The overlapping combination predictably triggers an immediate, life-threatening tumor lysis syndrome",
+   "C": "Immune checkpoint inhibitors permanently and irreversibly inactivate the BRAF inhibitor molecule",
+   "D": "The sequence reliably cures essentially all treated patients, so no special caution is actually needed"
+  },
+  "answer": "A",
+  "exp": "Severe drug hypersensitivity, including DRESS (drug reaction with eosinophilia and systemic symptoms), occurs in ~20% of patients when a BRAF inhibitor is given soon after immune checkpoint inhibitor \"priming,\" versus ~5% without prior ICI — a reason to be cautious with sequencing. The distractors invent unrelated mechanisms (tumor lysis, BRAFi inactivation) or wrongly claim the sequence is uniformly safe/curative.",
+  "hy": "BRAFi soon after ICI → ~20% DRESS (vs ~5%).",
+  "src": "Bologna Ch 113 · Systemic Therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.124",
+  "chapter": "Ch113",
+  "section": "Management",
+  "stem": "Which is an appropriate use of radiation therapy in melanoma?",
+  "options": {
+   "A": "Stereotactic radiosurgery for brain mets; primary RT for unresectable MIS-LM; adjuvant RT for high-risk desmoplastic tumors",
+   "B": "Routine first-line definitive treatment of all localized cutaneous melanomas in place of surgical excision",
+   "C": "Routine adjuvant irradiation of the nodal basin after lymphadenectomy, on the basis of a proven survival benefit",
+   "D": "As a standard substitute for wide local excision in the management of thin (T1) cutaneous melanomas"
+  },
+  "answer": "A",
+  "exp": "Radiation has defined niches in melanoma: stereotactic radiosurgery for brain metastases, primary RT for unresectable MIS (LM type), and adjuvant RT for high-risk (e.g. neurotropic) desmoplastic melanoma. The distractors are wrong: RT is rarely used for localized cutaneous melanoma, routine adjuvant nodal-basin RT showed no survival benefit (only local control at cost of toxicity), and RT does not replace wide excision of thin melanomas.",
+  "hy": "RT niches: SRS for brain mets, unresectable MIS-LM, adjuvant for desmoplastic.",
+  "src": "Bologna Ch 113 · Radiation Therapy",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.125",
+  "chapter": "Ch113",
+  "section": "Surveillance",
+  "stem": "Which statement about melanoma recurrence and second primaries is correct?",
+  "options": {
+   "A": "About 90% of recurrences occur within 5 years (greatest in the first 2); second-primary risk is ~3.5–4.5%",
+   "B": "Recurrences are spread evenly across the first 20 years of follow-up, showing no early post-diagnosis peak",
+   "C": "Late recurrence occurring beyond 10–15 years from diagnosis is by far the most common pattern of relapse",
+   "D": "The lifetime risk of developing a second primary cutaneous melanoma exceeds 50% in most treated patients"
+  },
+  "answer": "A",
+  "exp": "About 90% of melanoma recurrences occur within the first 5 years (greatest in the first 2), and the lifetime risk of a second primary melanoma is ~3.5–4.5% — hence lifelong surveillance. The distractors are false: recurrences are front-loaded (not evenly spread), late recurrence beyond 10–15 years is uncommon (not the dominant pattern), and second-primary risk is single-digit, not >50%.",
+  "hy": "90% of recurrences in first 5 yr; second-primary risk ~3.5–4.5%.",
+  "src": "Bologna Ch 113 · Melanoma Surveillance",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
+ },
+ {
+  "id": "B113.126",
+  "chapter": "Ch113",
+  "section": "Surveillance",
+  "stem": "A typical recommended dermatologic follow-up schedule after melanoma diagnosis is:",
+  "options": {
+   "A": "1–4 times/year for 2 years, then every 6–12 months through year 5, then at least annually",
+   "B": "A single comprehensive skin examination visit at the 5-year mark, followed by discharge from care",
+   "C": "Weekly dermatologic visits continued indefinitely for the remainder of the patient's lifetime",
+   "D": "Whole-body imaging every month for life, regardless of the original stage at diagnosis"
+  },
+  "answer": "A",
+  "exp": "Most experts recommend dermatologic visits 1–4 times per year for the first 2 years (risk-adjusted), then every 6–12 months through year 5, then at least annually thereafter — matching the front-loaded recurrence risk. The distractors are implausible extremes (single 5-year visit; weekly visits; monthly lifelong imaging).",
+  "hy": "Follow-up: 1–4×/yr ×2 yr → q6–12 mo to year 5 → annually.",
+  "src": "Bologna Ch 113 · Melanoma Surveillance",
+  "book": "Bologna",
+  "vol": "",
+  "chnum": "113",
+  "chname": "Melanoma"
  }
 ]
