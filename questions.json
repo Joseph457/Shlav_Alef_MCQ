@@ -34964,5 +34964,1877 @@
   "chname": "Neurofibroma & Merkel Cell Carcinoma",
   "image": "images/B115-27.jpg",
   "imgcap": "Immunostain with perinuclear dot pattern"
+ },
+ {
+  "id": "N-I-15.1",
+  "chapter": "Ch15",
+  "section": "The wound healing process",
+  "stem": "Wound healing is traditionally divided into four overlapping phases. Which sequence lists them in the correct temporal order?",
+  "options": {
+   "A": "Hemostasis → inflammation → proliferation → maturation",
+   "B": "Inflammation → hemostasis → maturation → proliferation",
+   "C": "Hemostasis → proliferation → inflammation → maturation",
+   "D": "Inflammation → proliferation → hemostasis → maturation"
+  },
+  "answer": "A",
+  "exp": "Wound healing proceeds through four overlapping phases in a fixed order: hemostasis (seconds–minutes, clot/vasoconstriction to stop bleeding), inflammation (≈2–3 days, neutrophils then macrophages clear pathogens/debris), proliferation (≈day 3 to 3 weeks, granulation, re-epithelialization, contraction), and maturation/remodeling (from ≈3 weeks, up to 2 years, collagen remodeling and strengthening). Knowing the order matters because chronic wounds stall in inflammation and never reach proliferation. The other sequences misplace hemostasis or invert inflammation and proliferation.",
+  "hy": "Order: hemostasis → inflammation → proliferation → maturation.",
+  "src": "Neligan I.15 · The wound healing process",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the canonical temporal order of the four phases.",
+   "B": "Wrong — hemostasis precedes inflammation, not the reverse.",
+   "C": "Wrong — inflammation precedes proliferation.",
+   "D": "Wrong — hemostasis is first, not third."
+  },
+  "exptable": [
+   [
+    "Phase",
+    "Timing",
+    "Key events"
+   ],
+   [
+    "Hemostasis",
+    "Seconds–minutes",
+    "Platelet/fibrin clot, vasoconstriction, provisional matrix"
+   ],
+   [
+    "Inflammation",
+    "~2–3 days",
+    "Neutrophils (first) → monocytes/macrophages clear debris"
+   ],
+   [
+    "Proliferation",
+    "~day 3 to 3 weeks",
+    "Granulation, re-epithelialization, contraction"
+   ],
+   [
+    "Maturation",
+    "~3 weeks to 2 years",
+    "Type III→I collagen, tensile-strength gain"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-15.2",
+  "chapter": "Ch15",
+  "section": "Hemostasis",
+  "stem": "The hemostasis phase begins within seconds to minutes of injury. Beyond forming a physical clot, what additional role does the fibrin clot serve in later healing?",
+  "options": {
+   "A": "It is a provisional matrix that neutrophils, monocytes, fibroblasts, and endothelial cells migrate into",
+   "B": "It directly re-epithelializes the entire wound surface within the first hour after wounding occurs",
+   "C": "It differentiates into the α-SMA myofibroblasts that later contract and approximate the wound edges",
+   "D": "It secretes the matrix metalloproteinases that remodel type III collagen into stronger, mature type I collagen"
+  },
+  "answer": "A",
+  "exp": "The fibrin clot does more than stop bleeding: it is a provisional (scaffold) matrix that neutrophils, monocytes, fibroblasts, and endothelial cells migrate into to drive later phases, and it is a reservoir of platelet-derived growth factors/cytokines that initiate inflammation. The clot itself contains thrombin, fibronectin, collagen, and platelets. Re-epithelialization (keratinocytes), contraction (myofibroblasts), and type III→I remodeling (MMPs) all occur later and are not functions of the clot.",
+  "hy": "Fibrin clot = provisional matrix + growth-factor reservoir for incoming cells.",
+  "src": "Neligan I.15 · Hemostasis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the clot is a provisional matrix for migrating repair cells.",
+   "B": "Wrong — re-epithelialization is a proliferative-phase keratinocyte event, not the clot's role.",
+   "C": "Wrong — myofibroblasts (not the clot) contract the wound later.",
+   "D": "Wrong — MMP-driven collagen remodeling belongs to maturation."
+  }
+ },
+ {
+  "id": "N-I-15.3",
+  "chapter": "Ch15",
+  "section": "Inflammation",
+  "stem": "Which cell is the FIRST inflammatory cell to arrive at the injured area, and what early action does it perform?",
+  "options": {
+   "A": "The neutrophil, which activates the complement system and clears pathogens",
+   "B": "The M2 macrophage, which deposits the collagen and ground substance in the bed",
+   "C": "The myofibroblast, which begins to contract and approximate the open wound edges",
+   "D": "The fibroblast, which produces the great bulk of the granulation-tissue collagen"
+  },
+  "answer": "A",
+  "exp": "Neutrophils are the first inflammatory cells to reach the injured area; they activate the complement cascade (which opsonizes/lyses pathogens and releases chemoattractants that recruit more neutrophils over the first 24–48 h) and clear pathogens and damaged matrix. M2 macrophages, myofibroblasts, and fibroblasts are all recruited/active later, in the proliferative phase.",
+  "hy": "Neutrophil = first responder; activates complement, clears pathogens.",
+  "src": "Neligan I.15 · Inflammation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — neutrophils arrive first and activate complement.",
+   "B": "Wrong — M2 macrophages act later, transitioning into proliferation.",
+   "C": "Wrong — myofibroblast contraction is a proliferative-phase event.",
+   "D": "Wrong — fibroblast collagen production occurs in proliferation."
+  }
+ },
+ {
+  "id": "N-I-15.4",
+  "chapter": "Ch15",
+  "section": "Inflammation",
+  "stem": "Roughly 72 hours after injury, monocytes infiltrate the wound and differentiate into macrophages. Which cluster of chemoattractants recruits them?",
+  "options": {
+   "A": "TGF-β, extracellular-matrix protein fragments, and degraded-bacteria products",
+   "B": "Thrombin, fibronectin, and aggregated platelets from the initial hemostatic plug",
+   "C": "Type I collagen, elastin, and hydroxyproline released during late dermal remodeling",
+   "D": "VEGF, PDGF, and FGF that later drive angiogenesis during the proliferative phase"
+  },
+  "answer": "A",
+  "exp": "About 72 h after injury, monocytes are recruited into the wound by TGF-β, extracellular-matrix protein fragments, and products of degraded bacteria; they then differentiate into macrophages that phagocytose debris and secrete repair cytokines (TGF-α, TGF-β, PDGF, IGF, IL-1). Thrombin/fibronectin/platelets belong to the clot; collagen/elastin are ECM products of proliferation; VEGF/PDGF/FGF are proliferative-phase angiogenic factors, not monocyte chemoattractants.",
+  "hy": "Monocyte recruitment (~72 h): TGF-β + ECM fragments + bacterial breakdown products.",
+  "src": "Neligan I.15 · Inflammation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the three cited monocyte chemoattractants.",
+   "B": "Wrong — those are components of the hemostatic clot.",
+   "C": "Wrong — collagen/elastin/hydroxyproline are matrix products, not chemoattractants.",
+   "D": "Wrong — VEGF/PDGF/FGF drive proliferative-phase angiogenesis, not monocyte recruitment."
+  }
+ },
+ {
+  "id": "N-I-15.5",
+  "chapter": "Ch15",
+  "section": "Inflammation",
+  "stem": "Macrophages change phenotype as healing proceeds. Which description of the M1-to-M2 transition is correct?",
+  "options": {
+   "A": "Proinflammatory M1 cells phagocytose debris; a switch to reparative M2 is required to enter proliferation",
+   "B": "Anti-inflammatory M1 cells begin all collagen deposition, while proinflammatory M2 cells clear the pathogens",
+   "C": "M1 cells secrete the myofibroblast contraction signals, while M2 cells trigger the hemostatic clotting cascade",
+   "D": "The macrophage phenotype is fixed throughout, so the M1:M2 ratio has no bearing on chronic-wound formation"
+  },
+  "answer": "A",
+  "exp": "Macrophages are plastic: proinflammatory \"M1\" cells dominate early and phagocytose debris and pathogens, then a switch to anti-inflammatory \"M2\" cells is required to enter the proliferative phase (collagen and ground-substance deposition). Failure of the M1→M2 transition is associated with chronic wounds — though it is unclear whether persistent M1 cells cause chronicity or merely mark it. The distractors reverse the M1/M2 roles or wrongly claim the phenotype is fixed.",
+  "hy": "M1 (inflammatory, debris) → M2 (reparative); failed switch ↔ chronic wound.",
+  "src": "Neligan I.15 · Inflammation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — M1 clears debris, M2 enables proliferation; failed switch ↔ chronicity.",
+   "B": "Wrong — it reverses which phenotype is inflammatory vs reparative.",
+   "C": "Wrong — M1/M2 do not trigger contraction or hemostasis.",
+   "D": "Wrong — the phenotype changes and does bear on chronic wounds."
+  }
+ },
+ {
+  "id": "N-I-15.6",
+  "chapter": "Ch15",
+  "section": "Proliferation",
+  "stem": "The proliferative phase begins about day 3 and lasts up to 3 weeks. Which triad of processes defines it?",
+  "options": {
+   "A": "Granulation-tissue deposition, re-epithelialization, and wound contraction",
+   "B": "Vasoconstriction, platelet aggregation, and provisional fibrin-clot formation",
+   "C": "Collagen cross-link maturation, type III→I conversion, and MMP remodeling",
+   "D": "Complement activation, neutrophil chemotaxis, and phagocytosis of pathogens"
+  },
+  "answer": "A",
+  "exp": "The proliferative phase (≈day 3 to 3 weeks) is defined by three processes: granulation-tissue deposition (fibroplasia + angiogenesis, driven by FGF, VEGF, PDGF, TGF-β; granulation well-established by ~day 5), re-epithelialization (keratinocyte migration), and wound contraction (myofibroblasts). Vasoconstriction/platelets belong to hemostasis; type III→I conversion and MMP remodeling belong to maturation; complement/neutrophil chemotaxis belong to inflammation.",
+  "hy": "Proliferation triad: granulation, re-epithelialization, contraction.",
+  "src": "Neligan I.15 · Proliferation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the three defining proliferative processes.",
+   "B": "Wrong — those are hemostasis events.",
+   "C": "Wrong — collagen maturation/remodeling is the maturation phase.",
+   "D": "Wrong — complement and neutrophil chemotaxis are inflammatory-phase."
+  }
+ },
+ {
+  "id": "N-I-15.7",
+  "chapter": "Ch15",
+  "section": "Proliferation",
+  "stem": "Which cell drives wound contraction during the proliferative phase, and what marker identifies it?",
+  "options": {
+   "A": "The myofibroblast, expressing α-smooth muscle actin",
+   "B": "The neutrophil, expressing the enzyme myeloperoxidase",
+   "C": "The basal keratinocyte, expressing surface cytokeratin",
+   "D": "The M1 macrophage, expressing inducible nitric oxide synthase"
+  },
+  "answer": "A",
+  "exp": "Wound contraction is performed by myofibroblasts — fibroblasts induced by macrophages to differentiate into α-smooth-muscle-actin–expressing contractile cells that pull the wound edges together; they undergo apoptosis when contraction is complete (failure of this apoptosis contributes to fibrosis/hypertrophic scarring). Neutrophils clear pathogens, keratinocytes re-epithelialize, and M1 macrophages phagocytose — none contracts the wound.",
+  "hy": "Myofibroblast (α-SMA) = the contractile cell of the proliferative phase.",
+  "src": "Neligan I.15 · Proliferation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — α-SMA-positive myofibroblasts drive contraction.",
+   "B": "Wrong — neutrophils are phagocytic, not contractile.",
+   "C": "Wrong — keratinocytes re-epithelialize, they do not contract.",
+   "D": "Wrong — M1 macrophages phagocytose debris."
+  }
+ },
+ {
+  "id": "N-I-15.8",
+  "chapter": "Ch15",
+  "section": "Proliferation",
+  "stem": "Beyond keratinocytes at the wound margin, which additional cell population contributes to re-epithelialization?",
+  "options": {
+   "A": "Epidermal stem cells residing in the bulge region of hair follicles",
+   "B": "Circulating hematopoietic stem cells recruited from the bone marrow",
+   "C": "Myofibroblasts migrating inward from the deep investing body fascia",
+   "D": "Endothelial progenitor cells assembling directly into the new epidermis"
+  },
+  "answer": "A",
+  "exp": "Re-epithelialization is fed both by basal keratinocytes at the wound margin and by epidermal stem cells (ESCs) residing in the bulge region of hair follicles (and sebaceous glands), which activate, differentiate, and migrate to the wound — one reason partial-thickness wounds with intact adnexa re-epithelialize well. Hematopoietic stem cells, myofibroblasts, and endothelial progenitors do not form epidermis.",
+  "hy": "Hair-follicle bulge epidermal stem cells help re-epithelialize.",
+  "src": "Neligan I.15 · Proliferation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — bulge-region epidermal stem cells contribute keratinocytes.",
+   "B": "Wrong — hematopoietic stem cells make blood lineages, not epidermis.",
+   "C": "Wrong — myofibroblasts contract; they do not become epidermis.",
+   "D": "Wrong — endothelial progenitors form vessels, not neo-epidermis."
+  }
+ },
+ {
+  "id": "N-I-15.9",
+  "chapter": "Ch15",
+  "section": "Maturation",
+  "stem": "During the maturation (remodeling) phase, how does collagen change, and over what window?",
+  "options": {
+   "A": "Type III collagen remodels to type I over months 6–12, fibers becoming parallel",
+   "B": "Type I collagen is replaced by type III within the first postinjury week, fibers randomizing",
+   "C": "Type IV basement-membrane collagen is laid down across the first 48 hours after injury",
+   "D": "Collagen synthesis ceases entirely the moment the surface eschar separates from the wound"
+  },
+  "answer": "A",
+  "exp": "In maturation, poorly organized early collagen is remodeled: type III collagen (laid down in proliferation) is converted to stronger type I over months 6–12, and fibers reorient increasingly parallel to lines of stress, orchestrated by MMPs from fibroblasts and macrophages. The reversed distractor inverts the collagen types and timeline; type IV is basement-membrane collagen; collagen turnover continues rather than stopping at eschar separation.",
+  "hy": "Maturation: type III→I collagen over months 6–12, fibers become parallel.",
+  "src": "Neligan I.15 · Maturation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — type III→I remodeling over months 6–12.",
+   "B": "Wrong — it reverses the collagen types and the timeline.",
+   "C": "Wrong — type IV is basement membrane, not the remodeling substrate here.",
+   "D": "Wrong — remodeling continues long after eschar separation."
+  }
+ },
+ {
+  "id": "N-I-15.10",
+  "chapter": "Ch15",
+  "section": "Maturation",
+  "stem": "A patient asks whether a healed laceration will ever be as strong as uninjured skin. Which statement is correct regarding wound tensile strength?",
+  "options": {
+   "A": "Strength increases through remodeling but never reaches that of pre-wounded skin",
+   "B": "Strength returns to a full 100% of normal once the maturation phase is complete",
+   "C": "Strength eventually exceeds normal skin because of the dense, disordered scar collagen",
+   "D": "Strength is completely restored already by the end of the proliferative phase"
+  },
+  "answer": "A",
+  "exp": "Remodeling steadily raises tensile strength through better-organized type I collagen, but healed skin never regains the strength of uninjured (pre-wounded) skin — a key counseling point for scar expectations. It does not reach 100%, does not exceed normal, and is far from restored by the end of proliferation (strength accrues over the long maturation phase).",
+  "hy": "Healed wounds strengthen but never equal pre-injury skin.",
+  "src": "Neligan I.15 · Maturation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — tensile strength improves but never reaches normal.",
+   "B": "Wrong — it does not return to 100%.",
+   "C": "Wrong — scar is weaker, not stronger, than normal skin.",
+   "D": "Wrong — strength is not restored by the end of proliferation."
+  }
+ },
+ {
+  "id": "N-I-15.11",
+  "chapter": "Ch15",
+  "section": "Chronic wounds",
+  "stem": "By the chapter's definition, a wound is called \"chronic\" when it has failed to show significant progress toward healing within what interval, and where is it arrested in the cascade?",
+  "options": {
+   "A": "30 days; arrested in the inflammatory phase",
+   "B": "7 days; arrested in the hemostasis phase",
+   "C": "90 days; arrested in the maturation phase",
+   "D": "14 days; arrested in the proliferative phase"
+  },
+  "answer": "A",
+  "exp": "In the abnormal-healing section the chapter defines a chronic wound as one showing no significant progress toward healing within 30 days of injury; such wounds remain entrapped in the inflammatory phase (high neutrophils/macrophages, sustained proinflammatory cytokines) and never advance to proliferation/maturation. (A later treatment-oriented line uses \"broken skin at 3 months\" as an alternative descriptor — the 90-day distractor is that trap.) 7 days/14 days are too short and name the wrong phases.",
+  "hy": "Chronic wound = no progress by 30 days, stuck in inflammation.",
+  "src": "Neligan I.15 · Chronic wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — 30 days, arrested in the inflammatory phase.",
+   "B": "Wrong — 7 days/hemostasis is far too early.",
+   "C": "Wrong — 90 days is a later descriptor; the primary definition is 30 days, and arrest is in inflammation not maturation.",
+   "D": "Wrong — 14 days/proliferative phase is incorrect."
+  }
+ },
+ {
+  "id": "N-I-15.12",
+  "chapter": "Ch15",
+  "section": "Chronic wounds",
+  "stem": "Chronic wounds are markedly hypoxic. Below what partial pressure of oxygen will wounds in the lower extremity generally NOT heal?",
+  "options": {
+   "A": "30 mmHg",
+   "B": "5 mmHg",
+   "C": "50 mmHg",
+   "D": "90 mmHg"
+  },
+  "answer": "A",
+  "exp": "Chronic wounds are strikingly hypoxic (transcutaneous O₂ measured ≈5–20 mmHg), and lower-extremity wounds will generally not heal once the partial oxygen pressure falls below 30 mmHg, because oxygen is required for angiogenesis, collagen synthesis, leukocyte killing, and fibroblast function. 5 mmHg is within the chronic-wound tissue range but not the healing threshold; 50 and 90 mmHg are above the cutoff.",
+  "hy": "LE wounds won't heal if pO₂ < 30 mmHg (chronic-wound tissue ≈5–20 mmHg).",
+  "src": "Neligan I.15 · Chronic wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the 30 mmHg lower-extremity healing threshold.",
+   "B": "Wrong — 5 mmHg describes chronic tissue, not the healing cutoff.",
+   "C": "Wrong — 50 mmHg is above the non-healing threshold.",
+   "D": "Wrong — 90 mmHg is well above the cutoff."
+  }
+ },
+ {
+  "id": "N-I-15.13",
+  "chapter": "Ch15",
+  "section": "Chronic wounds",
+  "stem": "Which molecular environment characterizes the non-healing chronic wound bed?",
+  "options": {
+   "A": "Excess reactive oxygen species and overexpressed MMPs degrading growth factors",
+   "B": "Depleted neutrophils with a near-total absence of any inflammatory cytokines",
+   "C": "Predominant reparative M2 macrophages driving very rapid new collagen deposition",
+   "D": "Elevated tissue inhibitors of metalloproteinases suppressing nearly all proteolysis"
+  },
+  "answer": "A",
+  "exp": "The chronic wound bed is a proteolytic, oxidatively stressed environment: persistent neutrophils generate excess reactive oxygen species that damage cell membranes and ECM, and untimely overexpression of MMPs degrades the very growth factors and matrix needed for granulation and re-epithelialization. It is not depleted of inflammatory cells, not M2-dominant, and not TIMP-rich (protease activity is unchecked).",
+  "hy": "Chronic wound = excess ROS + high MMPs degrading growth factors.",
+  "src": "Neligan I.15 · Chronic wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — ROS and MMP excess degrade growth factors.",
+   "B": "Wrong — chronic wounds have abundant, not absent, inflammatory cells.",
+   "C": "Wrong — persistent M1, not reparative M2, dominates.",
+   "D": "Wrong — proteolysis is excessive, not TIMP-suppressed."
+  }
+ },
+ {
+  "id": "N-I-15.14",
+  "chapter": "Ch15",
+  "section": "Fibrosis & exuberant scar",
+  "stem": "A raised scar remains confined within the borders of the original wound and tends to regress over several years. Which lesion is described?",
+  "options": {
+   "A": "Hypertrophic scar",
+   "B": "Mature keloid scar",
+   "C": "Chronic venous ulcer",
+   "D": "Keloid dermal nodule"
+  },
+  "answer": "A",
+  "exp": "A hypertrophic scar is raised above surrounding tissue but stays confined within the boundaries of the original wound and tends to regress over several years. A keloid, by contrast, extends beyond the original wound border, grows without limitation, and rarely regresses. Dermal nodules and high fibroblast counts are histologic features more associated with keloids.",
+  "hy": "Hypertrophic scar = raised but within margins, regresses.",
+  "src": "Neligan I.15 · Fibrosis & exuberant scar",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — within margins + regression defines hypertrophic scar.",
+   "B": "Wrong — extending beyond margins is a keloid.",
+   "C": "Wrong — a chronic ulcer is a wound, not a raised scar.",
+   "D": "Wrong — dermal nodules describe keloid histology, not the lesion asked."
+  }
+ },
+ {
+  "id": "N-I-15.15",
+  "chapter": "Ch15",
+  "section": "Fibrosis & exuberant scar",
+  "stem": "Which statement correctly distinguishes keloids from hypertrophic scars?",
+  "options": {
+   "A": "Keloids extend beyond the wound margins and rarely regress; hypertrophic scars stay within and regress",
+   "B": "Keloids stay within the wound margins and always regress; hypertrophic scars spread out and never regress",
+   "C": "Both lesions remain within the wound margins, differing only in their predominant dermal collagen subtype",
+   "D": "Hypertrophic scars are likelier than keloids to form dermal nodules and to carry the higher fibroblast counts"
+  },
+  "answer": "A",
+  "exp": "The clinical distinction is essential because keloids and hypertrophic scars respond differently to treatment. Keloids extend beyond the original wound margins, grow without limitation, and rarely regress (and show increased fibroblast numbers/dermal nodules histologically). Hypertrophic scars remain within the wound margins and tend to regress over several years. The distractors invert these behaviors.",
+  "hy": "Keloid = beyond margins/no regression; hypertrophic = within margins/regresses.",
+  "src": "Neligan I.15 · Fibrosis & exuberant scar",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the accepted border/regression distinction.",
+   "B": "Wrong — it reverses which lesion stays within the margins.",
+   "C": "Wrong — they differ in extent/behavior, not merely collagen subtype.",
+   "D": "Wrong — dermal nodules/high fibroblast counts favor keloids."
+  },
+  "exptable": [
+   [
+    "Feature",
+    "Hypertrophic scar",
+    "Keloid"
+   ],
+   [
+    "Borders",
+    "Confined to original wound",
+    "Extends beyond wound margins"
+   ],
+   [
+    "Natural course",
+    "Regresses over years",
+    "Grows, rarely regresses"
+   ],
+   [
+    "Histology",
+    "Fewer fibroblasts",
+    "↑ Fibroblasts, dermal nodules"
+   ],
+   [
+    "Surgery alone",
+    "Often improves",
+    "High recurrence (50–100%)"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-15.16",
+  "chapter": "Ch15",
+  "section": "Fibrosis & exuberant scar",
+  "stem": "Which growth factor is most strongly implicated in wounds that heal predominantly by fibrosis, driving failure of myofibroblast apoptosis and excess ECM?",
+  "options": {
+   "A": "TGF-β",
+   "B": "GM-CSF",
+   "C": "KGF",
+   "D": "Erythropoietin"
+  },
+  "answer": "A",
+  "exp": "TGF-β is the growth factor most strongly implicated in fibrotic healing: it is elevated in wounds that heal by fibrosis, and (with PDGF and VEGF) drives abnormal fibroblast proliferation, neovascularization, and excess collagen/fibronectin, while preventing myofibroblast apoptosis so contraction and ECM production continue unchecked. Anti-TGF-β antibodies and TGF-β knockouts reduce fibrosis experimentally. GM-CSF, KGF, and erythropoietin are not the fibrosis driver here.",
+  "hy": "TGF-β = master driver of fibrosis / persistent myofibroblasts.",
+  "src": "Neligan I.15 · Fibrosis & exuberant scar",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — TGF-β drives fibrotic, exuberant scarring.",
+   "B": "Wrong — GM-CSF is a hematopoietic/wound growth factor, not the fibrosis driver.",
+   "C": "Wrong — KGF promotes re-epithelialization, not fibrosis.",
+   "D": "Wrong — erythropoietin is not implicated as the fibrosis driver."
+  }
+ },
+ {
+  "id": "N-I-15.17",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing",
+  "stem": "The chapter groups modulators of healing into local and systemic factors. Which pairing is correctly classified?",
+  "options": {
+   "A": "Local: infection, radiation, oxygenation — Systemic: age, obesity, diabetes, medications",
+   "B": "Local: patient age and diabetes mellitus — Systemic: local wound infection and radiation injury",
+   "C": "Local: nutrition and systemic medications — Systemic: wound-bed oxygenation and local infection",
+   "D": "Local: obesity and advancing age — Systemic: a retained foreign body and radiation damage"
+  },
+  "answer": "A",
+  "exp": "The chapter classifies healing modulators as local (acting directly on the wound microenvironment — infection, radiation, oxygenation) versus systemic (patient-wide conditions unrelated to wound location — age, obesity, medications, nutrition, and diseases such as diabetes). The other options misassign age/diabetes/nutrition/medications as local, or infection/radiation as systemic.",
+  "hy": "Local = infection/radiation/oxygenation; systemic = age/obesity/meds/nutrition/diabetes.",
+  "src": "Neligan I.15 · Factors affecting wound healing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the local vs systemic grouping as defined.",
+   "B": "Wrong — age/diabetes are systemic; infection/radiation are local.",
+   "C": "Wrong — nutrition/medications are systemic; oxygenation/infection are local.",
+   "D": "Wrong — obesity/age are systemic; foreign body/radiation are local."
+  }
+ },
+ {
+  "id": "N-I-15.18",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — age",
+  "stem": "Which statement best characterizes wound healing in the healthy elderly patient?",
+  "options": {
+   "A": "Healing completes through all four phases, but each phase is prolonged and delayed",
+   "B": "Wounds skip the inflammatory phase entirely and then close faster than they do in youth",
+   "C": "The ultimate quality of the healed tissue is markedly reduced although the speed is normal",
+   "D": "Hypertrophy of the rete ridges raises the dermal–epidermal mechanical strength with age"
+  },
+  "answer": "A",
+  "exp": "In healthy older adults, wounds still progress through all four phases, but each phase is prolonged/delayed — increased platelet aggregation in hemostasis, reduced macrophage function in inflammation, slower re-epithelialization/angiogenesis/collagen synthesis (keratinocyte migration takes nearly twice as long), and a longer maturation with weaker final tissue. Aging is characterized more as a delay than a loss of ultimate healing quality. Wounds are not skipped or faster, and rete ridges flatten (not hypertrophy).",
+  "hy": "Elderly: all four phases occur but each is prolonged/delayed.",
+  "src": "Neligan I.15 · Factors affecting healing — age",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — healing completes but is delayed at each phase.",
+   "B": "Wrong — the inflammatory phase is prolonged, not skipped.",
+   "C": "Wrong — aging is primarily delay, not reduced final quality.",
+   "D": "Wrong — rete ridges flatten, reducing dermal–epidermal strength."
+  }
+ },
+ {
+  "id": "N-I-15.19",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — age & obesity",
+  "stem": "Both aging and obesity impair healing partly through accumulation of which cell type — cell-cycle-arrested and unresponsive to growth factors?",
+  "options": {
+   "A": "Senescent fibroblasts and keratinocytes",
+   "B": "Totipotent embryonic stem cells (ESCs)",
+   "C": "Antigen-presenting dermal Langerhans cells",
+   "D": "Contractile α-SMA-positive myofibroblasts"
+  },
+  "answer": "A",
+  "exp": "Both aging and obesity increase the burden of senescent cells — fibroblasts and keratinocytes locked in an arrested cell cycle, unresponsive to growth factors, that create a proinflammatory, proteolytic milieu limiting epithelial regeneration. Senolytic drugs (which kill senescent cells) can help some chronic wounds. Embryonic stem cells, Langerhans cells, and myofibroblasts are not the accumulating, growth-factor-unresponsive population described.",
+  "hy": "Senescent fibroblasts/keratinocytes accumulate in aged & obese skin, impairing healing.",
+  "src": "Neligan I.15 · Factors affecting healing — age/obesity",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — senescent cells accumulate and impair healing.",
+   "B": "Wrong — embryonic stem cells are not the accumulating population.",
+   "C": "Wrong — Langerhans cells are antigen-presenting, not senescent-arrested here.",
+   "D": "Wrong — myofibroblasts are contractile effectors, not the described senescent pool."
+  }
+ },
+ {
+  "id": "N-I-15.20",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — diabetes",
+  "stem": "Which master regulator of oxygen homeostasis is functionally impaired by chronic hyperglycemia, contributing to non-healing diabetic ulcers?",
+  "options": {
+   "A": "HIF-1α",
+   "B": "VEGFR-2",
+   "C": "Nrf2",
+   "D": "mTORC1"
+  },
+  "answer": "A",
+  "exp": "HIF-1α is the master transcriptional regulator of oxygen homeostasis, driving pro-angiogenic pathways (VEGF, NO). Chronic hyperglycemia alters normal HIF-1α function, and HIF-1α deficiency/failure to respond to hypoxia yields prolonged wound hypoxia and non-healing ulcers. VEGFR-2, Nrf2, and mTOR are real signaling molecules but are not the cited oxygen-homeostasis master regulator impaired in diabetes.",
+  "hy": "HIF-1α = oxygen-homeostasis master regulator, disrupted by hyperglycemia.",
+  "src": "Neligan I.15 · Factors affecting healing — diabetes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — HIF-1α dysfunction underlies diabetic non-healing.",
+   "B": "Wrong — VEGFR-2 is downstream, not the master oxygen sensor.",
+   "C": "Wrong — Nrf2 governs antioxidant response, not the cited pathway.",
+   "D": "Wrong — mTOR is a growth/metabolic kinase, not the oxygen sensor here."
+  }
+ },
+ {
+  "id": "N-I-15.21",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — medications",
+  "stem": "A patient on chronic systemic corticosteroids has an impaired, non-healing wound. Which agent has been shown to counteract the steroid effect by stimulating macrophages?",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin K",
+   "C": "Colchicine",
+   "D": "Ibuprofen"
+  },
+  "answer": "A",
+  "exp": "Systemic corticosteroids (e.g. dexamethasone) inhibit every phase of healing — suppressing TGF-β/PDGF/TNF/IL-1α, blunting macrophage infiltration, reducing KGF and fibroblast proliferation, and lowering collagen and tensile strength. Vitamin A counteracts these effects by stimulating macrophages and restoring the inflammatory/proliferative response, so it is used in chronic steroid users. Vitamin K (coagulation), colchicine, and ibuprofen do not reverse steroid-impaired healing.",
+  "hy": "Vitamin A reverses corticosteroid-impaired healing (stimulates macrophages).",
+  "src": "Neligan I.15 · Factors affecting healing — medications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — vitamin A counteracts steroid inhibition of healing.",
+   "B": "Wrong — vitamin K addresses coagulation, not steroid effects.",
+   "C": "Wrong — colchicine has no such rescue role here.",
+   "D": "Wrong — ibuprofen (an NSAID) itself impairs healing."
+  }
+ },
+ {
+  "id": "N-I-15.22",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — medications",
+  "stem": "Which statement about NSAIDs (e.g. ibuprofen) and wound healing is correct?",
+  "options": {
+   "A": "Preclinically they cut fibroblast/keratinocyte proliferation, yet no trial shows prolonged chronic-wound closure",
+   "B": "They reliably accelerate the proliferative phase and clearly shorten the time to closure of chronic wounds",
+   "C": "Randomized clinical trials have proven that they roughly double the closure time of established chronic wounds over time",
+   "D": "They exert essentially no effect on cell proliferation at any studied dose in any experimental wound model"
+  },
+  "answer": "A",
+  "exp": "Preclinically, systemic NSAIDs such as ibuprofen decrease cell proliferation (fewer fibroblasts/keratinocytes) and impair contraction and epithelialization, so they are sometimes avoided in chronic wounds; however, no clinical study has demonstrated that NSAIDs prolong closure times in chronic wounds, and they can improve pain control. Options B–D overstate benefit, overstate proven harm, or deny any effect.",
+  "hy": "NSAIDs impair proliferation preclinically, but no clinical proof they prolong chronic-wound closure.",
+  "src": "Neligan I.15 · Factors affecting healing — medications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — preclinical impairment without proven clinical delay.",
+   "B": "Wrong — NSAIDs do not accelerate closure.",
+   "C": "Wrong — no randomized trial shows doubled closure time.",
+   "D": "Wrong — they do reduce proliferation preclinically."
+  }
+ },
+ {
+  "id": "N-I-15.23",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — chemotherapy",
+  "stem": "Chemotherapeutic drugs impair healing, yet what did preclinical studies show about the strength of wounds that do go on to heal?",
+  "options": {
+   "A": "Healed wounds ultimately display normal tensile strength",
+   "B": "Healed wounds retain only ~30% of normal strength for life",
+   "C": "Chemotherapy exerts no measurable effect on any healing phase",
+   "D": "Healed wounds end up stronger than normal from excess collagen"
+  },
+  "answer": "A",
+  "exp": "Chemotherapeutic drugs inhibit cell division, metabolism, angiogenesis, and the immune/inflammatory response, so they slow healing; yet preclinical studies show that wounds which do heal display normal tensile strength. Options B–D wrongly claim permanent strength loss, no effect, or supra-normal strength.",
+  "hy": "Chemotherapy slows healing but healed wounds regain normal tensile strength.",
+  "src": "Neligan I.15 · Factors affecting healing — chemotherapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — normal tensile strength once healed.",
+   "B": "Wrong — strength is not permanently reduced to ~30%.",
+   "C": "Wrong — chemo does impair healing phases.",
+   "D": "Wrong — healed wounds are not stronger than normal."
+  }
+ },
+ {
+  "id": "N-I-15.24",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — malnutrition",
+  "stem": "Which vitamin is the cofactor for hydroxylating proline to hydroxyproline for collagen cross-linking, such that its deficiency causes capillary fragility?",
+  "options": {
+   "A": "Vitamin C",
+   "B": "Vitamin A",
+   "C": "Vitamin E",
+   "D": "Vitamin K"
+  },
+  "answer": "A",
+  "exp": "Vitamin C (ascorbate) is the cofactor for prolyl hydroxylase, supporting hydroxylation of proline to hydroxyproline — essential for collagen cross-linking and triple-helix stability; deficiency reduces collagen synthesis and fibroblast proliferation and causes capillary fragility and impaired immunity (scurvy). Vitamin A stimulates fibroblast collagen synthesis; vitamin E is an antioxidant that may limit scarring; vitamin K governs clotting factors — none performs proline hydroxylation.",
+  "hy": "Vitamin C = proline→hydroxyproline for collagen cross-linking.",
+  "src": "Neligan I.15 · Factors affecting healing — malnutrition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — vitamin C enables proline hydroxylation/cross-linking.",
+   "B": "Wrong — vitamin A stimulates fibroblast collagen, a different role.",
+   "C": "Wrong — vitamin E is an antioxidant, not a hydroxylation cofactor.",
+   "D": "Wrong — vitamin K is for coagulation factors."
+  }
+ },
+ {
+  "id": "N-I-15.25",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — malnutrition",
+  "stem": "Zinc is a fundamental mineral for wound healing chiefly because it serves as a cofactor for which enzymes?",
+  "options": {
+   "A": "DNA and RNA polymerases",
+   "B": "Prolyl and lysyl hydroxylases",
+   "C": "Superoxide dismutase and catalase",
+   "D": "Matrix metalloproteinases 2 and 9"
+  },
+  "answer": "A",
+  "exp": "Zinc is a cofactor for DNA and RNA polymerases, central to cell division and fundamental to protein and collagen synthesis; deficiency impairs collagen synthesis and lowers wound-healing strength. Prolyl/lysyl hydroxylases depend on vitamin C/iron; SOD/catalase are antioxidant enzymes; MMP-2/9 are proteases — none is the DNA/RNA-polymerase cofactor role that defines zinc here.",
+  "hy": "Zinc = DNA/RNA polymerase cofactor for cell division & collagen synthesis.",
+  "src": "Neligan I.15 · Factors affecting healing — malnutrition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — zinc cofactors DNA/RNA polymerases.",
+   "B": "Wrong — prolyl/lysyl hydroxylase depend on vitamin C, not zinc's cited role.",
+   "C": "Wrong — SOD/catalase are antioxidant enzymes.",
+   "D": "Wrong — MMP-2/9 are matrix proteases."
+  }
+ },
+ {
+  "id": "N-I-15.26",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — malnutrition",
+  "stem": "Protein status is a key nutritional determinant of healing. Which laboratory tests does the chapter cite to assess it?",
+  "options": {
+   "A": "Serum albumin and pre-albumin",
+   "B": "Serum ferritin and transferrin saturation",
+   "C": "C-reactive protein and the ESR",
+   "D": "Serum zinc and serum copper levels"
+  },
+  "answer": "A",
+  "exp": "Because protein is the key building block of tissue (its deficiency impairs leukocyte phagocytosis, angiogenesis, fibroblast proliferation, and collagen synthesis), protein status is assessed with serum albumin and pre-albumin, and correcting deficiency improves healing. Ferritin/transferrin assess iron; CRP/ESR are inflammatory markers; serum zinc/copper assess those trace elements — not protein status.",
+  "hy": "Protein status for healing = serum albumin + pre-albumin.",
+  "src": "Neligan I.15 · Factors affecting healing — malnutrition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — albumin/pre-albumin index protein status.",
+   "B": "Wrong — ferritin/transferrin assess iron stores.",
+   "C": "Wrong — CRP/ESR are inflammatory, not nutritional, markers.",
+   "D": "Wrong — zinc/copper levels are not protein measures."
+  }
+ },
+ {
+  "id": "N-I-15.27",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — infection",
+  "stem": "Which organism does the chapter identify as the most common cause of wound infection?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Pseudomonas aeruginosa",
+   "C": "Streptococcus pyogenes",
+   "D": "Escherichia coli"
+  },
+  "answer": "A",
+  "exp": "Staphylococcus aureus is identified as the most common infection-causing organism in wounds; colonizing bacteria can shift the wound to an inflammatory state and predispose to secondary infection, and some form biofilms that resist eradication. Pseudomonas, Streptococcus, and E. coli cause wound infections but are not cited as the most common.",
+  "hy": "S. aureus = most common wound-infection organism.",
+  "src": "Neligan I.15 · Factors affecting healing — infection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — S. aureus is the most common causative organism.",
+   "B": "Wrong — Pseudomonas is important (cyan on fluorescence) but not the most common here.",
+   "C": "Wrong — S. pyogenes is not cited as most common.",
+   "D": "Wrong — E. coli is not the most common wound pathogen here."
+  }
+ },
+ {
+  "id": "N-I-15.28",
+  "chapter": "Ch15",
+  "section": "Factors affecting healing — infection",
+  "stem": "Bacteria within a wound may form biofilms. What makes a biofilm difficult to eradicate?",
+  "options": {
+   "A": "A protective extracellular polymeric substance that aids adhesion and resists clearance",
+   "B": "Its rapid conversion of the wound into a normoxic, growth-factor-rich reparative environment",
+   "C": "Its stimulation of an early M1→M2 macrophage switch that promptly shortens inflammation",
+   "D": "Its production of hydroxyproline, which cross-links and mechanically strengthens the eschar"
+  },
+  "answer": "A",
+  "exp": "A biofilm is a complex bacterial colony enclosed in a protective extracellular polymeric substance (EPS) that helps organisms adhere to the wound surface and resist host defenses and antibiotics, making eradication difficult and prolonging inflammation. Biofilms do not create a normoxic growth-factor-rich bed, drive an M1→M2 switch, or strengthen eschar.",
+  "hy": "Biofilm EPS → adhesion + resistance to clearance.",
+  "src": "Neligan I.15 · Factors affecting healing — infection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — EPS mediates adhesion and eradication resistance.",
+   "B": "Wrong — biofilms impair healing, not normalize the bed.",
+   "C": "Wrong — they perpetuate inflammation, not a reparative M2 switch.",
+   "D": "Wrong — EPS is not hydroxyproline and does not strengthen eschar."
+  }
+ },
+ {
+  "id": "N-I-15.29",
+  "chapter": "Ch15",
+  "section": "Acute wounds",
+  "stem": "A clean laceration from a non-contaminated source is closed with sutures shortly after injury. Which type of wound healing is this?",
+  "options": {
+   "A": "Primary intention",
+   "B": "Secondary intention",
+   "C": "Tertiary (delayed primary) intention",
+   "D": "Epithelialized epiboly"
+  },
+  "answer": "A",
+  "exp": "Approximating and securing clean wound edges (sutures, staples, adhesives) shortly after a non-contaminated injury is healing by primary intention. Secondary intention leaves the wound open to close by re-epithelialization and contraction; tertiary (delayed primary) intention closes an initially open wound days later; epiboly refers to a rolled, non-healing edge.",
+  "hy": "Primary intention = immediate approximation of a clean wound.",
+  "src": "Neligan I.15 · Acute wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — clean edges approximated early = primary intention.",
+   "B": "Wrong — secondary intention leaves the wound open.",
+   "C": "Wrong — tertiary intention closes later after a delay.",
+   "D": "Wrong — epiboly is a wound-edge phenomenon, not a closure method."
+  }
+ },
+ {
+  "id": "N-I-15.30",
+  "chapter": "Ch15",
+  "section": "Acute wounds",
+  "stem": "An open wound is initially managed with dressing changes, then surgically closed several days later once the tissue is judged healthy. Which approach is this?",
+  "options": {
+   "A": "Tertiary (delayed) intention",
+   "B": "Primary (immediate) intention",
+   "C": "Secondary (spontaneous) intention",
+   "D": "Regeneration of original tissue"
+  },
+  "answer": "A",
+  "exp": "Managing an open wound with dressings and then surgically closing it days later, once tissue viability is confirmed, is healing by tertiary (delayed primary) intention — used when immediate closure is unsafe (contamination/tension) but the wound proves healthy. Primary is immediate closure; secondary is leaving it to close on its own; regeneration restores original tissue architecture.",
+  "hy": "Tertiary (delayed primary) = open first, close later once healthy.",
+  "src": "Neligan I.15 · Acute wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — delayed closure after initial open management = tertiary.",
+   "B": "Wrong — primary is immediate closure.",
+   "C": "Wrong — secondary intention never gets surgically closed.",
+   "D": "Wrong — regeneration is not a closure technique."
+  }
+ },
+ {
+  "id": "N-I-15.31",
+  "chapter": "Ch15",
+  "section": "Acute wounds",
+  "stem": "For a clean laceration, within what window does the chapter say closure should generally occur, while noting primary closure may still be achievable even later?",
+  "options": {
+   "A": "Within 4–6 hours, possibly up to 12 hours",
+   "B": "Within 30–60 minutes, and generally never beyond about 2 hours",
+   "C": "Within 24–48 hours, and possibly still up to about 72 hours",
+   "D": "Within about 1 hour, and only rarely beyond roughly 3 hours"
+  },
+  "answer": "A",
+  "exp": "Clean lacerations should generally be closed as soon as possible, often within 4–6 hours, though the chapter notes primary closure may still be achievable even up to ~12 hours after injury (after removing non-viable tissue, irrigating, and excluding foreign bodies). The other windows are too short or arbitrarily narrow.",
+  "hy": "Close clean lacerations within 4–6 h (possibly up to 12 h).",
+  "src": "Neligan I.15 · Acute wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — 4–6 h, possibly up to 12 h.",
+   "B": "Wrong — the window is not as tight as ≤2 h.",
+   "C": "Wrong — 24–72 h overstates the closure window for a clean laceration.",
+   "D": "Wrong — closure is not limited to ~1–3 h."
+  }
+ },
+ {
+  "id": "N-I-15.32",
+  "chapter": "Ch15",
+  "section": "Acute wounds",
+  "stem": "A patient presents 30 hours after a dog bite to the forearm. Based on the chapter's guidance on bite wounds, what is the recommended management to minimize infection?",
+  "options": {
+   "A": "Heal by secondary intention, since bites present >24 h from the time of injury",
+   "B": "Immediate primary closure with sutures after thorough irrigation and exploration",
+   "C": "Primary closure, because animal-bite wounds are always safely closed within 8 h",
+   "D": "Delayed primary (tertiary) closure after several days of dressing changes"
+  },
+  "answer": "A",
+  "exp": "Bite wounds carry high infection risk: animal-bite lacerations treated within 8 hours may be closed primarily, but puncture wounds and bites presenting more than 24 hours after injury are recommended to heal by secondary intention to minimize infection. At 30 hours, secondary intention is advised. Immediate primary closure or the blanket claim \"always within 8 hours\" ignores the >24 h rule; even delayed primary (tertiary) closure is not what the chapter advises for a >24 h bite — secondary intention is.",
+  "hy": "Bites >24 h old → secondary intention (≤8 h may be closed primarily).",
+  "src": "Neligan I.15 · Acute wounds",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — >24 h bite → heal by secondary intention.",
+   "B": "Wrong — primary closure at 30 h raises infection risk.",
+   "C": "Wrong — the ≤8 h primary-closure rule does not apply at 30 h.",
+   "D": "Wrong — the chapter advises secondary intention for bites >24 h, not delayed primary/tertiary closure."
+  }
+ },
+ {
+  "id": "N-I-15.33",
+  "chapter": "Ch15",
+  "section": "Acute wounds — avulsion",
+  "stem": "An avulsion (degloving) injury leaves a flap of skin and subcutaneous fat. Why is the extent of injury easy to underestimate?",
+  "options": {
+   "A": "The flap is poorly vascularized, so the soft-tissue trauma is often worse than it looks",
+   "B": "The flap is hypervascular and bleeds so briskly that it masks the underlying tissue necrosis",
+   "C": "Degloving injuries characteristically spare the whole subcutaneous tissue layer lying beneath",
+   "D": "Avulsions reliably heal by primary intention and require no debridement of the raised flap"
+  },
+  "answer": "A",
+  "exp": "In an avulsion (degloving) injury the skin/subcutaneous flap is poorly vascularized, so the true extent of soft-tissue trauma is easily underestimated and healing can be poor; management is conservative debridement of only overtly necrotic skin with primary closure, escalating to wider debridement/complex closure if the wound declares itself. The flap is not hypervascular, does not spare subcutaneous tissue, and does not reliably heal without debridement.",
+  "hy": "Degloving flap is poorly vascularized → injury underestimated.",
+  "src": "Neligan I.15 · Acute wounds — avulsion",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — poor vascularity makes the injury worse than it looks.",
+   "B": "Wrong — the flap is hypovascular, not hypervascular.",
+   "C": "Wrong — degloving compromises the underlying soft tissue.",
+   "D": "Wrong — necrotic tissue must be debrided; healing is not assured."
+  }
+ },
+ {
+  "id": "N-I-15.34",
+  "chapter": "Ch15",
+  "section": "Burn injuries",
+  "stem": "A scald produces a painful, erythematous, weeping wound involving the epidermis and superficial dermis that heals in about two weeks with dressing changes. What depth is this?",
+  "options": {
+   "A": "Superficial second-degree burn",
+   "B": "First-degree (epidermal) burn",
+   "C": "Deep partial-thickness burn",
+   "D": "Third-degree (full-thickness) burn"
+  },
+  "answer": "A",
+  "exp": "A painful, erythematous, weeping wound involving the epidermis plus the superficial dermis that heals in ~2 weeks with dressing changes is a superficial second-degree (superficial partial-thickness) burn; reconstitution is by keratinocyte migration from dermal appendages. First-degree burns involve only epidermis (no weeping); deep second-degree burns are often less painful (nerve destruction); third-degree burns are insensate and won't heal without grafting.",
+  "hy": "Superficial 2nd-degree = epidermis + superficial dermis, painful/weeping, heals ~2 wk.",
+  "src": "Neligan I.15 · Burn injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the described depth is superficial second-degree.",
+   "B": "Wrong — first-degree spares the dermis and does not weep.",
+   "C": "Wrong — deep second-degree is typically less painful.",
+   "D": "Wrong — third-degree is insensate and needs grafting."
+  }
+ },
+ {
+  "id": "N-I-15.35",
+  "chapter": "Ch15",
+  "section": "Burn injuries",
+  "stem": "Compared with a superficial second-degree burn, why is a DEEP second-degree burn often LESS painful?",
+  "options": {
+   "A": "Sensory nerve endings within the dermis have been destroyed",
+   "B": "It involves only the non-innervated superficial epithelial layer",
+   "C": "It heals so rapidly that the dermal nociceptors never get activated",
+   "D": "Deep burns release endogenous opioids that locally block the pain"
+  },
+  "answer": "A",
+  "exp": "A deep second-degree burn extends through most of the dermis, destroying the sensory nerve endings there, so it is often LESS painful than a superficial second-degree burn (which leaves dermal nociceptors intact and exposed). It does not spare the dermis, does not heal especially fast, and pain relief is not from endogenous opioids.",
+  "hy": "Deep 2nd-degree less painful — dermal sensory nerves destroyed.",
+  "src": "Neligan I.15 · Burn injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — destroyed dermal nerve endings reduce pain.",
+   "B": "Wrong — deep burns involve the dermis, not only epithelium.",
+   "C": "Wrong — deep burns heal slowly, needing intervention.",
+   "D": "Wrong — reduced pain is from nerve destruction, not opioids."
+  }
+ },
+ {
+  "id": "N-I-15.36",
+  "chapter": "Ch15",
+  "section": "Burn injuries",
+  "stem": "Which burn depth extends through the entire dermis and is characteristically insensate?",
+  "options": {
+   "A": "Third-degree burn",
+   "B": "Superficial second-degree burn",
+   "C": "First-degree burn",
+   "D": "Fourth-degree burn"
+  },
+  "answer": "A",
+  "exp": "A third-degree burn involves the entire dermis and is characteristically insensate; deep second-degree/third-degree burns require debridement and reconstruction (early excision + skin grafting is standard). First- and superficial second-degree burns retain sensation; a fourth-degree burn is defined by extension past the skin into subcutaneous tissue and deeper structures.",
+  "hy": "Third-degree = full dermis, insensate; fourth-degree = into subcutaneous/deeper.",
+  "src": "Neligan I.15 · Burn injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — full-thickness dermis, insensate = third-degree.",
+   "B": "Wrong — superficial second-degree retains sensation.",
+   "C": "Wrong — first-degree is superficial and painful.",
+   "D": "Wrong — fourth-degree extends beyond the dermis into deeper tissue."
+  },
+  "exptable": [
+   [
+    "Depth",
+    "Tissue involved",
+    "Pain / notes"
+   ],
+   [
+    "First-degree",
+    "Epidermis only",
+    "Painful, erythema, heals cleanly"
+   ],
+   [
+    "Superficial 2nd",
+    "Epidermis + superficial dermis",
+    "Painful, weeps, heals ~2 wk"
+   ],
+   [
+    "Deep 2nd",
+    "Most of dermis",
+    "Less painful (nerves destroyed); debride/graft"
+   ],
+   [
+    "Third-degree",
+    "Entire dermis",
+    "Insensate; needs grafting"
+   ],
+   [
+    "Fourth-degree",
+    "Into subcutaneous/deeper structures",
+    "Specialized reconstruction"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-15.37",
+  "chapter": "Ch15",
+  "section": "Burn injuries",
+  "stem": "For a large burn with insufficient autograft donor skin, which option consists of the patient's own cultured keratinocytes but yields fragile, costly coverage?",
+  "options": {
+   "A": "Cultured epithelial autograft (CEA)",
+   "B": "Cadaveric (allograft) skin",
+   "C": "Split-thickness meshed autograft",
+   "D": "Collagen–glycosaminoglycan scaffold"
+  },
+  "answer": "A",
+  "exp": "When donor skin is insufficient for autografting, a cultured epithelial autograft (CEA) — sheets of the patient's own keratinocytes expanded in culture — can provide permanent coverage, but it is fragile, prone to infection/shear, slow to produce, and costly. Cadaveric allograft is temporary/test coverage; meshed STSG needs adequate donor skin; a collagen-GAG scaffold is a dermal substitute, not cultured keratinocytes.",
+  "hy": "CEA = patient's cultured keratinocytes; permanent but fragile/costly.",
+  "src": "Neligan I.15 · Burn injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — CEA is autologous cultured keratinocytes.",
+   "B": "Wrong — cadaveric skin is allograft, only temporary.",
+   "C": "Wrong — meshed autograft still needs sufficient donor skin.",
+   "D": "Wrong — a collagen-GAG scaffold is a dermal substitute, not keratinocytes."
+  }
+ },
+ {
+  "id": "N-I-15.38",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — DFU",
+  "stem": "For a diabetic foot ulcer that shows no early signs of healing, which referral pair does the chapter recommend to optimize the two key systemic problems?",
+  "options": {
+   "A": "Vascular surgery for perfusion, and primary care/endocrinology for glucose",
+   "B": "Infectious diseases for antibiotics, and psychiatry for behavioral support",
+   "C": "Physical therapy for the gait, and pain management for chronic wound pain",
+   "D": "Interventional radiology for drainage, and nephrology for renal function"
+  },
+  "answer": "A",
+  "exp": "A DFU that shows no early healing warrants referral to a vascular surgeon (to optimize arterial inflow — the ulcers are ischemic/hypoxic) and to a primary care physician or endocrinologist (to optimize glucose control), alongside nutrition, pressure off-loading, infection control, and debridement. The other referral pairs do not address the two dominant systemic problems (perfusion and glycemia).",
+  "hy": "DFU: refer vascular surgery (perfusion) + PCP/endocrine (glucose).",
+  "src": "Neligan I.15 · Chronic wounds — DFU",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — perfusion and glucose are the two key optimizations.",
+   "B": "Wrong — ID/psychiatry do not address perfusion or glycemia.",
+   "C": "Wrong — PT/pain management are adjuncts, not the core referrals.",
+   "D": "Wrong — IR/nephrology miss the glucose-control need."
+  }
+ },
+ {
+  "id": "N-I-15.39",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — DFU",
+  "stem": "After a diabetic foot ulcer heals, why is lifelong scheduled monitoring necessary?",
+  "options": {
+   "A": "Most diabetic foot ulcers recur within 2 years",
+   "B": "Healed DFUs invariably become squamous cell carcinoma",
+   "C": "The healed skin permanently loses all sensation in weeks",
+   "D": "Recurrence is essentially zero, so monitoring only reassures"
+  },
+  "answer": "A",
+  "exp": "Lifelong scheduled monitoring is required after a DFU heals because most diabetic foot ulcers recur within 2 years, reflecting the persistent neuropathy, ischemia, and pressure that caused them. DFUs do not invariably become SCC, do not universally lose sensation within weeks after healing, and recurrence is far from zero.",
+  "hy": "Most DFUs recur within 2 years → lifelong surveillance.",
+  "src": "Neligan I.15 · Chronic wounds — DFU",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — high 2-year recurrence mandates monitoring.",
+   "B": "Wrong — malignant conversion is not the cited reason.",
+   "C": "Wrong — permanent total sensory loss within weeks is not the reason.",
+   "D": "Wrong — recurrence is high, not negligible."
+  }
+ },
+ {
+  "id": "N-I-15.40",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — DFU adjuncts",
+  "stem": "Which adjunct is the FDA-approved recombinant growth factor shown to improve complete-closure rates of diabetic foot ulcers, though limited by cost?",
+  "options": {
+   "A": "PDGF (platelet-derived growth factor)",
+   "B": "VEGF (vascular endothelial growth factor)",
+   "C": "KGF (keratinocyte growth factor)",
+   "D": "GM-CSF (granulocyte–macrophage CSF)"
+  },
+  "answer": "A",
+  "exp": "Platelet-derived growth factor (PDGF) is the FDA-approved recombinant growth factor shown to improve complete-closure rates of diabetic foot ulcers (PDGF-BB / becaplermin), though widespread use is limited by cost (and a noted concern about skin malignancy). Other cited factors (VEGF, KGF, GM-CSF) demonstrated preclinical promise but are not the FDA-approved topical agent for DFU.",
+  "hy": "PDGF = only FDA-approved recombinant growth factor (DFU), cost-limited.",
+  "src": "Neligan I.15 · Chronic wounds — DFU adjuncts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — PDGF is the FDA-approved recombinant GF for DFU.",
+   "B": "Wrong — VEGF supplementation is not the approved DFU agent.",
+   "C": "Wrong — KGF is not the FDA-approved DFU growth factor.",
+   "D": "Wrong — GM-CSF is not the approved topical DFU agent."
+  }
+ },
+ {
+  "id": "N-I-15.41",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — ischemic ulcers",
+  "stem": "Ischemic ulcers are defined by poor arterial flow. Which finding is part of that definition?",
+  "options": {
+   "A": "An ankle–brachial index less than 1 at the ankle",
+   "B": "An ankle–brachial index greater than 1.3 in every case",
+   "C": "A venous refill (filling) time under 5 seconds",
+   "D": "A transcutaneous oxygen tension above 60 mmHg"
+  },
+  "answer": "A",
+  "exp": "Ischemic ulcers are lower-extremity ulcerations from poor arterial flow, defined by an ankle–brachial index (ABI) < 1 (or non-compressible arteries, absent waveforms/abnormal pulse-volume recordings at the ankle); restoring inflow (angioplasty/bypass) dramatically improves healing, though closure may exceed 6 months. An ABI > 1.3 suggests non-compressible calcified vessels (not the defining criterion), and the venous/oxygen values are unrelated.",
+  "hy": "Ischemic ulcer: ABI < 1 (poor arterial inflow).",
+  "src": "Neligan I.15 · Chronic wounds — ischemic ulcers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — ABI < 1 defines the arterial insufficiency.",
+   "B": "Wrong — ABI > 1.3 reflects incompressible vessels, not the definition.",
+   "C": "Wrong — venous filling time is not the ischemic-ulcer criterion.",
+   "D": "Wrong — high TcO₂ would argue against ischemia."
+  }
+ },
+ {
+  "id": "N-I-15.42",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — pressure sores",
+  "stem": "Pressure sores classically overlie bony prominences. Which set of sites does the chapter list, with what notable recurrence figure after surgical treatment?",
+  "options": {
+   "A": "Sacrum, ischium, trochanter, calcaneus — recurrence up to 60%",
+   "B": "Scalp, forehead, and the malar eminence — recurrence under 5%",
+   "C": "Sternum, patella, and the olecranon — recurrence about 10%",
+   "D": "Nasal tip, chin, and the clavicle — recurrence about 25%"
+  },
+  "answer": "A",
+  "exp": "Pressure sores (a variant of ischemic ulcer from external pressure over bony prominences) commonly occur over the sacrum, ischium, trochanter, and calcaneus, in patients with limited mobility; even after debridement and flap reconstruction, recurrence can be as high as 60%, underscoring the need for strict, prolonged pressure off-loading. The other site sets and low recurrence figures are incorrect.",
+  "hy": "Pressure sores: sacrum/ischium/trochanter/calcaneus; recurrence up to 60%.",
+  "src": "Neligan I.15 · Chronic wounds — pressure sores",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the classic sites and ~60% recurrence.",
+   "B": "Wrong — scalp/forehead/malar are not typical pressure-sore sites.",
+   "C": "Wrong — those sites and ~10% recurrence are incorrect.",
+   "D": "Wrong — nasal tip/chin/clavicle are not the cited sites."
+  }
+ },
+ {
+  "id": "N-I-15.43",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — venous ulcers",
+  "stem": "Venous stasis ulcers are the largest segment of lower-extremity ulcers. Which non-surgical measure has been shown to improve healing and prevent recurrent cellulitis?",
+  "options": {
+   "A": "Compression therapy over the affected limb",
+   "B": "Prophylactic systemic antibiotics for every ulcer",
+   "C": "Strict limb immobilization held in dependency",
+   "D": "Routine silver dressings, proven superior to all"
+  },
+  "answer": "A",
+  "exp": "For chronic venous ulcers (the largest segment of lower-extremity ulcers, caused by venous hypertension), compression therapy improves healing and prevents recurrent lower-extremity cellulitis. Prophylactic systemic antibiotics are NOT indicated (they breed resistance), dependency/immobilization worsens venous return, and antimicrobial silver dressings are not proven superior to other dressings.",
+  "hy": "Venous ulcers: compression therapy improves healing & prevents cellulitis.",
+  "src": "Neligan I.15 · Chronic wounds — venous ulcers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — compression is the proven measure.",
+   "B": "Wrong — prophylactic antibiotics breed resistance, not indicated.",
+   "C": "Wrong — dependency worsens venous hypertension.",
+   "D": "Wrong — silver dressings are not superior to others."
+  }
+ },
+ {
+  "id": "N-I-15.44",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — venous ulcers",
+  "stem": "The chapter cites a simple lifestyle measure for venous ulcers: elevating the lower extremities above the heart for approximately how long each day?",
+  "options": {
+   "A": "120 minutes daily",
+   "B": "15 minutes daily",
+   "C": "30 minutes daily",
+   "D": "480 minutes daily"
+  },
+  "answer": "A",
+  "exp": "A simple, effective venous-ulcer measure is leg elevation — lying recumbent with the lower extremities above the heart for ~120 minutes daily promotes ulcer healing and venous return (walking/exercise adds further benefit). The shorter durations (15/30 min) are below the cited threshold, and 8 hours is impractical/overstated.",
+  "hy": "Venous ulcers: elevate legs above heart ~120 min/day.",
+  "src": "Neligan I.15 · Chronic wounds — venous ulcers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — ~120 minutes of daily elevation.",
+   "B": "Wrong — 15 minutes is below the cited duration.",
+   "C": "Wrong — 30 minutes is below the cited duration.",
+   "D": "Wrong — 8 hours is not the figure given."
+  }
+ },
+ {
+  "id": "N-I-15.45",
+  "chapter": "Ch15",
+  "section": "Keloids",
+  "stem": "Keloids occur more often in pigmented skin. What incidence does the chapter cite following lacerations or surgical incisions in this population?",
+  "options": {
+   "A": "About 10%",
+   "B": "About 1%",
+   "C": "About 30%",
+   "D": "About 50%"
+  },
+  "answer": "A",
+  "exp": "Patients with pigmented skin (including Africans and Asians) have a higher propensity to keloids, with rates as high as ~10% following lacerations or surgical incisions. 1% understates and 30–50% overstate the cited figure.",
+  "hy": "Keloid incidence up to ~10% in pigmented skin.",
+  "src": "Neligan I.15 · Keloids",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — up to ~10% in pigmented skin.",
+   "B": "Wrong — ~1% understates the cited rate.",
+   "C": "Wrong — ~30% overstates it.",
+   "D": "Wrong — ~50% is far above the cited figure."
+  }
+ },
+ {
+  "id": "N-I-15.46",
+  "chapter": "Ch15",
+  "section": "Keloids — treatment",
+  "stem": "Which treatment does the chapter call the mainstay of keloid management?",
+  "options": {
+   "A": "Intralesional triamcinolone injection",
+   "B": "Wide surgical excision as monotherapy",
+   "C": "Systemic oral isotretinoin therapy",
+   "D": "Cryotherapy applied as a single agent"
+  },
+  "answer": "A",
+  "exp": "Intralesional corticosteroid injection — most commonly triamcinolone — is the mainstay of keloid treatment, improving scar appearance, height, pain, and pruritus; it is often combined with excision to reduce recurrence. Excision alone has high recurrence, systemic isotretinoin is not a keloid mainstay, and cryotherapy alone is adjunctive rather than the mainstay.",
+  "hy": "Keloid mainstay = intralesional triamcinolone.",
+  "src": "Neligan I.15 · Keloids — treatment",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — intralesional triamcinolone is the mainstay.",
+   "B": "Wrong — excision alone recurs at high rates.",
+   "C": "Wrong — systemic isotretinoin is not the keloid mainstay.",
+   "D": "Wrong — cryotherapy alone is adjunctive."
+  }
+ },
+ {
+  "id": "N-I-15.47",
+  "chapter": "Ch15",
+  "section": "Keloids — treatment",
+  "stem": "How does adding postoperative intralesional corticosteroid injection change keloid recurrence compared with surgical excision alone?",
+  "options": {
+   "A": "Excision alone recurs ~50–100%; adding injections drops it below 50%",
+   "B": "Excision alone recurs under 10%; adding the injections makes no difference",
+   "C": "Excision alone recurs about 5%; adding injections raises recurrence to ~50%",
+   "D": "Both approaches yield essentially 0% recurrence over long-term follow-up"
+  },
+  "answer": "A",
+  "exp": "Surgical excision of a keloid alone carries a recurrence rate of ~50–100%; adding postoperative intralesional corticosteroid injections lowers recurrence to under 50%. This synergy is why excision is rarely done in isolation. Options B–D understate excision-alone recurrence or misstate the direction of the injection effect.",
+  "hy": "Keloid recurrence: excision alone 50–100% → <50% with post-op injections.",
+  "src": "Neligan I.15 · Keloids — treatment",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — 50–100% alone, <50% with adjuvant injection.",
+   "B": "Wrong — excision-alone recurrence is far above 10%.",
+   "C": "Wrong — injections lower, not raise, recurrence.",
+   "D": "Wrong — neither approach yields 0% recurrence."
+  }
+ },
+ {
+  "id": "N-I-15.48",
+  "chapter": "Ch15",
+  "section": "Keloids — treatment",
+  "stem": "Adjuvant radiation for keloids reduces recurrence by about 50%. Which dosing/timing does the chapter cite?",
+  "options": {
+   "A": "15–25 Gy within the first 6 weeks, often started within 24 h of surgery",
+   "B": "60–70 Gy in daily fractions over about 7 weeks, beginning some 3 months post-op",
+   "C": "A single 1–2 Gy fraction, started a full year after the excision",
+   "D": "100 Gy of intraoperative brachytherapy delivered one time only"
+  },
+  "answer": "A",
+  "exp": "Adjuvant radiation for keloids (usually a surgical adjunct) uses 15–25 Gray delivered within the first 6 weeks, commonly starting within 24 hours of the operation, and reduces recurrence by ~50% — but risks skin necrosis, depigmentation, and a possible increase in local cancer. The high-dose/late-start and single-fraction alternatives are incorrect.",
+  "hy": "Keloid radiation: 15–25 Gy within 6 wk, start within 24 h; –50% recurrence.",
+  "src": "Neligan I.15 · Keloids — treatment",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — 15–25 Gy, within 6 weeks, starting within 24 h.",
+   "B": "Wrong — 60–70 Gy over 7 weeks starting at 3 months is a tumor regimen, not this.",
+   "C": "Wrong — a 1–2 Gy single fraction at 1 year is incorrect.",
+   "D": "Wrong — 100 Gy intraoperative brachytherapy is not cited."
+  }
+ },
+ {
+  "id": "N-I-15.49",
+  "chapter": "Ch15",
+  "section": "Wound dressings",
+  "stem": "Water vapor transmission rate (WVTR) is a key property of a dressing. Which statement about it is correct?",
+  "options": {
+   "A": "Lower WVTR means less water loss, so it must be matched to the wound's exudate",
+   "B": "A higher WVTR will always keep the underlying wound bed more moist and hydrated",
+   "C": "WVTR is a direct measure of the antimicrobial silver content within the dressing",
+   "D": "WVTR describes how firmly the dressing's adhesive grips the surrounding intact skin"
+  },
+  "answer": "A",
+  "exp": "Water vapor transmission rate (WVTR) is the steady-state rate at which water vapor permeates a dressing; the lower the WVTR, the less water is lost, so WVTR must be matched to the wound — too high a WVTR dries the wound, too low lets fluid pool and macerate. A higher WVTR does NOT always keep a wound moist, and WVTR is unrelated to silver content or adhesion.",
+  "hy": "WVTR = water-loss rate; match it to wound exudate.",
+  "src": "Neligan I.15 · Wound dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — lower WVTR = less water loss; must be matched to the wound.",
+   "B": "Wrong — a high WVTR can dry the wound out.",
+   "C": "Wrong — WVTR is not a measure of silver content.",
+   "D": "Wrong — WVTR is not about adhesion to skin."
+  }
+ },
+ {
+  "id": "N-I-15.50",
+  "chapter": "Ch15",
+  "section": "Wound dressings — moist healing",
+  "stem": "Why does a moist wound-healing environment speed epithelialization compared with a dry wound?",
+  "options": {
+   "A": "It prevents eschar, so keratinocytes migrate across the surface, not beneath a crust",
+   "B": "It thickens the surface eschar, giving migrating keratinocytes a scaffold to climb over",
+   "C": "It desiccates the wound edge, which in turn stimulates myofibroblast-driven contraction",
+   "D": "It drops the local oxygen tension to zero, and that anoxia accelerates keratinocyte division"
+  },
+  "answer": "A",
+  "exp": "A moist environment prevents formation of an eschar (necrotic, desiccated surface tissue); keratinocytes then migrate easily across the moist wound surface instead of having to burrow beneath a dry crust, and moist healing also lowers inflammation and infection rates, supports autolytic debridement and cell signaling, and reduces pain. Options B–D invert the biology (eschar helps, desiccation helps, zero oxygen helps).",
+  "hy": "Moist healing prevents eschar → keratinocytes migrate over, not under.",
+  "src": "Neligan I.15 · Wound dressings — moist healing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — no eschar means unimpeded keratinocyte migration.",
+   "B": "Wrong — eschar impedes, not scaffolds, epithelialization.",
+   "C": "Wrong — desiccation slows healing.",
+   "D": "Wrong — anoxia does not accelerate keratinocyte division."
+  }
+ },
+ {
+  "id": "N-I-15.51",
+  "chapter": "Ch15",
+  "section": "Wound dressings",
+  "stem": "A heavily exuding wound needs a dressing with high absorptive capacity to avoid maceration. Which dressing type is most appropriate, and what is its typical wear time?",
+  "options": {
+   "A": "Alginate — wear time 2–3 days",
+   "B": "Film — wear time 7+ days",
+   "C": "Hydrogel — wear time 1–2 days",
+   "D": "Foam — changed every few days"
+  },
+  "answer": "A",
+  "exp": "Alginate dressings (non-woven fibers of calcium/sodium salts of alginic acid) are permeable with high absorptive capacity, ideal for heavily exuding wounds — they gel with exudate to keep a moist (not wet/macerated) environment — with a wear time of 2–3 days; they should be avoided on dry/low-exudate wounds. Film (7+ days) and hydrogel (1–2 days) suit low-exudate/dry wounds; foam (moderate–high exudate, e.g. venous ulcers) is a tempting second choice but less absorptive than alginate for a heavily exuding wound.",
+  "hy": "Alginate = high-exudate wounds, wear 2–3 days.",
+  "src": "Neligan I.15 · Wound dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — alginate for high exudate, 2–3-day wear.",
+   "B": "Wrong — film suits low-exudate wounds, not heavy exudate.",
+   "C": "Wrong — hydrogel donates water and suits dry wounds.",
+   "D": "Wrong — foam handles moderate–high exudate but is less absorptive than alginate for heavy exudate."
+  },
+  "exptable": [
+   [
+    "Dressing",
+    "Best for",
+    "Typical wear time"
+   ],
+   [
+    "Alginate",
+    "Heavily exuding wounds",
+    "2–3 days"
+   ],
+   [
+    "Film",
+    "Low-exudate, STSG donor sites",
+    "7+ days"
+   ],
+   [
+    "Foam",
+    "Moderate–high exudate (e.g. venous ulcers)",
+    "Every few days"
+   ],
+   [
+    "Hydrocolloid",
+    "Shallow, low-exudate wounds",
+    "Several days"
+   ],
+   [
+    "Hydrogel",
+    "Dry wounds (donates water)",
+    "1–2 days"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-15.52",
+  "chapter": "Ch15",
+  "section": "Wound dressings",
+  "stem": "A split-thickness skin-graft donor site is low-exuding and epithelializing. Which dressing is well-suited and can stay in place 7 or more days if no infection is present?",
+  "options": {
+   "A": "Film (semipermeable polyurethane) dressing",
+   "B": "Alginate (calcium/sodium alginate) dressing",
+   "C": "Hydrocolloid (gel-forming) dressing",
+   "D": "Foam (polyurethane/silicone) dressing"
+  },
+  "answer": "A",
+  "exp": "Film dressings are semipermeable transparent polyurethane membranes that let oxygen/CO₂/water vapor through but block pathogens; they suit low-exudate, epithelializing, superficial wounds such as split-thickness skin-graft donor sites, giving rapid re-epithelialization with less pain, and can stay on 7+ days if no infection. Alginate/foam suit higher exudate; hydrocolloid is for shallow low-exudate wounds but is not the STSG-donor-site answer highlighted here.",
+  "hy": "Film = low-exudate/STSG donor sites, wear 7+ days.",
+  "src": "Neligan I.15 · Wound dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — film for STSG donor sites, 7+-day wear.",
+   "B": "Wrong — alginate is for heavily exuding wounds.",
+   "C": "Wrong — hydrocolloid is for shallow low-exudate wounds, not the cited STSG use.",
+   "D": "Wrong — foam handles moderate–high exudate."
+  }
+ },
+ {
+  "id": "N-I-15.53",
+  "chapter": "Ch15",
+  "section": "Wound dressings",
+  "stem": "A dry wound with minimal exudate needs added moisture. Which dressing donates water molecules to the wound, and what is its typical wear time?",
+  "options": {
+   "A": "Hydrogel — wear time 1–2 days",
+   "B": "Alginate — wear time 2–3 days",
+   "C": "Film — wear time 7+ days",
+   "D": "Foam — changed every few days"
+  },
+  "answer": "A",
+  "exp": "Hydrogel dressings are cross-linked hydrophilic polymer networks that donate water molecules to a dry wound, creating a moist environment; they are used for many wounds (pressure ulcers, surgical wounds, burns, radiation dermatitis) with a typical wear time of 1–2 days. Alginate (2–3 days) and foam absorb exudate; film (7+ days) is a barrier — none donates water to a dry wound the way hydrogel does.",
+  "hy": "Hydrogel donates water to dry wounds; wear 1–2 days.",
+  "src": "Neligan I.15 · Wound dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — hydrogel hydrates dry wounds, 1–2-day wear.",
+   "B": "Wrong — alginate absorbs exudate rather than donating water.",
+   "C": "Wrong — film is a semipermeable barrier, not a water donor.",
+   "D": "Wrong — foam absorbs exudate; it does not hydrate a dry wound."
+  }
+ },
+ {
+  "id": "N-I-15.54",
+  "chapter": "Ch15",
+  "section": "NPWT",
+  "stem": "Negative pressure wound therapy (VAC) is applied to a debrided wound. What continuous sub-atmospheric pressure range does the chapter cite?",
+  "options": {
+   "A": "−80 to −125 mmHg",
+   "B": "−10 to −25 mmHg",
+   "C": "−200 to −300 mmHg",
+   "D": "−400 to −500 mmHg"
+  },
+  "answer": "A",
+  "exp": "NPWT (vacuum-assisted closure) applies continuous sub-atmospheric pressure of typically −80 to −125 mmHg through a foam/gauze filler sealed by an occlusive dressing connected via tubing to a canister and pump. The lower magnitudes (−10 to −25) are ineffective, and −200 to −500 mmHg exceed the cited therapeutic range.",
+  "hy": "NPWT: continuous −80 to −125 mmHg.",
+  "src": "Neligan I.15 · NPWT",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — −80 to −125 mmHg is the cited range.",
+   "B": "Wrong — −10 to −25 mmHg is too low.",
+   "C": "Wrong — −200 to −300 mmHg exceeds the range.",
+   "D": "Wrong — −400 to −500 mmHg is far above therapeutic pressure."
+  }
+ },
+ {
+  "id": "N-I-15.55",
+  "chapter": "Ch15",
+  "section": "NPWT",
+  "stem": "Which pair of mechanisms is most often proposed to explain how NPWT promotes closure?",
+  "options": {
+   "A": "Removal of wound exudate and micromechanical deformation of the tissue",
+   "B": "Complete sterilization of the wound and permanent local vasoconstriction",
+   "C": "Direct delivery of systemic antibiotics and promotion of a surface eschar",
+   "D": "Induction of an M2→M1 macrophage reversal and thinning of the dermis"
+  },
+  "answer": "A",
+  "exp": "Although the mechanism is not fully understood, NPWT is thought to promote closure chiefly through removal of wound exudate and micromechanical deformation of the wound tissue (which stimulates granulation), alongside reduced edema, enhanced local blood flow, decreased bacterial load, and upregulation of inflammatory genes driving epithelial migration. It does not sterilize the wound, deliver systemic antibiotics, or reverse macrophage phenotype.",
+  "hy": "NPWT works via exudate removal + micromechanical deformation.",
+  "src": "Neligan I.15 · NPWT",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the two main proposed mechanisms.",
+   "B": "Wrong — NPWT reduces but does not sterilize; vasoconstriction is not permanent.",
+   "C": "Wrong — NPWT does not deliver systemic antibiotics or promote eschar.",
+   "D": "Wrong — no M2→M1 reversal/dermal thinning mechanism is described."
+  }
+ },
+ {
+  "id": "N-I-15.56",
+  "chapter": "Ch15",
+  "section": "Tissue engineering",
+  "stem": "Which product was the first FDA-approved allogeneic tissue-engineered skin?",
+  "options": {
+   "A": "Apligraf",
+   "B": "Integra",
+   "C": "Dermagraft",
+   "D": "Epicel"
+  },
+  "answer": "A",
+  "exp": "Apligraf, approved by the FDA in 1998, was the first allogeneic tissue-engineered skin, followed by Epicel and Dermagraft, and later by acellular scaffolds such as Integra in the early 2000s. Integra is an acellular dermal scaffold (not the first allogeneic living-skin equivalent), and Dermagraft/Epicel came after Apligraf.",
+  "hy": "Apligraf = first FDA-approved allogeneic engineered skin (1998).",
+  "src": "Neligan I.15 · Tissue engineering",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — Apligraf was the first (1998).",
+   "B": "Wrong — Integra is an acellular scaffold, developed later.",
+   "C": "Wrong — Dermagraft followed Apligraf.",
+   "D": "Wrong — Epicel also followed Apligraf."
+  }
+ },
+ {
+  "id": "N-I-15.57",
+  "chapter": "Ch15",
+  "section": "Tissue engineering — cell therapy",
+  "stem": "Why does an allogeneic (donor) cell graft provide only temporary coverage, whereas an autologous graft can be permanent?",
+  "options": {
+   "A": "Allogeneic cells provoke rejection and help only via paracrine factors; autologous cells do not reject",
+   "B": "Allogeneic cells lack any secreted growth factors, whereas the autologous cells release them abundantly",
+   "C": "Autologous cells always reject because the host immune system recognizes them as fully foreign tissue",
+   "D": "Allogeneic cells integrate permanently, but the autologous cells are immediately phagocytosed and lost"
+  },
+  "answer": "A",
+  "exp": "Allogeneic (donor) cells provoke an immune response and reject, so they provide only temporary coverage — their benefit is limited to paracrine secreted factors — whereas autologous cells (from the patient) do not reject and can build permanent new tissue. Allogeneic cells do secrete growth factors, autologous cells are not recognized as foreign, and the permanent-integration distractor has it reversed.",
+  "hy": "Allogeneic = reject/temporary (paracrine); autologous = permanent.",
+  "src": "Neligan I.15 · Tissue engineering — cell therapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — rejection limits allogeneic grafts to paracrine benefit.",
+   "B": "Wrong — allogeneic cells do secrete growth factors.",
+   "C": "Wrong — autologous cells are not seen as foreign and don't reject.",
+   "D": "Wrong — it reverses which cells integrate permanently."
+  }
+ },
+ {
+  "id": "N-I-15.58",
+  "chapter": "Ch15",
+  "section": "Wound imaging",
+  "stem": "A handheld fluorescence imaging device shows red and cyan signals from a wound. What do these colors indicate?",
+  "options": {
+   "A": "Red = porphyrin-producing bacteria; cyan = Pseudomonas aeruginosa",
+   "B": "Red = local collagen density; cyan = the measured depth of the wound",
+   "C": "Red = arterial perfusion inflow; cyan = venous congestion in the bed",
+   "D": "Red = re-epithelialized new skin; cyan = overlying necrotic eschar"
+  },
+  "answer": "A",
+  "exp": "Handheld fluorescence imaging uses violet-light excitation: green fluorescence marks anatomic context, red fluorescence indicates porphyrin-producing bacteria, and cyan fluorescence indicates Pseudomonas aeruginosa — giving real-time bioburden information correlated with cultures. The colors do not encode collagen density, perfusion, or re-epithelialization.",
+  "hy": "Fluorescence: red = porphyrin-producing bacteria; cyan = Pseudomonas.",
+  "src": "Neligan I.15 · Wound imaging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — red = porphyrin producers, cyan = Pseudomonas.",
+   "B": "Wrong — the colors indicate bacteria, not collagen/depth.",
+   "C": "Wrong — perfusion mapping is LSCI, not this device.",
+   "D": "Wrong — the signals reflect bioburden, not epithelium/eschar."
+  }
+ },
+ {
+  "id": "N-I-15.59",
+  "chapter": "Ch15",
+  "section": "Wound-healing research",
+  "stem": "Rodent wound models translate imperfectly to humans for which fundamental reason?",
+  "options": {
+   "A": "Rodent wounds heal mainly by contraction, whereas human wounds re-epithelialize",
+   "B": "Rodent wounds heal only by re-epithelialization, unlike contraction-based human healing",
+   "C": "Rodents cannot form any granulation tissue within an open cutaneous wound at all",
+   "D": "Rodent skin entirely lacks an epidermal layer, which precludes any useful comparison"
+  },
+  "answer": "A",
+  "exp": "Rodent (murine) wounds heal predominantly by contraction, whereas human wounds heal primarily by re-epithelialization and granulation-tissue formation — a fundamental difference that complicates translation, which is why splints and wound chambers are used to restrain rodent contraction and force human-like healing. The reversed-mechanism distractor swaps rodent and human healing; rodents do form granulation tissue and do have epidermis.",
+  "hy": "Rodent = contraction; human = re-epithelialization/granulation.",
+  "src": "Neligan I.15 · Wound-healing research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — the contraction-vs-re-epithelialization mismatch.",
+   "B": "Wrong — it reverses rodent and human mechanisms.",
+   "C": "Wrong — rodents do form granulation tissue.",
+   "D": "Wrong — rodent skin has an epidermis."
+  }
+ },
+ {
+  "id": "N-I-15.60",
+  "chapter": "Ch15",
+  "section": "Wound-healing research",
+  "stem": "Which laboratory animal's skin is considered most similar in structure and healing mechanism to human skin?",
+  "options": {
+   "A": "Pig",
+   "B": "Mouse",
+   "C": "Rat",
+   "D": "Rabbit"
+  },
+  "answer": "A",
+  "exp": "Porcine skin is the closest animal analog to human skin — similar epidermal/dermal structure (papillary and reticular dermis, rete ridges, dense elastic fibers), epidermis-to-dermis ratio, vascular organization, and, crucially, the same healing mechanism (granulation + epithelialization rather than contraction) — making pigs excellent for preclinical wound studies. Mouse/rat heal by contraction; rabbit is used mainly for ischemic-ear models.",
+  "hy": "Porcine skin = most human-like in structure and healing.",
+  "src": "Neligan I.15 · Wound-healing research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — pig skin most closely mimics human skin/healing.",
+   "B": "Wrong — mouse wounds heal by contraction, unlike humans.",
+   "C": "Wrong — rat wounds also heal by contraction.",
+   "D": "Wrong — rabbit is used for ischemic-ear studies, less human-like overall."
+  }
+ },
+ {
+  "id": "N-I-15.61",
+  "chapter": "Ch15",
+  "section": "Wound-healing research",
+  "stem": "The rabbit-ear model is used specifically to study which kind of wound healing, and what limits its window?",
+  "options": {
+   "A": "Ischemic healing — collateral circulation restores flow within about 2 weeks",
+   "B": "Contraction-based healing — the rabbit ear is entirely unable to re-epithelialize",
+   "C": "Deep burn healing — the ear tolerates repeated full-thickness burns indefinitely",
+   "D": "Infected-wound healing — the ear is naturally colonized by Pseudomonas species"
+  },
+  "answer": "A",
+  "exp": "The rabbit-ear model studies ischemic wound healing: two of the three arteries supplying the ear are ligated to create local ischemia, and a full-thickness ear wound is made in the poorly vascularized zone, mimicking a poorly vascularized ulcer. Its window is limited because collateral circulation restores blood supply within about 2 weeks, so it best models acute ischemic healing. Rabbit wounds otherwise behave like human wounds in closure/scarring.",
+  "hy": "Rabbit ear = ischemic model; collaterals restore flow within ~2 weeks.",
+  "src": "Neligan I.15 · Wound-healing research",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "why": {
+   "A": "Correct — ischemic model, limited by ~2-week collateral recovery.",
+   "B": "Wrong — the model is about ischemia, and the ear does re-epithelialize.",
+   "C": "Wrong — it is not an indefinite full-thickness burn model.",
+   "D": "Wrong — the ear is not naturally Pseudomonas-colonized by design."
+  }
+ },
+ {
+  "id": "N-I-15.62",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — DFU",
+  "stem": "A 61-year-old with long-standing diabetes and peripheral neuropathy has this chronic ulcer over a weight-bearing point of the foot. What is the most likely diagnosis?",
+  "options": {
+   "A": "Diabetic neuropathic ulcer",
+   "B": "Chronic venous stasis ulcer",
+   "C": "Arterial (ischemic) ulcer",
+   "D": "Pyoderma gangrenosum ulcer"
+  },
+  "answer": "A",
+  "exp": "The image shows a chronic ulcer over a plantar weight-bearing point in a neuropathic diabetic — the classic diabetic (neuropathic) foot ulcer, driven by repetitive pressure on an insensate foot plus microvascular ischemia and impaired healing; management is debridement to healthy tissue, pressure off-loading, glycemic and vascular optimization, and infection control. Venous ulcers sit over the medial gaiter area with surrounding stasis change; arterial/ischemic ulcers are distal, punched-out, and painful with an ABI < 1; pyoderma gangrenosum is an inflammatory ulcer with violaceous undermined borders, not a pressure-point wound.",
+  "hy": "Plantar pressure-point ulcer in a neuropathic diabetic = diabetic foot ulcer.",
+  "src": "Neligan I.15 · Chronic wounds — DFU",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "image": "images/N-I-15-62.jpg",
+  "imgcap": "Chronic foot ulcer",
+  "why": {
+   "A": "Correct — a plantar pressure-point ulcer in a neuropathic diabetic foot.",
+   "B": "Wrong — venous ulcers occur over the medial gaiter area with stasis skin change.",
+   "C": "Wrong — arterial ulcers are distal, punched-out, and painful with a low ABI.",
+   "D": "Wrong — pyoderma gangrenosum has violaceous, undermined inflammatory borders."
+  }
+ },
+ {
+  "id": "N-I-15.63",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — venous ulcers",
+  "stem": "This shallow, exudative ulcer developed over the medial lower leg (gaiter area) in a patient with chronic leg swelling and hyperpigmentation. What is it?",
+  "options": {
+   "A": "Venous stasis ulcer",
+   "B": "Diabetic foot ulcer",
+   "C": "Arterial (ischemic) ulcer",
+   "D": "Marjolin ulcer"
+  },
+  "answer": "A",
+  "exp": "A shallow, exudative ulcer over the medial lower-leg gaiter area with surrounding hyperpigmentation and edema is a venous stasis ulcer — the largest segment of lower-extremity ulcers, caused by venous hypertension; compression therapy, leg elevation (~120 min/day), and exercise are the mainstays. Diabetic ulcers are on plantar pressure points; arterial/ischemic ulcers are distal and painful with poor pulses; a Marjolin ulcer is an SCC arising in chronic scar/wound, not this stasis presentation.",
+  "hy": "Medial gaiter-area ulcer + stasis change = venous stasis ulcer.",
+  "src": "Neligan I.15 · Chronic wounds — venous ulcers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "image": "images/N-I-15-63.jpg",
+  "imgcap": "Lower-leg ulcer",
+  "why": {
+   "A": "Correct — gaiter-area, exudative, with venous stasis skin changes.",
+   "B": "Wrong — diabetic ulcers form on plantar weight-bearing points.",
+   "C": "Wrong — arterial ulcers are distal, punched-out, and painful.",
+   "D": "Wrong — a Marjolin ulcer is malignant degeneration of chronic scar/wound."
+  }
+ },
+ {
+  "id": "N-I-15.64",
+  "chapter": "Ch15",
+  "section": "Chronic wounds — pressure sores",
+  "stem": "This wound overlies the greater trochanter in a bed-bound patient, with eroded skin and exposed deeper tissue. What is it?",
+  "options": {
+   "A": "Pressure (decubitus) sore",
+   "B": "Chronic venous stasis ulcer",
+   "C": "Hidradenitis suppurativa",
+   "D": "Diabetic neuropathic ulcer"
+  },
+  "answer": "A",
+  "exp": "A wound overlying the greater trochanter in an immobile patient, with eroded skin and exposed deeper tissue, is a pressure (decubitus) sore — a variant of ischemic ulcer where external pressure over a bony prominence (sacrum, ischium, trochanter, calcaneus) exceeds capillary perfusion; treatment is pressure off-loading, debridement to bleeding tissue, and sometimes flap reconstruction (recurrence up to 60%). Venous and diabetic ulcers occur elsewhere by different mechanisms; hidradenitis suppurativa affects apocrine intertriginous skin, not a bony prominence.",
+  "hy": "Ulcer over a bony prominence in an immobile patient = pressure sore.",
+  "src": "Neligan I.15 · Chronic wounds — pressure sores",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "image": "images/N-I-15-64.jpg",
+  "imgcap": "Wound over a bony prominence",
+  "why": {
+   "A": "Correct — a bony-prominence pressure wound from immobility.",
+   "B": "Wrong — venous ulcers are over the medial gaiter area.",
+   "C": "Wrong — hidradenitis affects apocrine intertriginous skin.",
+   "D": "Wrong — diabetic ulcers form on plantar pressure points."
+  }
+ },
+ {
+  "id": "N-I-15.65",
+  "chapter": "Ch15",
+  "section": "Fibrosis & exuberant scar",
+  "stem": "This firm, rubbery scar has grown well beyond the borders of a narrow surgical incision and continues to enlarge. What is it?",
+  "options": {
+   "A": "Keloid",
+   "B": "Hypertrophic scar",
+   "C": "Atrophic scar",
+   "D": "Dermatofibroma"
+  },
+  "answer": "A",
+  "exp": "A firm scar that grows beyond the borders of the original (narrow) incision and keeps enlarging is a keloid — exuberant scar with very high collagen synthesis that extends past the wound margins and rarely regresses; it is commoner in pigmented skin (up to ~10%) and treated with intralesional triamcinolone (mainstay), silicone, excision plus adjuvant injection/radiation. A hypertrophic scar stays within the wound margins and regresses; an atrophic scar is depressed; a dermatofibroma is a benign firm dermal nodule, not a scar.",
+  "hy": "Scar extending beyond the wound margin = keloid.",
+  "src": "Neligan I.15 · Fibrosis & exuberant scar",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "image": "images/N-I-15-65.jpg",
+  "imgcap": "Raised scar at a healed incision",
+  "why": {
+   "A": "Correct — growth beyond the original wound margin defines a keloid.",
+   "B": "Wrong — a hypertrophic scar stays within the margins and regresses.",
+   "C": "Wrong — an atrophic scar is depressed, not raised and expanding.",
+   "D": "Wrong — a dermatofibroma is a benign dermal nodule, not an incisional scar."
+  }
+ },
+ {
+  "id": "N-I-15.66",
+  "chapter": "Ch15",
+  "section": "Fibrosis & exuberant scar",
+  "stem": "This raised scar remains confined within the borders of the original wound and has begun to flatten over time. What is it?",
+  "options": {
+   "A": "Hypertrophic scar",
+   "B": "Keloid scar",
+   "C": "Scar contracture band",
+   "D": "Atrophic (depressed) scar"
+  },
+  "answer": "A",
+  "exp": "A raised scar that stays within the borders of the original wound and flattens over time is a hypertrophic scar — exuberant collagen confined to the wound, which (unlike a keloid) tends to regress, so surgery is reserved for severe symptoms; silicone and intralesional steroid can help. A keloid extends beyond the margins and keeps growing; a contracture is a tightening band across a joint/crease; an atrophic scar is depressed.",
+  "hy": "Raised scar within margins that regresses = hypertrophic scar.",
+  "src": "Neligan I.15 · Fibrosis & exuberant scar",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "image": "images/N-I-15-66.jpg",
+  "imgcap": "Raised scar within wound borders",
+  "why": {
+   "A": "Correct — confined to the wound and regressing = hypertrophic scar.",
+   "B": "Wrong — a keloid extends beyond the margins and does not regress.",
+   "C": "Wrong — a contracture is a tightening band, not this raised scar.",
+   "D": "Wrong — an atrophic scar is depressed rather than raised."
+  }
+ },
+ {
+  "id": "N-I-15.67",
+  "chapter": "Ch15",
+  "section": "Burn injuries",
+  "stem": "This burn wound is dark, leathery, and comparatively less painful than the surrounding area; it required debridement and grafting because it will not re-epithelialize on its own. What depth is shown?",
+  "options": {
+   "A": "Deep partial-thickness burn",
+   "B": "Superficial partial-thickness burn",
+   "C": "Full-thickness (third-degree) burn",
+   "D": "Superficial (first-degree) burn"
+  },
+  "answer": "A",
+  "exp": "A dark, leathery, comparatively less-painful burn that needs debridement and grafting because it cannot re-epithelialize is a deep partial-thickness (deep second-degree) burn: it extends through most of the dermis, destroying sensory nerve endings (hence less pain than a superficial burn) and most dermal appendages, so early excision and skin grafting is standard. A superficial partial-thickness (superficial second-degree) burn is pink, moist, and very painful, healing in ~2 weeks without grafting; a full-thickness (third-degree) burn is charred/waxy-white and completely insensate, deeper than this; a superficial (first-degree) burn is dry epidermal erythema.",
+  "hy": "Leathery, less-painful, non-healing burn needing grafting = deep partial-thickness.",
+  "src": "Neligan I.15 · Burn injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "15",
+  "chname": "Wound Healing",
+  "image": "images/N-I-15-67.jpg",
+  "imgcap": "Burn wound",
+  "why": {
+   "A": "Correct — deep dermal burn, less painful than superficial, needs grafting.",
+   "B": "Wrong — superficial partial-thickness burns are moist, very painful, and heal in ~2 weeks.",
+   "C": "Wrong — a full-thickness (third-degree) burn is completely insensate and charred, deeper than this.",
+   "D": "Wrong — a superficial (first-degree) burn is dry epidermal erythema only."
+  }
  }
 ]
