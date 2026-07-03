@@ -36836,5 +36836,1727 @@
    "C": "Wrong — a full-thickness (third-degree) burn is completely insensate and charred, deeper than this.",
    "D": "Wrong — a superficial (first-degree) burn is dry epidermal erythema only."
   }
+ },
+ {
+  "id": "N-I-16.1",
+  "chapter": "Ch16",
+  "section": "Personal and social significance",
+  "stem": "A young man is referred after a facial laceration heals with a visible scar and he reports intrusive memories and avoidance since the assault. Which figure best reflects the reported rate of post-traumatic stress disorder in burn patients at 1 year, the population the chapter cites for scar-related psychological sequelae?",
+  "options": {
+   "A": "23–45%",
+   "B": "Below 5%",
+   "C": "10–15%",
+   "D": "55–70%"
+  },
+  "answer": "A",
+  "exp": "Scars carry a real psychological burden: the chapter cites post-traumatic stress disorder rates in burn patients of 23–45% at 1 year following injury, with risk factors including avoidant coping, pre-existing psychiatric history, and hand/face involvement and burn severity. This is why scar assessment must address the patient's emotional relationship to the scar (\"view from the outside\" vs \"view from the inside,\" per Cash), not just its physical features. The other ranges are too low or too high relative to the cited figure.",
+  "hy": "PTSD in burn patients ≈ 23–45% at 1 year.",
+  "src": "Neligan I.16 · Personal and social significance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the chapter's cited 1-year PTSD range in burn patients.",
+   "B": "Wrong — 1–5% grossly understates the cited burden.",
+   "C": "Wrong — 10–15% is below the reported range.",
+   "D": "Wrong — 55–70% overstates the cited figure."
+  }
+ },
+ {
+  "id": "N-I-16.2",
+  "chapter": "Ch16",
+  "section": "Personal and social significance",
+  "stem": "The chapter cites a study on the social perception of facial scars. Which statement matches its finding?",
+  "options": {
+   "A": "Facial scars in men were perceived as signalling risk-taking and rated more attractive, an effect not seen in scarred women",
+   "B": "Facial scars in women were perceived as signalling resilience and rated more attractive, an effect not seen for similarly scarred men",
+   "C": "Facial scars lowered perceived attractiveness equally in both men and women across all observers studied",
+   "D": "Facial scars raised perceived attractiveness to an equal degree in both men and women across every observer group studied"
+  },
+  "answer": "A",
+  "exp": "The chapter reports a study finding that facial scars in men were perceived as indicating risk-taking and bravery, and those men were subsequently seen as more attractive — an effect that was not found when observers were shown similarly scarred women. This illustrates that the social meaning of a scar is gendered, which matters when counseling patients about expectations. The distractors reverse the gender, or wrongly claim a symmetric effect.",
+  "hy": "Facial scars raised perceived attractiveness in men, not women.",
+  "src": "Neligan I.16 · Personal and social significance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the study's actual finding (men only).",
+   "B": "Wrong — it reverses the gender of the effect.",
+   "C": "Wrong — the effect was not a uniform decrease in both sexes.",
+   "D": "Wrong — the benefit was not seen in women."
+  }
+ },
+ {
+  "id": "N-I-16.3",
+  "chapter": "Ch16",
+  "section": "Assessing scars",
+  "stem": "The Vancouver Scar Scale (Burn Scar Index) is the most frequently used scar assessment tool. Which set lists the four variables it scores?",
+  "options": {
+   "A": "Pigmentation, vascularity, pliability, height",
+   "B": "Pain, pruritus, contour, patient satisfaction",
+   "C": "Pigmentation, pain, surface area, tethering",
+   "D": "Vascularity, pruritus, elasticity, subunit involvement"
+  },
+  "answer": "A",
+  "exp": "The Vancouver Scar Scale (Burn Scar Index), published in 1990, is an observer-dependent scale that scores four variables: pigmentation, vascularity, pliability, and height, each graded by degree of variance from normal skin. It was designed to track burn scars with maturity and treatment. It does NOT score pain, pruritus, or patient satisfaction — a limitation later scales (POSAS) addressed. The distractor sets swap in parameters from other scales or symptoms the VSS omits.",
+  "hy": "VSS = pigmentation, vascularity, pliability, height.",
+  "src": "Neligan I.16 · Assessing scars · Table 16.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the four VSS variables.",
+   "B": "Wrong — pain, pruritus, and satisfaction are precisely what the VSS excludes.",
+   "C": "Wrong — the VSS scores neither pain nor surface area nor tethering.",
+   "D": "Wrong — elasticity/pruritus/subunit involvement are not VSS variables."
+  }
+ },
+ {
+  "id": "N-I-16.4",
+  "chapter": "Ch16",
+  "section": "Assessing scars",
+  "stem": "On the Vancouver Scar Scale, the pliability variable is graded from 0 to 5. Which grade corresponds to a contracture (permanent shortening producing deformity or distortion)?",
+  "options": {
+   "A": "5",
+   "B": "2",
+   "C": "3",
+   "D": "4, which is the highest possible grade on the scale"
+  },
+  "answer": "A",
+  "exp": "On the VSS pliability scale (0–5): 0 normal, 1 supple, 2 yielding, 3 firm, 4 banding (rope-like tissue that blanches with extension), and 5 contracture (permanent shortening producing deformity or distortion). Contracture is the highest, most severe grade at 5. Grades 2, 3, and 4 are the adjacent, less-severe values on the same scale, so the exact number must be recalled.",
+  "hy": "VSS pliability 5 = contracture (4 = banding).",
+  "src": "Neligan I.16 · Assessing scars · Table 16.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 5 is contracture, the top of the pliability scale.",
+   "B": "Wrong — 2 is \"yielding.\"",
+   "C": "Wrong — 3 is \"firm.\"",
+   "D": "Wrong — 4 is \"banding,\" one step below contracture."
+  },
+  "exptable": [
+   [
+    "VSS pliability",
+    "Description"
+   ],
+   [
+    "0",
+    "Normal"
+   ],
+   [
+    "1",
+    "Supple"
+   ],
+   [
+    "2",
+    "Yielding"
+   ],
+   [
+    "3",
+    "Firm"
+   ],
+   [
+    "4",
+    "Banding (blanches with extension)"
+   ],
+   [
+    "5",
+    "Contracture (deformity/distortion)"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-16.5",
+  "chapter": "Ch16",
+  "section": "Assessing scars",
+  "stem": "A reviewer criticizes the Vancouver Scar Scale for a specific limitation. Which limitation does the chapter attribute to the VSS?",
+  "options": {
+   "A": "Its historical focus on burn scars and exclusion of the patient's own perceptions, pain, and pruritus",
+   "B": "Its reliance on expensive three-dimensional topographic imaging that limits it to research settings",
+   "C": "Its requirement for histologic confirmation before any numeric score can be assigned to a scar",
+   "D": "Its exclusive validation for linear surgical scars and its inability to score any of the larger burn scars"
+  },
+  "answer": "A",
+  "exp": "Although the most commonly used tool, the VSS is limited by its historical focus on burn scars, its lack of consideration of the patient's own perceptions, its exclusion of pain and pruritus, and its lesser applicability to large heterogeneous scars. These gaps drove development of the VAS, POSAS, SBSES, and MCFONTZL. The expensive-3D-imaging and histology options describe other assessment methods, not the VSS's flaw; and it was validated for burn (not solely linear) scars.",
+  "hy": "VSS: burn-focused, omits patient perception, pain, and pruritus.",
+  "src": "Neligan I.16 · Assessing scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the chapter's stated VSS limitations.",
+   "B": "Wrong — 3D topographic imaging is a separate research-limited method.",
+   "C": "Wrong — the VSS requires no histology.",
+   "D": "Wrong — the VSS grew from burn scars; linear-scar validation describes POSAS."
+  }
+ },
+ {
+  "id": "N-I-16.6",
+  "chapter": "Ch16",
+  "section": "Assessing scars",
+  "stem": "Compared with the Vancouver Scar Scale, which feature is the principal advantage of the Patient and Observer Scar Assessment Scale (POSAS)?",
+  "options": {
+   "A": "It incorporates the patient's own opinion and better captures pain, itch, and thickness",
+   "B": "It removes all observer subjectivity by scoring scars purely from calibrated laser Doppler flow readings",
+   "C": "It was the first scale ever validated, published in 1990 specifically for the assessment of burn scars",
+   "D": "It assigns a billing code to each scar by dividing the face into named aesthetic units for reimbursement"
+  },
+  "answer": "A",
+  "exp": "The Patient and Observer Scar Assessment Scale (POSAS), developed in 2004 for burns and later validated for linear scars, adds the patient's own opinion to a VSS-like observer scale and better captures symptoms such as pain, itchiness, and thickness — directly addressing the VSS's exclusion of patient perception. It is not a purely instrument-based or histology-based tool, was not the first scale (the 1990 VSS predates it), and does not assign billing codes (that is MCFONTZL).",
+  "hy": "POSAS adds patient-reported opinion + pain/itch/thickness.",
+  "src": "Neligan I.16 · Assessing scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — POSAS's defining advantage is incorporating patient opinion.",
+   "B": "Wrong — POSAS is not a laser-Doppler instrument and is not observer-free.",
+   "C": "Wrong — the 1990 VSS, not POSAS, is the earlier burn scale.",
+   "D": "Wrong — aesthetic-unit billing is the MCFONTZL system."
+  }
+ },
+ {
+  "id": "N-I-16.7",
+  "chapter": "Ch16",
+  "section": "Assessing scars",
+  "stem": "The Stony Brook Scar Evaluation Scale (SBSES) was originally developed for which purpose?",
+  "options": {
+   "A": "A photo-based tool for emergency physicians to evaluate wounds from 5–10 days after wounding",
+   "B": "A patient-reported tool developed in 2004 to add symptom scoring to burn-scar assessment",
+   "C": "A mnemonic classification of facial soft-tissue trauma that also captures the CPT billing code",
+   "D": "An observer scale published in 1990 to track burn-scar change with maturity and treatment"
+  },
+  "answer": "A",
+  "exp": "The Stony Brook Scar Evaluation Scale (SBSES) is a photo-based scale, similar to the VAS, initially developed as a tool for emergency-medicine physicians to evaluate wounds 5–10 days after wounding (up to suture removal); it was later adapted for long-term evaluation (3–12 months) and used as an outcome measure in FDA-mandated trials. The other options describe POSAS (2004, patient-reported), MCFONTZL (facial-trauma mnemonic + CPT), and the VSS (1990 observer scale).",
+  "hy": "SBSES = photo-based ED wound scale (5–10 days), later FDA-trial outcome.",
+  "src": "Neligan I.16 · Assessing scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — SBSES's original emergency-department, photo-based purpose.",
+   "B": "Wrong — that describes POSAS.",
+   "C": "Wrong — that describes MCFONTZL.",
+   "D": "Wrong — that describes the 1990 VSS."
+  }
+ },
+ {
+  "id": "N-I-16.8",
+  "chapter": "Ch16",
+  "section": "Assessing scars",
+  "stem": "The MCFONTZL classification system was created for which specific application?",
+  "options": {
+   "A": "Soft-tissue facial injuries, using a mnemonic dividing the face into aesthetic units and capturing billing",
+   "B": "Grading the pliability and the height of maturing burn scars during routine outpatient follow-up clinic visits",
+   "C": "Staging the recurrence risk of a keloid after surgical excision combined with adjuvant radiotherapy",
+   "D": "Standardizing the photographic documentation of linear surgical scars in FDA-mandated clinical trials"
+  },
+  "answer": "A",
+  "exp": "The MCFONTZL classification system was developed specifically for soft-tissue injuries to the face; it uses a mnemonic dividing the face into aesthetic units (maxilla, chin, forehead, orbits, nose, temple, zygoma, lip) and, distinctively, incorporates billing via the current procedural terminology (CPT) code. It is a facial-trauma tool, not a burn-scar maturity scale (VSS), a keloid-recurrence stage, or a photographic-standardization protocol.",
+  "hy": "MCFONTZL = facial soft-tissue trauma mnemonic + billing/CPT.",
+  "src": "Neligan I.16 · Assessing scars · Table 16.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — facial trauma, aesthetic-unit mnemonic, billing code.",
+   "B": "Wrong — pliability/height grading over follow-up is the VSS.",
+   "C": "Wrong — MCFONTZL does not stage keloid recurrence.",
+   "D": "Wrong — photographic standardization for trials describes SBSES use."
+  }
+ },
+ {
+  "id": "N-I-16.9",
+  "chapter": "Ch16",
+  "section": "Scar biology",
+  "stem": "During wound healing, macrophages adopt distinct phenotypes. Which pairing of phenotype and function is correct as described in this chapter?",
+  "options": {
+   "A": "\"Classically activated\" M1 macrophages are proinflammatory and clear debris; \"alternatively activated\" M2 macrophages secrete anti-inflammatory cytokines",
+   "B": "\"Classically activated\" M1 macrophages secrete anti-inflammatory cytokines; \"alternatively activated\" M2 macrophages are proinflammatory and phagocytose debris",
+   "C": "M1 macrophages lay down the type I collagen of the mature scar, while M2 macrophages trigger the initial hemostatic clotting cascade",
+   "D": "M1 and M2 macrophages are functionally identical and differ only in their precise anatomic location within the granulation tissue bed"
+  },
+  "answer": "A",
+  "exp": "Macrophages exist as two described subtypes: \"classically activated\" M1 cells are proinflammatory — they phagocytose damaged tissue and produce proinflammatory cytokines (IL-1, IL-6, TGF-α) — while \"alternatively activated\" M2 cells secrete high levels of anti-inflammatory cytokines to resolve inflammation and promote healing. The distractors reverse the two phenotypes, assign collagen deposition or hemostasis to macrophages, or wrongly claim the phenotypes are identical.",
+  "hy": "M1 = proinflammatory/phagocytic; M2 = anti-inflammatory/resolving.",
+  "src": "Neligan I.16 · Scar biology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the M1/M2 functional split as described.",
+   "B": "Wrong — it reverses the proinflammatory vs anti-inflammatory roles.",
+   "C": "Wrong — macrophages neither lay the mature-scar collagen nor start hemostasis.",
+   "D": "Wrong — the phenotypes differ functionally, not merely by location."
+  }
+ },
+ {
+  "id": "N-I-16.10",
+  "chapter": "Ch16",
+  "section": "Scar biology",
+  "stem": "A patient asks whether a healed surgical wound will be as strong as the surrounding skin. According to the chapter, what maximum tensile strength does wounded skin regain relative to unwounded skin?",
+  "options": {
+   "A": "About 80%",
+   "B": "About 50%",
+   "C": "About 100%",
+   "D": "About 110%"
+  },
+  "answer": "A",
+  "exp": "The chapter states plainly that the tensile strength of wounded skin will only reach about 80% of the tensile strength of unwounded skin, even after full remodeling — a key point for counseling patients that a scar is permanently weaker than intact skin. It never reaches 100%, never exceeds normal (110%), and 50% understates the reported plateau.",
+  "hy": "Healed skin regains ≈80% of normal tensile strength (never 100%).",
+  "src": "Neligan I.16 · Scar biology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the ~80% plateau stated in the chapter.",
+   "B": "Wrong — 50% understates the reported maximum.",
+   "C": "Wrong — wounded skin never regains full 100% strength.",
+   "D": "Wrong — scar never exceeds normal skin strength."
+  }
+ },
+ {
+  "id": "N-I-16.11",
+  "chapter": "Ch16",
+  "section": "Scar biology",
+  "stem": "Newly formed granulation tissue appears red and granular. Which description of its early composition is correct?",
+  "options": {
+   "A": "A looser matrix of fibronectin, type III collagen, and hyaluronic acid, red from its dense capillary network",
+   "B": "A dense, highly cross-linked type I collagen matrix that is red because of retained hemosiderin deposits",
+   "C": "A predominantly elastin and type IV collagen matrix, red from the persistence of the original fibrin clot",
+   "D": "An acellular matrix of mature parallel collagen bundles, red from ongoing neutrophil myeloperoxidase activity"
+  },
+  "answer": "A",
+  "exp": "Early granulation tissue is a less-dense extracellular matrix composed of fibronectin, type III collagen, and hyaluronic acid, and it looks red and \"granular\" because of its dense capillary network; as capillaries regress the redness fades, and mature scars end up hypopigmented and lighter than surrounding skin. The distractors describe mature (dense type I) matrix, wrong collagen types, or an acellular parallel-collagen scar — all later or incorrect.",
+  "hy": "Early granulation = fibronectin + type III collagen + hyaluronic acid, red from capillaries.",
+  "src": "Neligan I.16 · Scar biology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the composition and reason for the red color.",
+   "B": "Wrong — dense cross-linked type I collagen is mature, not early, matrix.",
+   "C": "Wrong — elastin/type IV and retained clot do not define granulation tissue.",
+   "D": "Wrong — mature parallel collagen is the remodeled end-state, not granulation."
+  }
+ },
+ {
+  "id": "N-I-16.12",
+  "chapter": "Ch16",
+  "section": "Scar biology",
+  "stem": "Driskell and colleagues (2013) showed that skin fibroblasts arise from a common progenitor and split into two dermal lineages. Which statement about these lineages is correct?",
+  "options": {
+   "A": "Papillary (upper dermal) fibroblasts form new hair follicles; reticular (lower dermal) fibroblasts drive early wound repair",
+   "B": "Papillary (upper dermal) fibroblasts drive early wound repair; reticular (lower dermal) fibroblasts form new hair follicles",
+   "C": "Both dermal lineages arise from neural-crest melanocyte precursors rather than from any common fibroblast progenitor cell",
+   "D": "The two lineages are fixed at birth and, unlike other fibroblasts, cannot ever transition into adipocytes under any stimulus at all"
+  },
+  "answer": "A",
+  "exp": "Driskell et al. (2013) showed skin fibroblasts derive from a common progenitor and, by embryonic day 12.5, split into two dermal lineages: the upper-dermal \"papillary\" fibroblasts, which contribute to new hair-follicle formation, and the lower-dermal \"reticular\" fibroblasts, which participate in early wound repair. Later work also showed subtypes can transition into other cells (e.g., myofibroblast↔adipocyte under BMP), so the \"fixed at birth\" claim is wrong; the lineages come from a fibroblast progenitor, not neural crest.",
+  "hy": "Papillary → hair follicles; reticular → early wound repair.",
+  "src": "Neligan I.16 · Scar biology · Fig 16.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the papillary vs reticular functional split.",
+   "B": "Wrong — it reverses which lineage repairs wounds.",
+   "C": "Wrong — they arise from a common fibroblast progenitor, not melanocytes.",
+   "D": "Wrong — fibroblast subtypes can transition (e.g., into adipocytes)."
+  }
+ },
+ {
+  "id": "N-I-16.13",
+  "chapter": "Ch16",
+  "section": "Scar biology",
+  "stem": "Recent lineage-tracing work identified a fibroblast population responsible for dermal scarring in mouse skin and linked it to mechanical tension. Which lineage is it?",
+  "options": {
+   "A": "Engrailed-1 (En1)-lineage fibroblasts, whose tension-driven activation can be blocked to promote regeneration",
+   "B": "Wnt1-lineage fibroblasts, whose activation in oral mucosa is responsible for the bulk of ventral skin scarring",
+   "C": "Neural-crest-derived melanocytes, whose activation defines the papillary dermal repair response",
+   "D": "Bone-marrow-derived hematopoietic fibroblasts, whose tension-driven apoptosis prevents scar formation"
+  },
+  "answer": "A",
+  "exp": "In 2015, engrailed-1 (En1)-lineage-derived fibroblasts were reported to be responsible for scarring in mouse dermis, linking developmental lineage to wound healing. The chapter's group further showed that mechanical tension drives En1 activation, and blocking it promotes wound regeneration with recovery of skin appendages, ultrastructure, and mechanical strength. Wnt1-lineage fibroblasts are the oral-mucosa (low-scar) population; melanocytes and hematopoietic cells are not the scarring fibroblast lineage.",
+  "hy": "Tension-driven En1-lineage fibroblasts drive dermal scarring.",
+  "src": "Neligan I.16 · Scar biology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — En1-lineage fibroblasts, tension-driven, block → regeneration.",
+   "B": "Wrong — Wnt1 lineage is the oral-mucosa low-scarring population.",
+   "C": "Wrong — melanocytes are neural-crest pigment cells, not the scarring lineage.",
+   "D": "Wrong — no bone-marrow \"hematopoietic fibroblast\" prevents scar here."
+  }
+ },
+ {
+  "id": "N-I-16.14",
+  "chapter": "Ch16",
+  "section": "Scar biology",
+  "stem": "One regenerative strategy targets the mechanical environment of the wound. What is the rationale the chapter gives for reducing wound mechanotransduction?",
+  "options": {
+   "A": "Mechanical forces provoke dermal fibroblasts to make scar, so blocking it can promote regeneration with recovered appendages",
+   "B": "Mechanical forces suppress fibroblast collagen synthesis, so blocking the signal accelerates fibrotic scar deposition",
+   "C": "Mechanical forces are required for angiogenesis, so blocking the signal chiefly prevents granulation-tissue formation",
+   "D": "Mechanical forces drive melanocyte migration, so blocking the signal mainly corrects any post-inflammatory pigmentation change"
+  },
+  "answer": "A",
+  "exp": "The regenerative rationale is mechanotransduction: because wound mechanical forces provoke dermal fibroblasts to produce scar, a targeted reduction of the mechanotransduction signal presents an opportunity to induce tissue regeneration (recovery of appendages, ultrastructure, and strength). The distractors invert the biology (tension suppressing collagen, or being required for angiogenesis) or misattribute the effect to melanocyte migration.",
+  "hy": "Tension → fibroblast scarring; blocking mechanotransduction → regeneration.",
+  "src": "Neligan I.16 · Scar prevention: skin regeneration",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — reducing mechanotransduction promotes regeneration.",
+   "B": "Wrong — tension promotes, not suppresses, fibroblast scarring.",
+   "C": "Wrong — the mechanism concerns scar, not primarily angiogenesis.",
+   "D": "Wrong — the target is fibroblast scarring, not melanocyte pigmentation."
+  }
+ },
+ {
+  "id": "N-I-16.15",
+  "chapter": "Ch16",
+  "section": "Conditions of excessive scarring",
+  "stem": "A patient has a raised, itchy scar. Which single clinical feature most reliably distinguishes a keloid from a hypertrophic scar?",
+  "options": {
+   "A": "The keloid grows beyond the boundaries of the original wound, whereas the hypertrophic scar stays within them",
+   "B": "The keloid stays confined to the original wound, whereas the hypertrophic scar extends into surrounding normal skin",
+   "C": "The keloid shows a distinctive nodular collagen histology absent in the hypertrophic scar",
+   "D": "The keloid is characteristically non-pruritic, whereas the hypertrophic scar is painful and pruritic"
+  },
+  "answer": "A",
+  "exp": "The single defining clinical distinction is growth relative to the original wound: hypertrophic scars remain within the boundaries of the original wound (raised, itchy, painful, but confined), whereas keloids grow beyond the original wound edges into surrounding normal tissue. Because the three scar types \"vary little histologically,\" this clinical behavior — not a special histology — is what separates them. The reversed option is a classic trap; keloids are also pruritic, so non-pruritic is wrong.",
+  "hy": "Keloid extends beyond the wound; hypertrophic stays within it.",
+  "src": "Neligan I.16 · Conditions of excessive scarring · Table 16.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the boundary rule (keloid overgrows; hypertrophic confined).",
+   "B": "Wrong — it reverses the boundary behavior of the two.",
+   "C": "Wrong — the two vary little histologically; the distinction is clinical.",
+   "D": "Wrong — hypertrophic scars are pruritic, not the keloid alone."
+  },
+  "exptable": [
+   [
+    "Scar type",
+    "Appearance",
+    "Growth pattern",
+    "Cause"
+   ],
+   [
+    "Normal mature",
+    "Hypo/hyperpigmented, flat",
+    "Contracts slowly",
+    "Normal repair"
+   ],
+   [
+    "Immature",
+    "Red, slightly elevated, itchy",
+    "Turns into mature scar",
+    "Normal repair"
+   ],
+   [
+    "Hypertrophic",
+    "Raised, itchy, painful, within borders",
+    "Self-limited, may take years",
+    "Excess mechanical stress"
+   ],
+   [
+    "Keloid",
+    "Raised, itchy, extends into normal tissue",
+    "Continued growth, recurs",
+    "Genetic; minor trauma"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-16.16",
+  "chapter": "Ch16",
+  "section": "Conditions of excessive scarring",
+  "stem": "True keloids are relatively uncommon but show a clear demographic pattern. Which figure and pattern does the chapter give?",
+  "options": {
+   "A": "An incidence of 6–16% in African populations, mostly in darkly pigmented individuals with autosomal-dominant features",
+   "B": "An incidence of 6–16% in Northern European populations, occurring predominantly in lightly pigmented individuals",
+   "C": "An incidence of 30–40% across all populations, with no genetic predisposition and equal skin-type distribution",
+   "D": "An incidence under 1% worldwide, occurring only after a full-thickness burn injury and regardless of the patient's skin type"
+  },
+  "answer": "A",
+  "exp": "True keloids are not common; they occur predominantly in darkly pigmented individuals, with an incidence of 6–16% in African populations, and demonstrate genetic predisposition with autosomal-dominant features. This demographic/genetic pattern (plus the tendency to recur after excision) is heavily tested. The other options invert the skin-type association, invent a 30–40% universal rate, or wrongly restrict keloids to burns.",
+  "hy": "Keloid incidence 6–16% in African populations; autosomal-dominant, dark skin.",
+  "src": "Neligan I.16 · Conditions of excessive scarring",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 6–16% in African populations, dark skin, AD inheritance.",
+   "B": "Wrong — it reverses the skin-type predisposition.",
+   "C": "Wrong — there is a clear genetic/skin-type predisposition; not universal 30–40%.",
+   "D": "Wrong — keloids are not confined to burn injury."
+  }
+ },
+ {
+  "id": "N-I-16.17",
+  "chapter": "Ch16",
+  "section": "Conditions of excessive scarring",
+  "stem": "Hypertrophic scars are often painful and pruritic. To what does the chapter attribute these symptoms?",
+  "options": {
+   "A": "Release of proinflammatory neuropeptide substance P from nerve endings post-injury",
+   "B": "Entrapment of a cutaneous nerve within the scar, producing a positive Tinel's sign",
+   "C": "Ischemic necrosis from cryotherapy-induced impairment of the lesion's blood supply",
+   "D": "Deposition of dermal calcium salts that mechanically irritate local sensory receptors"
+  },
+  "answer": "A",
+  "exp": "Hypertrophic scars are frequently painful and pruritic, thought to be due to release of the proinflammatory neuropeptide substance P from nerve endings following injury. A positive Tinel's sign points instead to cutaneous nerve entrapment/neuroma (an indication for scar revision), cryotherapy necrosis is a treatment side effect, and dermal calcium deposition is not the described mechanism.",
+  "hy": "Substance P mediates hypertrophic-scar pain and pruritus.",
+  "src": "Neligan I.16 · Conditions of excessive scarring",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — substance P release drives the symptoms.",
+   "B": "Wrong — Tinel's/neuroma is a separate painful-scar entity.",
+   "C": "Wrong — cryotherapy necrosis is a treatment complication, not the cause here.",
+   "D": "Wrong — calcium deposition is not the described mechanism."
+  }
+ },
+ {
+  "id": "N-I-16.18",
+  "chapter": "Ch16",
+  "section": "Conditions of excessive scarring",
+  "stem": "Which statement about keloid histology and biology is correct?",
+  "options": {
+   "A": "Keloids are made mostly of collagen, are acellular centrally with fibroblasts at the edges, and lack an elevated fibroblast count",
+   "B": "Keloids are hypercellular throughout, containing a markedly elevated number of fibroblasts that mechanically stretch the lesion outward",
+   "C": "Keloids are reliably distinguished from hypertrophic scars by a unique, reproducible histologic pattern seen on routine light microscopy",
+   "D": "Keloids arise because collagen degradation chronically outpaces its deposition, progressively thinning the central dermis over time"
+  },
+  "answer": "A",
+  "exp": "Keloids consist primarily of collagen; they are relatively acellular in their central portions with fibroblasts present along the enlarging borders, and — importantly — they do NOT contain a significantly elevated number of fibroblasts. Instead, collagen deposition outpaces degradation, letting the lesion enlarge. They cannot be reliably separated from hypertrophic scars on routine histology, and degradation does not outpace deposition.",
+  "hy": "Keloid = collagen-rich, not hypercellular; deposition outpaces degradation.",
+  "src": "Neligan I.16 · Conditions of excessive scarring",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — collagen-predominant, border fibroblasts, normal fibroblast count.",
+   "B": "Wrong — keloids are not hypercellular with elevated fibroblasts.",
+   "C": "Wrong — keloid and hypertrophic scar share nearly identical histology.",
+   "D": "Wrong — deposition outpaces degradation, not the reverse."
+  }
+ },
+ {
+  "id": "N-I-16.19",
+  "chapter": "Ch16",
+  "section": "Conditions of excessive scarring",
+  "stem": "Apoptosis has been studied in scar biology. Which finding does the chapter report for keloid scars specifically?",
+  "options": {
+   "A": "Keloid scars show decreased expression of apoptotic genes, consistent with a lack of \"stop\" signals",
+   "B": "Keloid scars show markedly increased apoptosis at the wound edge compared with normal and hypertrophic scars",
+   "C": "Keloid scars contain no detectable apoptotic cells at any stage of their continued growth",
+   "D": "Keloid and normal scars differ in apoptosis only during the first 48 hours after wounding"
+  },
+  "answer": "A",
+  "exp": "Studies of apoptotic cell numbers found similar amounts at the advancing edge of normal and hypertrophic scars, but in keloid scars a decreased expression of apoptotic genes was found — fitting the model that a lack of appropriate \"stop\" signals allows continued, unchecked repair. The distractors reverse the finding (increased apoptosis), deny any apoptotic cells, or misplace the difference to 48 hours.",
+  "hy": "Keloids show decreased apoptotic-gene expression (missing \"stop\" signals).",
+  "src": "Neligan I.16 · Conditions of excessive scarring",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — decreased apoptotic-gene expression in keloids.",
+   "B": "Wrong — apoptosis is decreased, not increased, in keloids.",
+   "C": "Wrong — apoptotic cells are present; their gene expression is reduced.",
+   "D": "Wrong — the difference is not a 48-hour phenomenon."
+  }
+ },
+ {
+  "id": "N-I-16.20",
+  "chapter": "Ch16",
+  "section": "Conditions of excessive scarring",
+  "stem": "Because normotrophic, hypertrophic, and keloid scars \"vary little histologically,\" what is the practical consequence for diagnosis stated in the chapter?",
+  "options": {
+   "A": "Pathologic scar types are distinguished mainly on clinical features, aided by serial examination over time",
+   "B": "A punch biopsy with immunostaining is required to separate hypertrophic scar from keloid in every case",
+   "C": "Scars can be classified only after 2 years, once the remodeling of collagen into type I is entirely complete",
+   "D": "Diagnosis rests on measuring transcutaneous oxygen tension, which differs between the two scar types"
+  },
+  "answer": "A",
+  "exp": "Because normotrophic, hypertrophic, and keloid scars vary little histologically, pathologic scar types are distinguished based on clinical characteristics; since timelines vary, clinical monitoring of scar evolution with frequent serial examinations is the most important strategy for diagnosing and treating the problem scar. Routine histology cannot separate them, a fixed 2-year rule is not the criterion, and TcO₂ is not used to classify scar type.",
+  "hy": "Scar type is a clinical diagnosis + serial exam, not histology.",
+  "src": "Neligan I.16 · Conditions of excessive scarring",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — clinical characteristics + serial examination.",
+   "B": "Wrong — histology cannot reliably separate the scar types.",
+   "C": "Wrong — there is no 2-year remodeling gate for classification.",
+   "D": "Wrong — TcO₂ is not a scar-typing measurement."
+  }
+ },
+ {
+  "id": "N-I-16.21",
+  "chapter": "Ch16",
+  "section": "Prevention · Surgical technique",
+  "stem": "Elective incisions are least noticeable when placed in a particular orientation. What does the chapter say about placement along the natural lines of skin tension (Langer's lines)?",
+  "options": {
+   "A": "It both camouflages the scar within a natural crease and places the least tension on the wound",
+   "B": "It increases wound tension but is accepted because it aligns the scar with hair-growth direction",
+   "C": "It is relevant only on the trunk, where Langer's lines run perpendicular to underlying muscle",
+   "D": "It is avoided on the face, where incisions are instead placed across the resting skin-tension lines"
+  },
+  "answer": "A",
+  "exp": "Elective incisions are least noticeable when placed parallel to the natural lines of skin tension (Langer's lines). The chapter gives two advantages: the scar lies parallel to or within a natural skin crease (camouflage) AND the location places the least tension on the wound. The distractors invent a tension penalty, a trunk-only rule, or a face exception — none of which the chapter states.",
+  "hy": "Incisions along Langer's lines: camouflage + least tension.",
+  "src": "Neligan I.16 · Prevention · Surgical technique · Fig 16.6",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the two stated advantages of Langer's-line placement.",
+   "B": "Wrong — the placement lowers, not raises, tension.",
+   "C": "Wrong — the principle is general, not trunk-only.",
+   "D": "Wrong — facial incisions are placed along, not across, these lines."
+  }
+ },
+ {
+  "id": "N-I-16.22",
+  "chapter": "Ch16",
+  "section": "Prevention · Surgical technique",
+  "stem": "To achieve a fine \"pencil-line\" scar, the surgeon relieves tension on the epidermal edges. Which technique does the chapter describe for this?",
+  "options": {
+   "A": "Buried subdermal sutures to offload tension, with edge eversion via horizontal mattress sutures",
+   "B": "Tight, closely spaced epidermal sutures left in place for at least 3 weeks to hold the edges firmly together",
+   "C": "Primary reliance on inverting sutures so that the wound edges roll inward beneath the skin surface line",
+   "D": "Immediate on-table tissue expansion of both wound edges to entirely eliminate all subdermal buried sutures"
+  },
+  "answer": "A",
+  "exp": "A fine \"pencil-line\" scar depends on relieving tension on the apposed epidermal edges: approximate tissue with deep buried subdermal sutures to minimize overlying tension before final apposition, and evert the skin (an exaggerated tension-free closure) using horizontal-mattress and \"flask-shaped\" simple sutures — taking care not to strangulate tissue. Tight long-standing epidermal sutures cause railroad marks, inverting sutures are the opposite of eversion, and routine on-table expansion of both edges is not the described method.",
+  "hy": "Deep buried subdermal sutures + eversion offload epidermal tension.",
+  "src": "Neligan I.16 · Prevention · Surgical technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — buried subdermal sutures plus eversion offload tension.",
+   "B": "Wrong — tight, long-retained epidermal sutures cause railroad scars.",
+   "C": "Wrong — the goal is eversion, not inversion, of edges.",
+   "D": "Wrong — on-table expansion is an adjunct, not the tension-relief method here."
+  }
+ },
+ {
+  "id": "N-I-16.23",
+  "chapter": "Ch16",
+  "section": "Prevention · Surgical technique",
+  "stem": "When should sutures be removed from a facial wound, and why does timing matter?",
+  "options": {
+   "A": "No later than 3–5 days, because late removal can produce a disfiguring \"railroad\" scar from stitch marks",
+   "B": "No earlier than 14 days, because early removal reliably causes wound dehiscence on the face",
+   "C": "At exactly 10 days for all facial wounds, precisely matching the removal timing used elsewhere on the body",
+   "D": "Only after the scar has fully matured, to guarantee maximal tensile strength before removal"
+  },
+  "answer": "A",
+  "exp": "Facial sutures should be removed no later than 3–5 days after placement; failure to remove them in a timely fashion can produce a disfiguring \"railroad\" scar pattern from stitch marks. If needed, the wound can be reinforced with adhesive strips at removal. 14 days and 10 days are too long for the face, and waiting for full maturity would guarantee stitch-mark scarring.",
+  "hy": "Remove facial sutures ≤ 3–5 days to avoid railroad marks.",
+  "src": "Neligan I.16 · Prevention · Surgical technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 3–5 days on the face; late removal → railroad scar.",
+   "B": "Wrong — 14 days on the face invites stitch-mark scarring.",
+   "C": "Wrong — 10 days is the longer body timing, not the face.",
+   "D": "Wrong — waiting for maturity leaves sutures in far too long."
+  }
+ },
+ {
+  "id": "N-I-16.24",
+  "chapter": "Ch16",
+  "section": "Prevention · Patient factors",
+  "stem": "Several patient-specific factors impair wound healing and predispose to poor scarring. Which grouping is correctly identified in the chapter?",
+  "options": {
+   "A": "Poor nutrition, diabetes, obesity, radiation exposure, corticosteroids, and isotretinoin",
+   "B": "Youth, athletic conditioning, high dietary protein, and daily silicone-sheet prophylaxis",
+   "C": "Beta-blockers, statins, low body-mass index, and a history of prior uncomplicated healing",
+   "D": "Sun avoidance, smoking cessation, controlled blood sugar, and perioperative antibiotics"
+  },
+  "answer": "A",
+  "exp": "Factors that impair wound healing also worsen scarring: poor nutrition, diabetes, obesity, and radiation exposure impair healing and raise infection risk, and medications such as corticosteroids and isotretinoin negatively affect tissue healing (genetics also contributes, as in keloids). The other groupings list protective/neutral factors, unrelated drugs, or infection-prevention measures rather than risk factors.",
+  "hy": "Impaired-healing risks: malnutrition, diabetes, obesity, radiation, steroids, isotretinoin.",
+  "src": "Neligan I.16 · Prevention · Patient-specific factors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the chapter's list of scarring/healing risk factors.",
+   "B": "Wrong — these are protective/neutral, not risk, factors.",
+   "C": "Wrong — these are not the cited impairing factors.",
+   "D": "Wrong — these are infection-prevention measures, not risks."
+  }
+ },
+ {
+  "id": "N-I-16.25",
+  "chapter": "Ch16",
+  "section": "Prevention · Adjunct therapy",
+  "stem": "For how long is the initial postoperative dressing typically left in place to maintain wound sterility, and what is the rationale?",
+  "options": {
+   "A": "48–72 hours, the time needed for epidermal closure",
+   "B": "2–3 weeks, the time needed for full collagen remodeling",
+   "C": "6 hours, the time needed for the fibrin clot to form",
+   "D": "6 months, the time needed for the scar to fully mature"
+  },
+  "answer": "A",
+  "exp": "Leaving the initial dressing on for 48–72 hours — the time needed for epidermal closure — is a frequently used strategy to maintain wound sterility. 2–3 weeks is far longer than needed for epithelial coverage, 6 hours is too short (clot formation is faster than epidermal closure), and 6 months describes scar maturation, not dressing time.",
+  "hy": "Initial dressing 48–72 h = time for epidermal closure.",
+  "src": "Neligan I.16 · Prevention · Adjunct therapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 48–72 h matches epidermal-closure timing.",
+   "B": "Wrong — 2–3 weeks (collagen remodeling) far exceeds the need.",
+   "C": "Wrong — 6 h reflects clot, not epidermal closure.",
+   "D": "Wrong — 6 months describes maturation, not dressing duration."
+  }
+ },
+ {
+  "id": "N-I-16.26",
+  "chapter": "Ch16",
+  "section": "Prevention · Adjunct therapy",
+  "stem": "Which over-the-counter scar remedies does the chapter state have failed to show good supporting evidence?",
+  "options": {
+   "A": "Vitamin E and onion extract",
+   "B": "Silicone gel sheeting and compression",
+   "C": "Intralesional triamcinolone and 5-FU",
+   "D": "Pressure garments and taping"
+  },
+  "answer": "A",
+  "exp": "Studies of over-the-counter remedies such as vitamin E and onion extract have failed to provide good evidence supporting their use (though small sample sizes drew criticism). By contrast, silicone gel sheeting and compression are recommended first-line prophylaxis, and intralesional triamcinolone and 5-FU are evidence-supported second-line agents — so those options name effective, not disproven, treatments.",
+  "hy": "Vitamin E and onion extract lack good supporting evidence.",
+  "src": "Neligan I.16 · Prevention · Adjunct therapy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — vitamin E and onion extract are the poorly-supported remedies.",
+   "B": "Wrong — silicone and compression are recommended, not disproven.",
+   "C": "Wrong — triamcinolone and 5-FU are evidence-supported agents.",
+   "D": "Wrong — pressure garments and taping are used adjuncts."
+  }
+ },
+ {
+  "id": "N-I-16.27",
+  "chapter": "Ch16",
+  "section": "Treatment of hypertrophic scars",
+  "stem": "A patient has a red, raised, itchy linear hypertrophic scar. According to the management flow chart, what is the appropriate FIRST-line therapy before escalating?",
+  "options": {
+   "A": "Silicone gels and compression therapy",
+   "B": "Intralesional corticosteroid injection",
+   "C": "Surgical excision with adjuvant steroids",
+   "D": "Ablative carbon-dioxide laser resurfacing"
+  },
+  "answer": "A",
+  "exp": "Per the hypertrophic-scar management flow chart, treatment escalates in a ladder: first-line is silicone gels and compression; second-line adds intralesional corticosteroid injections; and surgical excision (± steroids ± compression) is reserved for third-line/refractory disease (earlier only if a contracture, e.g. after a burn, demands it). So for a linear hypertrophic scar the correct first step is silicone and compression, not straight to steroid, surgery, or laser.",
+  "hy": "Hypertrophic ladder: silicone/compression → steroid → surgery.",
+  "src": "Neligan I.16 · Treatment of hypertrophic scars · Fig 16.7",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — silicone gels + compression are first-line on the algorithm.",
+   "B": "Wrong — intralesional steroid is second-line, after silicone/compression.",
+   "C": "Wrong — surgical excision is third-line/refractory.",
+   "D": "Wrong — ablative laser is a less-common alternative, not first-line."
+  },
+  "expimage": "images/hts-algorithm.jpg",
+  "expimgcap": "Hypertrophic-scar management flow chart: assessment and counseling, then a first-line/second-line/third-line treatment ladder for immature vs linear hypertrophic scars"
+ },
+ {
+  "id": "N-I-16.28",
+  "chapter": "Ch16",
+  "section": "Treatment of hypertrophic scars",
+  "stem": "Silicone treatment is a mainstay of first-line hypertrophic-scar management. What is its proposed mechanism of action?",
+  "options": {
+   "A": "Occlusion and hydration of the stratum corneum",
+   "B": "Freezing the lesion to cause ischemic necrosis",
+   "C": "Delivery of a cytotoxic antimetabolite to fibroblasts",
+   "D": "Emission of thermal energy absorbed by oxyhemoglobin"
+  },
+  "answer": "A",
+  "exp": "Silicone (creams, sprays, gels, and most popularly gel sheeting) acts via occlusion and hydration of the stratum corneum, improving scar color, thickness, and elasticity; it should be applied daily for at least 12 hours for a minimum of ~2 months. It is not a freezing (cryotherapy), antimetabolite (5-FU), or thermal-laser mechanism — those are separate modalities.",
+  "hy": "Silicone works by occlusion + stratum-corneum hydration.",
+  "src": "Neligan I.16 · Treatment of hypertrophic scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — occlusion and hydration of the stratum corneum.",
+   "B": "Wrong — freezing to necrosis is cryotherapy.",
+   "C": "Wrong — antimetabolite delivery describes 5-FU.",
+   "D": "Wrong — thermal energy absorbed by oxyhemoglobin describes laser."
+  }
+ },
+ {
+  "id": "N-I-16.29",
+  "chapter": "Ch16",
+  "section": "Treatment of hypertrophic scars",
+  "stem": "Pressure therapy is a non-pharmacological option for hypertrophic scarring. What application schedule does the chapter recommend, and which site is noted as especially amenable?",
+  "options": {
+   "A": "8–24 hours a day for at least 6 months; the ear lobes are among the amenable sites",
+   "B": "2–3 hours a day for at least 2 weeks; the palms are among the most amenable sites",
+   "C": "Continuously for exactly 30 days; the anterior neck is the only amenable site",
+   "D": "Once weekly under general anesthesia; the sternum is said to be the only amenable site"
+  },
+  "answer": "A",
+  "exp": "Pressure therapy should be applied for 8–24 hours a day for at least 6 months of healing, started immediately after re-epithelialization; the ear lobes are noted as one of the most amenable anatomic areas to apply pressure dressings. Its mechanisms include reducing blood/oxygen/nutrient supply, improving collagen-bundle alignment, and enhancing myofibroblast apoptosis. The other schedules and single-site claims are invented.",
+  "hy": "Pressure therapy 8–24 h/day ≥ 6 months; ear lobes amenable.",
+  "src": "Neligan I.16 · Treatment of hypertrophic scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 8–24 h/day for ≥6 months; ear lobes amenable.",
+   "B": "Wrong — 2–3 h/day for 2 weeks is far too little.",
+   "C": "Wrong — it is not a fixed 30-day, neck-only regimen.",
+   "D": "Wrong — pressure is worn daily, not applied weekly under anesthesia."
+  }
+ },
+ {
+  "id": "N-I-16.30",
+  "chapter": "Ch16",
+  "section": "Treatment of hypertrophic scars",
+  "stem": "When first-line silicone and compression fail, second-line therapy is intralesional corticosteroid. Which corticosteroid does the chapter identify as most commonly chosen, and what is a recognized local side effect?",
+  "options": {
+   "A": "Triamcinolone acetonide; dermal atrophy, dyspigmentation, telangiectasia",
+   "B": "Hydrocortisone; irreversible systemic adrenal suppression in most patients",
+   "C": "Dexamethasone; accelerated collagen synthesis that thickens the scar further",
+   "D": "Prednisolone; permanent local hair loss developing at every injection site used"
+  },
+  "answer": "A",
+  "exp": "Second-line therapy for silicone/compression-refractory hypertrophic scars is intralesional corticosteroid; several agents exist (dexamethasone, hydrocortisone) but triamcinolone acetonide is the most chosen. Steroids decrease fibroblast proliferation, collagen synthesis, and proinflammatory mediators (effectiveness ~9–50%), with local side effects of injection-site pain, dermal atrophy, dyspigmentation, and telangiectasia. The distractors invent systemic suppression, collagen acceleration, or permanent alopecia as the \"recognized\" effect.",
+  "hy": "Triamcinolone acetonide is the usual intralesional steroid; causes atrophy/telangiectasia.",
+  "src": "Neligan I.16 · Treatment of hypertrophic scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — triamcinolone acetonide; atrophy/dyspigmentation/telangiectasia.",
+   "B": "Wrong — systemic adrenal suppression is not the cited local effect.",
+   "C": "Wrong — steroids decrease, not accelerate, collagen synthesis.",
+   "D": "Wrong — permanent alopecia at every site is not described."
+  }
+ },
+ {
+  "id": "N-I-16.31",
+  "chapter": "Ch16",
+  "section": "Treatment of hypertrophic scars",
+  "stem": "Laser therapy is a less-common option for hypertrophic scars. Which pairing of laser category and target is correct?",
+  "options": {
+   "A": "Non-ablative pulsed-dye laser targets hemoglobin and vasculature to reduce scar redness",
+   "B": "Non-ablative pulsed-dye laser ablates the epidermis to physically excise raised scar tissue",
+   "C": "Ablative Er:YAG laser is used specifically because it produces no erythema or dyschromia",
+   "D": "Ablative lasers target hemoglobin to lighten color while leaving the collagen untouched"
+  },
+  "answer": "A",
+  "exp": "Among laser options, non-ablative pulsed-dye laser targets hemoglobin and vasculature and is used to reduce the red color of hypertrophic scars, while ablative lasers (CO₂, Er:YAG) destroy collagen to remodel the scar but carry side effects such as edema, persistent erythema, and dyschromia. So the correct pairing is pulsed-dye → hemoglobin/vasculature. The distractors mislabel pulsed-dye as ablative, claim Er:YAG causes no erythema, or say ablative lasers spare collagen.",
+  "hy": "Pulsed-dye (non-ablative) targets hemoglobin to reduce redness.",
+  "src": "Neligan I.16 · Treatment of hypertrophic scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — non-ablative pulsed-dye targets hemoglobin/vasculature.",
+   "B": "Wrong — pulsed-dye is non-ablative; it does not excise epidermis.",
+   "C": "Wrong — ablative Er:YAG can cause erythema and dyschromia.",
+   "D": "Wrong — ablative lasers destroy collagen; they do not spare it."
+  }
+ },
+ {
+  "id": "N-I-16.32",
+  "chapter": "Ch16",
+  "section": "Treatment of keloid scars",
+  "stem": "For a keloid, intralesional triamcinolone acetonide (Kenalog) is a primary therapy. What starting concentration and injection interval does the chapter give?",
+  "options": {
+   "A": "10 mg/mL start (up to 40 mg/mL), injected every 3–6 weeks for 6–12 months",
+   "B": "100 mg/mL to start (up to 400 mg/mL), injected once as a single treatment",
+   "C": "1 mg/mL to start (rising up to 4 mg/mL), then injected once daily for 2 straight weeks",
+   "D": "10 mg/mL given as a fixed dose, injected every 6 hours across 3 consecutive days"
+  },
+  "answer": "A",
+  "exp": "Primary treatment of keloids includes steroid and/or pressure therapy: triamcinolone acetonide (Kenalog) at 10 mg/mL is the typical starting regimen, escalating with monitoring up to 40 mg/mL, injected roughly once weekly to every 3–6 weeks for 6–12 months. On the keloid algorithm this sits within the first/second-line non-surgical block, with surgical excision (± radiotherapy) reserved for difficult lesions; if the diagnosis is in doubt, histologic confirmation is advised. The distractor concentrations/intervals are order-of-magnitude wrong.",
+  "hy": "Keloid triamcinolone: start 10 mg/mL, up to 40 mg/mL, q3–6 wk × 6–12 mo.",
+  "src": "Neligan I.16 · Treatment of keloid scars · Fig 16.8",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 10→40 mg/mL, every 3–6 weeks for 6–12 months.",
+   "B": "Wrong — 100–400 mg/mL as a single shot is far too concentrated.",
+   "C": "Wrong — 1–4 mg/mL daily understates concentration and misstates interval.",
+   "D": "Wrong — every-6-hours dosing is not the keloid regimen."
+  },
+  "expimage": "images/keloid-algorithm.jpg",
+  "expimgcap": "Keloid management flow chart: assessment, histologic confirmation if in doubt, counseling on recurrence, then non-surgical vs surgical treatment lines including radiotherapy for major high-risk keloids"
+ },
+ {
+  "id": "N-I-16.33",
+  "chapter": "Ch16",
+  "section": "Treatment of keloid scars",
+  "stem": "Cryotherapy is used as a second-line keloid therapy. What is its proposed mechanism, and a common side effect?",
+  "options": {
+   "A": "It causes tissue necrosis by impairing the lesion's blood supply; hypo- and hyperpigmentation are seen",
+   "B": "It hydrates the stratum corneum by occlusion; the main side effect is transient maceration",
+   "C": "It delivers ionizing radiation to induce cellular senescence; the main risk is malignant transformation",
+   "D": "It cross-links dermal collagen photochemically; the main side effect is permanent scar contracture"
+  },
+  "answer": "A",
+  "exp": "Cryotherapy, a second-line keloid therapy, treats lesions with low temperatures thought to cause tissue necrosis by impairing the blood supply to the lesion; repetitive cycles (≈20–30 seconds) are used over 3–6 months. Side effects are common and include hypopigmentation, hyperpigmentation, blistering, and postoperative pain, which limit it to smaller lesions. It is not an occlusion, radiation, or photochemical-crosslinking mechanism.",
+  "hy": "Cryotherapy → ischemic necrosis; common dyspigmentation.",
+  "src": "Neligan I.16 · Treatment of keloid scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — necrosis via impaired blood supply; pigment changes common.",
+   "B": "Wrong — occlusion/hydration is silicone, not cryotherapy.",
+   "C": "Wrong — ionizing radiation/senescence describes radiotherapy.",
+   "D": "Wrong — photochemical collagen cross-linking is not the mechanism."
+  }
+ },
+ {
+  "id": "N-I-16.34",
+  "chapter": "Ch16",
+  "section": "Treatment of keloid scars",
+  "stem": "Intralesional 5-fluorouracil is investigated for keloids. What is its mechanism, and what did a randomized trial show when it was combined with triamcinolone?",
+  "options": {
+   "A": "A pyrimidine analog that targets proliferating fibroblasts; combination therapy cut scar height and recurrence versus triamcinolone alone",
+   "B": "It is a calcium-channel antagonist that relaxes myofibroblasts; combination therapy increased scar height versus triamcinolone alone",
+   "C": "It is a chemotherapeutic that is tattooed directly into the lesion over 2–6 sessions; the combination therapy showed no benefit over placebo",
+   "D": "It is an immunomodulatory topical cream; the combination therapy was abandoned early because of severe systemic toxicity"
+  },
+  "answer": "A",
+  "exp": "Intralesional 5-fluorouracil is a pyrimidine analog that rapidly targets proliferating fibroblasts to prevent excessive collagen production. A randomized trial of 120 patients comparing triamcinolone alone vs triamcinolone + 5-FU found the combination significantly reduced scar height and produced lower recurrence at ~22 months' follow-up. 5-FU is not a calcium antagonist (verapamil) or a tattooed chemotherapeutic (bleomycin), and the combination helped rather than showed no benefit.",
+  "hy": "5-FU (pyrimidine analog) + triamcinolone lowers keloid height and recurrence.",
+  "src": "Neligan I.16 · Treatment of keloid scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — pyrimidine analog; combo beat triamcinolone alone.",
+   "B": "Wrong — calcium-channel antagonism is verapamil's mechanism.",
+   "C": "Wrong — tattooing over 2–6 sessions describes bleomycin.",
+   "D": "Wrong — it is injectable, not a topical immunomodulator abandoned for toxicity."
+  }
+ },
+ {
+  "id": "N-I-16.35",
+  "chapter": "Ch16",
+  "section": "Treatment of keloid scars",
+  "stem": "Bleomycin has been used for keloid scarring. Which description of its use and reported efficacy matches the chapter?",
+  "options": {
+   "A": "A chemotherapeutic tattooed as 0.1 mL over 2–6 sessions, with regression reported up to 84%",
+   "B": "A calcium antagonist injected weekly for 1 year, with reports of regression up to 20%",
+   "C": "A pyrimidine analog applied topically nightly, with reports of regression up to 50%",
+   "D": "An oral retinoid taken by mouth for 6 months, with reports of complete regression up to 100%"
+  },
+  "answer": "A",
+  "exp": "Bleomycin, a chemotherapeutic agent, is used for keloids by tattooing ~0.1 mL over 2–6 sessions, with reports showing regression of up to 84%. It is not a calcium antagonist (that is verapamil), not a topically-applied pyrimidine analog (that is injected 5-FU), and not an oral retinoid. The other options pair the wrong drug class with an incorrect efficacy figure.",
+  "hy": "Bleomycin tattoo 0.1 mL × 2–6 sessions; regression up to 84%.",
+  "src": "Neligan I.16 · Treatment of keloid scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — bleomycin, tattooed, up to 84% regression.",
+   "B": "Wrong — verapamil is the calcium antagonist, not bleomycin.",
+   "C": "Wrong — 5-FU is the pyrimidine analog, injected not topical nightly.",
+   "D": "Wrong — bleomycin is not an oral retinoid."
+  }
+ },
+ {
+  "id": "N-I-16.36",
+  "chapter": "Ch16",
+  "section": "Treatment of keloid scars",
+  "stem": "Radiotherapy is sometimes used after keloid excision. Which statement reflects the chapter's account of its role and controversy?",
+  "options": {
+   "A": "A short, low-dose course after excision cuts recurrence, but is controversial owing to unclear malignant-transformation risk",
+   "B": "It is regarded as a proven first-line monotherapy that reliably eliminates keloids without any need for surgical excision at all",
+   "C": "It is contraindicated after any keloid excision because it consistently increases the recurrence rates seen afterward",
+   "D": "It is thought to work by stimulating new blood-vessel formation and fibroblast proliferation within the scar itself"
+  },
+  "answer": "A",
+  "exp": "A short, low-dose course of radiotherapy following keloid excision is highly advised and shown to reduce recurrence in multiple studies (it weakens new vessel formation and induces premature cellular senescence). However, it remains controversial owing to the underexplored risk of long-term malignant transformation. It is not a stand-alone first-line cure, is not contraindicated for increasing recurrence, and does not stimulate vessel/fibroblast growth.",
+  "hy": "Post-excision radiotherapy cuts keloid recurrence but risks malignancy.",
+  "src": "Neligan I.16 · Treatment of keloid scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — reduces recurrence; controversial for malignancy risk.",
+   "B": "Wrong — it is adjuvant to excision, not a stand-alone cure.",
+   "C": "Wrong — it reduces, not increases, recurrence.",
+   "D": "Wrong — it weakens vessel formation and induces senescence."
+  }
+ },
+ {
+  "id": "N-I-16.37",
+  "chapter": "Ch16",
+  "section": "Treatment of keloid scars",
+  "stem": "Why is simple surgical excision alone discouraged for keloids, and what does the senior author's protocol assume?",
+  "options": {
+   "A": "Excision alone may stimulate collagen and enlarge the scar, so recurrence is assumed unless a trigger such as infection is prevented",
+   "B": "Excision alone reliably cures keloids, so adjuvant therapy is assumed to be entirely unnecessary in the great majority of patients",
+   "C": "Excision alone is dangerous because keloids are frankly premalignant, so wide oncologic resection margins are assumed to be strictly mandatory",
+   "D": "Excision alone fails only in the lightly pigmented patient, so a recurrence is assumed to arise only within that one particular patient group"
+  },
+  "answer": "A",
+  "exp": "Simple surgical excision of a keloid may stimulate additional collagen synthesis and aggravate the scar to become larger than the original; therefore the senior author's (H.P.L.) protocol is to assume the keloid will recur after surgical treatment alone unless a prior triggering factor (such as infection or delayed healing) can be prevented, and patients are advised adjuvant therapy will likely be needed. Keloids are not premalignant, excision alone is not curative, and recurrence is not limited to lightly pigmented patients.",
+  "hy": "Assume keloid recurrence after excision alone; use adjuvant therapy.",
+  "src": "Neligan I.16 · Treatment of keloid scars",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — excision alone may enlarge the scar; assume recurrence.",
+   "B": "Wrong — excision alone is not reliably curative.",
+   "C": "Wrong — keloids are not premalignant requiring oncologic margins.",
+   "D": "Wrong — recurrence risk is not confined to light skin."
+  }
+ },
+ {
+  "id": "N-I-16.38",
+  "chapter": "Ch16",
+  "section": "Preventative management",
+  "stem": "A patient with prior abnormal scarring is stratified as high-risk on the scar-prevention flow chart. Beyond good surgical technique and patient education, which additional prophylactic measures are recommended for the high-risk arm?",
+  "options": {
+   "A": "Postoperative splinting, intralesional steroids, and pressure therapy",
+   "B": "Immediate wide surgical excision followed by skin grafting of the wound",
+   "C": "Systemic isotretinoin combined with long-term daily oral corticosteroids",
+   "D": "Withholding all silicone and massage until the scar has fully matured"
+  },
+  "answer": "A",
+  "exp": "On the scar-prevention flow chart, both low- and high-risk patients receive good surgical technique (tension-free closure, Langer's lines), patient education, massage, healthy diet, and topical silicone gel. The high-risk arm additionally receives postoperative splinting, postoperative intralesional steroids, and pressure therapy. Wide excision + grafting, systemic isotretinoin/steroids, and withholding silicone until maturity are not part of the prevention algorithm.",
+  "hy": "High-risk prevention adds splinting + postop intralesional steroid + pressure therapy.",
+  "src": "Neligan I.16 · Preventative management · Fig 16.9",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the extra high-risk measures on the prevention algorithm.",
+   "B": "Wrong — prophylactic wide excision + graft is not on the algorithm.",
+   "C": "Wrong — systemic isotretinoin/steroids are not the prophylaxis.",
+   "D": "Wrong — silicone and massage are used early, not withheld."
+  },
+  "expimage": "images/scar-prevention-algorithm.jpg",
+  "expimgcap": "Scar-prevention flow chart: detailed clinical history, then low-risk vs high-risk prophylaxis branches; the high-risk branch adds postoperative splinting, intralesional steroids, and pressure therapy"
+ },
+ {
+  "id": "N-I-16.39",
+  "chapter": "Ch16",
+  "section": "Scar revision · Indications",
+  "stem": "A patient has an exquisitely painful scar. Which examination finding should be sought, and what does it suggest?",
+  "options": {
+   "A": "A positive Tinel's sign, which may indicate entrapment of a cutaneous nerve or neuroma",
+   "B": "A positive Nikolsky sign, which may indicate active epidermal separation within the scar",
+   "C": "A positive Allen test, which may indicate arterial insufficiency feeding the scar bed",
+   "D": "A positive Tinel's sign, which reliably confirms malignant transformation of the scar"
+  },
+  "answer": "A",
+  "exp": "An exquisitely painful scar should be examined for Tinel's sign, which may suggest entrapment of a cutaneous nerve; excision or repair of a neuroma is then often an important part of scar revision. Nikolsky sign (epidermal shear in blistering disease) and the Allen test (hand arterial patency) are unrelated to this scenario, and Tinel's does not confirm malignancy.",
+  "hy": "Painful scar → check Tinel's sign → nerve entrapment/neuroma.",
+  "src": "Neligan I.16 · Scar revision · Indications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — Tinel's sign suggests entrapped cutaneous nerve/neuroma.",
+   "B": "Wrong — Nikolsky sign is for blistering skin disease.",
+   "C": "Wrong — the Allen test assesses hand arterial supply.",
+   "D": "Wrong — Tinel's does not confirm malignant transformation."
+  }
+ },
+ {
+  "id": "N-I-16.40",
+  "chapter": "Ch16",
+  "section": "Scar revision · Timing",
+  "stem": "A patient is eager to revise a firm, red, 6-month-old scar. What does the chapter advise regarding the timing of revision?",
+  "options": {
+   "A": "Wait for a soft, supple, mature scar; some delay 18 months, and any doubt about it should prompt waiting",
+   "B": "Operate immediately, because immature scars are said to be more mobile and to bleed far less than mature scars",
+   "C": "Revise all scars at exactly 3 months of age, said to be the single point of maximal wound tensile strength",
+   "D": "Proceed once the scar reaches 6 weeks of age, taken as the definitive end of the proliferative phase"
+  },
+  "answer": "A",
+  "exp": "Timing of revision should reflect scar maturity: a soft, supple, mature scar is the ideal starting point, and some suggest delaying at least 18 months. Immature scars contain fragile neovascular vessels that bleed and are edematous and less mobile, complicating local rearrangement; therefore any uncertainty in maturity should prompt waiting longer (Millard: \"When in doubt, don't!\"). Operating immediately, a fixed 3-month rule, or a 6-week gate all revise too early.",
+  "hy": "Revise mature scars only; some delay ≥18 months; when in doubt, wait.",
+  "src": "Neligan I.16 · Scar revision · Timing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — wait for maturity; ≥18 months suggested; uncertainty → wait.",
+   "B": "Wrong — immature scars bleed more and are less mobile.",
+   "C": "Wrong — 3 months is not a maximal-strength revision point.",
+   "D": "Wrong — 6 weeks (end of proliferation) is far too early."
+  }
+ },
+ {
+  "id": "N-I-16.41",
+  "chapter": "Ch16",
+  "section": "Scar revision · Timing",
+  "stem": "The chapter invokes Dr. Millard's principle in the context of uncertain scar maturity. Which principle is it?",
+  "options": {
+   "A": "\"When in doubt, don't!\"",
+   "B": "\"Replace like with like.\"",
+   "C": "\"Steal from Peter to pay Paul.\"",
+   "D": "\"The tissues will tell you.\""
+  },
+  "answer": "A",
+  "exp": "In the setting of uncertain scar maturity, the chapter invokes Dr. Millard's principle \"When in doubt, don't!\" — i.e., defer revision until maturity is certain. \"Replace like with like,\" \"Steal from Peter to pay Paul,\" and \"The tissues will tell you\" are other well-known plastic-surgery maxims, but the chapter cites the first specifically here.",
+  "hy": "Millard: \"When in doubt, don't!\" (defer uncertain revisions).",
+  "src": "Neligan I.16 · Scar revision · Timing",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the maxim cited for uncertain scar maturity.",
+   "B": "Wrong — a real Millard principle, but not the one cited here.",
+   "C": "Wrong — a donor-site maxim, not the one invoked here.",
+   "D": "Wrong — a real aphorism, but not cited in this context."
+  }
+ },
+ {
+  "id": "N-I-16.42",
+  "chapter": "Ch16",
+  "section": "Scar revision · Planning",
+  "stem": "Serial excision is a staged strategy for a large scar. Which description matches the chapter?",
+  "options": {
+   "A": "Circumferentially excise the scar margin, then undermine and advance normal tissue over two or three stages",
+   "B": "Excise the entire scar in one stage and immediately resurface the defect with a split-thickness graft",
+   "C": "Inject the scar serially with corticosteroid every 3 weeks until it flattens, deliberately avoiding any excision",
+   "D": "Place a tissue expander under the scar itself and inflate it until the scar epithelium thins and sloughs"
+  },
+  "answer": "A",
+  "exp": "Serial excision is a staged strategy: circumferentially excise the margin of a scar, then undermine and advance bordering normal tissue, repeating over two or three stages; the pliability of normal tissue dictates how much scar is safe to remove and the timing of subsequent stages. Two or three serial excisions can accomplish what is hazardous or impossible in a single stage. The distractors describe single-stage excision + graft, steroid-only management, or an inverted tissue-expander concept.",
+  "hy": "Serial excision = staged margin excision + advancement over 2–3 stages.",
+  "src": "Neligan I.16 · Scar revision · Planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — staged circumferential excision with advancement.",
+   "B": "Wrong — single-stage excision + graft is a different approach.",
+   "C": "Wrong — serial excision involves excision, not steroid-only therapy.",
+   "D": "Wrong — that misdescribes tissue expansion, not serial excision."
+  }
+ },
+ {
+  "id": "N-I-16.43",
+  "chapter": "Ch16",
+  "section": "Scar revision · Planning",
+  "stem": "Tissue expansion is an alternative staged method. Which statement about it is correct per the chapter?",
+  "options": {
+   "A": "It is especially useful in scalp reconstruction for burn alopecia but adds infection risk and needs two procedures",
+   "B": "It is a purely single-stage technique that carries no added infection risk at all because no implant is ever placed",
+   "C": "It is contraindicated in the scalp because tissue expanders cannot be tolerated beneath any hair-bearing skin",
+   "D": "It fully replaces serial excision because it is said to never require a second operation for its removal"
+  },
+  "answer": "A",
+  "exp": "Tissue expansion grows extra skin by placing expanders under the skin; it has been especially valuable in scalp reconstruction for patients with burn alopecia, but it carries the added infection risk of implant placement and requires two procedures (insertion and later removal). It is therefore neither single-stage nor implant-free, and it is used in — not contraindicated in — the scalp.",
+  "hy": "Tissue expansion: great for burn-alopecia scalp; 2 procedures, infection risk.",
+  "src": "Neligan I.16 · Scar revision · Planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — scalp/burn-alopecia value; two procedures; infection risk.",
+   "B": "Wrong — an implant is placed and infection risk is added.",
+   "C": "Wrong — it is specifically valuable in the scalp.",
+   "D": "Wrong — a second procedure is required to remove the expander."
+  }
+ },
+ {
+  "id": "N-I-16.44",
+  "chapter": "Ch16",
+  "section": "Scar revision · Planning",
+  "stem": "For a complex burn reconstruction of the head and neck, how does the chapter advise sequencing the revision?",
+  "options": {
+   "A": "Direct management at the larger areas first — e.g., resurface the cervicofacial region before the ectropion",
+   "B": "Correct the smallest functional deformity first — e.g., release the ectropion before any cervicofacial resurfacing",
+   "C": "Perform all subunits simultaneously in a single stage to minimize the total number of operations",
+   "D": "Defer all surgery indefinitely and rely solely on pressure garments and topical silicone gel therapy"
+  },
+  "answer": "A",
+  "exp": "For complex reconstructions across multiple areas, management is best directed at the larger areas initially; the chapter's example is that burn scars involving the head and neck should start with resurfacing of the cervicofacial region before addressing the ectropion. Correcting the smallest deformity first, doing everything in one stage, or deferring all surgery contradicts the stated sequencing.",
+  "hy": "Address larger areas first (resurface cervicofacial before ectropion).",
+  "src": "Neligan I.16 · Scar revision · Planning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — larger areas first; cervicofacial before ectropion.",
+   "B": "Wrong — it reverses the recommended sequence.",
+   "C": "Wrong — simultaneous single-stage correction is not advised here.",
+   "D": "Wrong — indefinite deferral is not the planning principle."
+  }
+ },
+ {
+  "id": "N-I-16.45",
+  "chapter": "Ch16",
+  "section": "Scar revision · Scar release",
+  "stem": "\"Icepick\" acne scars require special consideration. Which management statement matches the chapter?",
+  "options": {
+   "A": "Mild-to-moderate acne scars may improve with resurfacing (CO₂ laser or peel); worse scars need excision for depth",
+   "B": "All acne scars should be treated first with wide surgical excision and grafting before any resurfacing is attempted",
+   "C": "Icepick acne scars respond best of all to pressure garments worn 8–24 hours a day for at least 6 whole months",
+   "D": "Acne scars must never be excised at all, because any excision reliably converts them into keloids in all skin types"
+  },
+  "answer": "A",
+  "exp": "Acne scars need special consideration: mild-to-moderate acne scars may benefit from resurfacing procedures such as CO₂ laser or chemical peels to even out contour, but more serious scars require formal excision to achieve adequate depth (focal excision with release, first tested on one or two lesions). Wide excision + graft for all, pressure garments, and a blanket \"never excise\" rule are all incorrect.",
+  "hy": "Mild acne scars → resurfacing; severe → formal excision.",
+  "src": "Neligan I.16 · Scar revision · Scar release",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — resurfacing for mild; formal excision for severe.",
+   "B": "Wrong — not all acne scars need excision + graft first.",
+   "C": "Wrong — pressure garments are not the acne-scar treatment.",
+   "D": "Wrong — excision is used and does not universally cause keloids."
+  }
+ },
+ {
+  "id": "N-I-16.46",
+  "chapter": "Ch16",
+  "section": "Scar revision techniques · Z-plasty",
+  "stem": "A single Z-plasty is planned with 60° lateral limbs. What theoretical gain in central-limb length does this angle provide, per the classic Z-plasty table?",
+  "options": {
+   "A": "75%",
+   "B": "25%",
+   "C": "50%",
+   "D": "120%"
+  },
+  "answer": "A",
+  "exp": "From Limberg's classic geometric analysis (via the Pythagorean theorem), the theoretical gain in central-limb length rises with the lateral-limb angle: 30°→25%, 45°→50%, 60°→75%, 75°→100%, 90°→120%. The traditional 60° flap (75% theoretical gain) offers the best balance between axial elongation and perpendicular tension. In practice, skin elasticity and scar rigidity give less than the theoretical gain. The distractors are the adjacent angles' values on the same table.",
+  "hy": "60° Z-plasty → 75% theoretical length gain.",
+  "src": "Neligan I.16 · Scar revision techniques · Table 16.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — 60° yields ~75% theoretical gain.",
+   "B": "Wrong — 25% is the 30° value.",
+   "C": "Wrong — 50% is the 45° value.",
+   "D": "Wrong — 120% is the 90° value."
+  },
+  "exptable": [
+   [
+    "Lateral-limb angle",
+    "Theoretical length gain"
+   ],
+   [
+    "30°",
+    "25%"
+   ],
+   [
+    "45°",
+    "50%"
+   ],
+   [
+    "60°",
+    "75%"
+   ],
+   [
+    "75°",
+    "100%"
+   ],
+   [
+    "90°",
+    "120%"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-16.47",
+  "chapter": "Ch16",
+  "section": "Scar revision techniques · Z-plasty",
+  "stem": "Which set correctly lists the four fundamental functions of the Z-plasty?",
+  "options": {
+   "A": "Lengthen a scar, break up a straight line, move tissue, and obliterate or create a web or cleft",
+   "B": "Shorten a scar, reinforce a straight line, excise tissue, and deepen a natural skin crease",
+   "C": "Lengthen a scar, thicken the dermis, transfer a vascular pedicle, and durably close a full-thickness defect",
+   "D": "Break up a straight line, remove a neuroma, expand adjacent skin, and graft a contracted joint"
+  },
+  "answer": "A",
+  "exp": "The chapter lists the Z-plasty's four fundamental functions: (1) to lengthen a scar, (2) to break up a straight line, (3) to move tissue from one area to another, and (4) to obliterate or create a web or cleft. These flow from transposing two triangular flaps into each other's defect. The distractors substitute shortening, tissue excision, pedicle transfer, or neuroma removal — none of which are the listed functions.",
+  "hy": "Z-plasty: lengthen, break a line, move tissue, obliterate/create a web.",
+  "src": "Neligan I.16 · Scar revision techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the four stated Z-plasty functions.",
+   "B": "Wrong — Z-plasty lengthens (not shortens) and adds no tissue-excision function.",
+   "C": "Wrong — it is not for dermal thickening or pedicle transfer.",
+   "D": "Wrong — neuroma removal and grafting are not Z-plasty functions."
+  }
+ },
+ {
+  "id": "N-I-16.48",
+  "chapter": "Ch16",
+  "section": "Scar revision techniques · Z-plasty",
+  "stem": "Which two multiple-flap Z-plasty designs does the chapter name as frequently used for release of first-web-space contractures?",
+  "options": {
+   "A": "Limberg's four-flap and Mustardé's five-flap Z-plasties",
+   "B": "The planimetric and the skew Z-plasty variants",
+   "C": "The V–Y and the Y–V limb advancement flap designs",
+   "D": "The W-plasty and the geometric broken-line closure technique"
+  },
+  "answer": "A",
+  "exp": "Among multiple-flap Z-plasty designs, Limberg's four-flap and Mustardé's \"jumping man\" five-flap Z-plasties are frequently used for release of first-web-space contractures. The planimetric/skew designs are Z-plasty variants but not the web-space pair; V–Y/Y–V are non-transposing advancement flaps; and W-plasty/geometric broken line are irregularization techniques.",
+  "hy": "First-web-space release: Limberg four-flap + Mustardé five-flap (\"jumping man\").",
+  "src": "Neligan I.16 · Scar revision techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the four-flap and five-flap designs for the first web space.",
+   "B": "Wrong — planimetric/skew are variants, not the web-space designs.",
+   "C": "Wrong — V–Y/Y–V are advancement, not multiple-flap Z-plasties.",
+   "D": "Wrong — W-plasty/geometric broken line are irregularization techniques."
+  }
+ },
+ {
+  "id": "N-I-16.49",
+  "chapter": "Ch16",
+  "section": "Scar revision techniques · W-plasty",
+  "stem": "How does a W-plasty differ from a Z-plasty in its effect on scar length and tension?",
+  "options": {
+   "A": "W-plasty removes tissue without elongating the scar, giving a rise in perpendicular tension; Z-plasty swaps along-scar relaxation for cross-tension",
+   "B": "W-plasty lengthens the scar and reduces the perpendicular tension across it; Z-plasty instead removes tissue and clearly shortens the scar",
+   "C": "Both the W-plasty and the Z-plasty lengthen the scar to an equal degree, and neither one changes the overall resting tension vector across the wound",
+   "D": "W-plasty transposes two triangular flaps into each other's defect, whereas the Z-plasty only interdigitates limbs without any true transposition"
+  },
+  "answer": "A",
+  "exp": "A W-plasty uses a zigzag excision of the scar with reapproximation of small interdigitated limbs: there is no elongation of the scar and tissue is removed, so a net increase in tension is produced perpendicular to the scar. By contrast, a Z-plasty trades relaxation in the axis of the scar for tension perpendicular to it, resulting in no change in overall tension. The distractors reverse these effects or wrongly describe W-plasty as a transposition of triangular flaps (that is the Z-plasty).",
+  "hy": "W-plasty: no lengthening, removes tissue, ↑ perpendicular tension; Z-plasty: net tension unchanged.",
+  "src": "Neligan I.16 · Scar revision techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — the W-plasty vs Z-plasty tension/length contrast.",
+   "B": "Wrong — it reverses which technique lengthens and removes tissue.",
+   "C": "Wrong — the two differ; they do not affect length/tension identically.",
+   "D": "Wrong — transposing two triangular flaps describes the Z-plasty."
+  }
+ },
+ {
+  "id": "N-I-16.50",
+  "chapter": "Ch16",
+  "section": "Scar revision techniques · Z-plasty variants",
+  "stem": "Which statement correctly contrasts the planimetric and skew Z-plasty variants?",
+  "options": {
+   "A": "The planimetric variant keeps flaps in one plane (often 75°) to avoid depressions; the skew variant has unequal angles, is unpredictable, and is best avoided",
+   "B": "The planimetric variant has limbs at unequal angles and is unpredictable; the skew variant keeps flaps coplanar and is preferred for flat surfaces",
+   "C": "Both of these variants are raised at a fixed 60° angle and are said to be functionally interchangeable in essentially every clinical setting encountered",
+   "D": "The planimetric variant is reserved solely for first-web-space contractures, whereas the skew variant is used only on the face and truly nowhere else on the body"
+  },
+  "answer": "A",
+  "exp": "The planimetric Z-plasty keeps the flaps in the same plane (often designed at 75°, range 60–90°), minimizing rotation and excising redundant tissue to avoid the contour depressions of a simple Z-plasty — ideal for flat surfaces where lengthening is the goal. The skew Z-plasty has lateral limbs departing at different (unequal) angles; its deformational forces are hard to predict and its use should be avoided. The distractors swap the two descriptions, claim a fixed 60° interchangeability, or invent site restrictions.",
+  "hy": "Planimetric = coplanar (75°) for flat surfaces; skew = unequal angles, avoid.",
+  "src": "Neligan I.16 · Scar revision techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — planimetric coplanar for flat surfaces; skew unpredictable/avoid.",
+   "B": "Wrong — it reverses the two variants.",
+   "C": "Wrong — they are not fixed-60° interchangeable designs.",
+   "D": "Wrong — the invented site restrictions are not stated."
+  }
+ },
+ {
+  "id": "N-I-16.51",
+  "chapter": "Ch16",
+  "section": "Scar revision techniques · flap tips",
+  "stem": "When designing transposition flaps for scar revision, what does the chapter advise about flap-tip design and flap thickness in scarred tissue?",
+  "options": {
+   "A": "Widen the flap tips to avoid necrosis, and use thicker flaps because scars have unreliable blood supply",
+   "B": "Sharpen the flap tips to a very fine point, and use the thinnest flaps possible to improve their conformity",
+   "C": "Always elevate flaps in a subfascial plane, regardless of the vascular quality of the tissue",
+   "D": "Avoid undermining entirely, because scarred tissue tolerates tension better than normal skin"
+  },
+  "answer": "A",
+  "exp": "Regardless of design, care must be taken to widen the tip of flaps to avoid tip necrosis, and because scars often have distorted, unreliable blood supply, thicker flaps are necessary in scarred tissue (in unscarred tissue, elevate the subdermal plexus to include the cutaneous microvasculature). Sharpening tips and using the thinnest flaps invite necrosis; a mandatory subfascial plane and \"never undermine\" are not stated.",
+  "hy": "Widen flap tips; use thicker flaps in unreliable scar vasculature.",
+  "src": "Neligan I.16 · Scar revision techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — widen tips; thicker flaps for scarred, unreliable blood supply.",
+   "B": "Wrong — sharp, thin tips increase necrosis risk.",
+   "C": "Wrong — a mandatory subfascial plane is not the stated rule.",
+   "D": "Wrong — undermining/advancement is used, not avoided."
+  }
+ },
+ {
+  "id": "N-I-16.52",
+  "chapter": "Ch16",
+  "section": "Wound dressings and postoperative care",
+  "stem": "The senior authors use a mechanical silicone shielding device (Embrace) after closure. What is its rationale and evidence level as described?",
+  "options": {
+   "A": "It blocks perpendicular tension across the incision and cut scarring in a level-1 randomized trial",
+   "B": "It delivers intradermal corticosteroid continuously and was validated only in uncontrolled case series",
+   "C": "It works by freezing the incision line and to date has no published comparative evidence at all",
+   "D": "It replaces all of the sutures at closure and was reported to increase scar width in a level-1 trial"
+  },
+  "answer": "A",
+  "exp": "The senior authors apply a mechanical silicone shielding device (Embrace, Neodyne Biosciences) ~2–3 weeks after closure to block perpendicular tension across the incision line for at least 2 months; in a 12-month prospective, randomized, multicenter (abdominoplasty) trial it significantly improved scar appearance versus control — level-1 evidence. It does not deliver steroid, freeze the incision, or replace sutures, and it decreased rather than increased scar formation.",
+  "hy": "Embrace offloads perpendicular incisional tension; level-1 trial evidence.",
+  "src": "Neligan I.16 · Wound dressings and postoperative care",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — blocks perpendicular tension; level-1 randomized evidence.",
+   "B": "Wrong — it is not a continuous intradermal steroid device.",
+   "C": "Wrong — it does not work by freezing and does have comparative evidence.",
+   "D": "Wrong — it supplements, not replaces, sutures and reduces scarring."
+  }
+ },
+ {
+  "id": "N-I-16.53",
+  "chapter": "Ch16",
+  "section": "Scar revision · Principles of tissue rearrangement",
+  "stem": "When local-flap scar revision on the face conflicts with an anatomic landmark, what priority does the chapter set?",
+  "options": {
+   "A": "Restoring landmarks (e.g., vermilion border, eyelid position, alar base) takes priority over minimizing scar features",
+   "B": "Minimizing the overall length and visibility of the scar always takes clear priority over the position of any landmark",
+   "C": "The scar should always be widely excised and skin-grafted rather than locally rearranged when a landmark is nearby",
+   "D": "Landmark distortion is acceptable provided the final scar lies within a relaxed skin-tension line"
+  },
+  "answer": "A",
+  "exp": "In tissue rearrangement, restoration of anatomic landmarks — such as the vermilion border, eyelid position, or alar base — should take priority over minimizing scar characteristics; using a local flap to prevent landmark distortion (accepting a somewhat larger scar) exemplifies this. Prioritizing scar length, mandating graft-over-rearrangement, or accepting landmark distortion for an RSTL scar all contradict the stated priority.",
+  "hy": "Landmark restoration outranks scar minimization.",
+  "src": "Neligan I.16 · Principles of tissue rearrangement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — landmark restoration takes priority over scar minimization.",
+   "B": "Wrong — scar minimization does not outrank landmark position.",
+   "C": "Wrong — rearrangement (e.g., local flap) is often preferred over grafting.",
+   "D": "Wrong — landmark distortion is not acceptable merely for RSTL placement."
+  }
+ },
+ {
+  "id": "N-I-16.54",
+  "chapter": "Ch16",
+  "section": "Scar revision · Principles of tissue rearrangement",
+  "stem": "Why does local tissue rearrangement deliberately convert a long straight scar into an irregular or lengthened one?",
+  "options": {
+   "A": "A long straight scar contracts along one axis, worsening deformity; irregularizing it spreads forces to aid camouflage",
+   "B": "An irregular scar is said to heal faster because each of the shorter segments re-epithelializes fully on its own",
+   "C": "Straight scars can never be placed within the relaxed skin-tension lines, whereas irregular scars supposedly always can be",
+   "D": "Irregularization is said to increase tension along the scar axis, which is required to flatten a raised hypertrophic scar"
+  },
+  "answer": "A",
+  "exp": "A long, straight scar contracts uniformly along one axis (myofibroblast contracture within the scar axis), causing greater surrounding deformity, depression, and possible movement limitation. Local tissue rearrangement reorients and lengthens the scar and breaks it into segments, dispersing contractile forces into multiple axes — yielding less tissue deformation and a more easily camouflaged scar. The distractors invent faster segmental healing, an RSTL impossibility, or claim irregularization raises axial tension (it disperses it).",
+  "hy": "Irregularization disperses contractile force across axes → better camouflage.",
+  "src": "Neligan I.16 · Principles of tissue rearrangement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "why": {
+   "A": "Correct — disperses uniform axial contracture into multiple axes.",
+   "B": "Wrong — segmental \"faster healing\" is not the rationale.",
+   "C": "Wrong — straight scars can lie in RSTLs; that is not the reason.",
+   "D": "Wrong — irregularization disperses, not increases, axial tension."
+  }
+ },
+ {
+  "id": "N-I-16.55",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "A patient presents with the raised, well-demarcated lesions shown. They remained confined within the borders of the original wounds. What are they?",
+  "options": {
+   "A": "Hypertrophic scars",
+   "B": "Keloids",
+   "C": "Mature normotrophic scars",
+   "D": "Dermatofibrosarcoma protuberans"
+  },
+  "answer": "A",
+  "exp": "The lesions are hypertrophic scars: raised and itchy but, crucially, confined within the borders of the original wounds (here, surgical/chest incisions). This within-boundary behavior is the defining clinical difference from keloids, which overgrow the original margins. Mature normotrophic scars are flat, and DFSP is a dermal sarcoma, not a post-incisional scar pattern.",
+  "hy": "Hypertrophic scar = raised but within the original wound margins.",
+  "src": "Neligan I.16 · Conditions of excessive scarring · Fig 16.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/hypertrophic-scar-clinical.jpg",
+  "imgcap": "Raised scars confined within original wound margins",
+  "why": {
+   "A": "Correct — raised scars confined to the original wound = hypertrophic.",
+   "B": "Wrong — keloids extend beyond the original margins.",
+   "C": "Wrong — mature normotrophic scars are flat, not raised.",
+   "D": "Wrong — DFSP is a sarcoma, not this post-incisional scar."
+  }
+ },
+ {
+  "id": "N-I-16.56",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The lesions shown extend beyond the boundaries of the original injuries, including a pedunculated earlobe and sternal lesion. What are they?",
+  "options": {
+   "A": "Keloids",
+   "B": "Hypertrophic scars",
+   "C": "Immature scars",
+   "D": "Acne icepick scars"
+  },
+  "answer": "A",
+  "exp": "These are keloids: raised scars that have grown beyond the boundaries of the original injuries (the classic pedunculated earlobe and expansile sternal lesions), the defining feature separating them from hypertrophic scars. Hypertrophic scars stay within the wound, immature scars are red and only slightly elevated, and icepick acne scars are pitted depressions, not exophytic overgrowths.",
+  "hy": "Keloid = scar overgrowing the original wound boundary.",
+  "src": "Neligan I.16 · Conditions of excessive scarring · Fig 16.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/keloid-clinical.jpg",
+  "imgcap": "Raised scars extending beyond original wound margins",
+  "why": {
+   "A": "Correct — overgrowth beyond the wound margin = keloid.",
+   "B": "Wrong — hypertrophic scars remain within the wound.",
+   "C": "Wrong — immature scars are flat/slightly raised and red.",
+   "D": "Wrong — icepick acne scars are depressed, not exophytic."
+  }
+ },
+ {
+  "id": "N-I-16.57",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The scar-revision technique diagrammed here interdigitates two triangular flaps of equal angle, transposing each into the other's defect to lengthen the scar. Which technique is shown?",
+  "options": {
+   "A": "Simple Z-plasty",
+   "B": "W-plasty",
+   "C": "V–Y advancement flap",
+   "D": "Geometric broken-line closure"
+  },
+  "answer": "A",
+  "exp": "The diagram shows a simple (classic) Z-plasty: two triangular flaps of equal angle (traditionally 60°) transposed into each other's defect to lengthen the scar along its axis while redirecting tension. A W-plasty uses a zigzag excision without transposition, a V–Y advancement does not transpose flaps, and geometric broken-line closure uses assorted small reciprocal shapes — none matches equal-angle triangular transposition.",
+  "hy": "Simple Z-plasty = transposition of two equal triangular flaps.",
+  "src": "Neligan I.16 · Scar revision techniques · Fig 16.11",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/zplasty-simple.jpg",
+  "imgcap": "Transposition of two equal triangular flaps",
+  "why": {
+   "A": "Correct — equal triangular flaps transposed = simple Z-plasty.",
+   "B": "Wrong — W-plasty is a zigzag excision, no transposition.",
+   "C": "Wrong — V–Y advancement does not transpose flaps.",
+   "D": "Wrong — geometric broken line uses mixed reciprocal shapes."
+  }
+ },
+ {
+  "id": "N-I-16.58",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The technique diagrammed uses a zigzag excision of small interdigitating limbs with no net lengthening of the scar. Which technique is shown?",
+  "options": {
+   "A": "W-plasty",
+   "B": "Simple Z-plasty",
+   "C": "Four-flap Z-plasty",
+   "D": "V–Y advancement flap"
+  },
+  "answer": "A",
+  "exp": "The diagram shows a W-plasty: a zigzag pattern of excision with reapproximation of small interdigitated limbs and no net lengthening of the scar (tissue is removed). It is distinct from a Z-plasty (transposes triangular flaps and lengthens), a four-flap Z-plasty (web-space release), and a V–Y advancement (non-transposing). The \"RSTL\" label reflects Borges's use of W-plasty for facial scars not lying in relaxed skin-tension lines.",
+  "hy": "W-plasty = interdigitated zigzag excision, no lengthening.",
+  "src": "Neligan I.16 · Scar revision techniques · Fig 16.17",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/w-plasty.jpg",
+  "imgcap": "Zigzag interdigitating limb excision",
+  "why": {
+   "A": "Correct — zigzag interdigitating excision = W-plasty.",
+   "B": "Wrong — a simple Z-plasty transposes flaps and lengthens.",
+   "C": "Wrong — four-flap Z-plasty is a web-space release design.",
+   "D": "Wrong — V–Y advancement is non-transposing, not a zigzag excision."
+  }
+ },
+ {
+  "id": "N-I-16.59",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The camouflage technique shown incises randomly distributed small triangles, squares, trapezoids, and semicircles at the wound edge with reciprocal shapes opposite. Which technique is it?",
+  "options": {
+   "A": "Geometric broken-line closure",
+   "B": "A standard W-plasty closure",
+   "C": "A skew Z-plasty variant technique",
+   "D": "Planimetric Z-plasty"
+  },
+  "answer": "A",
+  "exp": "The figure shows geometric broken-line closure: 5–6 mm randomly distributed triangles, squares, trapezoids, and semicircles incised at the wound edge with reciprocal shapes planned opposite, to camouflage (especially facial) scars crossing aesthetic subunits. It is more irregular/random than a W-plasty's uniform zigzag, and is neither a skew nor a planimetric Z-plasty (both transposition designs).",
+  "hy": "Geometric broken line = random reciprocal small shapes for camouflage.",
+  "src": "Neligan I.16 · Scar revision techniques · Fig 16.18",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/geometric-broken-line.jpg",
+  "imgcap": "Irregular geometric interdigitations at wound edge",
+  "why": {
+   "A": "Correct — random reciprocal geometric shapes = geometric broken line.",
+   "B": "Wrong — W-plasty is a regular zigzag, not mixed random shapes.",
+   "C": "Wrong — skew Z-plasty is a transposition variant.",
+   "D": "Wrong — planimetric Z-plasty is a coplanar transposition variant."
+  }
+ },
+ {
+  "id": "N-I-16.60",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The multiple-flap design shown is frequently used to release a first-web-space contracture. Which technique is it?",
+  "options": {
+   "A": "Four-flap Z-plasty",
+   "B": "Simple (single) Z-plasty",
+   "C": "W-plasty",
+   "D": "Y–V advancement flap"
+  },
+  "answer": "A",
+  "exp": "The design shown is a four-flap Z-plasty (a multiple-flap Z-plasty), frequently used — like Mustardé's \"jumping man\" five-flap — for release of first-web-space contractures; note the multiple triangular flaps drawn at 60° that transpose to lengthen and release the contracture. A simple Z-plasty has just two flaps, a W-plasty is a zigzag excision, and a Y–V advancement is non-transposing.",
+  "hy": "Four-flap Z-plasty = multiple-flap design for first-web-space release.",
+  "src": "Neligan I.16 · Scar revision techniques · Fig 16.15",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/zplasty-four-flap.jpg",
+  "imgcap": "Multiple-flap Z-plasty design with four triangular flaps",
+  "why": {
+   "A": "Correct — multiple transposing flaps = four-flap Z-plasty.",
+   "B": "Wrong — a simple Z-plasty has only two flaps.",
+   "C": "Wrong — W-plasty is a zigzag excision, not transposing flaps.",
+   "D": "Wrong — Y–V advancement does not transpose flaps."
+  }
+ },
+ {
+  "id": "N-I-16.61",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The advancement technique shown incorporates adjacent tissue without transposition and therefore does not require undermining or threaten the flap's vasculature the way a Z-plasty does. Which technique is it?",
+  "options": {
+   "A": "V–Y / Y–V advancement",
+   "B": "Four-flap Z-plasty",
+   "C": "A zigzag W-plasty",
+   "D": "Geometric broken-line closure"
+  },
+  "answer": "A",
+  "exp": "The figure shows V–Y / Y–V advancement flaps, which incorporate adjacent tissue without transposition and therefore require no undermining and do not threaten the vasculature the way a Z-plasty does; they can be carried out in tandem with careful design. A four-flap Z-plasty and W-plasty both rearrange tissue differently, and geometric broken line is an irregularization excision.",
+  "hy": "V–Y/Y–V = non-transposing advancement, no undermining.",
+  "src": "Neligan I.16 · Scar revision techniques · Fig 16.16",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/vy-yv-advancement.jpg",
+  "imgcap": "Advancement flap converting between V and Y limb configurations",
+  "why": {
+   "A": "Correct — non-transposing advancement = V–Y/Y–V flap.",
+   "B": "Wrong — a four-flap Z-plasty transposes multiple flaps.",
+   "C": "Wrong — W-plasty is a zigzag excision technique.",
+   "D": "Wrong — geometric broken line is an irregularization excision."
+  }
+ },
+ {
+  "id": "N-I-16.62",
+  "chapter": "Ch16",
+  "section": "Figure recognition",
+  "stem": "The staged scar-revision strategy illustrated across these panels removes a portion of a large forehead scar at each sitting, undermining and advancing normal tissue before the next stage. Which strategy is shown?",
+  "options": {
+   "A": "Serial excision",
+   "B": "Single-stage direct excision",
+   "C": "Tissue expansion",
+   "D": "Four-flap Z-plasty"
+  },
+  "answer": "A",
+  "exp": "The panels illustrate serial excision: a large forehead scar is reduced in stages, circumferentially excising a portion and then undermining and advancing bordering normal tissue before the next stage, so that two or three sittings accomplish what would be hazardous in one. It is not single-stage direct excision (one sitting), tissue expansion (expander placement to grow skin), or a four-flap Z-plasty (transposition design).",
+  "hy": "Serial excision = staged partial excision + advancement over multiple sittings.",
+  "src": "Neligan I.16 · Scar revision · Planning · Fig 16.10",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "16",
+  "chname": "Scar prevention, treatment, and revision",
+  "image": "images/serial-excision.jpg",
+  "imgcap": "Staged reduction of a large scar across sequential operations",
+  "why": {
+   "A": "Correct — staged partial excision with advancement = serial excision.",
+   "B": "Wrong — a single-stage excision removes it all at once.",
+   "C": "Wrong — tissue expansion grows skin with an implant first.",
+   "D": "Wrong — a four-flap Z-plasty is a transposition design, not staged excision."
+  }
  }
 ]
