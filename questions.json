@@ -38558,5 +38558,1532 @@
    "C": "Wrong — tissue expansion grows skin with an implant first.",
    "D": "Wrong — a four-flap Z-plasty is a transposition design, not staged excision."
   }
+ },
+ {
+  "id": "N-I-17.1",
+  "chapter": "Ch17",
+  "section": "History of the graft technique",
+  "stem": "A surgeon tangentially shaves a deep dermal burn down to a bed of punctate capillary bleeding and immediately applies a split-thickness graft in the same sitting. This \"excise-and-graft in one stage\" approach to burns is credited to which surgeon?",
+  "options": {
+   "A": "Zora Janžekovič",
+   "B": "Karl Thiersch",
+   "C": "Jacques-Louis Reverdin",
+   "D": "James Tanner"
+  },
+  "answer": "A",
+  "exp": "Zora Janžekovič is credited with tangential (sequential shave) excision of the burn eschar followed by immediate split-thickness grafting — a one-stage technique that became the modern standard of care for deep dermal burns, because early removal of nonviable tissue and immediate coverage limits infection, fluid loss, and hypertrophic scarring. Thiersch described preparing the recipient bed to enhance revascularization and lends his name to the thin STSG; Reverdin introduced the pinch graft; Tanner devised mechanical meshing (1964). Each is a real skin-graft pioneer, so the specific attribution must be known.",
+  "hy": "Janžekovič = tangential excision + immediate STSG (deep-burn standard).",
+  "src": "Neligan I.17 · History of the graft technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — tangential excision + immediate grafting is Janžekovič's contribution.",
+   "B": "Wrong — Thiersch prepared the recipient bed and names the thin STSG, not one-stage burn excision.",
+   "C": "Wrong — Reverdin introduced the pinch (Reverdin) graft.",
+   "D": "Wrong — Tanner developed the mesh graft (1964)."
+  }
+ },
+ {
+  "id": "N-I-17.2",
+  "chapter": "Ch17",
+  "section": "History of the graft technique",
+  "stem": "Which technical development, introduced in 1964, first let a single split-thickness graft be expanded to cover a wound far larger than the harvested area with minimal added donor morbidity?",
+  "options": {
+   "A": "Mechanical meshing of the graft (Tanner)",
+   "B": "The introduction of the electric powered dermatome",
+   "C": "Tangential eschar excision (Janžekovič)",
+   "D": "Refrigerated banking of autologous skin"
+  },
+  "answer": "A",
+  "exp": "James Tanner's systematic mechanical meshing (1964) cut regularly spaced slits into a split-thickness graft so it could be stretched to cover several times its harvested area, which is why one modest donor site can resurface a large burn. The electric/mechanical dermatome (introduced in the 1940s) enabled uniform-thickness harvest but does not itself expand the graft; tangential excision prepares the wound rather than expanding the graft; refrigerated banking (early 1990s) stores rather than enlarges skin. All are real milestones, so the date and the expansion function pin the answer.",
+  "hy": "Tanner 1964 = mechanical meshing → graft expansion.",
+  "src": "Neligan I.17 · History of the graft technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — Tanner's 1964 mesher is the expansion technique.",
+   "B": "Wrong — the dermatome (1940s) harvests uniform skin but does not expand it.",
+   "C": "Wrong — tangential excision prepares the burn bed, it does not enlarge the graft.",
+   "D": "Wrong — refrigerated banking stores skin, it does not increase coverage area."
+  }
+ },
+ {
+  "id": "N-I-17.3",
+  "chapter": "Ch17",
+  "section": "Anatomy and physiology of skin",
+  "stem": "Which epidermal layer is present only in the glabrous skin of the palms and soles, contributing to their extra thickness?",
+  "options": {
+   "A": "Stratum lucidum",
+   "B": "Stratum granulosum",
+   "C": "Stratum spinosum",
+   "D": "Stratum basale"
+  },
+  "answer": "A",
+  "exp": "The stratum lucidum is a translucent zone found deep to the stratum corneum only in thick glabrous skin (palms and soles), adding to the mechanical thickness of those high-wear sites. The granulosum (keratohyalin-rich transition zone), spinosum (desmosome-anchored keratinocytes plus Langerhans cells), and basale (proliferative keratinocytes, melanocytes, Merkel cells) are present throughout the integument regardless of region, so they cannot be the site-restricted layer. All four are real epidermal strata, so the distinguishing glabrous-only feature is the discriminator.",
+  "hy": "Stratum lucidum is found only in glabrous palm/sole skin.",
+  "src": "Neligan I.17 · Anatomy and physiology of skin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — the stratum lucidum is restricted to palmar/plantar glabrous skin.",
+   "B": "Wrong — the granulosum is present across the whole integument.",
+   "C": "Wrong — the spinosum (Malpighian layer) is universal, not glabrous-restricted.",
+   "D": "Wrong — the basal (germinal) layer is present everywhere."
+  }
+ },
+ {
+  "id": "N-I-17.4",
+  "chapter": "Ch17",
+  "section": "Anatomy and physiology of skin",
+  "stem": "The proliferative keratinocytes that renew the epidermis, together with melanocytes and Merkel mechanoreceptors, reside in which layer?",
+  "options": {
+   "A": "Stratum basale",
+   "B": "Stratum corneum",
+   "C": "Stratum granulosum",
+   "D": "Stratum lucidum"
+  },
+  "answer": "A",
+  "exp": "The stratum basale (germinal layer) houses the proliferative, self-renewing keratinocyte stem cells, the neural-crest-derived melanocytes, and the Merkel cells (epithelial mechanoreceptors) — it is the generative floor from which the more superficial layers progressively differentiate. The corneum is terminally differentiated anuclear corneocytes; the granulosum is an intermediate keratohyalin zone; the lucidum is a thin glabrous-only band. Because keratinocyte proliferation begins here, damage sparing the basale (or the appendageal reservoirs) allows re-epithelialization. All are real strata, so the proliferative-plus-melanocyte-plus-Merkel combination locates it precisely.",
+  "hy": "Stratum basale holds proliferative keratinocytes, melanocytes, and Merkel cells.",
+  "src": "Neligan I.17 · Anatomy and physiology of skin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — basal layer holds proliferative keratinocytes, melanocytes, and Merkel cells.",
+   "B": "Wrong — the corneum is dead, terminally differentiated corneocytes.",
+   "C": "Wrong — the granulosum is a differentiation transition zone, not the germinal layer.",
+   "D": "Wrong — the lucidum is an acellular translucent band in glabrous skin."
+  }
+ },
+ {
+  "id": "N-I-17.5",
+  "chapter": "Ch17",
+  "section": "Anatomy and physiology of skin",
+  "stem": "Roughly how long is the normal keratinocyte differentiation cycle, from production at the basal layer to shedding at the surface?",
+  "options": {
+   "A": "40–60 days",
+   "B": "7–14 days",
+   "C": "3–6 months",
+   "D": "24–48 hours"
+  },
+  "answer": "A",
+  "exp": "Keratinocytes produced in the stratum basale take approximately 40–60 days to differentiate upward and complete the cycle to the surface — a turnover rate whose disruption (either hypo- or hyperproliferation, as in psoriasis) is pathologic. The neighbouring values are plausible but wrong: small superficial wounds re-epithelialize in about 2–14 days (not the 7–14 shown), 24–48 hours is when graft revascularization begins, and 3–6 months overshoots epidermal turnover. The item requires the exact figure rather than an order-of-magnitude estimate.",
+  "hy": "Keratinocyte turnover ≈ 40–60 days.",
+  "src": "Neligan I.17 · Anatomy and physiology of skin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — the chapter cites ~40–60 days for the full keratinocyte cycle.",
+   "B": "Wrong — 7–14 days is not the turnover figure; small wounds re-epithelialize in ~2–14 days.",
+   "C": "Wrong — 3–6 months overstates epidermal turnover.",
+   "D": "Wrong — 24–48 hours is when graft revascularization starts, unrelated to turnover."
+  }
+ },
+ {
+  "id": "N-I-17.6",
+  "chapter": "Ch17",
+  "section": "Dermal–epidermal junction",
+  "stem": "Within the basement membrane, which component is the collagen IV–rich layer that lies just deep to the integrin/laminin-rich lamina lucida?",
+  "options": {
+   "A": "Lamina densa",
+   "B": "Lamina lucida",
+   "C": "Basal reticularis",
+   "D": "Papillary dermis"
+  },
+  "answer": "A",
+  "exp": "The basal lamina is divided into a superficial lamina lucida (rich in integrins and laminins) and a deeper lamina densa (rich in collagen IV); beneath the basal lamina lies the basal reticularis, a collagen III meshwork linked to the overlying lamina densa by collagen VII/fibrillin anchoring fibrils, while basal keratinocytes anchor upward via hemidesmosomes. Grafts lacking a robust dermal–epidermal junction are mechanically unstable, which is clinically why thin grafts blister and shear. All options are real junctional strata, so the collagen-IV attribution is the discriminator.",
+  "hy": "Lamina densa = collagen IV; lamina lucida = integrins/laminins.",
+  "src": "Neligan I.17 · Dermal–epidermal junction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — the lamina densa is the collagen IV–rich layer.",
+   "B": "Wrong — the lamina lucida is superficial and rich in integrins/laminins, not collagen IV.",
+   "C": "Wrong — the basal reticularis is a collagen III meshwork below the basal lamina.",
+   "D": "Wrong — the papillary dermis is dermal, above the basement membrane, not within it."
+  }
+ },
+ {
+  "id": "N-I-17.7",
+  "chapter": "Ch17",
+  "section": "Dermis",
+  "stem": "The resting tension of skin (Langer's lines) is primarily determined by the elastic and collagen fibers of which dermal layer?",
+  "options": {
+   "A": "Reticular dermis",
+   "B": "Papillary (subpapillary) dermis",
+   "C": "The hypodermis (subcutis)",
+   "D": "Basal lamina"
+  },
+  "answer": "A",
+  "exp": "The reticular dermis — the thicker, deeper, collagen- and elastin-rich compact layer beneath the subpapillary plexus — is the primary elastic determinant of skin and is responsible for Langer's resting lines of tension; pathologic loss of its elastic fibers produces tissue stiffness. The papillary dermis is the thin superficial layer that anchors the dermal–epidermal junction and handles metabolic exchange; the hypodermis is subcutaneous fat/stroma; the basal lamina is part of the junction. All are real skin strata, so the elastic-determinant/Langer's-lines cue points specifically to the reticular dermis.",
+  "hy": "Reticular dermis is the elastic determinant (Langer's lines).",
+  "src": "Neligan I.17 · Dermis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — the reticular dermis sets skin's elasticity and Langer's lines.",
+   "B": "Wrong — the papillary dermis anchors the DEJ and does metabolic exchange, not bulk elasticity.",
+   "C": "Wrong — the hypodermis is subcutaneous fat, not the elastic tension determinant.",
+   "D": "Wrong — the basal lamina is a junctional sheet, not the source of resting tension."
+  }
+ },
+ {
+  "id": "N-I-17.8",
+  "chapter": "Ch17",
+  "section": "UV protection, melanocytes",
+  "stem": "Approximately what proportion of the epidermal cell population is made up of the neural-crest-derived cells that produce melanin?",
+  "options": {
+   "A": "About 10%",
+   "B": "Approximately 1%",
+   "C": "About 25%",
+   "D": "About 50%"
+  },
+  "answer": "A",
+  "exp": "Melanocytes make up approximately 10% of the epidermal cell population; they are neural-crest-derived, reside in the basal layer, and package melanin into melanosomes that they transfer to keratinocytes. Melanin is highly photo-absorptive and can block in excess of 99% of UV light. The distractors are adjacent plausible fractions but wrong — 1% understates, and 25% or 50% overstate the melanocyte share (keratinocytes dominate the epidermis). The exact figure matters because graft thickness determines whether functional epidermal melanin units transfer, affecting later pigmentation and UV vulnerability.",
+  "hy": "Melanocytes ≈ 10% of epidermal cells; melanin blocks >99% of UV.",
+  "src": "Neligan I.17 · UV protection, melanocytes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — melanocytes are ~10% of epidermal cells.",
+   "B": "Wrong — 1% understates the melanocyte fraction.",
+   "C": "Wrong — 25% overstates it.",
+   "D": "Wrong — 50% is far too high; keratinocytes are the dominant epidermal cell."
+  }
+ },
+ {
+  "id": "N-I-17.9",
+  "chapter": "Ch17",
+  "section": "Neuronal supply of the skin",
+  "stem": "A cutaneous receptor responsible for sensing vibration is best matched to which encapsulated structure?",
+  "options": {
+   "A": "Lamellar corpuscle of Pacini",
+   "B": "Bulbous corpuscle of Ruffini",
+   "C": "Tactile corpuscle of Meissner",
+   "D": "Nerve ending of Merkel"
+  },
+  "answer": "A",
+  "exp": "The lamellar (Pacinian) corpuscle is the deep, onion-layered mechanoreceptor tuned to vibration and rapid pressure change. The other three are real cutaneous mechanoreceptors with distinct modalities: Ruffini (bulbous) corpuscles sense skin stretch, Meissner (tactile) corpuscles detect light touch and are concentrated in glabrous skin, and Merkel endings signal sustained pressure. Because all four are genuine receptors in the same class, the item is answered only by knowing the specific modality mapping.",
+  "hy": "Pacinian (lamellar) corpuscle = vibration.",
+  "src": "Neligan I.17 · Neuronal supply of the skin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — Pacinian (lamellar) corpuscles transduce vibration.",
+   "B": "Wrong — Ruffini (bulbous) corpuscles sense stretch, not vibration.",
+   "C": "Wrong — Meissner (tactile) corpuscles sense light touch.",
+   "D": "Wrong — Merkel endings sense sustained pressure."
+  }
+ },
+ {
+  "id": "N-I-17.10",
+  "chapter": "Ch17",
+  "section": "Cutaneous appendages",
+  "stem": "From superficial to deep, which sequence correctly orders the four zones of the hair follicle?",
+  "options": {
+   "A": "Infundibulum → isthmus → stem → bulb",
+   "B": "Bulb → stem → isthmus → infundibulum (deep-to-superficial)",
+   "C": "Isthmus → infundibulum → bulb → stem",
+   "D": "Stem → bulb → infundibulum → isthmus"
+  },
+  "answer": "A",
+  "exp": "The hair follicle is divided, superficial to deep, into the infundibulum (surface to the apocrine/sebaceous entry), the isthmus, the stem, and the bulb (deepest, containing the follicular matrix and papilla that regenerate the hair). The bulge, just below the sebaceous unit, is the resident stem-cell niche, and the presence of epidermal cells down to the bulb explains rapid re-epithelialization from retained follicles after split-thickness harvest. The distractor orders scramble real zone names, so the exact superficial-to-deep sequence must be recalled.",
+  "hy": "Follicle superficial→deep: infundibulum, isthmus, stem, bulb.",
+  "src": "Neligan I.17 · Cutaneous appendages",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — infundibulum, isthmus, stem, bulb is the superficial-to-deep order.",
+   "B": "Wrong — this reverses the sequence.",
+   "C": "Wrong — the infundibulum is most superficial, not second.",
+   "D": "Wrong — the bulb is deepest, not second."
+  }
+ },
+ {
+  "id": "N-I-17.11",
+  "chapter": "Ch17",
+  "section": "Cutaneous appendages",
+  "stem": "Which cutaneous gland type is restricted mainly to the axillae, areolae, nipples, perineum, and genitalia and secretes a proteinaceous product?",
+  "options": {
+   "A": "Apocrine glands",
+   "B": "Eccrine glands",
+   "C": "Sebaceous glands",
+   "D": "Meibomian glands"
+  },
+  "answer": "A",
+  "exp": "Apocrine glands are regionally restricted to the axillae, areolae/nipples, perineum, genitalia, and parts of the eyelid, nostril, and ear canals, and their secretion is proteinaceous. Eccrine (merocrine) glands cover most of the body surface and secrete clear hypotonic sweat under autonomic/emotional control; sebaceous glands are holocrine, associated with hair follicles, and release lipid-rich sebum (the acid mantle); meibomian glands are specialized holocrine sebaceous glands of the eyelid. All are real glandular structures, so the distribution-plus-proteinaceous pairing identifies the apocrine gland.",
+  "hy": "Apocrine glands = axillae/areolae/perineum/genitalia, proteinaceous.",
+  "src": "Neligan I.17 · Cutaneous appendages",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — apocrine glands are region-restricted and proteinaceous.",
+   "B": "Wrong — eccrine glands are widespread and secrete hypotonic sweat.",
+   "C": "Wrong — sebaceous glands secrete lipid sebum around hair shafts.",
+   "D": "Wrong — meibomian glands are specialized sebaceous glands of the eyelid."
+  }
+ },
+ {
+  "id": "N-I-17.12",
+  "chapter": "Ch17",
+  "section": "Metabolic functions of the skin",
+  "stem": "The skin is the primary site of the UVB-driven conversion of which precursor toward vitamin D?",
+  "options": {
+   "A": "7-dehydrocholesterol → cholecalciferol",
+   "B": "Ergosterol → ergocalciferol",
+   "C": "25-hydroxyvitamin D → 1,25-dihydroxyvitamin D",
+   "D": "7-dehydrocholesterol → 25-hydroxyvitamin D"
+  },
+  "answer": "A",
+  "exp": "In the epidermis, UVB radiation converts 7-dehydrocholesterol to cholecalciferol (vitamin D3), the critical first cutaneous step in vitamin D production; subsequent hydroxylations to 25-OH-D (liver) and 1,25-(OH)₂-D (kidney) occur elsewhere. Ergocalciferol (D2) derives from plant ergosterol, not cutaneous synthesis. The distractors name real vitamin-D-pathway conversions but place them at the wrong organ or wrong step, so the item tests which reaction the skin actually performs.",
+  "hy": "Skin converts 7-dehydrocholesterol → cholecalciferol under UVB.",
+  "src": "Neligan I.17 · Metabolic functions of the skin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — skin converts 7-dehydrocholesterol to cholecalciferol under UVB.",
+   "B": "Wrong — ergosterol→ergocalciferol (D2) is a dietary/plant pathway, not cutaneous.",
+   "C": "Wrong — 1α-hydroxylation to 1,25-(OH)₂-D occurs in the kidney.",
+   "D": "Wrong — 25-hydroxylation is a hepatic step, not the cutaneous reaction."
+  }
+ },
+ {
+  "id": "N-I-17.13",
+  "chapter": "Ch17",
+  "section": "Vascular supply of the skin",
+  "stem": "The Mathes and Nahai classification of the cutaneous perforators that supply fasciocutaneous flaps divides them into which three types?",
+  "options": {
+   "A": "Direct cutaneous, septocutaneous, musculocutaneous",
+   "B": "Axial, random, and reverse-flow cutaneous vascular patterns",
+   "C": "Type I, Type II, Type III muscle pedicles",
+   "D": "Choke, true, and oscillating anastomoses"
+  },
+  "answer": "A",
+  "exp": "The chapter cites the Mathes and Nahai classification of fasciocutaneous perforators as direct cutaneous, septocutaneous, and musculocutaneous — describing whether the perforator reaches the skin directly, travels through an intermuscular septum, or passes through a muscle. This underlies donor-site perfusion planning. Axial/random describes cutaneous flap vascular patterns generally; Types I–V is Mathes–Nahai's separate classification of muscle pedicles; choke/true anastomoses belong to Taylor's angiosome work. All are real vascular concepts, so the exact three-way fasciocutaneous scheme is the discriminator.",
+  "hy": "Mathes–Nahai fasciocutaneous: direct cutaneous, septocutaneous, musculocutaneous.",
+  "src": "Neligan I.17 · Vascular supply of the skin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — direct cutaneous, septocutaneous, musculocutaneous are the three perforator routes.",
+   "B": "Wrong — axial vs random describes flap design, not this perforator classification.",
+   "C": "Wrong — Types I–V is the muscle-pedicle classification, a different Mathes–Nahai scheme.",
+   "D": "Wrong — choke/true anastomoses are from Taylor's angiosome studies."
+  }
+ },
+ {
+  "id": "N-I-17.14",
+  "chapter": "Ch17",
+  "section": "Restoration of barrier function after injury",
+  "stem": "In a small, uncomplicated wound in a healthy patient, cutaneous integrity is typically re-established over what time frame?",
+  "options": {
+   "A": "2–14 days",
+   "B": "2–14 hours",
+   "C": "6–12 weeks",
+   "D": "6–12 months"
+  },
+  "answer": "A",
+  "exp": "For small, less-complex wounds in healthy individuals, re-epithelialization restores cutaneous integrity in roughly 2–14 days, driven by keratinocyte migration from wound edges and from residual eccrine and pilosebaceous appendages. In large, ablative injuries (burns, polytrauma) or in patients with comorbidities, poor nutrition, or infection, this process is delayed or fails, which is precisely when surgical coverage such as grafting becomes necessary. The distractors are wrong orders of magnitude — hours is too fast, and weeks or months describe complex or grafted-scar timelines.",
+  "hy": "Small healthy wounds re-epithelialize in ~2–14 days.",
+  "src": "Neligan I.17 · Restoration of barrier function after injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — small healthy wounds re-epithelialize in ~2–14 days.",
+   "B": "Wrong — hours is far too fast for re-epithelialization.",
+   "C": "Wrong — 6–12 weeks reflects complicated or large-wound healing.",
+   "D": "Wrong — 6–12 months overlaps scar maturation, not initial closure."
+  }
+ },
+ {
+  "id": "N-I-17.15",
+  "chapter": "Ch17",
+  "section": "Split-thickness skin grafts",
+  "stem": "By thickness, which split-thickness graft classification is correctly matched to its eponym and range?",
+  "options": {
+   "A": "Thin STSG (0.15–0.3 mm) — Thiersch–Ollier",
+   "B": "Thick STSG (0.45–0.6 mm) — Thiersch–Ollier",
+   "C": "Intermediate STSG (0.3–0.45 mm) — Wolfe",
+   "D": "Thin STSG (0.15–0.3 mm) — Blair–Brown"
+  },
+  "answer": "A",
+  "exp": "Split-thickness grafts are classified by thickness as thin (0.15–0.3 mm; the Thiersch–Ollier graft), intermediate (0.3–0.45 mm; the Blair–Brown graft), and thick (0.45–0.6 mm; a deep graft). The distractors mis-pair the eponym or range: the Thiersch–Ollier name belongs to the thin graft (not the thick), Blair–Brown to the intermediate (not the thin), and Wolfe denotes a full-thickness graft, not an intermediate STSG. Because every option is a real graft descriptor, the exact eponym-to-range match must be known.",
+  "hy": "STSG: thin 0.15–0.3 (Thiersch–Ollier), intermediate 0.3–0.45 (Blair–Brown), thick 0.45–0.6 mm.",
+  "src": "Neligan I.17 · Split-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — thin STSG 0.15–0.3 mm is the Thiersch–Ollier graft.",
+   "B": "Wrong — Thiersch–Ollier is the thin (not thick) graft.",
+   "C": "Wrong — Wolfe denotes a full-thickness graft; Blair–Brown is the intermediate STSG.",
+   "D": "Wrong — Blair–Brown is the intermediate graft, not the thin one."
+  }
+ },
+ {
+  "id": "N-I-17.16",
+  "chapter": "Ch17",
+  "section": "Split-thickness skin grafts",
+  "stem": "A thin split-thickness donor site in a healthy adult is generally healed enough to permit a repeat harvest from the same area after approximately how long?",
+  "options": {
+   "A": "About 2 weeks",
+   "B": "About 2 days",
+   "C": "About 6 weeks",
+   "D": "About 6 months"
+  },
+  "answer": "A",
+  "exp": "Because a thin split-thickness harvest leaves the deeper dermal appendages intact to re-epithelialize the donor bed, that site is usually healed and adequate for a repeat harvest after about 2 weeks — a major reason thin grafts are chosen when serial harvests from limited donor skin are needed (e.g. large burns). The distractors bracket the true value: 2 days is too short for donor re-epithelialization, while 6 weeks and 6 months greatly overstate it. Exact recall separates the adjacent options.",
+  "hy": "Thin STSG donor site is reharvestable at ~2 weeks.",
+  "src": "Neligan I.17 · Split-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — a thin STSG donor site is reharvestable at ~2 weeks.",
+   "B": "Wrong — 2 days is too soon for donor healing.",
+   "C": "Wrong — 6 weeks overstates thin-graft donor healing time.",
+   "D": "Wrong — 6 months is far too long."
+  }
+ },
+ {
+  "id": "N-I-17.17",
+  "chapter": "Ch17",
+  "section": "Split-thickness skin grafts",
+  "stem": "Compared with a thick split-thickness or full-thickness graft, a thin split-thickness graft is expected to show which recipient-site behavior?",
+  "options": {
+   "A": "Greater secondary contracture at the recipient site",
+   "B": "Less secondary contracture at the recipient site",
+   "C": "More reliable hair regrowth in the graft",
+   "D": "Better long-term restoration of sweat-gland function"
+  },
+  "answer": "A",
+  "exp": "The general rule is that the thinner the graft, the more secondary contracture it undergoes at the recipient site — so thin STSGs contract most, while thicker grafts (carrying more dermis) resist contraction and are chosen over joints and high-friction areas. Thin grafts contain few or no whole cutaneous appendages, so they rarely grow hair or restore sweating; those functions return, if at all, with thick STSGs and full-thickness grafts. The distractors state the opposite of each true relationship, so the direction of the thickness–contracture and thickness–appendage rules is the discriminator.",
+  "hy": "Thinner graft → MORE recipient contracture, fewer appendages.",
+  "src": "Neligan I.17 · Split-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — thinner grafts contract more at the recipient site.",
+   "B": "Wrong — less contracture is a property of thicker grafts.",
+   "C": "Wrong — thin grafts rarely regrow hair (appendages left behind).",
+   "D": "Wrong — sweat-gland function is not restored by thin grafts."
+  }
+ },
+ {
+  "id": "N-I-17.18",
+  "chapter": "Ch17",
+  "section": "Split-thickness skin grafts",
+  "stem": "A reconstruction over the dorsum of a mobile joint needs coverage that will resist later contraction. Regarding graft thickness, which choice best fits this goal?",
+  "options": {
+   "A": "A thicker graft, because more transferred dermis limits contraction",
+   "B": "A thinner graft, because it revascularizes faster over the joint",
+   "C": "A thinner graft, because thin grafts are said to resist contraction best",
+   "D": "A meshed thin graft expanded 1:9 to maximize coverage"
+  },
+  "answer": "A",
+  "exp": "Contraction is inversely related to the dermal component of a graft, so a thicker graft (thick STSG or full-thickness) is preferred over joints and other high-mechanical-friction areas precisely because the extra dermis limits secondary contraction that would otherwise restrict joint motion. A thinner graft takes more readily on marginal beds but contracts more — the opposite of what a joint needs — and a widely meshed graft contracts even more and leaves a cobblestoned surface. The pivotal modifier is the joint location, which shifts the preference toward thickness over ease of take.",
+  "hy": "Over joints use a thicker graft (more dermis = less contraction).",
+  "src": "Neligan I.17 · Split-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — thicker grafts carry more dermis and contract less, ideal over joints.",
+   "B": "Wrong — faster take is a thin-graft trait but it does not address contraction.",
+   "C": "Wrong — thin grafts contract more, not less.",
+   "D": "Wrong — wide meshing increases contracture, worsening joint outcome."
+  }
+ },
+ {
+  "id": "N-I-17.19",
+  "chapter": "Ch17",
+  "section": "Split-thickness skin grafts",
+  "stem": "Why are thinner split-thickness grafts often preferred in young children and elderly patients?",
+  "options": {
+   "A": "Their skin is thinner, so a thin harvest avoids prolonged donor-site healing",
+   "B": "Thin grafts transfer more melanocytes, improving color match in these groups",
+   "C": "Thin grafts contract less, protecting growth in children and lax skin in elders",
+   "D": "Thin grafts reliably restore sweating, which these groups tolerate poorly to lose"
+  },
+  "answer": "A",
+  "exp": "Children and the elderly have inherently thinner skin than non-elderly adults, so taking a thin split-thickness graft avoids harvesting too deeply and prevents prolonged or troublesome donor-site healing in those age groups. The distractors invert real graft physiology: thin grafts transfer fewer (not more) appendages and melanocytes, they contract more (not less), and they do not restore sweating. The pivotal fact is the age-related thinness of the donor skin, not any contraction or appendage advantage.",
+  "hy": "Children/elderly → thin graft (thinner native skin protects donor healing).",
+  "src": "Neligan I.17 · Split-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — thinner native skin means a thin harvest protects donor healing.",
+   "B": "Wrong — thin grafts carry fewer melanocytes, not more.",
+   "C": "Wrong — thin grafts contract more; contraction is not the rationale.",
+   "D": "Wrong — thin grafts do not restore sweat-gland function."
+  }
+ },
+ {
+  "id": "N-I-17.20",
+  "chapter": "Ch17",
+  "section": "Grafting technique",
+  "stem": "At what angle to the skin is a powered dermatome typically held to harvest a split-thickness graft?",
+  "options": {
+   "A": "45°",
+   "B": "15°",
+   "C": "90° (perpendicular)",
+   "D": "75°"
+  },
+  "answer": "A",
+  "exp": "The powered (electric or air-driven) dermatome is pressed to the skin at roughly a 45° angle and advanced with uniform pressure and speed; the set guard determines nominal thickness, but the operator's downward pressure also influences actual depth. The adjacent angles are wrong: too shallow (15°) or too steep (90°) would produce an uneven or too-deep cut. Because the numbers are neighbouring plausible values, the exact figure is required.",
+  "hy": "Powered dermatome is held at ~45°.",
+  "src": "Neligan I.17 · Grafting technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — ~45° is the standard dermatome approach angle.",
+   "B": "Wrong — 15° is too shallow for a uniform harvest.",
+   "C": "Wrong — 90° (perpendicular) would gouge rather than shave.",
+   "D": "Wrong — 75° is steeper than the described technique."
+  }
+ },
+ {
+  "id": "N-I-17.21",
+  "chapter": "Ch17",
+  "section": "Meshed skin grafts",
+  "stem": "Meshing a split-thickness graft carries which trade-off the surgeon must weigh?",
+  "options": {
+   "A": "It enlarges coverage but increases contracture and can leave a cobblestone relief",
+   "B": "It enlarges coverage while reducing contracture and improving final texture",
+   "C": "It speeds donor healing but weakens the graft against shear at the donor site postoperatively",
+   "D": "It improves color match but requires a lower expansion ratio to take reliably"
+  },
+  "answer": "A",
+  "exp": "Meshing enlarges a graft's coverage area (templates from 1:1 up to about 1:9), invaluable when wound area exceeds available donor skin, but the interstices heal by secondary keratinocyte migration and the graft contracts more, often leaving an uneven cobblestone relief; higher expansion ratios also raise the risk of hypertrophic scarring. That is why surgeons frequently limit expansion to about 1:1.5–1:2 and avoid meshing over functional or aesthetic areas. The distractors reverse the contracture effect or attach meshing to the wrong outcome (donor healing, color match).",
+  "hy": "Meshing expands coverage but ↑contracture and cobblestoning.",
+  "src": "Neligan I.17 · Meshed skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — meshing expands coverage at the cost of more contracture and cobblestoning.",
+   "B": "Wrong — meshing increases, not reduces, contracture.",
+   "C": "Wrong — meshing concerns the graft/recipient, not donor-site shear.",
+   "D": "Wrong — meshing does not improve color match; ratio choice is about contracture/scarring."
+  }
+ },
+ {
+  "id": "N-I-17.22",
+  "chapter": "Ch17",
+  "section": "Grafting technique",
+  "stem": "For a full-sheet (non-meshed) split-thickness graft over a functional area such as the hand, why is the graft \"pie-crusted\" with multiple small perforations?",
+  "options": {
+   "A": "To let seroma or hematoma drain so fluid does not lift the graft off the bed",
+   "B": "To expand the graft's surface area up to nine times before insetting",
+   "C": "To seed keratinocytes into the wound bed for faster re-epithelialization overall",
+   "D": "To decrease graft contracture across the underlying joint"
+  },
+  "answer": "A",
+  "exp": "Pie-crusting places multiple small perforations in an unmeshed graft so that blood and serum can escape, preventing a fluid collection (seroma or hematoma) from separating the graft from its bed and destroying take — the paramount concern over functional areas where meshing's cobblestoning is undesirable. It is not an expansion technique (that is meshing, up to ~9×), does not seed cells, and does not reduce contracture. All options describe real graft manoeuvres, so the fluid-egress-without-expansion purpose is the answer.",
+  "hy": "Pie-crusting = fluid egress on a non-meshed graft (protects take).",
+  "src": "Neligan I.17 · Grafting technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — pie-crusting drains fluid to protect graft take without meshing.",
+   "B": "Wrong — expansion up to 9× is the function of meshing, not pie-crusting.",
+   "C": "Wrong — cell seeding describes RECELL/keratinocyte spray, not pie-crusting.",
+   "D": "Wrong — pie-crusting does not address contracture."
+  }
+ },
+ {
+  "id": "N-I-17.23",
+  "chapter": "Ch17",
+  "section": "Meshed skin grafts",
+  "stem": "A burn surgeon divides harvested skin into many small squares that are spread apart on a carrier to cover a much larger area when donor skin is scarce. This is which technique?",
+  "options": {
+   "A": "Meek technique",
+   "B": "Tanner meshing",
+   "C": "Reverdin pinch grafting",
+   "D": "RECELL spray application"
+  },
+  "answer": "A",
+  "exp": "The Meek technique divides the graft into small skin squares that are transferred onto a carrier and spread apart, achieving high expansion when donor skin is scarce — useful in massive burns. Conventional Tanner meshing slits a continuous sheet (up to ~1:9); Reverdin pinch grafting places small individual pinch grafts; RECELL delivers a sprayed suspension of autologous cells rather than skin squares. All four are real coverage/expansion methods, so the small-squares-spread-on-a-carrier description identifies the Meek technique specifically.",
+  "hy": "Meek technique = skin squares spread on a carrier.",
+  "src": "Neligan I.17 · Meshed skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — dividing skin into spread squares on a carrier is the Meek technique.",
+   "B": "Wrong — Tanner meshing slits a continuous sheet, not squares on a carrier.",
+   "C": "Wrong — Reverdin grafting uses small pinch grafts, not a squared carrier.",
+   "D": "Wrong — RECELL sprays a cell suspension, not skin squares."
+  }
+ },
+ {
+  "id": "N-I-17.24",
+  "chapter": "Ch17",
+  "section": "Meshed skin grafts",
+  "stem": "RECELL, applied over a widely meshed split-thickness graft, contributes to healing by delivering what?",
+  "options": {
+   "A": "An aerosolized suspension of autologous epithelial cells",
+   "B": "A sheet of cultured allogeneic keratinocytes on a carrier mesh",
+   "C": "A bovine collagen–silicone bilayer dermal template",
+   "D": "A recombinant growth factor–soaked gauze"
+  },
+  "answer": "A",
+  "exp": "RECELL delivers an aerosolized (spray-on) suspension of the patient's own epithelial cells prepared at the bedside from a small donor sample; sprayed over widely meshed grafts it can shorten healing time and improve contracture and hypertrophic-scarring outcomes by seeding the open interstices with autologous cells. The distractors are real but different products/approaches: cultured allogeneic keratinocyte sheets, a bovine collagen–silicone dermal template (e.g. Integra), and growth-factor dressings are each a distinct technology. The autologous-cell-suspension-spray definition is the discriminator.",
+  "hy": "RECELL = aerosolized autologous epithelial-cell spray.",
+  "src": "Neligan I.17 · Meshed skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — RECELL is an autologous epithelial-cell spray.",
+   "B": "Wrong — allogeneic cultured sheets are a different, off-the-shelf product.",
+   "C": "Wrong — a bovine collagen–silicone bilayer describes a dermal template like Integra.",
+   "D": "Wrong — RECELL delivers cells, not growth-factor gauze."
+  }
+ },
+ {
+  "id": "N-I-17.25",
+  "chapter": "Ch17",
+  "section": "Full-thickness skin grafts",
+  "stem": "A full-thickness graft is elliptically designed to allow primary closure of the donor site; the chapter states this is generally achieved when which length:width ratio is followed?",
+  "options": {
+   "A": "1:3",
+   "B": "1:1",
+   "C": "Roughly 1:5",
+   "D": "3:1"
+  },
+  "answer": "A",
+  "exp": "Designing the full-thickness donor ellipse with a length:width ratio of about 1:3 usually permits tension-free primary closure without dog-ears or distortion of surrounding tissue — the same geometric principle as an elliptical excision. A 1:1 design is too short and would not close cleanly, 1:5 is longer than needed, and 3:1 simply restates the ratio in reverse orientation. Because the options are neighbouring geometric ratios, the exact figure and its orientation must be recalled.",
+  "hy": "FTSG donor ellipse ≈ 1:3 length:width for primary closure.",
+  "src": "Neligan I.17 · Full-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — a ~1:3 length:width ellipse allows primary donor closure.",
+   "B": "Wrong — 1:1 is too short and would pucker on closure.",
+   "C": "Wrong — 1:5 is longer than the stated ratio.",
+   "D": "Wrong — 3:1 mis-states the length:width orientation."
+  }
+ },
+ {
+  "id": "N-I-17.26",
+  "chapter": "Ch17",
+  "section": "Full-thickness skin grafts",
+  "stem": "Before inset, a full-thickness graft is \"defatted.\" Why is removing the subcutaneous fat important?",
+  "options": {
+   "A": "Fat is poorly vascularized and impedes revascularization, worsening graft take",
+   "B": "Retained fat carries melanocytes that cause unpredictable graft hyperpigmentation",
+   "C": "Fat adds bulk that must be matched to recipient thickness for contour",
+   "D": "Removing fat exposes hair bulbs so the graft can regrow hair"
+  },
+  "answer": "A",
+  "exp": "The subcutaneous fat on the deep surface of a full-thickness graft is relatively avascular and acts as a barrier to imbibition and revascularization, so trimming it flush with the dermis (spreading the graft over a finger and cutting tangentially) improves graft take and reduces fat necrosis. The distractors misattribute the reason: melanocytes reside in the epidermis (not the fat), contour-matching is not the defatting rationale, and hair bulbs are within the dermis/follicle, not exposed by defatting. All statements sound plausible, so the vascular-barrier mechanism is the discriminator.",
+  "hy": "Defat FTSG: avascular fat blocks revascularization and causes fat necrosis.",
+  "src": "Neligan I.17 · Full-thickness skin grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — avascular fat blocks revascularization, so it is removed to aid take.",
+   "B": "Wrong — melanocytes are epidermal, not carried in the trimmed fat.",
+   "C": "Wrong — defatting is about vascularity, not contour matching.",
+   "D": "Wrong — hair follicles sit in the dermis; defatting does not expose bulbs for regrowth."
+  }
+ },
+ {
+  "id": "N-I-17.27",
+  "chapter": "Ch17",
+  "section": "Composite grafts",
+  "stem": "A composite graft differs from a full-thickness skin graft in that it also includes which additional component, making optimal revascularization especially critical?",
+  "options": {
+   "A": "A layer of subcutaneous fat (and sometimes cartilage)",
+   "B": "Only the epidermis, harvested very thin",
+   "C": "A vascular pedicle kept continuously attached to the donor site",
+   "D": "An engineered dermal matrix substitute"
+  },
+  "answer": "A",
+  "exp": "A composite graft carries epidermis, dermis, and an additional layer such as subcutaneous fat (or cartilage, as in alar reconstruction) as a single free non-vascularized unit; because fat is less vascular and more prone to ischemia, optimal recipient-bed revascularization is critical for survival, and composite grafts are size-limited. It is not thinner than an STSG, has no attached pedicle (that would be a flap), and is autologous tissue rather than an engineered matrix. The distractors describe different constructs, so the extra-fat/cartilage-layer, no-pedicle definition is the answer.",
+  "hy": "Composite graft = skin + fat/cartilage (needs excellent revascularization).",
+  "src": "Neligan I.17 · Composite grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — a composite graft adds fat/cartilage to skin as a free graft.",
+   "B": "Wrong — that describes a thin split-thickness graft, not a composite graft.",
+   "C": "Wrong — an attached vascular pedicle would make it a flap, not a graft.",
+   "D": "Wrong — a composite graft is autologous tissue, not an engineered matrix."
+  }
+ },
+ {
+  "id": "N-I-17.28",
+  "chapter": "Ch17",
+  "section": "Composite grafts",
+  "stem": "Composite grafts are most frequently used to reconstruct which region?",
+  "options": {
+   "A": "Nasal tip, ala, and columella",
+   "B": "Dorsal hand and web spaces",
+   "C": "Anterior lower leg over the tibia",
+   "D": "Weight-bearing plantar heel"
+  },
+  "answer": "A",
+  "exp": "Composite grafts (skin plus cartilage/fat) are most frequently used for the nasal tip, ala, and columella — including in cleft-lip patients — because these small, contoured subunits need the structural support of the extra layer and tolerate a small graft's revascularization demand. Larger, poorly vascularized, or weight-bearing sites (leg over tibia, plantar heel, broad hand surfaces) exceed the survival limits of a composite graft and are managed with flaps or split-thickness grafts. All are real reconstructive sites, so the small-contoured-nasal-subunit indication is the discriminator.",
+  "hy": "Composite grafts reconstruct nasal tip/ala/columella.",
+  "src": "Neligan I.17 · Composite grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — nasal tip/ala/columella are the classic composite-graft sites.",
+   "B": "Wrong — broad hand surfaces are grafted with STSG/FTSG or flaps.",
+   "C": "Wrong — the pretibial region is poorly vascularized for a composite graft.",
+   "D": "Wrong — a weight-bearing heel needs durable flap coverage, not a composite graft."
+  }
+ },
+ {
+  "id": "N-I-17.29",
+  "chapter": "Ch17",
+  "section": "Functional and aesthetic considerations",
+  "stem": "For resurfacing a facial defect, which donor sites are specifically recommended for the best color and texture match?",
+  "options": {
+   "A": "Supraclavicular, postauricular, eyelid, or scalp",
+   "B": "Anterior lateral thigh, lateral trunk, or lower back skin",
+   "C": "Plantar foot or palmar glabrous hand skin",
+   "D": "Lower abdomen, groin, or buttock skin"
+  },
+  "answer": "A",
+  "exp": "The chapter recommends supraclavicular, posterior auricular, upper eyelid, and scalp skin for facial resurfacing because skin from similar or adjacent sites gives the best texture and color match (like replaces like). The thigh and trunk are standard split-thickness donor sites but give a poorer facial color match; glabrous palmar/plantar skin is specialized and mismatched to the face; abdomen/buttock skin is used for body defects. All are legitimate donor regions, so the facial color-match indication points to the head-and-neck sites.",
+  "hy": "Facial donors: supraclavicular/postauricular/eyelid/scalp (best color match).",
+  "src": "Neligan I.17 · Functional and aesthetic considerations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — head/neck-region skin best matches facial color and texture.",
+   "B": "Wrong — thigh/trunk are STSG donors with a poorer facial match.",
+   "C": "Wrong — glabrous palm/sole skin is specialized and mismatched to the face.",
+   "D": "Wrong — abdomen/buttock skin is for body, not facial, matching."
+  }
+ },
+ {
+  "id": "N-I-17.30",
+  "chapter": "Ch17",
+  "section": "Skin fixation and dressings",
+  "stem": "A graft sits in a concave defect where a flat pressure dressing cannot maintain contact. Which fixation method is specifically suited to this situation?",
+  "options": {
+   "A": "A tie-over bolster dressing",
+   "B": "Absorbable interrupted sutures alone",
+   "C": "Skin staples alone",
+   "D": "Fibrin glue alone"
+  },
+  "answer": "A",
+  "exp": "A tie-over bolster — a bulky dressing held down by long peripheral sutures tied over it — is specifically useful in difficult-to-dress areas and in grafts sitting in a depression relative to surrounding tissue, because it presses the graft into the contour and eliminates the dead space and micromotion that cause failure. Sutures, staples, or fibrin glue each secure a graft's edges or surface but do not, on their own, conform a dressing into a concavity. All are real fixation options, so the graft-in-a-depression cue selects the bolster.",
+  "hy": "Tie-over bolster suits a graft in a depression / hard-to-dress area.",
+  "src": "Neligan I.17 · Skin fixation and dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — a bolster conforms pressure into a concave graft bed.",
+   "B": "Wrong — sutures fix edges but do not press the graft into a depression.",
+   "C": "Wrong — staples secure edges but leave dead space in a concavity.",
+   "D": "Wrong — fibrin glue adheres but does not provide conforming pressure."
+  }
+ },
+ {
+  "id": "N-I-17.31",
+  "chapter": "Ch17",
+  "section": "Skin fixation and dressings",
+  "stem": "Surgical dressings over a fresh skin graft are usually left undisturbed for how long, to minimize shearing during engraftment?",
+  "options": {
+   "A": "3–8 days",
+   "B": "12–24 hours",
+   "C": "3–4 weeks",
+   "D": "2–3 months"
+  },
+  "answer": "A",
+  "exp": "Graft dressings are typically left in place for about 3–8 days to minimize shearing and micromotion while the graft imbibes serum and begins revascularizing — the window during which the fragile new vessel connections are most easily disrupted. Removing the dressing at 12–24 hours risks shearing an unvascularized graft, while 3–4 weeks or months is unnecessarily long for the initial engraftment dressing. Adjacent time frames make the exact window the key.",
+  "hy": "Graft dressings are left ~3–8 days.",
+  "src": "Neligan I.17 · Skin fixation and dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — graft dressings stay ~3–8 days through early engraftment.",
+   "B": "Wrong — 12–24 hours is too early and risks shearing.",
+   "C": "Wrong — 3–4 weeks exceeds the engraftment-dressing window.",
+   "D": "Wrong — months is far too long for the initial dressing."
+  }
+ },
+ {
+  "id": "N-I-17.32",
+  "chapter": "Ch17",
+  "section": "Skin fixation and dressings",
+  "stem": "Fibrin glue is sometimes sprayed onto the recipient bed just before graft placement. What is its proposed mechanism?",
+  "options": {
+   "A": "It forms a provisional extracellular matrix that adheres and stabilizes the graft",
+   "B": "It delivers a slow-release antibiotic to sterilize the wound bed",
+   "C": "It supplies exogenous collagen that the graft's own fibroblasts subsequently remodel",
+   "D": "It provides a vascularized pedicle substitute until inosculation"
+  },
+  "answer": "A",
+  "exp": "Fibrin glue is theorized to act as a provisional extracellular matrix beneath the graft, both adhering it to the bed and stabilizing it against shear — complementing sutures/staples and helping obliterate dead space. It is not an antibiotic-delivery vehicle, is fibrin rather than exogenous collagen, and cannot substitute for a vascular pedicle (grafts revascularize from the bed regardless). The distractors are plausible-sounding adjunct mechanisms, so the provisional-ECM/adhesion rationale is the answer.",
+  "hy": "Fibrin glue = provisional ECM that fixes/stabilizes the graft.",
+  "src": "Neligan I.17 · Skin fixation and dressings",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — fibrin acts as a provisional matrix that fixes and stabilizes the graft.",
+   "B": "Wrong — fibrin glue is not an antibiotic carrier.",
+   "C": "Wrong — it is fibrin, not an exogenous collagen scaffold.",
+   "D": "Wrong — it does not vascularize the graft; the bed does."
+  }
+ },
+ {
+  "id": "N-I-17.33",
+  "chapter": "Ch17",
+  "section": "Recipient site · Wound bed preparation",
+  "stem": "Which recipient bed is LEAST likely to support skin graft take?",
+  "options": {
+   "A": "Bare cortical bone stripped of periosteum",
+   "B": "Healthy granulation tissue over muscle",
+   "C": "Vascularized peritendon overlying tendon",
+   "D": "A freshly excised, bleeding dermal burn bed"
+  },
+  "answer": "A",
+  "exp": "A skin graft depends on a recipient bed with abundant superficial blood vessels for imbibition and revascularization; bare cortical bone stripped of periosteum (like bare tendon without paratenon, or irradiated/ischemic/scar tissue) lacks that supply and will not support take. In contrast, healthy granulation, intact vascularized peritendon/periosteum, and a freshly excised bleeding burn bed all provide the needed vascularity. This is the exception-format question: three beds are graftable and only the avascular bare bone is not.",
+  "hy": "Bare bone/tendon stripped of periosteum/paratenon will not take a graft.",
+  "src": "Neligan I.17 · Recipient site · Wound bed preparation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — bare bone without periosteum is avascular and will not take a graft.",
+   "B": "Wrong — healthy granulation is well vascularized and graftable.",
+   "C": "Wrong — intact vascularized peritendon can support a graft.",
+   "D": "Wrong — a bleeding excised burn bed has the capillary supply a graft needs."
+  }
+ },
+ {
+  "id": "N-I-17.34",
+  "chapter": "Ch17",
+  "section": "Recipient site · Wound bed preparation",
+  "stem": "Before grafting a chronically open, colonized wound, why is debridement to bleeding tissue performed first?",
+  "options": {
+   "A": "Necrotic debris and high bacterial load block new-vessel ingrowth",
+   "B": "Debridement thins the dermis so a thinner graft can be used",
+   "C": "Bleeding tissue signals that the wound no longer needs a graft",
+   "D": "It converts the wound into a deeper full-thickness defect suitable for an FTSG"
+  },
+  "answer": "A",
+  "exp": "Infected or debris-laden wounds will not support a graft: necrotic tissue and a high bacterial burden physically impede the ingrowth of new blood vessels and provoke infection that lifts the graft, so open wounds are debrided (sharp, laser, water-jet, or ultrasound) down to bleeding, healthy tissue and hemostasis is regained before grafting. The distractors misstate the goal — debridement is about a clean vascular bed, not thinning the dermis, avoiding grafting, or changing the defect's thickness class. All read plausibly, so the clear-debris-to-allow-vascular-ingrowth mechanism is the discriminator.",
+  "hy": "Debride to bleeding tissue: necrosis/bacteria block new-vessel ingrowth.",
+  "src": "Neligan I.17 · Recipient site · Wound bed preparation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — removing necrotic/infected tissue lets vessels grow into the graft.",
+   "B": "Wrong — debridement is not done to thin the dermis for graft choice.",
+   "C": "Wrong — bleeding tissue indicates a graftable bed, not that grafting is unneeded.",
+   "D": "Wrong — debridement prepares the bed; it does not reclassify the defect for FTSG."
+  }
+ },
+ {
+  "id": "N-I-17.35",
+  "chapter": "Ch17",
+  "section": "Donor site considerations",
+  "stem": "A split-thickness graft donor site generally heals over what time frame, depending on depth, size, and patient age?",
+  "options": {
+   "A": "7–21 days",
+   "B": "1–3 days",
+   "C": "6–10 weeks",
+   "D": "4–6 months"
+  },
+  "answer": "A",
+  "exp": "A split-thickness donor site re-epithelializes from the retained dermal appendages over roughly 7–21 days, the exact time depending on how deep and large the harvest was and on patient age (slower at the extremes of age). The distractors bracket this: 1–3 days is too fast for donor re-epithelialization, while 6–10 weeks or months would indicate impaired healing rather than the norm. The adjacent ranges make the exact figure the key.",
+  "hy": "STSG donor site heals in ~7–21 days.",
+  "src": "Neligan I.17 · Donor site considerations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — STSG donor sites heal in ~7–21 days.",
+   "B": "Wrong — 1–3 days is far too short.",
+   "C": "Wrong — 6–10 weeks would signal delayed healing.",
+   "D": "Wrong — months indicates a complication, not normal donor healing."
+  }
+ },
+ {
+  "id": "N-I-17.36",
+  "chapter": "Ch17",
+  "section": "Physiology of skin graft survival",
+  "stem": "What are the three phases of skin graft \"take,\" in the correct temporal order?",
+  "options": {
+   "A": "Serum imbibition → revascularization → maturation",
+   "B": "Revascularization → serum imbibition → then maturation",
+   "C": "Inflammation → proliferation → remodeling",
+   "D": "Imbibition → maturation → revascularization"
+  },
+  "answer": "A",
+  "exp": "A skin graft is transferred without a blood supply, so take proceeds in three phases: (1) serum (plasma) imbibition — diffusion of oxygen/nutrients from the bed over the first few days; (2) revascularization — new vascular connections beginning ~24–48 h; and (3) maturation — remodeling and contraction over many months. The inflammation/proliferation/remodeling option names the general stages of wound healing, a different framework; the other orders scramble the true sequence. Because all options use real terminology, the exact ordered triad of graft take is required.",
+  "hy": "Graft take: serum imbibition → revascularization → maturation.",
+  "src": "Neligan I.17 · Physiology of skin graft survival",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — imbibition, then revascularization, then maturation.",
+   "B": "Wrong — imbibition precedes revascularization, not the reverse.",
+   "C": "Wrong — inflammation/proliferation/remodeling are wound-healing phases, not graft-take phases.",
+   "D": "Wrong — maturation is last, after revascularization."
+  }
+ },
+ {
+  "id": "N-I-17.37",
+  "chapter": "Ch17",
+  "section": "Physiology of skin graft survival",
+  "stem": "During the first phase of graft take, how does the graft obtain oxygen and nutrients before it has a blood supply?",
+  "options": {
+   "A": "Diffusion of plasma from the wound bed (serum imbibition)",
+   "B": "Immediate arterial anastomosis with the recipient's vessels",
+   "C": "Autonomous glycolysis independent of the recipient bed",
+   "D": "Neovascular sprouting completed within the first hour"
+  },
+  "answer": "A",
+  "exp": "In the first few days a graft survives by serum (plasma) imbibition — passive diffusion of plasma-borne oxygen and nutrients across the graft–bed interface — which sustains the cells until vascular connections form. Direct arterial anastomosis and neovascular ingrowth belong to the later revascularization phase (starting ~24–48 h, not the first hour), and grafts are not metabolically autonomous of the bed. All options describe real or pseudo-plausible nutritive routes, so the plasma-diffusion-before-vessels mechanism is the discriminator, and it is why a fluid collection under the graft (which blocks diffusion) is fatal to take.",
+  "hy": "Early graft nutrition is by serum (plasma) imbibition.",
+  "src": "Neligan I.17 · Physiology of skin graft survival",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — early survival is by plasma diffusion (imbibition).",
+   "B": "Wrong — vascular anastomosis is the later revascularization phase.",
+   "C": "Wrong — the graft is not metabolically independent of the bed.",
+   "D": "Wrong — neovascularization is not complete within an hour."
+  }
+ },
+ {
+  "id": "N-I-17.38",
+  "chapter": "Ch17",
+  "section": "Physiology of skin graft survival",
+  "stem": "Revascularization of a skin graft is generally described as beginning at approximately what time after grafting?",
+  "options": {
+   "A": "24–48 hours",
+   "B": "Within 4–6 hours",
+   "C": "7–10 days",
+   "D": "3–4 weeks"
+  },
+  "answer": "A",
+  "exp": "Revascularization typically begins around 24–48 hours after grafting and proceeds by a combination of anastomosis (inosculation) of graft and bed vessels, neovascularization, and endothelial-cell ingrowth using the graft's basal-lamina scaffold. Earlier (4–6 hours) the graft is still purely dependent on imbibition; 7–10 days or 3–4 weeks would fall into later maturation. Because the distractors are adjacent time points on the take timeline, the exact onset window is the key.",
+  "hy": "Revascularization begins ~24–48 h after grafting.",
+  "src": "Neligan I.17 · Physiology of skin graft survival",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — revascularization starts ~24–48 h post-grafting.",
+   "B": "Wrong — at 4–6 h the graft relies on imbibition only.",
+   "C": "Wrong — 7–10 days is beyond the described onset.",
+   "D": "Wrong — 3–4 weeks falls into the maturation phase."
+  }
+ },
+ {
+  "id": "N-I-17.39",
+  "chapter": "Ch17",
+  "section": "Physiology of skin graft survival",
+  "stem": "During graft revascularization, \"endothelial cell ingrowth\" specifically refers to which process?",
+  "options": {
+   "A": "Host endothelium grows into the graft's basal lamina as graft endothelium degenerates",
+   "B": "Graft vessels stay intact and dilate to accept host flow without host endothelial ingrowth",
+   "C": "Graft and host vessel lumens directly reconnect end-to-end by simple inosculation",
+   "D": "Graft lymphatic channels transform into new arterioles feeding the graft"
+  },
+  "answer": "A",
+  "exp": "In endothelial-cell ingrowth, recipient endothelial cells proliferate and use the graft's pre-existing empty vascular basal lamina as a scaffold while the original graft endothelial cells degenerate — a distinct mechanism from anastomosis (inosculation), which is the direct reconnection of graft and host vessel lumens. Simple dilation of intact graft vessels and lymphatic-to-arteriole conversion are not described mechanisms. All options are phrased as plausible revascularization routes, so the host-endothelium-replacing-graft-endothelium definition is the discriminator.",
+  "hy": "Endothelial ingrowth = host endothelium repopulates the graft's basal lamina.",
+  "src": "Neligan I.17 · Physiology of skin graft survival",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — host endothelium repopulates the graft's basal-lamina scaffold.",
+   "B": "Wrong — graft endothelium degenerates rather than persisting and dilating.",
+   "C": "Wrong — direct lumen reconnection is anastomosis (inosculation), a separate mechanism.",
+   "D": "Wrong — lymphatics do not convert into arterioles here."
+  }
+ },
+ {
+  "id": "N-I-17.40",
+  "chapter": "Ch17",
+  "section": "Physiology of skin graft survival",
+  "stem": "The maturation phase of a skin graft — involving myofibroblast-driven contraction and collagen remodeling — typically continues over what time frame, especially in burns and children?",
+  "options": {
+   "A": "More than a year",
+   "B": "About 2 weeks",
+   "C": "About 6 to 8 weeks",
+   "D": "About 3 months"
+  },
+  "answer": "A",
+  "exp": "Graft maturation — repopulation by fibroblasts that develop alpha-smooth-muscle contractile fibers (myofibroblasts), collagen deposition and cross-linking, and regression of the early immature vessels — takes over a year and can continue for several years, particularly in burn patients and children. This prolonged remodeling is why graft/scar appearance keeps changing and why definitive revision is deferred. The shorter options correspond to earlier take/healing milestones, not full maturation, so the over-a-year figure is the key.",
+  "hy": "Graft maturation continues over a year (burns/children).",
+  "src": "Neligan I.17 · Physiology of skin graft survival",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — maturation extends over a year or more.",
+   "B": "Wrong — 2 weeks is far too short for maturation.",
+   "C": "Wrong — 6–8 weeks is still early remodeling, not full maturation.",
+   "D": "Wrong — 3 months underestimates the maturation timeline."
+  }
+ },
+ {
+  "id": "N-I-17.41",
+  "chapter": "Ch17",
+  "section": "Management of complications · Hematoma/seroma",
+  "stem": "Roughly how much blood loss is expected for each 1% of body surface area excised during burn/graft surgery?",
+  "options": {
+   "A": "100–200 mL",
+   "B": "10–20 mL",
+   "C": "500–750 mL",
+   "D": "1000–1500 mL"
+  },
+  "answer": "A",
+  "exp": "The chapter cites an expected blood loss of about 100–200 mL for every 1% of body surface area excised — a figure critical for planning transfusion and staging large burn excisions. The distractors are order-of-magnitude neighbours: 10–20 mL grossly underestimates surgical burn blood loss, while 500–750 mL or 1000–1500 mL per 1% would predict catastrophic loss for even modest excisions. Exact recall is needed because the values are all internally plausible for surgery.",
+  "hy": "Blood loss ≈ 100–200 mL per 1% BSA excised.",
+  "src": "Neligan I.17 · Management of complications · Hematoma/seroma",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — ~100–200 mL is lost per 1% BSA excised.",
+   "B": "Wrong — 10–20 mL grossly underestimates the loss.",
+   "C": "Wrong — 500–750 mL per 1% is too high.",
+   "D": "Wrong — 1000–1500 mL per 1% would be catastrophic and is incorrect."
+  }
+ },
+ {
+  "id": "N-I-17.42",
+  "chapter": "Ch17",
+  "section": "Skin appendages and other structures",
+  "stem": "When sweat-gland function does return after skin grafting, it generally does so only after which event, and around what time?",
+  "options": {
+   "A": "After neural reconnection, usually around 3 months",
+   "B": "Immediately on revascularization, within the first week",
+   "C": "After epidermal maturation, at about 2 weeks",
+   "D": "Only after a year, coincident with full maturation"
+  },
+  "answer": "A",
+  "exp": "Sweat glands, transferred mainly with thick split-thickness and full-thickness grafts, can become reactivated only after neural reconnection occurs — usually around 3 months after grafting — and even then remain abnormal, so thermoregulation and sweating stay impaired for years. The distractors give the wrong trigger or timing: revascularization within a week does not restore secretion (it needs reinnervation), 2 weeks is too early, and full maturation over a year is later than the described ~3-month reactivation. The neural dependence and ~3-month figure together are the key.",
+  "hy": "Sweating returns only after reinnervation, ~3 months.",
+  "src": "Neligan I.17 · Skin appendages and other structures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — sweating returns after reinnervation, at ~3 months.",
+   "B": "Wrong — revascularization alone does not restore secretion.",
+   "C": "Wrong — 2 weeks is too early for reinnervation-dependent sweating.",
+   "D": "Wrong — reactivation is at ~3 months, not delayed to a year."
+  }
+ },
+ {
+  "id": "N-I-17.43",
+  "chapter": "Ch17",
+  "section": "Management of complications · Instability",
+  "stem": "Shearing is a major cause of graft loss because it does what?",
+  "options": {
+   "A": "Disrupts the fragile newly forming vascular connections",
+   "B": "Dissolves the fibrin adhesive bonding graft to bed",
+   "C": "Triggers an immune rejection of the autograft",
+   "D": "Accelerates serum imbibition beyond any sustainable rate"
+  },
+  "answer": "A",
+  "exp": "Shearing motion between graft and bed physically tears the fragile, newly forming blood-vessel connections during the revascularization window, which is why immobilization (sealants, secure fixation, bolsters/splints, careful postoperative handling) is central to success. Shear is a mechanical, not immunologic, cause of failure — an autograft is not rejected — and it does not work by dissolving fibrin or by over-accelerating imbibition. All options are plausible-sounding failure mechanisms, so the disruption-of-forming-vessels explanation is the discriminator.",
+  "hy": "Shearing kills grafts by disrupting new vascular connections.",
+  "src": "Neligan I.17 · Management of complications · Instability",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — shear disrupts the new vascular connections, causing graft loss.",
+   "B": "Wrong — shear tears vessels mechanically, not by dissolving fibrin.",
+   "C": "Wrong — an autograft is not immunologically rejected.",
+   "D": "Wrong — shear does not fail a graft by speeding imbibition."
+  }
+ },
+ {
+  "id": "N-I-17.44",
+  "chapter": "Ch17",
+  "section": "Management of complications · Other factors",
+  "stem": "Which of the following is listed as a systemic factor that negatively affects skin graft take?",
+  "options": {
+   "A": "Corticosteroid therapy",
+   "B": "Mild iron-deficiency anemia",
+   "C": "Controlled essential hypertension",
+   "D": "A remote history of appendectomy"
+  },
+  "answer": "A",
+  "exp": "The chapter lists poor nutrition, corticosteroids, vasculitis, malignancies, and immunosuppressive medications as systemic factors that impair graft take by impairing inflammation, angiogenesis, and healing. Mild anemia, well-controlled hypertension, and a remote appendectomy are not cited as meaningful risks to take. All are real clinical conditions, but only corticosteroids appear on the chapter's list of factors that negatively affect engraftment, so recognizing the named risk factor is the task.",
+  "hy": "Steroids, poor nutrition, vasculitis, immunosuppression impair take.",
+  "src": "Neligan I.17 · Management of complications · Other factors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — corticosteroids are a listed factor impairing graft take.",
+   "B": "Wrong — mild anemia is not among the cited take-impairing factors.",
+   "C": "Wrong — controlled hypertension is not listed as a graft risk.",
+   "D": "Wrong — a remote appendectomy has no bearing on graft take."
+  }
+ },
+ {
+  "id": "N-I-17.45",
+  "chapter": "Ch17",
+  "section": "Non-autologous alternatives · Table 17.1",
+  "stem": "Integra, a widely used dermal regeneration template, is composed of what?",
+  "options": {
+   "A": "Bovine tendon type I collagen on a silicone sheet (xenogeneic)",
+   "B": "Human acellular lyophilized cadaver dermis, an allogeneic product",
+   "C": "Autologous cultured epidermis expanded from a biopsy",
+   "D": "A synthetic biodegradable polymer dermal matrix"
+  },
+  "answer": "A",
+  "exp": "Per Table 17.1, Integra is a xenogeneic dermal substitute made of bovine tendon type I collagen bonded to a silicone outer sheet; it is applied to the wound bed and is typically vascularized and ready for a thin skin graft in about 3 weeks (after which the silicone is removed). The distractors are the other real products in the same table: Alloderm is allogeneic human acellular cadaver dermis, Epicel is an autologous cultured epidermal autograft, and NovoSorb (BTM) is a synthetic biodegradable polymer matrix. Because all are genuine skin substitutes, the exact composition/origin pairing is the discriminator.",
+  "hy": "Integra = bovine type I collagen on silicone (xenogeneic; ready ~3 wks).",
+  "src": "Neligan I.17 · Non-autologous alternatives · Table 17.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — Integra is bovine collagen on silicone, a xenogeneic template.",
+   "B": "Wrong — acellular cadaver dermis describes Alloderm.",
+   "C": "Wrong — autologous cultured epidermis describes Epicel.",
+   "D": "Wrong — a synthetic polymer matrix describes NovoSorb (BTM)."
+  },
+  "exptable": [
+   [
+    "Product",
+    "Tissue",
+    "Origin"
+   ],
+   [
+    "Epicel",
+    "Cultured epidermis (CEA)",
+    "Autologous"
+   ],
+   [
+    "RECELL",
+    "Epidermis + dermis (spray)",
+    "Autologous"
+   ],
+   [
+    "Integra",
+    "Bovine type I collagen + silicone",
+    "Xenogeneic"
+   ],
+   [
+    "Alloderm",
+    "Acellular cadaver dermis",
+    "Allogeneic"
+   ],
+   [
+    "NovoSorb (BTM)",
+    "Synthetic polymer matrix",
+    "Synthetic"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-17.46",
+  "chapter": "Ch17",
+  "section": "Non-autologous alternatives · Table 17.1",
+  "stem": "Which product is an off-the-shelf allogeneic acellular human dermis onto which a skin graft is placed after it has vascularized?",
+  "options": {
+   "A": "Alloderm (LifeCell)",
+   "B": "Epicel (Genzyme)",
+   "C": "RECELL (Avita Medical)",
+   "D": "Integra (Integra Lifesciences)"
+  },
+  "answer": "A",
+  "exp": "Alloderm is an allogeneic product — human acellular lyophilized cadaver dermis — kept on the shelf and applied to the bed, with a skin graft placed on top once it has vascularized; being decellularized, it minimizes antigenicity. Epicel (autologous cultured epidermal autograft) and RECELL (autologous cell spray) are patient-derived, and Integra is a xenogeneic bovine-collagen/silicone template. All four are real skin substitutes from Table 17.1, so the allogeneic acellular-dermis definition selects Alloderm.",
+  "hy": "Alloderm = allogeneic acellular cadaver dermis.",
+  "src": "Neligan I.17 · Non-autologous alternatives · Table 17.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — Alloderm is allogeneic acellular cadaver dermis.",
+   "B": "Wrong — Epicel is an autologous cultured epidermal autograft.",
+   "C": "Wrong — RECELL is an autologous cell suspension spray.",
+   "D": "Wrong — Integra is a xenogeneic bovine-collagen/silicone template."
+  },
+  "exptable": [
+   [
+    "Product",
+    "Tissue",
+    "Origin"
+   ],
+   [
+    "Epicel",
+    "Cultured epidermis (CEA)",
+    "Autologous"
+   ],
+   [
+    "RECELL",
+    "Epidermis + dermis (spray)",
+    "Autologous"
+   ],
+   [
+    "Integra",
+    "Bovine collagen + silicone",
+    "Xenogeneic"
+   ],
+   [
+    "Alloderm",
+    "Acellular cadaver dermis",
+    "Allogeneic"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-17.47",
+  "chapter": "Ch17",
+  "section": "Non-autologous alternatives and adjuncts",
+  "stem": "Cellularized nonhuman (e.g. porcine) skin applied to a burn in an immunocompetent patient functions fundamentally as what?",
+  "options": {
+   "A": "A temporary biologic dressing rather than a true engrafting graft",
+   "B": "A permanent replacement that becomes vascularized and persists indefinitely",
+   "C": "An autologous graft after enzymatic decellularization",
+   "D": "A cultured epithelial autograft substitute"
+  },
+  "answer": "A",
+  "exp": "Cellularized xenogeneic skin is immunologically incompatible with an immunocompetent host, so used topically it acts fundamentally as a biologic dressing — protecting the wound and promoting host healing — rather than permanently engrafting. Its benefits are availability, cost, lower infectious-transmission risk, and native-like architecture, but it is ultimately not incorporated. It is neither autologous nor a cultured epithelial autograft, and it does not persist as a permanent take. The distractors overstate its permanence or misclassify its origin, so the temporary-biologic-dressing role is the answer.",
+  "hy": "Cellular xenograft skin = temporary biologic dressing (not a true graft).",
+  "src": "Neligan I.17 · Non-autologous alternatives and adjuncts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — cellular xenograft skin serves as a temporary biologic dressing.",
+   "B": "Wrong — it is immunologically incompatible and does not permanently engraft.",
+   "C": "Wrong — it is xenogeneic, not an autologous decellularized product.",
+   "D": "Wrong — it is not a cultured epithelial autograft."
+  }
+ },
+ {
+  "id": "N-I-17.48",
+  "chapter": "Ch17",
+  "section": "Beyond the graft · Graft expansion",
+  "stem": "The micrografting approach originally described with a Meek–Wall microdermatome generates ~0.8 × 0.8 mm skin pieces and can achieve expansion up to what ratio?",
+  "options": {
+   "A": "Up to 1:100",
+   "B": "Up to 1:9",
+   "C": "Up to 1:3",
+   "D": "Up to 1:1000"
+  },
+  "answer": "A",
+  "exp": "Micrografting with the Meek–Wall microdermatome cuts skin into roughly 0.8 × 0.8 mm pieces that can be expanded up to about 1:100, far beyond the ~1:9 ceiling of conventional sheet meshing; more extensive dissociation (pixel grafting, ~0.3 × 0.3 mm pieces) pushes expansion further. The distractors are real expansion ratios but for the wrong technique — 1:9 is the conventional sheet-mesh ceiling and 1:3 sits well below micrografting (surgeons often limit sheet meshing to ~1:1.5–1:2) — or an overstatement (1:1000). Because the numbers are on the same scale, the exact micrografting ratio must be recalled.",
+  "hy": "Meek–Wall micrografting expands up to ~1:100.",
+  "src": "Neligan I.17 · Beyond the graft · Graft expansion",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — Meek–Wall micrografting expands up to ~1:100.",
+   "B": "Wrong — 1:9 is the ceiling of conventional sheet meshing.",
+   "C": "Wrong — 1:3 is far below micrografting expansion; sheet meshing tops out near 1:9.",
+   "D": "Wrong — 1:1000 overstates the described micrografting expansion."
+  }
+ },
+ {
+  "id": "N-I-17.49",
+  "chapter": "Ch17",
+  "section": "Long-term graft storage",
+  "stem": "Simple hypothermic (refrigerated) storage was originally described as maintaining autologous skin viable for up to how long?",
+  "options": {
+   "A": "Up to 14 days",
+   "B": "Up to 24 hours",
+   "C": "Up to 3 months",
+   "D": "Up to 1 year"
+  },
+  "answer": "A",
+  "exp": "Early work (Wentscher, then Carrel) showed hypothermic refrigerated storage could maintain autologous skin for up to about 14 days; later studies preserved viability, albeit with diminished engraftment efficacy, for as long as 3–8 weeks, and cryopreservation in liquid nitrogen has been described for longer storage. The distractors are wrong on the same time scale: 24 hours understates it, and 3 months or 1 year exceeds what simple refrigeration achieves. Exact recall separates the adjacent options.",
+  "hy": "Refrigerated skin storage ≈ up to 14 days (viability to 3–8 wks).",
+  "src": "Neligan I.17 · Long-term graft storage",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — refrigerated storage maintains skin for up to ~14 days.",
+   "B": "Wrong — 24 hours understates hypothermic storage capacity.",
+   "C": "Wrong — 3 months exceeds simple refrigeration (approached only with longer/cryo methods).",
+   "D": "Wrong — 1 year is not achievable by simple refrigeration."
+  }
+ },
+ {
+  "id": "N-I-17.50",
+  "chapter": "Ch17",
+  "section": "Allogeneic and nonhuman grafting",
+  "stem": "Without immunosuppression, what is the ultimate fate of an allogeneic (cadaveric) skin graft placed on an immunocompetent patient?",
+  "options": {
+   "A": "Immunologic rejection",
+   "B": "Permanent incorporation as living skin",
+   "C": "Conversion into autologous tissue over months",
+   "D": "Calcification without any immune response"
+  },
+  "answer": "A",
+  "exp": "Allogeneic tissues are antigenic and, in the absence of immunosuppression, ultimately elicit an immune response and are rejected; tissue matching can prolong survival but does not prevent the eventual outcome, which is why cadaveric skin serves as a temporary biologic dressing (valuable in acute large burns to reduce mortality and enhance healing) rather than a permanent graft. The distractors describe outcomes that do not occur — allograft skin is neither permanently incorporated, converted to self, nor inertly calcified. The immunologic-rejection endpoint is the key clinical fact.",
+  "hy": "Unsuppressed allograft skin is ultimately rejected.",
+  "src": "Neligan I.17 · Allogeneic and nonhuman grafting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "why": {
+   "A": "Correct — unmatched/unsuppressed allograft skin is ultimately rejected.",
+   "B": "Wrong — it is not permanently incorporated without immunosuppression.",
+   "C": "Wrong — allograft does not convert into autologous tissue.",
+   "D": "Wrong — the fate is immune rejection, not inert calcification."
+  }
+ },
+ {
+  "id": "N-I-17.51",
+  "chapter": "Ch17",
+  "section": "Figure recognition",
+  "stem": "The cross-section diagrams two graft depths. Graft (A) captures epidermis plus only partial-thickness dermis, whereas graft (B) captures epidermis plus the full dermis. Which pair is correctly identified?",
+  "options": {
+   "A": "A = split-thickness graft; B = full-thickness graft",
+   "B": "A = full-thickness graft; B = split-thickness graft (reversed)",
+   "C": "A = composite graft; B = split-thickness graft",
+   "D": "A = full-thickness graft; B = composite graft"
+  },
+  "answer": "A",
+  "exp": "A split-thickness skin graft (A) includes the epidermis and only a partial thickness of dermis, so deeper appendages are largely left in the donor bed (enabling donor re-epithelialization); a full-thickness graft (B) takes the epidermis and the entire dermis, giving better function, sensitivity, and less contraction but requiring a donor site that can be closed primarily. A composite graft would additionally include fat/cartilage, which is not depicted here. All options name real graft types, so reading the harvest depth in the figure is the task.",
+  "hy": "STSG = epidermis + partial dermis; FTSG = epidermis + full dermis.",
+  "src": "Neligan I.17 · Figure recognition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "image": "images/N-I-17-51.jpg",
+  "imgcap": "Cross-section of skin showing two harvest depths",
+  "why": {
+   "A": "Correct — partial dermis = STSG (A); full dermis = FTSG (B).",
+   "B": "Wrong — this reverses the two depths.",
+   "C": "Wrong — a composite graft includes fat/cartilage, not shown; A is split-thickness.",
+   "D": "Wrong — B is full-thickness, not composite (no fat/cartilage layer shown)."
+  }
+ },
+ {
+  "id": "N-I-17.52",
+  "chapter": "Ch17",
+  "section": "Figure recognition",
+  "stem": "What harvesting step is shown — a powered instrument advanced across the anterior thigh at a shallow angle to shave a uniform sheet of skin?",
+  "options": {
+   "A": "Split-thickness graft harvest with a powered dermatome",
+   "B": "Full-thickness elliptical graft excision with a scalpel knife",
+   "C": "Tangential (Janžekovič) burn eschar excision",
+   "D": "Meek microdermatome micrografting technique"
+  },
+  "answer": "A",
+  "exp": "The image shows split-thickness graft harvest with a powered (electric/air) dermatome advanced across the anterior thigh — the standard donor site — producing a uniform partial-thickness sheet. A full-thickness graft is cut as an ellipse with a knife for primary closure; tangential excision removes burn eschar rather than harvesting donor skin; a Meek microdermatome produces small squares for micrografting. All are real operative steps, so recognizing the powered sheet-harvest device and thigh donor site is the task.",
+  "hy": "Powered dermatome shaving the thigh = STSG harvest.",
+  "src": "Neligan I.17 · Figure recognition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "image": "images/N-I-17-52.jpg",
+  "imgcap": "Powered instrument advanced across the thigh",
+  "why": {
+   "A": "Correct — a powered dermatome shaving the thigh is STSG harvest.",
+   "B": "Wrong — FTSG uses knife elliptical excision, not a dermatome sheet.",
+   "C": "Wrong — tangential excision debrides burn eschar, not donor harvest.",
+   "D": "Wrong — a Meek microdermatome makes small squares, not a continuous sheet."
+  }
+ },
+ {
+  "id": "N-I-17.53",
+  "chapter": "Ch17",
+  "section": "Figure recognition",
+  "stem": "This split-thickness graft has been passed through a device that cut regular rows of staggered slits, letting it expand and drain. What has been done to it?",
+  "options": {
+   "A": "It has been meshed",
+   "B": "It has been pie-crusted",
+   "C": "It has been defatted",
+   "D": "It has been tangentially thinned"
+  },
+  "answer": "A",
+  "exp": "The regular staggered pattern of slits that lets the sheet stretch is meshing, which expands coverage (templates 1:1 to ~1:9) and allows fluid egress, at the cost of more contracture and a cobblestone final appearance. Pie-crusting makes a few scattered perforations in a non-meshed graft for drainage without expansion; defatting trims fat from a full-thickness graft; tangential thinning describes harvest depth, not a slit pattern. All are real graft manoeuvres, so the systematic slit/expansion pattern identifies meshing.",
+  "hy": "Regular staggered slits = a meshed graft.",
+  "src": "Neligan I.17 · Figure recognition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "image": "images/N-I-17-53.jpg",
+  "imgcap": "Split-thickness graft with regular staggered slits",
+  "why": {
+   "A": "Correct — the regular staggered slit pattern is a meshed graft.",
+   "B": "Wrong — pie-crusting is scattered perforations without an expansion pattern.",
+   "C": "Wrong — defatting removes fat from an FTSG, unrelated to slits.",
+   "D": "Wrong — tangential thinning is about depth, not a mesh pattern."
+  }
+ },
+ {
+  "id": "N-I-17.54",
+  "chapter": "Ch17",
+  "section": "Figure recognition",
+  "stem": "The full-thickness graft is draped over the surgeon's finger and its deep surface is being trimmed with scissors before inset. Which preparatory step is shown?",
+  "options": {
+   "A": "Defatting the graft",
+   "B": "Meshing the graft",
+   "C": "Pie-crusting the graft",
+   "D": "Tangential harvest of the graft"
+  },
+  "answer": "A",
+  "exp": "Draping a full-thickness graft over a finger and trimming its deep subcutaneous fat with scissors is defatting, done to remove the relatively avascular fat that would impede revascularization and cause fat necrosis, improving take. Meshing cuts expansion slits, pie-crusting makes drainage perforations, and tangential harvest is the shaving technique used to obtain a split-thickness graft — none matches trimming fat off a full-thickness graft. All are genuine steps, so recognizing the fat-trimming manoeuvre is the task.",
+  "hy": "FTSG trimmed over a finger = defatting.",
+  "src": "Neligan I.17 · Figure recognition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "image": "images/N-I-17-54.jpg",
+  "imgcap": "Graft draped over a finger, deep surface being trimmed",
+  "why": {
+   "A": "Correct — trimming deep fat off an FTSG over a finger is defatting.",
+   "B": "Wrong — meshing makes expansion slits, not fat trimming.",
+   "C": "Wrong — pie-crusting makes drainage holes, not fat removal.",
+   "D": "Wrong — tangential harvest obtains an STSG; this graft is already harvested."
+  }
+ },
+ {
+  "id": "N-I-17.55",
+  "chapter": "Ch17",
+  "section": "Figure recognition",
+  "stem": "In this fixation method, long peripheral sutures are tied over a bulky cotton/gauze pad to press a graft into contact with the bed. What is it?",
+  "options": {
+   "A": "A tie-over bolster dressing",
+   "B": "A negative-pressure (vacuum-assisted) dressing",
+   "C": "A quilting suture technique",
+   "D": "A splint immobilization"
+  },
+  "answer": "A",
+  "exp": "Long sutures placed at the graft periphery and tied over a bulky pad form a tie-over bolster, which presses the graft into the bed (especially in concave or awkward areas) and controls dead space and micromotion. A vacuum-assisted dressing uses continuous suction through foam under an adhesive seal — a different mechanism shown elsewhere in the same figure; quilting sutures tack the graft centrally without a bolster pad; a splint immobilizes an adjacent joint. All are real fixation methods, so the sutures-tied-over-a-pad description identifies the bolster.",
+  "hy": "Sutures tied over a bulky pad = tie-over bolster.",
+  "src": "Neligan I.17 · Figure recognition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "image": "images/N-I-17-55.jpg",
+  "imgcap": "Long peripheral sutures tied over a bulky pad",
+  "why": {
+   "A": "Correct — peripheral sutures tied over a pad is a tie-over bolster.",
+   "B": "Wrong — a VAC dressing uses suction through foam, not tied-over sutures.",
+   "C": "Wrong — quilting sutures tack the graft without a bolster pad.",
+   "D": "Wrong — a splint immobilizes a joint, it is not this fixation."
+  }
+ },
+ {
+  "id": "N-I-17.56",
+  "chapter": "Ch17",
+  "section": "Figure recognition",
+  "stem": "This schematic shows a graft initially nourished by plasma from the wound bed (panel 1) before vessels connect (panel 2) and blood flow is restored (panel 3). Which process is illustrated?",
+  "options": {
+   "A": "Revascularization of a skin graft",
+   "B": "The inflammatory phase of wound healing",
+   "C": "Angiosome choke-vessel dilation in a flap",
+   "D": "Lymphatic regeneration after node dissection"
+  },
+  "answer": "A",
+  "exp": "The three-panel schematic — plasma imbibition, then vessel connection, then restored perfusion — depicts skin-graft revascularization (take), the process by which a non-vascularized graft becomes perfused via anastomosis, neovascularization, and endothelial ingrowth. It is not the generic inflammatory phase of healing, not flap choke-vessel physiology (which concerns pedicled/free flaps, not free grafts), and not lymphatic regeneration. All options are real vascular/biologic processes, so reading the imbibition→connection→perfusion sequence identifies graft revascularization.",
+  "hy": "Imbibition→vessel connection→perfusion = graft revascularization.",
+  "src": "Neligan I.17 · Figure recognition",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "17",
+  "chname": "Skin grafting",
+  "image": "images/N-I-17-56.jpg",
+  "imgcap": "Three-panel graft nutrition and perfusion schematic",
+  "why": {
+   "A": "Correct — imbibition→vessel connection→perfusion is graft revascularization.",
+   "B": "Wrong — this depicts graft perfusion, not the inflammatory healing phase.",
+   "C": "Wrong — choke-vessel dilation concerns flaps, not free grafts.",
+   "D": "Wrong — no lymphatic regeneration is shown."
+  }
  }
 ]
