@@ -41029,5 +41029,1129 @@
    "C": "Correct — the map shows the body's vascular (angiosome) territories.",
    "D": "Wrong — Mathes–Nahai classifies a muscle's vascular-pedicle pattern (I–V), not the whole-body surface map shown."
   }
+ },
+ {
+  "id": "N-I-19.1",
+  "chapter": "Ch19",
+  "section": "Cartilage types",
+  "stem": "The chapter opens by contrasting the three histologic cartilage types. Which type composes the auricle (external ear) and gives it the flexibility exploited in ear-framework grafting?",
+  "options": {
+   "A": "Elastic cartilage",
+   "B": "Calcified cartilage",
+   "C": "Fibrocartilage",
+   "D": "Hyaline cartilage"
+  },
+  "answer": "A",
+  "exp": "The three histologic cartilages are hyaline (articular surfaces, costal cartilage, nasal septum), fibrocartilage (intervertebral discs, menisci, TMJ), and **elastic cartilage** (auricle, epiglottis) — whose elastin-rich matrix gives the external ear its springy flexibility, the very property that lets an auricular framework bend without fracturing.",
+  "hy": "Auricle = elastic cartilage (elastin → flexibility).",
+  "src": "Neligan I.19 · Fig 19.1 / cartilage types",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — the auricle is elastic cartilage, whose elastin fibers confer flexibility.",
+   "B": "Wrong — \"calcified cartilage\" is a degenerative/aged state, not one of the three primary histologic types of the ear.",
+   "C": "Wrong — fibrocartilage forms load-bearing shock absorbers (discs, menisci, TMJ), not the elastic auricle.",
+   "D": "Wrong — hyaline cartilage forms articular surfaces, costal cartilage, and septum, but is less elastic than auricular cartilage."
+  }
+ },
+ {
+  "id": "N-I-19.2",
+  "chapter": "Ch19",
+  "section": "Conchal cartilage — donor deformity",
+  "stem": "Harvesting the *entire* conchal cartilage without a preserving strategy characteristically produces which donor-ear deformity?",
+  "options": {
+   "A": "An overprojected, cup-shaped ear deformity",
+   "B": "A collapsed conchal bowl, short ear",
+   "C": "A constricted, cup-shaped (lop) helical rim",
+   "D": "A prominent, laterally set antihelix fold"
+  },
+  "answer": "B",
+  "exp": "Removing the whole concha without leaving supporting struts collapses the conchal bowl (cymba and cavum concha) and shortens the ear horizontally, because the concha is the structural floor of the auricle. Han's strut-preserving harvest was devised specifically to avoid this.",
+  "hy": "Whole-concha harvest → collapsed conchal bowl + short ear.",
+  "src": "Neligan I.19 · Conchal cartilage graft",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — overprojection/cupping is the *composite-graft donor* problem (helical base), not whole-concha harvest.",
+   "B": "Correct — collapse of the conchal bowl with a horizontally short ear is the described deformity.",
+   "C": "Wrong — a constricted/lop helix is a congenital auricular deformity, not this harvest complication.",
+   "D": "Wrong — a prominent antihelix is unrelated; conchal over-harvest collapses, not projects, the ear."
+  }
+ },
+ {
+  "id": "N-I-19.3",
+  "chapter": "Ch19",
+  "section": "Conchal harvest — Han technique",
+  "stem": "In Han and colleagues' technique for maximal conchal cartilage harvest, which structures must be left behind to prevent collapse of the donor ear?",
+  "options": {
+   "A": "A 1 cm cuff of cavum concha along the meatus",
+   "B": "The whole cymba concha with a 3 mm scapha margin",
+   "C": "≥5 mm helical crus + 2 mm conchal rim",
+   "D": "The entire antihelix and its superior crus"
+  },
+  "answer": "C",
+  "exp": "Han and colleagues harvest the cymba and cavum concha separately but leave **≥5 mm of the helical crus** (with a lateral extension acting as a strut) and a **~2 mm outer rim** along the conchal wall, plus a tie-over bolster as a mould — preserving the bowl's contour while still taking a large graft.",
+  "hy": "Han harvest: keep ≥5 mm helical crus + ~2 mm outer conchal rim.",
+  "src": "Neligan I.19 · Conchal cartilage graft (Han)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — no 1 cm meatal cuff is specified; the key struts are the crus and outer rim.",
+   "B": "Wrong — the cymba concha is largely *harvested*, not left as a 3 mm scapha margin.",
+   "C": "Correct — ≥5 mm helical crus plus a ~2 mm outer conchal rim are preserved.",
+   "D": "Wrong — the antihelix/superior crus is not the structure Han preserves for conchal support."
+  }
+ },
+ {
+  "id": "N-I-19.4",
+  "chapter": "Ch19",
+  "section": "Conchal graft — applications",
+  "stem": "Beyond ear-framework use, single-layered conchal cartilage grafts are described for reconstruction at which set of sites?",
+  "options": {
+   "A": "Tracheal, laryngeal, and pharyngeal reconstruction",
+   "B": "Digital joint, phalanx, and wrist reconstruction",
+   "C": "Orbital floor, malar, and mandibular reconstruction",
+   "D": "Nasal, tarsal (eyelid), and nipple reconstruction"
+  },
+  "answer": "D",
+  "exp": "Single-layered conchal cartilage grafts are versatile thin grafts used for **nasal, tarsal (eyelid), and nipple** reconstruction, in addition to serving as ear-framework material and laminated grafts for saddle-nose correction.",
+  "hy": "Conchal single-layer graft → nasal, tarsal, nipple.",
+  "src": "Neligan I.19 · Conchal cartilage applications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — tracheal/laryngeal/pharyngeal reconstruction typically use costal cartilage, not thin conchal grafts.",
+   "B": "Wrong — digital-joint/phalangeal reconstruction is an engineering/osteochondral target, not a conchal-graft use.",
+   "C": "Wrong — orbital floor/malar/mandibular reconstruction uses bone or alloplast, not conchal cartilage.",
+   "D": "Correct — nasal, tarsal, and nipple reconstruction are the cited applications."
+  }
+ },
+ {
+  "id": "N-I-19.5",
+  "chapter": "Ch19",
+  "section": "Free composite graft — limitation",
+  "stem": "What chiefly limits the usable size of a *free* (non-vascularized) auricular composite chondrocutaneous graft?",
+  "options": {
+   "A": "No immediate blood supply after transfer",
+   "B": "The risk of hyperacute rejection of the cartilage",
+   "C": "Donor-site pneumothorax during graft elevation",
+   "D": "The tendency of the graft to calcify early"
+  },
+  "answer": "A",
+  "exp": "A free composite chondrocutaneous graft has **no immediate blood supply**, so it survives only up to the size that can be revascularized by the recipient bed — limiting free composite grafts to small defects. Microvascular (vascularized) transfer removes this ceiling, allowing large nasal reconstructions.",
+  "hy": "Free composite graft size limited by lack of immediate blood supply.",
+  "src": "Neligan I.19 · Auricular composite grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — the absence of immediate perfusion caps free-composite-graft size.",
+   "B": "Wrong — these are autologous grafts, so immune rejection is not the limiting issue.",
+   "C": "Wrong — pneumothorax is a *costal*-harvest risk, not a limit on auricular composite grafts.",
+   "D": "Wrong — early calcification is not the described size limitation."
+  }
+ },
+ {
+  "id": "N-I-19.6",
+  "chapter": "Ch19",
+  "section": "Singh–Bartlett donor management",
+  "stem": "In Singh and Bartlett's scheme, the largest composite grafts (>1.5 cm from the helical base) require which added maneuver to prevent cupping/overprojection of the donor ear?",
+  "options": {
+   "A": "Primary closure with the dog-ear into the hairline",
+   "B": "A V-wedge with half-star cartilage excision",
+   "C": "A full-thickness skin graft applied to the scapha",
+   "D": "A simple helical rim advancement, done alone"
+  },
+  "answer": "B",
+  "exp": "For grafts wider than 1.5 cm from the helical base, a simple helical advancement distorts and overprojects the ear; Singh and Bartlett instead take a **V-shaped skin wedge with a \"half-star\" cartilage excision at its apex and add a scaphomastoid suture** (plus a postauricular incision) to prevent cupping.",
+  "hy": ">1.5 cm graft → V-wedge + half-star cartilage + scaphomastoid suture.",
+  "src": "Neligan I.19 · Singh–Bartlett Technique 5",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — running the dog-ear into the hairline is the small-graft (Technique 1) closure.",
+   "B": "Correct — V-wedge skin + half-star cartilage excision + scaphomastoid suture is Technique 5.",
+   "C": "Wrong — a scapha skin graft is not the described maneuver for large helical-base grafts.",
+   "D": "Wrong — a helical advancement alone causes the very overprojection this technique avoids."
+  }
+ },
+ {
+  "id": "N-I-19.7",
+  "chapter": "Ch19",
+  "section": "Vascularized auricular flaps",
+  "stem": "Zhang and colleagues reconstructed large nasal defects with vascularized preauricular and helical-rim flaps. On which vascular pedicle are these flaps based, and what survival did they report?",
+  "options": {
+   "A": "The facial artery; about 70% flap survival",
+   "B": "The occipital artery; about 90% flap survival",
+   "C": "Superficial temporal vessels; ~97% survival",
+   "D": "Posterior auricular artery; ~80% survival"
+  },
+  "answer": "C",
+  "exp": "Zhang and colleagues based vascularized preauricular and helical-rim flaps on the **superficial temporal vessels** and reported a **~97%** total flap survival across 63 nasal-defect reconstructions — a reliable option where free composite grafts would be too large to survive.",
+  "hy": "Vascularized preauricular/helical-rim flap = superficial temporal vessels, ~97% survival.",
+  "src": "Neligan I.19 · Vascularized auricular flaps",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — the facial artery is not the basis of these preauricular/helical-rim flaps.",
+   "B": "Wrong — the occipital artery supplies posterior scalp, not this flap.",
+   "C": "Correct — superficial temporal pedicle with ~97% survival.",
+   "D": "Wrong — the posterior auricular artery is not the cited pedicle, and survival was ~97%, not ~80%."
+  }
+ },
+ {
+  "id": "N-I-19.8",
+  "chapter": "Ch19",
+  "section": "Septal cartilage — the L-strut",
+  "stem": "When harvesting septal cartilage, preserving an \"L-shaped\" strut is essential chiefly to accomplish what?",
+  "options": {
+   "A": "Preserve the olfactory mucosa and smell",
+   "B": "Protect the anterior ethmoidal bundle",
+   "C": "Keep the nasolacrimal duct patent and open",
+   "D": "Maintain nasal support, prevent collapse"
+  },
+  "answer": "D",
+  "exp": "The septal L-strut — a caudal plus dorsal band of quadrangular cartilage — is the keystone of nasal support; preserving it maintains dorsal and tip support and prevents saddling/collapse after harvest. Its required width varies with septal thickness and the surrounding nasal framework.",
+  "hy": "L-strut preserved → nasal dorsal/tip support, prevents collapse.",
+  "src": "Neligan I.19 · Septal cartilage graft",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — olfaction depends on olfactory epithelium high in the vault, not the cartilage strut.",
+   "B": "Wrong — the anterior ethmoidal bundle is protected by careful dissection, not by the L-strut per se.",
+   "C": "Wrong — the nasolacrimal duct is lateral, unrelated to the septal strut.",
+   "D": "Correct — the L-strut maintains support and prevents collapse."
+  }
+ },
+ {
+  "id": "N-I-19.9",
+  "chapter": "Ch19",
+  "section": "Septal harvest — technique",
+  "stem": "Per the described technique, septal cartilage is accessed through which incision, with which part free to harvest once an adequate L-strut is preserved?",
+  "options": {
+   "A": "Hemitransfixion incision; posterior quadrangular cartilage free",
+   "B": "External columellar incision; only the caudal strut is free",
+   "C": "Intercartilaginous incision; only the ethmoid perpendicular plate",
+   "D": "Killian incision; the whole quadrangular plate with caudal margin"
+  },
+  "answer": "A",
+  "exp": "Septal cartilage is reached through a **hemitransfixion incision** with dissection around the caudal margin of the quadrangular cartilage and elevation of both mucoperichondrial flaps; once an adequate L-strut is left, the **more posterior/dorsal quadrangular (nonsupportive) cartilage is free to harvest**.",
+  "hy": "Hemitransfixion incision; harvest posterior quadrangular cartilage, keep L-strut.",
+  "src": "Neligan I.19 · Septal harvest (Murrell)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — hemitransfixion access; the posterior nonsupportive quadrangular cartilage is harvestable.",
+   "B": "Wrong — an external columellar approach and \"only the caudal strut\" misstates both access and what is preserved.",
+   "C": "Wrong — the perpendicular plate of the ethmoid is bony, not the primary quadrangular graft source described.",
+   "D": "Wrong — harvesting the caudal margin would sacrifice the L-strut and cause collapse."
+  }
+ },
+ {
+  "id": "N-I-19.10",
+  "chapter": "Ch19",
+  "section": "Chondromucosal graft — eyelid",
+  "stem": "The nasal-septal chondromucosal graft for eyelid (posterior lamella) reconstruction was first published in 1962 by which surgeon?",
+  "options": {
+   "A": "Converse",
+   "B": "Millard",
+   "C": "Mustardé",
+   "D": "Tessier"
+  },
+  "answer": "B",
+  "exp": "**Millard** published the nasal-septal chondromucosal graft for eyelid (posterior-lamella) reconstruction in 1962; Mustardé later described the technique as well. The graft supplies both lining (mucosa) and structural support (cartilage) in one.",
+  "hy": "Millard 1962 = septal chondromucosal graft for eyelid.",
+  "src": "Neligan I.19 · Chondromucosal graft",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — Converse is associated with the auricular \"tunnel procedure,\" not this 1962 septal graft.",
+   "B": "Correct — Millard's 1962 report is the cited first description.",
+   "C": "Wrong — Mustardé described it later, not first in 1962.",
+   "D": "Wrong — Tessier (1979) is credited with the *upper lateral* cartilage chondromucosal graft, a different donor."
+  }
+ },
+ {
+  "id": "N-I-19.11",
+  "chapter": "Ch19",
+  "section": "Chondromucosal flap — Scuderi",
+  "stem": "Scuderi's pedicled nasal chondromucosal flap for upper-eyelid reconstruction harvests the upper lateral cartilage on a pedicle from which artery?",
+  "options": {
+   "A": "A terminal branch of the infraorbital artery",
+   "B": "A terminal branch of the supratrochlear artery",
+   "C": "A terminal branch of the dorsal nasal artery",
+   "D": "A terminal branch of the angular artery"
+  },
+  "answer": "C",
+  "exp": "Scuderi's pedicled nasal chondromucosal flap for total/subtotal upper-eyelid reconstruction is raised on the **terminal branch of the dorsal nasal artery** and carries the cranial portion of the upper lateral cartilage; it was viable in all 15 reported patients as a one-stage lining-plus-support reconstruction.",
+  "hy": "Scuderi flap = dorsal nasal artery terminal branch + upper lateral cartilage.",
+  "src": "Neligan I.19 · Scuderi chondromucosal flap",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — the infraorbital artery supplies the midface, not this nasal-dorsum flap.",
+   "B": "Wrong — the supratrochlear artery bases forehead flaps, not the nasal chondromucosal flap.",
+   "C": "Correct — the flap is based on the dorsal nasal artery's terminal branch.",
+   "D": "Wrong — the angular artery is nearby but not the named pedicle for this flap."
+  }
+ },
+ {
+  "id": "N-I-19.12",
+  "chapter": "Ch19",
+  "section": "Costal cartilage — why preferred",
+  "stem": "Costal (rib) cartilage is described as the best donor site for cartilage grafting primarily for which reason?",
+  "options": {
+   "A": "It uniquely resists calcification and warping",
+   "B": "It can be harvested with no donor-site morbidity",
+   "C": "It carries an axial blood supply for perfusion",
+   "D": "It offers the most tissue volume and strength"
+  },
+  "answer": "D",
+  "exp": "Costal cartilage offers the **greatest tissue volume and mechanical strength** of any cartilage donor and can be carved into any shape while retaining form and bulk — which is why it is the workhorse for total ear frameworks and major dorsal/structural grafts.",
+  "hy": "Costal cartilage = most volume + strongest.",
+  "src": "Neligan I.19 · Rib cartilage graft",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — costal cartilage can in fact warp and calcify with age; that is not its selling point.",
+   "B": "Wrong — it carries real donor morbidity (pain, pneumothorax), so \"no morbidity\" is false.",
+   "C": "Wrong — it is a non-vascularized graft with no intrinsic axial blood supply.",
+   "D": "Correct — volume and mechanical strength are its defining advantages."
+  }
+ },
+ {
+  "id": "N-I-19.13",
+  "chapter": "Ch19",
+  "section": "Costal framework — Tanzer/Brent",
+  "stem": "In the classic Tanzer/Brent approach to building an auricular framework, which costal cartilages are harvested?",
+  "options": {
+   "A": "The 6th/7th synchondrosis plus 8th cartilage",
+   "B": "The 4th and 5th cartilages with the manubrium",
+   "C": "The floating 11th and 12th ribs only, harvested",
+   "D": "The 9th and 10th cartilages with the costal arch"
+  },
+  "answer": "A",
+  "exp": "The classic Tanzer/Thomson/Brent framework is carved from the **synchondrosis of the 6th and 7th costal cartilages together with the 8th costal cartilage** (usually with perichondrium) — providing a single strong block plus a helical rim.",
+  "hy": "Classic ear framework = 6th/7th synchondrosis + 8th cartilage.",
+  "src": "Neligan I.19 · Costal framework",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — the 6th–7th synchondrosis plus the 8th cartilage is the classic harvest.",
+   "B": "Wrong — the 4th/5th and manubrium are not the described auricular-framework donors.",
+   "C": "Wrong — the floating 11th/12th ribs are too small/weak for an ear framework.",
+   "D": "Wrong — the 9th/10th cartilages are not the cited framework source."
+  }
+ },
+ {
+  "id": "N-I-19.14",
+  "chapter": "Ch19",
+  "section": "Nagata's method",
+  "stem": "Nagata's method for total auricular reconstruction requires harvesting how much costal cartilage across its two stages?",
+  "options": {
+   "A": "All six true-rib cartilages in a single stage",
+   "B": "Four then one or two, across two stages",
+   "C": "A single costal cartilage at each of two stages",
+   "D": "Two at the first stage and four at the second"
+  },
+  "answer": "B",
+  "exp": "Nagata's two-stage total reconstruction harvests **four costal cartilages at the first stage** (to build the framework and tragus) and **one or two more at the second stage** (for elevation) — a larger cartilage demand that raises the risk of chest-wall deformity and pneumothorax.",
+  "hy": "Nagata = 4 cartilages (stage 1) + 1–2 (stage 2).",
+  "src": "Neligan I.19 · Nagata's method",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — Nagata is explicitly two-staged, not a single-stage six-cartilage harvest.",
+   "B": "Correct — four at the first stage and one or two at the second.",
+   "C": "Wrong — a single cartilage per stage understates Nagata's larger demand.",
+   "D": "Wrong — the counts are reversed; the bulk (four) is taken at the first stage."
+  }
+ },
+ {
+  "id": "N-I-19.15",
+  "chapter": "Ch19",
+  "section": "Costal donor morbidity",
+  "stem": "In Uppal and colleagues' study of costal-cartilage donor morbidity, what were the commonest complaints and their typical course?",
+  "options": {
+   "A": "Chronic pleuritic pain worsening over the first year",
+   "B": "Immediate flail-chest needing operative fixation",
+   "C": "Chest-wall pain and clicking, easing by ~3 months",
+   "D": "Permanent intercostal neuralgia in most at one year"
+  },
+  "answer": "C",
+  "exp": "In Uppal's 42-patient series the commonest complaints were **chest-wall pain and clicking**, which peaked in the first postoperative week and gradually settled over about three months; scar and chest-wall deformity were the other issues.",
+  "hy": "Costal donor morbidity = pain + clicking, peak wk 1, ease ~3 mo.",
+  "src": "Neligan I.19 · Costal donor morbidity (Uppal)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — the pain eased over months rather than steadily worsening.",
+   "B": "Wrong — flail chest requiring fixation is not a described outcome.",
+   "C": "Correct — pain and clicking peaking early and resolving over ~3 months.",
+   "D": "Wrong — persistent neuralgia in the majority at a year is not what was reported."
+  }
+ },
+ {
+  "id": "N-I-19.16",
+  "chapter": "Ch19",
+  "section": "Costal harvest — most serious risk",
+  "stem": "Which intraoperative complication is singled out as the most serious hazard of costal cartilage harvest, especially with Nagata's cartilage-hungry method?",
+  "options": {
+   "A": "Cardiac tamponade",
+   "B": "Hemothorax from the internal mammary artery",
+   "C": "Diaphragmatic rupture",
+   "D": "Pneumothorax"
+  },
+  "answer": "D",
+  "exp": "**Pneumothorax** — from inadvertent pleural puncture during dissection — is the most serious intraoperative hazard of costal harvest, together with resulting chest-wall contour deformity, and is more likely with Nagata's cartilage-hungry technique.",
+  "hy": "Most serious costal-harvest risk = pneumothorax.",
+  "src": "Neligan I.19 · Costal harvest complications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — cardiac tamponade is not a described costal-harvest risk.",
+   "B": "Wrong — internal-mammary hemothorax is not the emphasized hazard.",
+   "C": "Wrong — diaphragmatic rupture is not a reported complication of this harvest.",
+   "D": "Correct — pneumothorax is the singled-out serious complication."
+  }
+ },
+ {
+  "id": "N-I-19.17",
+  "chapter": "Ch19",
+  "section": "Kawanabe–Nagata modification",
+  "stem": "Kawanabe and Nagata's modified costal harvest reduced infection and pneumothorax to under 1% and eliminated chest-wall deformity mainly by doing what?",
+  "options": {
+   "A": "Leaving perichondrium intact; returning blocks",
+   "B": "Harvesting only floating ribs to avoid the pleura",
+   "C": "Replacing cartilage with a porous-polyethylene frame",
+   "D": "Using thoracoscopic guidance for every harvest"
+  },
+  "answer": "A",
+  "exp": "Kawanabe and Nagata harvest the costal cartilage **en bloc while leaving the perichondrium completely intact**, then cut the leftover cartilage into small blocks and **return them into the closed perichondrial pocket** as spacers — dropping infection and pneumothorax to <1% and eliminating chest-wall deformity in 270 cases.",
+  "hy": "Kawanabe–Nagata: intact perichondrium + returned cartilage blocks → <1% complications.",
+  "src": "Neligan I.19 · Kawanabe–Nagata modification",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — perichondrium left intact with cartilage blocks returned is the modification.",
+   "B": "Wrong — the true ribs (6th–8th), not floating ribs, are used; the pleura is protected by perichondrium, not avoided.",
+   "C": "Wrong — no synthetic porous-polyethylene substitution is described here.",
+   "D": "Wrong — routine thoracoscopy is not part of the modified harvest."
+  }
+ },
+ {
+  "id": "N-I-19.18",
+  "chapter": "Ch19",
+  "section": "Retained perichondrium",
+  "stem": "Leaving the donor perichondrium intact during costal harvest is said to give two benefits. Which pairing is correct?",
+  "options": {
+   "A": "It sterilizes the field, removing the need for antibiotics",
+   "B": "It avoids pleural injury and aids cartilage regeneration",
+   "C": "It abolishes postoperative pain and prevents scarring",
+   "D": "It gives immediate vascular inflow, preventing resorption"
+  },
+  "answer": "B",
+  "exp": "The retained perichondrium serves two purposes: it **shields the pleura (avoiding pneumothorax)** and, because it harbors chondrogenic (perichondrial) stem cells, it **promotes donor-site cartilage regeneration**, ultimately allowing a second harvest.",
+  "hy": "Intact perichondrium = pleural protection + chondrogenic regeneration.",
+  "src": "Neligan I.19 · Retained perichondrium",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — it is not an antibiotic substitute.",
+   "B": "Correct — pleural protection plus regeneration via chondrogenic stem cells.",
+   "C": "Wrong — it does not abolish pain or prevent all scarring.",
+   "D": "Wrong — perichondrium does not supply immediate vascular inflow to the graft."
+  }
+ },
+ {
+  "id": "N-I-19.19",
+  "chapter": "Ch19",
+  "section": "Costal regeneration timeline",
+  "stem": "After perichondrium-preserving costal harvest, what does the reported histologic follow-up show about donor-site regeneration?",
+  "options": {
+   "A": "Only fibrous scar, with no cartilage ever reforming",
+   "B": "Complete ossification into mature bone by 3 months",
+   "C": "Mixed at ~6 mo, hyaline by ~12 mo, re-harvestable",
+   "D": "Full hyaline regeneration within 2 weeks, re-harvestable"
+  },
+  "answer": "C",
+  "exp": "Follow-up histology showed regenerated donor cartilage that was **mixed hyaline and fibrocartilage with visible margins at 6 months**, maturing to **homogeneous hyaline cartilage by 12 months** with hardness resembling native costal cartilage — enough to permit a **second harvest**.",
+  "hy": "Costal regen: mixed at 6 mo → hyaline at 12 mo → re-harvestable.",
+  "src": "Neligan I.19 · Donor regeneration",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — cartilage did reform; it was not merely fibrous scar.",
+   "B": "Wrong — the donor bed regenerated cartilage, not bone.",
+   "C": "Correct — mixed at ~6 months, homogeneous hyaline by ~12 months, re-harvestable.",
+   "D": "Wrong — regeneration takes months, not 2 weeks."
+  }
+ },
+ {
+  "id": "N-I-19.20",
+  "chapter": "Ch19",
+  "section": "Intercostal nerve block",
+  "stem": "For postoperative analgesia after costal harvest, the described intercostal block uses which agent and volume per rib?",
+  "options": {
+   "A": "Lidocaine 2%, 20 mL per rib block",
+   "B": "Ropivacaine 0.5%, 15 mL per rib block",
+   "C": "Procaine 1%, 10 mL per rib block",
+   "D": "0.25% bupivacaine, 5 mL per rib"
+  },
+  "answer": "D",
+  "exp": "The described intercostal block uses **0.25% bupivacaine, 5 mL per rib**, given under direct vision to reduce postoperative pain after costal harvest.",
+  "hy": "Intercostal block = 0.25% bupivacaine, 5 mL/rib.",
+  "src": "Neligan I.19 · Kawanabe–Nagata analgesia",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — 2% lidocaine 20 mL/rib is far too high a dose and wrong agent.",
+   "B": "Wrong — 0.5% ropivacaine 15 mL/rib is not the specified regimen.",
+   "C": "Wrong — 1% procaine 10 mL/rib is not what was described.",
+   "D": "Correct — 0.25% bupivacaine at 5 mL per rib."
+  }
+ },
+ {
+  "id": "N-I-19.21",
+  "chapter": "Ch19",
+  "section": "Rib graft — indications",
+  "stem": "Rib cartilage graft is listed as a treatment for maxillonasal dysplasia, which is better known by which eponym?",
+  "options": {
+   "A": "Binder's syndrome",
+   "B": "Treacher Collins syndrome",
+   "C": "Goldenhar syndrome",
+   "D": "Apert syndrome"
+  },
+  "answer": "A",
+  "exp": "Maxillonasal dysplasia — midface hypoplasia with a short nose and acute nasolabial angle — is eponymously **Binder's syndrome**, and rib cartilage graft is a listed reconstructive treatment (alongside saddle-nose repair, nipple reconstruction, septorhinoplasty, and tracheal reconstruction).",
+  "hy": "Maxillonasal dysplasia = Binder's syndrome.",
+  "src": "Neligan I.19 · Rib graft indications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — Binder's syndrome is maxillonasal dysplasia.",
+   "B": "Wrong — Treacher Collins is mandibulofacial dysostosis, a different entity.",
+   "C": "Wrong — Goldenhar (oculo-auriculo-vertebral) is a distinct hemifacial spectrum.",
+   "D": "Wrong — Apert is acrocephalosyndactyly, not maxillonasal dysplasia."
+  }
+ },
+ {
+  "id": "N-I-19.22",
+  "chapter": "Ch19",
+  "section": "Modified frameworks — Chin",
+  "stem": "Chin and colleagues' modified auricular frameworks reduce the amount of harvested costal cartilage. During ear elevation, what did they use as a support material to avoid harvesting extra cartilage?",
+  "options": {
+   "A": "Porous polyethylene",
+   "B": "Bone cement",
+   "C": "Titanium mesh",
+   "D": "A dermal-fat graft"
+  },
+  "answer": "B",
+  "exp": "Chin and colleagues' individualized frameworks (helix, base frame, Y-shaped antihelical complex, tragus + cartilage cube) use less costal cartilage, and they used **bone cement** as the support material at the ear-elevation stage — so no extra costal cartilage need be harvested.",
+  "hy": "Chin framework: bone cement support at elevation → no extra costal harvest.",
+  "src": "Neligan I.19 · Modified frameworks (Chin)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — porous polyethylene (Medpor) is an alternative *framework*, not what Chin used for elevation.",
+   "B": "Correct — bone cement was the elevation-stage support material.",
+   "C": "Wrong — titanium mesh is not the material described here.",
+   "D": "Wrong — a dermal-fat graft is not the cited elevation support."
+  }
+ },
+ {
+  "id": "N-I-19.23",
+  "chapter": "Ch19",
+  "section": "Perichondrial graft — first report",
+  "stem": "The capacity of transplanted perichondrium to form neocartilage was first reported in 1959 by whom?",
+  "options": {
+   "A": "Engkvist",
+   "B": "Nagata",
+   "C": "Lester",
+   "D": "Brent"
+  },
+  "answer": "C",
+  "exp": "**Lester (1959)** first reported neocartilage formation from transplanted perichondrium; later observers confirmed the phenomenon, though clinical cartilage regeneration from perichondrium remains limited and unproven at scale.",
+  "hy": "Lester 1959 = first perichondrial neocartilage report.",
+  "src": "Neligan I.19 · Perichondrial graft history",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — Engkvist (1975) studied perichondrium for joint cartilage, after Lester.",
+   "B": "Wrong — Nagata is a total-ear-reconstruction figure, unrelated to this 1959 report.",
+   "C": "Correct — Lester's 1959 report is the first cited.",
+   "D": "Wrong — Brent (with Ott) described the perichondro*cutaneous* graft in 1978, not the 1959 first report."
+  }
+ },
+ {
+  "id": "N-I-19.24",
+  "chapter": "Ch19",
+  "section": "Perichondrocutaneous graft",
+  "stem": "Brent and Ott (1978) described the perichondrocutaneous graft for facial reconstruction. To prevent donor deformity, the donor source should be restricted to which site?",
+  "options": {
+   "A": "The nasal septum",
+   "B": "The costal margin",
+   "C": "The tragus",
+   "D": "The concha"
+  },
+  "answer": "D",
+  "exp": "Brent and Ott (1978) introduced the perichondrocutaneous graft for facial reconstruction, restricting the donor source to the **concha** to avoid producing a donor-ear deformity.",
+  "hy": "Perichondrocutaneous graft (Brent & Ott 1978): donor = concha.",
+  "src": "Neligan I.19 · Perichondrocutaneous graft",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — the nasal septum is not the perichondrocutaneous donor site.",
+   "B": "Wrong — the costal margin is not used for this composite perichondrium-skin graft.",
+   "C": "Wrong — the tragus is not the specified donor.",
+   "D": "Correct — the concha is the specified donor source."
+  }
+ },
+ {
+  "id": "N-I-19.25",
+  "chapter": "Ch19",
+  "section": "Perichondrium — evidence",
+  "stem": "What is the chapter's overall verdict on perichondrial and perichondrocutaneous grafts as cartilage regenerators?",
+  "options": {
+   "A": "No solid evidence it regenerates significant cartilage",
+   "B": "Randomized trials prove reliable full-thickness regeneration",
+   "C": "They regenerate hyaline cartilage superior to costal grafts",
+   "D": "They are contraindicated because they always ossify"
+  },
+  "answer": "A",
+  "exp": "Despite decades of enthusiasm since Lester, the chapter concludes there is **no solid clinical evidence that transplanted perichondrium regenerates a significant amount of cartilage** — its reliable regenerative capacity remains unproven, which is why it stays a niche technique.",
+  "hy": "Perichondrium: no solid evidence of significant cartilage regeneration.",
+  "src": "Neligan I.19 · Perichondrium — evidence",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — the evidence for significant regeneration is not solid.",
+   "B": "Wrong — no randomized proof of reliable full-thickness regeneration exists.",
+   "C": "Wrong — perichondrium does not reliably outperform costal grafts.",
+   "D": "Wrong — routine ossification is not the stated reason for its limited use."
+  }
+ },
+ {
+  "id": "N-I-19.26",
+  "chapter": "Ch19",
+  "section": "Perichondrium — joint repair",
+  "stem": "For articular-cartilage (joint) repair, which graft ultimately became the major tissue graft for restoring injured *digital* articular surfaces?",
+  "options": {
+   "A": "Periosteal free flaps",
+   "B": "Costal osteochondral grafts",
+   "C": "Perichondrial free grafts",
+   "D": "Meniscal allograft transfers"
+  },
+  "answer": "B",
+  "exp": "Because perichondrial and standalone grafts proved unreliable, **costal osteochondral grafts** became the major tissue graft for restoring injured *digital* articular cartilage — providing both a subchondral bony base and a hyaline cartilage cap.",
+  "hy": "Digital articular repair → costal osteochondral graft.",
+  "src": "Neligan I.19 · Joint repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — periosteal flaps are not the cited digital-joint solution.",
+   "B": "Correct — costal osteochondral grafts became the mainstay for digital joints.",
+   "C": "Wrong — perichondrial free grafts were the *less* reliable option they replaced.",
+   "D": "Wrong — meniscal allografts are for the knee meniscus, not digital articular surfaces."
+  }
+ },
+ {
+  "id": "N-I-19.27",
+  "chapter": "Ch19",
+  "section": "Tissue engineering — three components",
+  "stem": "The chapter defines the cartilage tissue-engineering process as the integration of which three major components?",
+  "options": {
+   "A": "Autograft, allograft, and one growth factor",
+   "B": "Perichondrium, periosteum, and a bioreactor",
+   "C": "Seed cells, a scaffold, and an environment",
+   "D": "A vascular pedicle, a nerve, and a bony strut"
+  },
+  "answer": "C",
+  "exp": "Cartilage tissue engineering integrates three components: **seed cells** (produce matrix), a **scaffold** (a 3D place for cells to reside/proliferate), and the **tissue-formation environment** (culture conditions under which matrix deposits and the scaffold degrades).",
+  "hy": "TE triad = seed cells + scaffold + tissue-formation environment.",
+  "src": "Neligan I.19 · Tissue engineering principle",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — autograft/allograft/growth-factor are graft categories, not this triad.",
+   "B": "Wrong — perichondrium/periosteum/bioreactor are tools, not the defined three components.",
+   "C": "Correct — seed cells, scaffold, and the tissue-formation environment are the three components.",
+   "D": "Wrong — pedicle/nerve/bony strut describe a composite flap, not the engineering triad."
+  }
+ },
+ {
+  "id": "N-I-19.28",
+  "chapter": "Ch19",
+  "section": "Scaffold role — Stock & Vacanti",
+  "stem": "Per Stock and Vacanti's concept, what is the scaffold's role until the seeded cells produce adequate matrix?",
+  "options": {
+   "A": "It permanently remains as the load-bearing core",
+   "B": "It delivers a systemic dose of chondrogenic drug",
+   "C": "It serves only as an antibacterial barrier",
+   "D": "It gives temporary architecture, then degrades"
+  },
+  "answer": "D",
+  "exp": "Per Stock and Vacanti, the scaffold supplies the **architecture and the initial biomechanical profile** on which seeded cells organize, and it is then **degraded/metabolized** as the cells lay down adequate extracellular matrix — leaving a living tissue that restores function.",
+  "hy": "Scaffold = temporary architecture + mechanics, then degrades as ECM forms.",
+  "src": "Neligan I.19 · Scaffold concept (Stock & Vacanti)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — the ideal scaffold degrades rather than permanently remaining.",
+   "B": "Wrong — a scaffold is a structural template, not a systemic drug depot.",
+   "C": "Wrong — it is not merely an antibacterial barrier.",
+   "D": "Correct — it provides temporary architecture/mechanics and then degrades."
+  }
+ },
+ {
+  "id": "N-I-19.29",
+  "chapter": "Ch19",
+  "section": "Cao/Vacanti ear — 1997",
+  "stem": "In the landmark human-ear-shaped cartilage study, which cell source, scaffold, and host model were combined?",
+  "options": {
+   "A": "Calf chondrocytes on PGA, in a nude mouse",
+   "B": "Human stem cells on collagen, in a rabbit",
+   "C": "Swine tenocytes on fibrin gel, in a rat",
+   "D": "Bovine osteoblasts on titanium mesh, in a pig"
+  },
+  "answer": "A",
+  "exp": "The landmark Cao/Vacanti \"mouse ear\" combined **calf (bovine) chondrocytes seeded on a PGA (polyglycolic acid) scaffold** shaped like a human ear, implanted subcutaneously in a **nude mouse**, producing an ear-shaped cartilage after 12 weeks — the proof-of-concept that cartilage engineering could serve plastic surgery.",
+  "hy": "Cao/Vacanti ear = calf chondrocytes + PGA + nude mouse.",
+  "src": "Neligan I.19 · Engineered auricular cartilage",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — calf chondrocytes on PGA in a nude mouse.",
+   "B": "Wrong — human stem cells on collagen in a rabbit is not the described study.",
+   "C": "Wrong — the flexible-ear (Xu) study used swine *chondrocytes* on fibrin, not tenocytes; tenocytes appear in the engineered-phalanx work (Isogai), not this landmark ear study.",
+   "D": "Wrong — bovine osteoblasts on titanium describes bone, not this cartilage study."
+  }
+ },
+ {
+  "id": "N-I-19.30",
+  "chapter": "Ch19",
+  "section": "Engineered ear — shape maintenance",
+  "stem": "In the ear-cartilage engineering studies, what device was used to preserve the fine three-dimensional contour of the construct during maturation?",
+  "options": {
+   "A": "Rigid intermaxillary fixation wires",
+   "B": "An external stent over the implant",
+   "C": "A continuous negative-pressure dressing",
+   "D": "An internal rigid titanium endoskeleton"
+  },
+  "answer": "B",
+  "exp": "Because engineered ear constructs tend to distort during maturation, an **external stent fixed over the implant** was used to hold the fine 3D contour; constructs with stent support kept a crisp ear shape while unsupported ones lost definition.",
+  "hy": "External stent maintains engineered-ear 3D contour.",
+  "src": "Neligan I.19 · Shape maintenance",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — intermaxillary fixation is a jaw technique, irrelevant here.",
+   "B": "Correct — an external stent preserved the contour.",
+   "C": "Wrong — negative-pressure dressing was not the shape-maintenance method.",
+   "D": "Wrong — a rigid titanium endoskeleton was not used in these constructs."
+  }
+ },
+ {
+  "id": "N-I-19.31",
+  "chapter": "Ch19",
+  "section": "CAD/CAM ear — Liu",
+  "stem": "Using CAD/CAM to fabricate an ear-shaped scaffold from a CT scan, what shape fidelity to the original ear mold was achieved for the scaffold?",
+  "options": {
+   "A": "A similarity level of about 25%",
+   "B": "A similarity level under 10%",
+   "C": "A similarity level above 97%",
+   "D": "A similarity level near 50%"
+  },
+  "answer": "C",
+  "exp": "Liu and colleagues scanned a patient's ear by CT, built positive/negative molds by CAD/CAM, and fabricated a PGA/PLA scaffold that matched the original ear mold with a **similarity above 97%** — showing CAD/CAM can produce an accurately mirror-symmetric ear scaffold.",
+  "hy": "CAD/CAM ear scaffold similarity >97%.",
+  "src": "Neligan I.19 · CAD/CAM engineering (Liu)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — ~25% is not the reported fidelity.",
+   "B": "Wrong — <10% is the opposite of the high fidelity achieved.",
+   "C": "Correct — the scaffold reached >97% similarity to the mold.",
+   "D": "Wrong — ~50% would be far too low for accurate mirror symmetry."
+  }
+ },
+ {
+  "id": "N-I-19.32",
+  "chapter": "Ch19",
+  "section": "Flexible ear cartilage — Xu",
+  "stem": "Xu and colleagues conferred native-like flexibility (tolerating torsion and bending without fracture) on an engineered ear by doing what?",
+  "options": {
+   "A": "Cross-linking the scaffold with genipin first",
+   "B": "Seeding the construct with pluripotent stem cells",
+   "C": "Culturing at supraphysiologic oxygen tension",
+   "D": "Laminating it with lyophilized perichondrium"
+  },
+  "answer": "D",
+  "exp": "Xu and colleagues **laminated the chondrocyte–fibrin construct between two layers of lyophilized perichondrium** to create a tri-layer ear that tolerated torsion and bending without fracturing (mimicking native elastic ear cartilage), whereas the non-laminated control fractured.",
+  "hy": "Perichondrium lamination → flexible engineered ear.",
+  "src": "Neligan I.19 · Flexible ear cartilage (Xu)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — genipin cross-linking is a stiffening strategy, not what conferred flexibility here.",
+   "B": "Wrong — iPS-cell seeding was not the method used.",
+   "C": "Wrong — supraphysiologic oxygen was not the flexibility mechanism.",
+   "D": "Correct — lyophilized-perichondrium lamination conferred the flexibility."
+  }
+ },
+ {
+  "id": "N-I-19.33",
+  "chapter": "Ch19",
+  "section": "Microtia chondrocytes",
+  "stem": "Kamil and colleagues compared microtia-derived chondrocytes with normal chondrocytes. What did they conclude about using microtia cells for ear engineering?",
+  "options": {
+   "A": "Similar proliferation and cartilage formation",
+   "B": "They failed to proliferate and were unusable",
+   "C": "They formed only fibrous tissue, never cartilage",
+   "D": "They required gene correction before any use"
+  },
+  "answer": "A",
+  "exp": "Kamil and colleagues found microtia-derived chondrocytes had **proliferation and cartilage-forming ability similar to normal chondrocytes**, supporting the use of the patient's own microtia cartilage remnant as a cell source for engineering an auricular framework.",
+  "hy": "Microtia chondrocytes ≈ normal → usable cell source.",
+  "src": "Neligan I.19 · Microtia chondrocytes (Kamil)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — similar proliferation/formation, so microtia cells are viable.",
+   "B": "Wrong — they did proliferate, not fail.",
+   "C": "Wrong — they formed cartilage, not merely fibrous tissue.",
+   "D": "Wrong — no gene correction was required in the study."
+  }
+ },
+ {
+  "id": "N-I-19.34",
+  "chapter": "Ch19",
+  "section": "Injectable cartilage — Yanaga",
+  "stem": "Yanaga and colleagues injected cultured autologous auricular chondrocytes for nasal augmentation. What was the key outcome over follow-up?",
+  "options": {
+   "A": "The grafts needed silicone reinforcement to persist",
+   "B": "The cartilage kept its shape without resorption",
+   "C": "The cartilage fully resorbed within three months",
+   "D": "The injected cells ossified into bone tissue"
+  },
+  "answer": "B",
+  "exp": "Yanaga injected cultured autologous auricular chondrocytes (as a gel-like cell mass) for nasal augmentation and facial contouring; over 6 months to 2 years the **injected cartilage kept its shape without resorption** across the reported series.",
+  "hy": "Injected autologous chondrocytes → shape maintained, no resorption.",
+  "src": "Neligan I.19 · Injectable cartilage (Yanaga)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — silicone reinforcement was not required.",
+   "B": "Correct — the injected cartilage maintained shape without resorption.",
+   "C": "Wrong — it did not resorb within 3 months.",
+   "D": "Wrong — the cells formed cartilage, not bone."
+  }
+ },
+ {
+  "id": "N-I-19.35",
+  "chapter": "Ch19",
+  "section": "Injectable scaffolds",
+  "stem": "Which materials were used as early injectable scaffolds to explore the feasibility of injectable engineered cartilage?",
+  "options": {
+   "A": "Decellularized dermis and silicone",
+   "B": "Titanium microbeads and bone cement",
+   "C": "Calcium alginate gels and Pluronic gel",
+   "D": "Polymethylmethacrylate and hydroxyapatite"
+  },
+  "answer": "C",
+  "exp": "Early injectable-cartilage feasibility was explored with slowly polymerizing **calcium alginate gels** and **Pluronic gel**, which suspend chondrocytes in an injectable matrix that sets in situ.",
+  "hy": "Early injectable scaffolds = calcium alginate + Pluronic gel.",
+  "src": "Neligan I.19 · Injectable cartilage",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — decellularized dermis and silicone are not the cited injectable scaffolds.",
+   "B": "Wrong — titanium microbeads and bone cement are not injectable cartilage matrices.",
+   "C": "Correct — calcium alginate and Pluronic gels were the early injectable scaffolds.",
+   "D": "Wrong — PMMA/hydroxyapatite are rigid bone-type materials, not injectable chondrocyte carriers here."
+  }
+ },
+ {
+  "id": "N-I-19.36",
+  "chapter": "Ch19",
+  "section": "Engineered nasal cartilage — Farhadi",
+  "stem": "Farhadi and colleagues engineered human nasal cartilage by seeding septal chondrocytes onto which scaffold?",
+  "options": {
+   "A": "A decellularized tracheal cartilage allograft",
+   "B": "A calcium-phosphate bioceramic scaffold block",
+   "C": "An acellular porcine dermal matrix sheet",
+   "D": "Esterified-hyaluronan (Hyaff-11) mesh"
+  },
+  "answer": "D",
+  "exp": "Farhadi seeded nasal-septum chondrocytes onto **nonwoven meshes of esterified hyaluronan (Hyaff-11)**; the constructs formed well-structured cartilage with good mechanical properties after in-vivo implantation, offering a potential graft for septal/alar reconstruction.",
+  "hy": "Farhadi nasal cartilage = septal chondrocytes on Hyaff-11 (esterified HA).",
+  "src": "Neligan I.19 · Engineered nasal cartilage",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — a decellularized tracheal allograft was not used.",
+   "B": "Wrong — a calcium-phosphate ceramic is a bone scaffold, not this one.",
+   "C": "Wrong — acellular porcine dermis was not the scaffold here.",
+   "D": "Correct — esterified hyaluronan (Hyaff-11) mesh was the scaffold."
+  }
+ },
+ {
+  "id": "N-I-19.37",
+  "chapter": "Ch19",
+  "section": "Joint engineering — TMJ",
+  "stem": "Weng and colleagues engineered a mandibular condyle by molding a PLA-coated PGA scaffold and seeding it with which two cell types?",
+  "options": {
+   "A": "Osteoblasts and chondrocytes",
+   "B": "Fibroblasts and keratinocytes",
+   "C": "Tenocytes and myoblasts",
+   "D": "Endothelial cells and pericytes"
+  },
+  "answer": "A",
+  "exp": "Weng molded a PLA-coated PGA scaffold into a mandibular-condyle shape and seeded it with **osteoblasts and chondrocytes**, producing a condyle-shaped construct with trabecular bone capped by hyaline articular cartilage after 12 weeks — a proof of concept for engineered TMJ reconstruction.",
+  "hy": "Weng TMJ condyle = osteoblasts + chondrocytes on PLA/PGA.",
+  "src": "Neligan I.19 · Joint engineering (Weng)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — osteoblasts plus chondrocytes built the osteochondral condyle.",
+   "B": "Wrong — fibroblasts/keratinocytes build skin, not an osteochondral condyle.",
+   "C": "Wrong — tenocytes/myoblasts were not the condyle cell pair.",
+   "D": "Wrong — endothelial cells/pericytes build vasculature, not the condyle surface."
+  }
+ },
+ {
+  "id": "N-I-19.38",
+  "chapter": "Ch19",
+  "section": "Stem cells for cartilage",
+  "stem": "When native chondrocytes are limited, which adult stem-cell sources are named as the most feasible for cartilage engineering?",
+  "options": {
+   "A": "Amniotic and umbilical-cord epithelial cells",
+   "B": "Bone-marrow (BMSC) and adipose (ASC) MSCs",
+   "C": "Embryonic and induced pluripotent stem cells",
+   "D": "Hematopoietic and neural-crest stem cells"
+  },
+  "answer": "B",
+  "exp": "When native chondrocytes are scarce, adult **mesenchymal stem cells from bone marrow (BMSC) and adipose tissue (ASC)** are named the most feasible sources — they proliferate strongly and can be driven down the chondrogenic lineage by growth factors, co-culture with chondrocytes, or chondrogenic matrices.",
+  "hy": "Cartilage stem-cell sources = BMSC + ASC.",
+  "src": "Neligan I.19 · Stem cell-based engineering",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — amniotic/cord epithelial cells are not the cited feasible sources.",
+   "B": "Correct — bone-marrow and adipose MSCs are the cited feasible sources.",
+   "C": "Wrong — embryonic/iPS cells carry ethical/tumorigenic constraints and are not the \"most feasible\" here.",
+   "D": "Wrong — hematopoietic/neural-crest stem cells are not the named chondrogenic sources."
+  }
+ },
+ {
+  "id": "N-I-19.39",
+  "chapter": "Ch19",
+  "section": "In vitro vs in vivo cartilage",
+  "stem": "Compared with in-vivo-engineered cartilage, in-vitro-engineered cartilage is described as having what shortcoming, linked to which matrix molecules?",
+  "options": {
+   "A": "Superior strength but poorer shape retention",
+   "B": "Faster resorption from excess metalloproteinase",
+   "C": "Weaker strength, low collagen IX/pyridinoline",
+   "D": "Excess calcification from high alkaline phosphatase"
+  },
+  "answer": "C",
+  "exp": "In-vitro-engineered cartilage is **mechanically weaker** than in-vivo-engineered cartilage, because the in-vivo microenvironment better promotes maturation and expression of key matrix molecules such as **collagen IX and pyridinoline** (cross-links), which strengthen the tissue.",
+  "hy": "In vitro cartilage weaker → less collagen IX/pyridinoline.",
+  "src": "Neligan I.19 · In vitro vs in vivo",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — in vitro was weaker, not stronger.",
+   "B": "Wrong — the issue was maturation/cross-linking, not MMP-driven resorption.",
+   "C": "Correct — weaker mechanics tied to lower collagen IX and pyridinoline.",
+   "D": "Wrong — excess calcification/alkaline phosphatase is not the cited in-vitro problem."
+  }
+ },
+ {
+  "id": "N-I-19.40",
+  "chapter": "Ch19",
+  "section": "Bioreactor conditioning",
+  "stem": "Engineering articular cartilage in a bioreactor under continuous dynamic loading was shown to do what?",
+  "options": {
+   "A": "Decrease matrix synthesis and soften it",
+   "B": "Trigger ossification of the neocartilage",
+   "C": "No measurable effect on its properties",
+   "D": "Raise its stiffness and matrix output"
+  },
+  "answer": "D",
+  "exp": "Culturing engineered articular cartilage in a bioreactor under **continuous dynamic loading raised its Young's modulus and increased cartilage oligomeric matrix protein (COMP) and collagens II and IX** — a mechanical-conditioning strategy to strengthen constructs.",
+  "hy": "Bioreactor dynamic loading ↑ Young's modulus, COMP, collagen II/IX.",
+  "src": "Neligan I.19 · Bioreactor conditioning",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Wrong — loading increased, not decreased, matrix synthesis.",
+   "B": "Wrong — it strengthened cartilage rather than triggering ossification.",
+   "C": "Wrong — the effect was significant, not absent.",
+   "D": "Correct — dynamic loading increased stiffness and matrix (COMP, collagen II/IX)."
+  }
+ },
+ {
+  "id": "N-I-19.41",
+  "chapter": "Ch19",
+  "section": "Clinical translation — Zhou 2018",
+  "stem": "In the first clinical application of in-vitro-engineered ear cartilage for microtia (Zhou et al., illustrated in Algorithm 19.1), which combination was used to fabricate and then cover the engineered framework?",
+  "options": {
+   "A": "Microtia chondrocytes on a compound scaffold, then expanded skin + fascia flap cover",
+   "B": "Donor cadaveric chondrocytes on a permanent silicone core, covered with a free radial-forearm flap",
+   "C": "Bone-marrow stem cells on a titanium frame, covered by primary closure alone",
+   "D": "Autologous costal cartilage carved conventionally, with no engineered component"
+  },
+  "answer": "A",
+  "exp": "In the first clinical application (Zhou et al.), a **human ear-shaped cartilage was engineered from the patient's own microtia chondrocytes on a compound biodegradable scaffold** (a 3D-printed PCL core sandwiched by PGA and coated with PLA); the matured framework was then covered by an **expanded skin flap, a post-auricular neurovascular fascia flap, and a skin graft**, giving a detailed auricle stable at 30-month follow-up.",
+  "hy": "Zhou 2018: microtia chondrocytes + PCL/PGA/PLA scaffold, covered by expanded skin + fascia flap + skin graft.",
+  "src": "Neligan I.19 · Clinical translation (Algorithm 19.1)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "why": {
+   "A": "Correct — patient microtia chondrocytes on a compound biodegradable scaffold, covered by expanded skin + neurovascular fascia flap + skin graft.",
+   "B": "Wrong — donor cadaveric cells on a permanent silicone core with a forearm flap is not the described method.",
+   "C": "Wrong — bone-marrow cells on a titanium frame closed primarily is not what was used.",
+   "D": "Wrong — conventional carved costal cartilage has no engineered component and is not this trial."
+  },
+  "expimage": "images/N-I-19-41.jpg",
+  "expimgcap": "Algorithm 19.1 — auricular reconstruction from in-vitro tissue-engineered ear cartilage"
+ },
+ {
+  "id": "N-I-19.42",
+  "chapter": "Ch19",
+  "section": "Figure recognition — septal L-strut",
+  "stem": "This schematic shows harvest of nasal septal cartilage. The striped region that must be preserved (rather than harvested) represents what?",
+  "options": {
+   "A": "The vomerine bony septum below",
+   "B": "The L-strut that maintains nasal support",
+   "C": "The freely harvestable posterior cartilage",
+   "D": "The ethmoid perpendicular plate above"
+  },
+  "answer": "B",
+  "exp": "The striped area is the **L-shaped septal strut** (a caudal + dorsal band of quadrangular cartilage) that must be preserved to maintain nasal support; the nonsupportive quadrangular cartilage posterior to the dashed line can be harvested freely.",
+  "hy": "Striped region = L-strut (preserve for support).",
+  "src": "Neligan I.19 · Fig 19.13 septal harvest",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "image": "images/N-I-19-42.jpg",
+  "imgcap": "Which region is preserved?",
+  "why": {
+   "A": "Wrong — the vomer is bony septum, not the striped quadrangular-cartilage strut shown.",
+   "B": "Correct — the striped L-strut is what must be kept for nasal support.",
+   "C": "Wrong — the freely harvestable cartilage is the region *posterior* to the strut, not the striped strut itself.",
+   "D": "Wrong — the perpendicular plate of the ethmoid is a separate bony structure, not the striped cartilage."
+  }
+ },
+ {
+  "id": "N-I-19.43",
+  "chapter": "Ch19",
+  "section": "Figure recognition — engineered ear",
+  "stem": "This gross specimen from a landmark tissue-engineering study shows a construct implanted subcutaneously in a nude mouse. What is it?",
+  "options": {
+   "A": "A decellularized tracheal cartilage scaffold",
+   "B": "A perichondrial neocartilage nodule",
+   "C": "A tissue-engineered ear-shaped cartilage",
+   "D": "An autologous costal cartilage framework"
+  },
+  "answer": "C",
+  "exp": "This is the **tissue-engineered human-ear-shaped cartilage** grown by seeding chondrocytes on a PGA ear-shaped scaffold and implanting it subcutaneously in a nude mouse (Cao/Vacanti) — the iconic proof that an anatomically shaped cartilage could be engineered.",
+  "hy": "Ear-shape cartilage on a nude mouse = engineered auricular cartilage.",
+  "src": "Neligan I.19 · Fig 19.22 engineered ear",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "19",
+  "chname": "Repair, grafting, and engineering of cartilage",
+  "image": "images/N-I-19-43.jpg",
+  "imgcap": "What is this construct?",
+  "why": {
+   "A": "Wrong — a decellularized tracheal scaffold is tubular tracheal cartilage, not an ear shape.",
+   "B": "Wrong — a perichondrial neocartilage nodule is a small amorphous nodule, not this detailed ear form.",
+   "C": "Correct — the ear-shaped construct on the mouse is tissue-engineered cartilage.",
+   "D": "Wrong — a carved autologous costal framework would be harvested from a human rib, not grown on a mouse."
+  }
  }
 ]
