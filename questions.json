@@ -40085,5 +40085,949 @@
    "C": "Wrong — choke-vessel dilation concerns flaps, not free grafts.",
    "D": "Wrong — no lymphatic regeneration is shown."
   }
+ },
+ {
+  "id": "N-I-18.1",
+  "chapter": "Ch18",
+  "section": "History — plastic surgery firsts",
+  "stem": "The chapter opens with a surgeon working in India c. 600–1000 BCE who reconstructed noses amputated as punishment for adultery and taught that a student \"must prepare a dead body and carefully examine all its parts.\" Who is described?",
+  "options": {
+   "A": "Aulus Cornelius Celsus, the Roman medical encyclopedist",
+   "B": "Gaspare Tagliacozzi, the Bolognese Renaissance surgeon",
+   "C": "Sushruta, working in India roughly 600–1000 BCE",
+   "D": "Sir Harold Gillies, the World-War facial-reconstruction pioneer"
+  },
+  "answer": "C",
+  "exp": "Sushruta, working in India c. 600–1000 BCE, is the dawn-of-surgery figure who reconstructed noses amputated as punishment for adultery and taught that anatomical dissection of the dead is prerequisite to safe surgery — the earliest expression of the \"understand the science first\" ethos the chapter applies to tissue engineering. His forehead-flap nasal reconstruction is the ancestral plastic-surgery operation.",
+  "hy": "Sushruta (600–1000 BCE, India) = punitive-amputation nasal reconstruction + dissection ethos.",
+  "src": "Neligan I.18 · Introduction/History",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Celsus was a first-century Roman encyclopedist, not the BCE Indian nasal-reconstruction figure described.",
+   "B": "Wrong — Tagliacozzi is the 16th-century Bolognese surgeon who dissected executed prisoners, not the ancient Indian one.",
+   "C": "Correct — Sushruta is the Indian antiquity figure who reconstructed amputated noses and championed cadaveric dissection.",
+   "D": "Wrong — Gillies is a 20th-century wartime facial-reconstruction pioneer, not an ancient surgeon."
+  }
+ },
+ {
+  "id": "N-I-18.2",
+  "chapter": "Ch18",
+  "section": "History — plastic surgery firsts",
+  "stem": "\"We restore, rebuild and make whole those parts which nature hath given, but which fortune has taken away… that it might buoy up the spirit\" — this credo, cited as a summary of plastic surgery's aims, is attributed to whom?",
+  "options": {
+   "A": "Gaspare Tagliacozzi, who reconstructed noses injured in duels",
+   "B": "Sushruta, who reconstructed noses amputated as punishment",
+   "C": "Sir Archibald McIndoe, who reconstructed burned RAF airmen",
+   "D": "Joseph Murray, who performed the first human kidney transplant"
+  },
+  "answer": "A",
+  "exp": "Gaspare Tagliacozzi, the 16th-century Bolognese surgeon who dissected executed prisoners to learn the anatomy behind his delayed-pedicle nasal reconstructions for duel injuries, authored the famous credo the chapter uses to capture the shared aspiration of plastic surgery and tissue engineering — restoring form *and* spirit.",
+  "hy": "\"We restore, rebuild and make whole…\" = Tagliacozzi.",
+  "src": "Neligan I.18 · Introduction/History",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Correct — the quotation is Tagliacozzi's summary of plastic surgery's aims.",
+   "B": "Wrong — Sushruta's cited line is about dissecting a dead body to learn anatomy, not this restorative credo.",
+   "C": "Wrong — McIndoe is a Guinea-Pig-Club surgeon, not the author of the quote.",
+   "D": "Wrong — Murray is the kidney-transplant Nobel laureate, unrelated to the quotation."
+  }
+ },
+ {
+  "id": "N-I-18.3",
+  "chapter": "Ch18",
+  "section": "History — the Guinea Pig Club",
+  "stem": "Whose experimental facial reconstructions on badly disfigured RAF airmen earned their patients the nickname \"The Guinea Pig Club\"?",
+  "options": {
+   "A": "Joseph Murray and Harry Buncke, the transplant/replantation pioneers",
+   "B": "Gaspare Tagliacozzi and Sushruta, the historical nasal reconstructors",
+   "C": "G. Ian Taylor and Bernard O'Brien, the Melbourne microsurgeons",
+   "D": "Harold Gillies and Archibald McIndoe, the wartime burn surgeons"
+  },
+  "answer": "D",
+  "exp": "Sir Harold Gillies (a New Zealander) and his cousin Sir Archibald McIndoe, aided by Kilner and Mowlem, pushed the experimental limits of facial reconstruction on badly burned airmen, whose willingness to undergo pioneering procedures earned them the \"Guinea Pig Club\" moniker — the chapter's emblem of surgical brinkmanship driving innovation.",
+  "hy": "Guinea Pig Club = Gillies + McIndoe (RAF airmen).",
+  "src": "Neligan I.18 · First evolution (random-pattern/pedicle flaps)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Murray (kidney transplant) and Buncke (replantation) are microsurgery-era figures, not the wartime facial pair.",
+   "B": "Wrong — Tagliacozzi and Sushruta are the antiquity/Renaissance figures, centuries earlier.",
+   "C": "Wrong — Taylor (angiosomes) and O'Brien (lymphatic microsurgery) are the Melbourne microsurgeons.",
+   "D": "Correct — Gillies and McIndoe are the Guinea Pig Club surgeons."
+  }
+ },
+ {
+  "id": "N-I-18.4",
+  "chapter": "Ch18",
+  "section": "Second evolution — microsurgery firsts",
+  "stem": "The chapter credits the first successful human-to-human kidney transplant (1954), later recognized with the 1990 Nobel Prize, to which surgeon?",
+  "options": {
+   "A": "Bernard O'Brien, pioneer of lymphatico-venous anastomosis",
+   "B": "Joseph Murray, working in Boston in 1954",
+   "C": "Harry Buncke, pioneer of experimental replantation",
+   "D": "G. Ian Taylor, who characterized the body's angiosomes"
+  },
+  "answer": "B",
+  "exp": "Dr Joseph Murray performed the first successful human-to-human kidney transplant in Boston in 1954 and received the 1990 Nobel Prize in Physiology or Medicine — the chapter's exemplar that plastic-surgical innovation could reshape the whole of medicine.",
+  "hy": "First human kidney transplant (1954) + Nobel 1990 = Joe Murray.",
+  "src": "Neligan I.18 · Second evolution (microsurgery)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — O'Brien pioneered lymphatic microsurgery, not organ transplantation.",
+   "B": "Correct — Murray did the first human kidney transplant and won the 1990 Nobel.",
+   "C": "Wrong — Buncke is credited with experimental replantation/microsurgery, not the kidney transplant.",
+   "D": "Wrong — Taylor mapped angiosomes and did the first free flap, not the transplant."
+  }
+ },
+ {
+  "id": "N-I-18.5",
+  "chapter": "Ch18",
+  "section": "Second evolution — microsurgery firsts",
+  "stem": "Who is credited with the first experimental replantation of a rabbit ear (1964) and the first primate toe-to-hand transfer (1966)?",
+  "options": {
+   "A": "Harry Buncke, working in the USA",
+   "B": "G. Ian Taylor, working in Melbourne",
+   "C": "Joseph Murray, working in Boston",
+   "D": "Bernard O'Brien, working in Melbourne"
+  },
+  "answer": "A",
+  "exp": "Dr Harry Buncke reported the first experimental replantation — a rabbit ear — in 1964, then the first primate toe-to-hand transfer in 1966 and omentum-to-scalp transfer in 1969, establishing the experimental foundation of clinical microsurgery.",
+  "hy": "Buncke = rabbit-ear replantation (1964) + primate toe-to-hand (1966).",
+  "src": "Neligan I.18 · Second evolution (microsurgery)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Correct — these experimental microsurgical firsts are Buncke's.",
+   "B": "Wrong — Taylor's landmark was the first composite free flap and the angiosome map, not the rabbit-ear work.",
+   "C": "Wrong — Murray's landmark was the kidney transplant.",
+   "D": "Wrong — O'Brien's contributions were in lymphatic microsurgery."
+  }
+ },
+ {
+  "id": "N-I-18.6",
+  "chapter": "Ch18",
+  "section": "Second evolution — angiosome concept",
+  "stem": "Mapping the body's vascular territories in the Melbourne morgue, which surgeon performed the first composite fasciocutaneous free tissue transfer in 1971 (a groin flap to an open ankle fracture)?",
+  "options": {
+   "A": "Bernard O'Brien, who restored lymphatic physiology microsurgically",
+   "B": "Harry Buncke, who replanted a rabbit ear experimentally",
+   "C": "Ralph Millard, who advanced cleft-lip reconstruction principles",
+   "D": "G. Ian Taylor, who then defined the angiosome concept"
+  },
+  "answer": "D",
+  "exp": "Professor G. Ian Taylor, mapping the body's vascular territories in the Melbourne morgue, performed the first composite fasciocutaneous free tissue transfer in 1971 (a groin free flap to an open ankle fracture) and articulated the \"angiosome\" concept — dividing the whole body into vascular territories permitting tissue transfer from almost any donor site.",
+  "hy": "Taylor = first free flap (1971, groin→ankle) + angiosome concept.",
+  "src": "Neligan I.18 · Second evolution (angiosomes)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — O'Brien, Taylor's Melbourne rival, worked on lymphatic microsurgery, not the first free flap.",
+   "B": "Wrong — Buncke's firsts were experimental replantation, not the free groin flap.",
+   "C": "Wrong — Millard is associated with cleft principles, not the angiosome map or first free flap.",
+   "D": "Correct — Taylor did the first composite free flap and defined angiosomes."
+  }
+ },
+ {
+  "id": "N-I-18.7",
+  "chapter": "Ch18",
+  "section": "Second evolution — lymphatic microsurgery",
+  "stem": "Taylor's cross-town Melbourne rival is credited with microsurgical restoration of lymphatic physiology — lymphatico-venous anastomosis (1976) and later vascularized lymph node transfer. Who was he?",
+  "options": {
+   "A": "Robert Acland, of microvascular-instrument fame",
+   "B": "Bernard O'Brien, working in Melbourne",
+   "C": "Joseph Murray, working in Boston",
+   "D": "Harry Buncke, working in the United States"
+  },
+  "answer": "B",
+  "exp": "Dr Bernard O'Brien, Taylor's cross-town Melbourne rival, applied microsurgery to the lymphatic system — performing lymphatico-venous anastomosis (1976) and later free vascularized lymph node transfer — extending microsurgery from bulk tissue transfer to physiologic restoration.",
+  "hy": "O'Brien = lymphatico-venous anastomosis (1976) + vascularized lymph node transfer.",
+  "src": "Neligan I.18 · Second evolution (microsurgery)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Acland is known for microvascular instruments/anastomosis technique, not the lymphatic firsts named here.",
+   "B": "Correct — O'Brien pioneered lymphatic microsurgery.",
+   "C": "Wrong — Murray did the kidney transplant.",
+   "D": "Wrong — Buncke's firsts were experimental replantation and toe-to-hand, not lymphatic surgery."
+  }
+ },
+ {
+  "id": "N-I-18.8",
+  "chapter": "Ch18",
+  "section": "Composite tissue allotransplantation",
+  "stem": "Which sequence gives the chapter's chronology of composite tissue allotransplantation milestones correctly?",
+  "options": {
+   "A": "First full face transplant 1998 → first hand transplant 2005 → first partial face transplant 2010",
+   "B": "First partial face transplant 1998 → first hand transplant 2005 → first full face transplant 2010",
+   "C": "Hand transplant 1998 → partial face transplant 2005 → full face transplant 2010",
+   "D": "First hand transplant 1998 → first full face transplant 2005 → first partial face transplant 2010"
+  },
+  "answer": "C",
+  "exp": "The chapter dates composite tissue allotransplantation milestones as: first hand transplant 1998 (French surgeons), first partial face transplant to a living recipient 2005, and first full face transplant 2010 (Spain) — after which the field's challenge shifted from technique to the judgment of recipient selection.",
+  "hy": "CTA order: hand 1998 → partial face 2005 → full face 2010.",
+  "src": "Neligan I.18 · Second evolution (CTA)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — the full face transplant was 2010, not first in 1998.",
+   "B": "Wrong — the hand (1998), not a partial face, came first.",
+   "C": "Correct — hand 1998, partial face 2005, full face 2010 is the chapter's chronology.",
+   "D": "Wrong — the partial face (2005) preceded the full face (2010); this reverses them."
+  }
+ },
+ {
+  "id": "N-I-18.9",
+  "chapter": "Ch18",
+  "section": "Origin of the term",
+  "stem": "Y.C. Fung introduced the term \"tissue engineering\" in 1985, and the 1987–1992 \"first biotech boom\" that followed was centered where?",
+  "options": {
+   "A": "In the state hospital laboratories of Japan",
+   "B": "Around the MIT and Harvard precincts in the United States",
+   "C": "Within the National Health Service institutes of the United Kingdom",
+   "D": "At the O'Brien Institute in Melbourne, Australia"
+  },
+  "answer": "B",
+  "exp": "Y.C. Fung coined \"tissue engineering\" in 1985; the 1987–1992 \"first biotech boom\" that followed was centered on the MIT–Harvard precincts in the United States, with a heavily academic (≈90%) and privately funded (≈90%) make-up and little of today's regulatory governance.",
+  "hy": "First biotech boom epicenter = MIT/Harvard, USA.",
+  "src": "Neligan I.18 · Origin of the term",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Japan's early cell work was confined to state hospitals with no start-ups, not a boom epicenter.",
+   "B": "Correct — the MIT/Harvard precincts were the boom's epicenter.",
+   "C": "Wrong — the UK/NHS environment was slower and more conservative, not the epicenter.",
+   "D": "Wrong — the O'Brien Institute was an Australian microsurgery/lymphatic center, not the biotech-boom epicenter."
+  }
+ },
+ {
+  "id": "N-I-18.10",
+  "chapter": "Ch18",
+  "section": "Defining the field",
+  "stem": "Langer and Vacanti's landmark definition frames tissue engineering as an interdisciplinary field applying biology and engineering to do what?",
+  "options": {
+   "A": "Transfer vascularized 3D blocks of a patient's own tissue between body sites",
+   "B": "Edit the genome of somatic cells to correct inherited developmental disorders",
+   "C": "Deliver systemic drugs that modulate a patient's own regenerative processes",
+   "D": "Build biological substitutes that restore or improve tissue function"
+  },
+  "answer": "D",
+  "exp": "Langer and Vacanti defined tissue engineering as an interdisciplinary field applying biology and engineering to develop functional biological substitutes that restore, maintain, or improve function in damaged tissue and diseased organs — the substitute-building aim that distinguishes it from purely pharmacologic or surgical approaches.",
+  "hy": "Langer–Vacanti: engineered biological substitutes to restore/maintain/improve function.",
+  "src": "Neligan I.18 · Defining the field",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — transferring vascularized autologous tissue blocks is free-flap microsurgery, not tissue engineering.",
+   "B": "Wrong — somatic genome editing describes gene therapy, a tool used within TERM, not the definition.",
+   "C": "Wrong — systemic modulation of a patient's own regenerative processes describes regenerative medicine.",
+   "D": "Correct — this is the Langer–Vacanti definition of tissue engineering."
+  }
+ },
+ {
+  "id": "N-I-18.11",
+  "chapter": "Ch18",
+  "section": "TERM",
+  "stem": "Within the combined field abbreviated TERM, which statement best distinguishes regenerative medicine from tissue engineering as the chapter frames them today?",
+  "options": {
+   "A": "Regenerative medicine assembles cell-seeded scaffolds ex vivo, while tissue engineering delivers systemic promoting drugs",
+   "B": "Regenerative medicine modulates the body's own healing, while tissue engineering delivers structural tissue components",
+   "C": "Regenerative medicine belongs to the surgeon and engineer, while tissue engineering belongs to the physician and cell biologist",
+   "D": "Regenerative medicine builds whole replacement organs, while tissue engineering only accelerates epithelial wound closure"
+  },
+  "answer": "B",
+  "exp": "The chapter frames regenerative medicine as harnessing and modulating the body's own pre-existing regenerative processes (often systemically — cell, gene, immune, or nutritional therapy), while tissue engineering focuses on the physical arrangement, delivery, and implantation of structural tissue components, with or without cells; TERM is the integration of the two.",
+  "hy": "Regenerative medicine = modulate native processes; tissue engineering = build/deliver structural components.",
+  "src": "Neligan I.18 · Modern TERM",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — this reverses the two (scaffold assembly is tissue engineering; systemic promotion is regenerative medicine).",
+   "B": "Correct — this matches the chapter's regenerative-medicine-vs-tissue-engineering distinction.",
+   "C": "Wrong — the surgeon/engineer-vs-physician/biologist split is the *older* demarcation the chapter says has blurred.",
+   "D": "Wrong — regenerative medicine is not defined by building whole organs, nor tissue engineering limited to epithelial closure."
+  }
+ },
+ {
+  "id": "N-I-18.12",
+  "chapter": "Ch18",
+  "section": "The engineering triad",
+  "stem": "Modern tissue-engineering constructs are conceived, per the chapter's schematic, as the integration of which three core elements to yield an engineered tissue?",
+  "options": {
+   "A": "A vascular pedicle, a nerve coaptation, and a supporting bony strut",
+   "B": "Layered autograft, allograft, and xenograft in sequence",
+   "C": "Cells, a biomaterial scaffold, and signaling growth factors",
+   "D": "Cultured cells, systemic antibiotics, and a pressure garment"
+  },
+  "answer": "C",
+  "exp": "The chapter's schematic conceives engineered tissue as the convergence of cells, a biomaterial scaffold, and signaling growth factors (often delivered via a bioreactor) — the classic tissue-engineering triad; surrounding disciplines (nanotech, genomics, developmental genetics) refine each element.",
+  "hy": "Tissue-engineering triad = cells + scaffold + signals (growth factors).",
+  "src": "Neligan I.18 · Cell biology & scaffolds (Fig 18.10)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — pedicle, nerve coaptation, and bony strut describe free-flap/reconstructive components, not the triad.",
+   "B": "Wrong — autograft/allograft/xenograft are graft-source categories, not the cells-scaffold-signals triad.",
+   "C": "Correct — cells, scaffold, and growth-factor signals are the three core inputs.",
+   "D": "Wrong — antibiotics and a pressure garment are perioperative adjuncts, not the engineering triad."
+  },
+  "expimage": "images/N-I-18-12.jpg",
+  "expimgcap": "The tissue-engineering triad: cells + biomaterial scaffold + growth factors/bioreactor → engineered tissue"
+ },
+ {
+  "id": "N-I-18.13",
+  "chapter": "Ch18",
+  "section": "The fall of Mark-I",
+  "stem": "At the turn-of-century crash, the total capital value of tissue-engineering companies collapsed by roughly what magnitude, per the figures cited?",
+  "options": {
+   "A": "About 50% — from ~US$2.5 billion in 2000 to ~US$1.25 billion two years later",
+   "B": "About 30% — from ~US$4.5 billion in 2000 to ~US$3 billion two years later",
+   "C": "About 75% — from ~US$300 million in 2000 to ~US$75 million two years later",
+   "D": "About 90% — from ~US$2.5 billion in 2000 to ~US$300 million two years later"
+  },
+  "answer": "D",
+  "exp": "The sector's total capital value fell ~90%, from about US$2.5 billion in 2000 to about US$300 million two years later — the \"tech bubble\"-style correction the chapter uses to frame the collapse of tissue engineering Mark-I.",
+  "hy": "TE crash ≈ 90% ($2.5B → $300M in 2 yr).",
+  "src": "Neligan I.18 · Fall of Mark-I",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — the decline was ~90%, not ~50%; $2.5B did not fall only to $1.25B.",
+   "B": "Wrong — $4.5B was the cumulative R&D invested, not the 2000 market value, and the drop was steeper than 30%.",
+   "C": "Wrong — the starting value was billions, not $300M; $300M was the *end* value.",
+   "D": "Correct — a ~90% drop from ~$2.5B to ~$300M."
+  }
+ },
+ {
+  "id": "N-I-18.14",
+  "chapter": "Ch18",
+  "section": "The fall of Mark-I",
+  "stem": "By the chapter's accounting at the moment of collapse, which statement about the early tissue-engineering industry is correct?",
+  "options": {
+   "A": "Of 20 products in FDA trials, four were approved yet none succeeded commercially",
+   "B": "Of 20 products in FDA trials, the majority reached the market and turned a profit",
+   "C": "Cardiac and neural tissue represented well over half of the sector's research effort",
+   "D": "No tissue-engineering product ever entered an FDA trial before the sector collapsed"
+  },
+  "answer": "A",
+  "exp": "Of 20 products that reached FDA trials, six were abandoned or failed and four were eventually approved — yet none achieved commercial success and no viable portfolio emerged, despite >US$4.5 billion invested; skin and cartilage work (not cardiac/neural) accounted for over half the effort.",
+  "hy": "20 in FDA trials → 4 approved, none commercially successful.",
+  "src": "Neligan I.18 · Fall of Mark-I",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Correct — four of twenty were approved but none succeeded commercially.",
+   "B": "Wrong — the products did not reach market profitably; that is the opposite of what happened.",
+   "C": "Wrong — skin and cartilage, not cardiac and neural tissue, comprised >50% of the effort.",
+   "D": "Wrong — twenty products did enter FDA trials before the collapse."
+  }
+ },
+ {
+  "id": "N-I-18.15",
+  "chapter": "Ch18",
+  "section": "The fall of Mark-I — root causes",
+  "stem": "Which factor is identified as a central, structural reason the first-generation model was commercially unviable?",
+  "options": {
+   "A": "A worldwide shortage of surgeons trained to implant the constructs",
+   "B": "Patent law that banned all commercialization of cell products before 2000",
+   "C": "The complete absence of any unmet clinical need for soft-tissue reconstruction",
+   "D": "Reliance on living cells that were costly, scarce, and heavily regulated"
+  },
+  "answer": "D",
+  "exp": "The core structural flaw was reliance on living cells — by definition hard to source, costly to maintain, and burdened by regulatory and ethical complexity — which prevented commercial scale, kept costs above the conventional solutions being superseded, and produced a low rate of FDA approval and payer adoption.",
+  "hy": "Mark-I failed on unscalable, costly, regulated *living-cell* handling.",
+  "src": "Neligan I.18 · Root causes of collapse",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — the bottleneck was commercialization and cell biology, not a shortage of implanting surgeons.",
+   "B": "Wrong — no blanket pre-2000 patent prohibition is described; the barriers were cost, scale, and regulation.",
+   "C": "Wrong — an unmet clinical need existed (and paradoxically shrank as microsurgery matured); the problem was viability, not absence of need.",
+   "D": "Correct — the living-cell handling problem is the chapter's central structural cause."
+  }
+ },
+ {
+  "id": "N-I-18.16",
+  "chapter": "Ch18",
+  "section": "Geography of early IP",
+  "stem": "Between 1980 and 2001, the intellectual property filed in early tissue engineering (N = 567) was dominated by which region?",
+  "options": {
+   "A": "Europe, holding roughly 71% of all filings",
+   "B": "Japan, holding roughly 71% of all filings",
+   "C": "The United States, with about 71% of filings",
+   "D": "Australia, holding roughly 71% of all filings"
+  },
+  "answer": "C",
+  "exp": "Of 567 early tissue-engineering IP filings (1980–2001), the United States held ~71%, with Europe ~18%, Japan ~6%, and others ~5% — reflecting the US (MIT/Harvard) epicenter of the field.",
+  "hy": "Early TE IP: US ~71% dominant.",
+  "src": "Neligan I.18 · Geography of IP (Fig 18.6)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Europe held ~18%, not 71%.",
+   "B": "Wrong — Japan held ~6%, not 71%.",
+   "C": "Correct — the US held ~71% of early TE IP.",
+   "D": "Wrong — Australia was a minor contributor, not the 71% leader."
+  }
+ },
+ {
+  "id": "N-I-18.17",
+  "chapter": "Ch18",
+  "section": "Table 18.1 — scaffold requirements",
+  "stem": "Per Table 18.1, which scaffold characteristic is paired with the rationale \"absorption rate compatible with the tissue regeneration rate\"?",
+  "options": {
+   "A": "Biocompatible — generating an appropriate host immune response",
+   "B": "Structural integrity — strength to tolerate applied physical forces",
+   "C": "Biodegradable — matching resorption to new-tissue formation",
+   "D": "Mechanical resilience — elasticity enduring long-term deformation"
+  },
+  "answer": "C",
+  "exp": "In Table 18.1, \"Biodegradable\" is paired with the rationale that the scaffold's absorption rate must be compatible with the tissue regeneration rate — degrading no faster and no slower than the new tissue forms.",
+  "hy": "Biodegradable = absorption rate matched to tissue regeneration.",
+  "src": "Neligan I.18 · Table 18.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — biocompatibility's rationale is generating an appropriate host immune response.",
+   "B": "Wrong — structural integrity's rationale is strength to tolerate physical forces.",
+   "C": "Correct — biodegradability's rationale is absorption matched to regeneration rate.",
+   "D": "Wrong — mechanical resilience's rationale is elasticity to endure deformation long-term."
+  }
+ },
+ {
+  "id": "N-I-18.18",
+  "chapter": "Ch18",
+  "section": "Table 18.1 — scaffold requirements",
+  "stem": "In Table 18.1, which scaffold property is specifically required so that cells and vasculature can grow *into* the construct?",
+  "options": {
+   "A": "Porosity — a porous structure of adequate dimensions for ingress",
+   "B": "Biocompatibility — generation of an appropriate host immune response",
+   "C": "Mechanical resilience — elasticity enduring deformation without compromise",
+   "D": "Structural integrity — strength to tolerate forces and preserve cell integrity"
+  },
+  "answer": "A",
+  "exp": "Table 18.1 lists porosity — a porous structure of adequate pore dimensions — as the property that permits cellular and vascular ingress into the scaffold; without it, cells and vessels cannot populate the construct's interior.",
+  "hy": "Porosity = pathway for cellular + vascular ingress.",
+  "src": "Neligan I.18 · Table 18.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Correct — porosity enables cellular and vascular ingrowth.",
+   "B": "Wrong — biocompatibility governs the host immune response, not physical ingress.",
+   "C": "Wrong — mechanical resilience concerns elastic deformation, not cell entry.",
+   "D": "Wrong — structural integrity concerns load tolerance, not the porous pathway for ingrowth."
+  }
+ },
+ {
+  "id": "N-I-18.19",
+  "chapter": "Ch18",
+  "section": "Biomaterials biology",
+  "stem": "The chapter defines a scaffold, in tissue engineering, principally as a material engineered to do what?",
+  "options": {
+   "A": "Provide a permanent, non-degradable strut that host tissue never remodels",
+   "B": "Deliver a fixed systemic dose of antifibrotic drug to remodel scar",
+   "C": "Serve as a temporary occlusive dressing that never interacts with host cells",
+   "D": "Create a favorable environment for cells to survive and form tissue"
+  },
+  "answer": "D",
+  "exp": "A scaffold is defined as a material engineered to create a favorable environment for cells to survive and form functional tissue — supporting the cells that are the \"engine rooms\" of tissue growth — and ideally re-creating the tissue-specific microenvironment to regulate long-term cell behavior.",
+  "hy": "Scaffold = engineered pro-cell environment supporting tissue formation.",
+  "src": "Neligan I.18 · Biomaterials biology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — an ideal scaffold interacts with and is remodeled by host tissue, not a permanent inert strut.",
+   "B": "Wrong — a fixed systemic antifibrotic dose describes drug therapy, not a scaffold.",
+   "C": "Wrong — a scaffold is not merely an occlusive dressing; it actively supports cellular ingrowth.",
+   "D": "Correct — this is the chapter's definition of a scaffold."
+  }
+ },
+ {
+  "id": "N-I-18.20",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — classification",
+  "stem": "Early \"epidermal\" substitutes such as cultured epithelial autografts (CEA) were limited in clinical translation chiefly by what problem?",
+  "options": {
+   "A": "Fragility of the cultured sheets, underscoring the need for a dermal layer",
+   "B": "A high rate of malignant transformation of the transplanted keratinocytes",
+   "C": "An inability to be grown from the patient's own cells, forcing allograft use",
+   "D": "Immediate hyperacute rejection because the keratinocytes were xenogeneic"
+  },
+  "answer": "A",
+  "exp": "Skin substitutes are classified as epidermal or dermal replacements. Early epidermal substitutes — cultured epithelial autografts (CEA), expanded keratinocyte sheets — were limited clinically by the structural fragility of the cultured sheets, which highlighted how essential a dermal-like layer is to replicate skin.",
+  "hy": "CEA fragility → dermal layer is essential.",
+  "src": "Neligan I.18 · Skin substitutes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Correct — fragility of the epidermal sheets, and the resulting need for a dermal layer, was the limiting problem.",
+   "B": "Wrong — malignant transformation of the keratinocytes is not the cited limitation.",
+   "C": "Wrong — CEAs are autologous (cultured from the patient), so allograft dependence is not the issue.",
+   "D": "Wrong — autologous keratinocytes are not xenogeneic, so hyperacute rejection does not apply."
+  }
+ },
+ {
+  "id": "N-I-18.21",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — Integra",
+  "stem": "Integra's Dermal Regeneration Template (FDA-approved 1996; Yannas and Bourke) is fabricated from which characteristic materials?",
+  "options": {
+   "A": "Esterified hyaluronic acid seeded with autologous fibroblasts",
+   "B": "Bovine collagen with shark chondroitin-6-sulfate",
+   "C": "A fully synthetic polyurethane bilayer foam",
+   "D": "Decellularized human dermis retaining a collagen–elastin frame"
+  },
+  "answer": "B",
+  "exp": "Integra, one of the first dermal matrices to market (FDA-approved 1996; developed by Yannas and Bourke), is built from bovine collagen and shark chondroitin-6-sulfate under a temporary silicone epidermal layer — the archetypal collagen-based xenogeneic dermal template.",
+  "hy": "Integra = bovine collagen + shark chondroitin-6-sulfate.",
+  "src": "Neligan I.18 · Integra",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — esterified hyaluronic acid seeded with autologous fibroblasts describes Hyalomatrix, not Integra.",
+   "B": "Correct — Integra's matrix is bovine collagen plus shark chondroitin-6-sulfate.",
+   "C": "Wrong — a fully synthetic polyurethane bilayer describes Novosorb BTM.",
+   "D": "Wrong — decellularized cadaveric dermis describes Alloderm/Glyaderm, not Integra."
+  }
+ },
+ {
+  "id": "N-I-18.22",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — biomaterials",
+  "stem": "Across the collagen-based dermal templates (Integra, Matriderm, Pelnac), which single material predominates, and why is it favored?",
+  "options": {
+   "A": "Hyaluronic acid — because it is the stiffest available glycosaminoglycan",
+   "B": "Elastin — because it is the most abundant extracellular-matrix protein",
+   "C": "Polyglycolic acid — because it is fully synthetic and non-immunogenic",
+   "D": "Collagen — because it is the most abundant extracellular-matrix protein"
+  },
+  "answer": "D",
+  "exp": "Although the collagen-based templates (Integra, Matriderm, Pelnac) vary in co-polymer composition, collagen predominates because it is the most abundant extracellular-matrix protein — the natural structural backbone for a biomimetic dermal scaffold.",
+  "hy": "Collagen = most abundant ECM protein → predominant scaffold material.",
+  "src": "Neligan I.18 · Skin substitutes/biomaterials",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — hyaluronic acid is used (e.g. Hyalomatrix) but is not the predominant material or \"stiffest GAG\" rationale.",
+   "B": "Wrong — collagen, not elastin, is the most abundant ECM protein.",
+   "C": "Wrong — polyglycolic acid is a synthetic scaffold polymer (e.g. lymphatic work), not the predominant dermal-template material.",
+   "D": "Correct — collagen predominates as the most abundant ECM protein."
+  }
+ },
+ {
+  "id": "N-I-18.23",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — allogeneic templates",
+  "stem": "Alloderm and Glyaderm differ from Integra in that they are produced how?",
+  "options": {
+   "A": "As esterified hyaluronic-acid matrices seeded with the patient's fibroblasts",
+   "B": "As decellularized human allografts keeping a collagen–elastin frame",
+   "C": "As bovine-collagen and shark-chondroitin xenografts beneath a silicone layer",
+   "D": "As electrospun synthetic polyurethane foams with super-macroporous chambers"
+  },
+  "answer": "B",
+  "exp": "Alloderm and Glyaderm are decellularized human allografts: a de-cellularization process removes donor cells while preserving the native collagen–elastin framework, contrasting with the xenogeneic (bovine/shark) polymers of Integra. Glyaderm additionally uses a three-step process with allograft priming of the wound bed.",
+  "hy": "Alloderm/Glyaderm = decellularized allograft, collagen–elastin scaffold retained.",
+  "src": "Neligan I.18 · Allogeneic templates",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — esterified HA seeded with fibroblasts is Hyalomatrix, not Alloderm/Glyaderm.",
+   "B": "Correct — both are decellularized allografts retaining a collagen–elastin framework.",
+   "C": "Wrong — bovine-collagen/shark-chondroitin xenograft is Integra.",
+   "D": "Wrong — electrospun synthetic polyurethane foam is Novosorb BTM."
+  }
+ },
+ {
+  "id": "N-I-18.24",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — Novosorb BTM",
+  "stem": "Novosorb Biodegradable Temporizing Matrix (BTM), developed through John Greenwood's work, represents a scaffold paradigm shift because it is:",
+  "options": {
+   "A": "A decellularized allogeneic dermis harvested from human cadavers",
+   "B": "A cultured epithelial autograft delivered as a keratinocyte cell spray",
+   "C": "A bovine-collagen hydrogel seeded with autologous fibroblasts and keratinocytes",
+   "D": "A synthetic polyurethane scaffold whose super-macroporosity resists infection"
+  },
+  "answer": "D",
+  "exp": "Novosorb BTM (John Greenwood; PolyNovo, Australia) is a fully synthetic polyurethane scaffold whose \"super-macroporosity\" (large interconnected pores/chambers) and acidic breakdown products (e.g. lactic acid) both drive cellular infiltration and vascularization and create an environment inhospitable to infection — a paradigm shift away from biologically derived scaffolds.",
+  "hy": "Novosorb BTM = synthetic polyurethane, super-macroporous, infection-resistant.",
+  "src": "Neligan I.18 · Novosorb BTM",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — decellularized cadaveric dermis is Alloderm/Glyaderm.",
+   "B": "Wrong — a keratinocyte cell spray describes RECELL, an epidermal product.",
+   "C": "Wrong — a bovine-collagen hydrogel seeded with autologous cells is Denovoskin.",
+   "D": "Correct — BTM is the synthetic polyurethane scaffold with super-macroporosity."
+  }
+ },
+ {
+  "id": "N-I-18.25",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — Novosorb vs Integra",
+  "stem": "When synthetic polyurethane BTM (Novosorb) was compared with collagen-based Integra in a mouse model, what was observed about integration?",
+  "options": {
+   "A": "The synthetic scaffold gave greater infiltration, vascularization, and larger vessels",
+   "B": "The collagen scaffold produced far faster vascularization and larger vessels than the synthetic",
+   "C": "Neither scaffold supported any measurable cellular infiltration or new vessel growth",
+   "D": "The synthetic scaffold provoked hyperacute rejection and was extruded within a day"
+  },
+  "answer": "A",
+  "exp": "In a mouse comparison, the synthetic polyurethane BTM provoked an augmented inflammatory response that drove *greater* cellular infiltration and vascularization than the collagen-based Integra, and produced a significantly larger average neo-dermal vessel diameter — the counterintuitive finding underpinning BTM's reliable integration.",
+  "hy": "BTM > Integra for infiltration/vascularization; larger vessels.",
+  "src": "Neligan I.18 · Novosorb vs Integra",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Correct — the synthetic scaffold outperformed collagen on infiltration, vascularization, and vessel diameter.",
+   "B": "Wrong — this reverses the result; the synthetic (not collagen) scaffold gave larger vessels and more vascularization.",
+   "C": "Wrong — both scaffolds supported cellular infiltration; the point was a difference in degree.",
+   "D": "Wrong — no hyperacute rejection/extrusion occurred; integration was reliable."
+  }
+ },
+ {
+  "id": "N-I-18.26",
+  "chapter": "Ch18",
+  "section": "Skin substitutes — Denovoskin",
+  "stem": "Denovoskin (Cutiss), a dermo-epidermal skin substitute that completed phase I trials, is built from what, and produced over roughly what timeframe?",
+  "options": {
+   "A": "A cell-free synthetic polyurethane foam, ready within about 24 hours",
+   "B": "Decellularized cadaveric dermis with no seeded cells, ready after 6 months",
+   "C": "A bovine collagen hydrogel with autologous skin cells, over 3–4 weeks",
+   "D": "A shark-chondroitin and bovine-collagen xenograft under silicone, within 48 hours"
+  },
+  "answer": "C",
+  "exp": "Denovoskin (Cutiss, Zurich) is a bovine collagen hydrogel seeded with the patient's own dermal fibroblasts and keratinocytes, expanded into graftable stable skin within the 3–4 week neodermis-establishment window; its first compassionate use (2021) helped close a 95% TBSA burn in a 14-year-old alongside split-thickness autograft and CEA.",
+  "hy": "Denovoskin = bovine-collagen hydrogel + autologous fibroblasts/keratinocytes, 3–4 wk.",
+  "src": "Neligan I.18 · Denovoskin",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — a cell-free synthetic foam ready in 24 h describes Novosorb BTM, not Denovoskin.",
+   "B": "Wrong — Denovoskin is seeded with cells, not an acellular cadaveric dermis.",
+   "C": "Correct — autologous fibroblasts/keratinocytes in a bovine-collagen hydrogel, ready in 3–4 weeks.",
+   "D": "Wrong — a shark-chondroitin/bovine-collagen xenograft under silicone is Integra."
+  }
+ },
+ {
+  "id": "N-I-18.27",
+  "chapter": "Ch18",
+  "section": "Antifibrotic therapy — HTS burden",
+  "stem": "Better antifibrotic delivery matters partly because hypertrophic scarring still complicates what proportion of burn survivors, per the chapter?",
+  "options": {
+   "A": "Roughly 5–10% of burn survivors",
+   "B": "Roughly 30–70% of burn survivors",
+   "C": "Roughly 90–100% of burn survivors",
+   "D": "Roughly 1–3% of burn survivors"
+  },
+  "answer": "B",
+  "exp": "Hypertrophic scarring still complicates 30–70% of burn survivors, which is why engineering precise antifibrotic delivery is a live problem; current management spans non-operative adjuncts (pressure garments, silicone), procedures (steroid injection, laser, micro-needling), and surgical revision.",
+  "hy": "HTS after burns = 30–70%.",
+  "src": "Neligan I.18 · Antifibrotic delivery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — 5–10% understates the cited burn-scar burden.",
+   "B": "Correct — the chapter gives a 30–70% incidence in burn survivors.",
+   "C": "Wrong — 90–100% overstates it; not every burn survivor develops HTS.",
+   "D": "Wrong — 1–3% is far below the cited figure."
+  }
+ },
+ {
+  "id": "N-I-18.28",
+  "chapter": "Ch18",
+  "section": "Antifibrotic therapy — mainstay",
+  "stem": "Which intervention is described as a current mainstay of antifibrotic therapy for hypertrophic scar, reducing height, itch, and pain while increasing pliability?",
+  "options": {
+   "A": "Intradermal Flightless-I-neutralizing antibody injection",
+   "B": "Nefopam acting on the Wnt/β-catenin signaling pathway",
+   "C": "Intralesional corticosteroid (triamcinolone) injection",
+   "D": "Infusion of a cryptic laminin-β1 antifibrotic fragment"
+  },
+  "answer": "C",
+  "exp": "Intralesional corticosteroid (triamcinolone) injection is described as a current mainstay of antifibrotic therapy, reducing hypertrophic-scar height, itch, and pain while increasing pliability — the benchmark against which newer molecular therapies are measured.",
+  "hy": "Triamcinolone = mainstay antifibrotic (↓height/itch/pain, ↑pliability).",
+  "src": "Neligan I.18 · Antifibrotic therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Flii-neutralizing antibody is an experimental novel target, not the established mainstay.",
+   "B": "Wrong — nefopam is an emerging Wnt/β-catenin-targeting therapy, not the mainstay.",
+   "C": "Correct — triamcinolone injection is the cited mainstay.",
+   "D": "Wrong — the cryptic laminin-β1 fragment is an experimental antifibrotic, not standard care."
+  }
+ },
+ {
+  "id": "N-I-18.29",
+  "chapter": "Ch18",
+  "section": "Antifibrotic therapy — novel targets",
+  "stem": "Flightless I (Flii), studied as a novel antifibrotic target, is best described as:",
+  "options": {
+   "A": "A corticosteroid pro-drug that concentrates in scar and raises its pliability",
+   "B": "A hyaluronic-acid dissolving microneedle loaded with steroid for delivery",
+   "C": "A VEGF isoform that drives lymphatic endothelial cell migration and leakiness",
+   "D": "A gelsolin-family actin-remodeling protein raised in poor wound healing"
+  },
+  "answer": "D",
+  "exp": "Flightless I (Flii) is a gelsolin-family actin-remodeling protein overexpressed in states of poor wound healing and fibrosis; intradermal Flii-neutralizing antibodies reduced scarring in a murine model by modulating the TGF-β1 pathway, lowering myofibroblast activity and improving collagen deposition.",
+  "hy": "Flii = gelsolin-family actin remodeler; anti-Flii ↓scar via TGF-β1.",
+  "src": "Neligan I.18 · Novel antifibrotic targets",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — Flii is not a corticosteroid pro-drug; triamcinolone is the steroid mainstay.",
+   "B": "Wrong — a steroid-loaded dissolving HA microneedle is a delivery device, not the Flii protein.",
+   "C": "Wrong — a VEGF isoform driving LEC migration is VEGF-C, a lymphatic molecule, not Flii.",
+   "D": "Correct — Flii is a gelsolin-family actin-remodeling protein and an anti-fibrotic antibody target."
+  }
+ },
+ {
+  "id": "N-I-18.30",
+  "chapter": "Ch18",
+  "section": "Transdermal delivery — microneedles",
+  "stem": "Engineered microneedle arrays for intradermal delivery generally fall within which length range and structural categories?",
+  "options": {
+   "A": "About 2–5 mm long; only solid stainless-steel types",
+   "B": "About 200–900 μm; solid, hollow, dissolving, hydrogel",
+   "C": "About 10–50 μm long; only dissolving sugar types",
+   "D": "About 5–10 mm long; solid, hollow, and balloon-tipped types"
+  },
+  "answer": "B",
+  "exp": "Engineered microneedle arrays generally range from 200 to 900 μm in length and fall into four structural categories — solid, hollow, dissolving, and hydrogel — enabling painless, reproducible intradermal delivery of vaccines, insulin, immunotherapies, and antifibrotics.",
+  "hy": "Microneedles = 200–900 μm; solid/hollow/dissolving/hydrogel.",
+  "src": "Neligan I.18 · Transdermal delivery",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — 2–5 mm is far too long and omits three of the four categories.",
+   "B": "Correct — 200–900 μm with solid/hollow/dissolving/hydrogel categories.",
+   "C": "Wrong — 10–50 μm is far too short to reach the intradermal space reliably.",
+   "D": "Wrong — 5–10 mm exceeds the cited range and the \"balloon-tipped\" category is invented."
+  }
+ },
+ {
+  "id": "N-I-18.31",
+  "chapter": "Ch18",
+  "section": "Lymphatic engineering — VEGF-C",
+  "stem": "VEGF-C recurs in lymphatic tissue engineering as a double-edged molecule. Which pairing captures its role as described?",
+  "options": {
+   "A": "A structural collagen crosslinker that stiffens scaffolds but blocks cell adhesion",
+   "B": "An immunosuppressant that prevents allograft rejection but halts angiogenesis",
+   "C": "Essential for keratinocyte differentiation, yet toxic to dermal fibroblasts at dose",
+   "D": "Essential for lymphatic endothelial growth, yet a cause of vessel leakiness"
+  },
+  "answer": "D",
+  "exp": "VEGF-C is a key molecule for lymphatic endothelial cell proliferation and migration (central to lymphangiogenesis in embryogenesis and to re-generating lymphatics), yet it also contributes to lymphatic leakiness and, when added to scaffolds like BioBridge, produced vessel disorganization without functional drainage gain.",
+  "hy": "VEGF-C: drives LEC growth *and* causes leakiness.",
+  "src": "Neligan I.18 · Lymphatic engineering",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — a collagen crosslinker (e.g. genipin) stiffens scaffolds; that is not VEGF-C.",
+   "B": "Wrong — VEGF-C is not an immunosuppressant; it is a lymphangiogenic growth factor.",
+   "C": "Wrong — VEGF-C acts on lymphatic endothelium, not keratinocyte differentiation.",
+   "D": "Correct — VEGF-C both promotes LEC proliferation/migration and causes leakiness/disorganization."
+  }
+ },
+ {
+  "id": "N-I-18.32",
+  "chapter": "Ch18",
+  "section": "Lymphatic engineering — cell interactions",
+  "stem": "In Marino and colleagues' prevascularized dermo-epidermal grafts, lymphatic-capillary formation specifically required what, beyond VEGF-C?",
+  "options": {
+   "A": "Complete removal of every blood endothelial cell from the co-culture",
+   "B": "A fully synthetic polyurethane scaffold in place of a hydrogel",
+   "C": "Fibroblasts present, without which capillaries failed to form",
+   "D": "Systemic corticosteroid to suppress the host immune response"
+  },
+  "answer": "C",
+  "exp": "In Marino and colleagues' prevascularized dermo-epidermal grafts, bioengineered lymphatic-capillary formation required the presence of fibroblasts: capillaries failed to form in their absence even when VEGF-C was supplied, highlighting the necessity of endothelial–stromal cell interaction in lymphatic engineering.",
+  "hy": "Lymphatic capillary formation needs fibroblasts, not VEGF-C alone.",
+  "src": "Neligan I.18 · Lymphatic engineering",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — the finding was about needing fibroblasts, not removing blood endothelial cells (which co-existed in the matrix).",
+   "B": "Wrong — the constructs used collagen/fibrin hydrogels, not a synthetic polyurethane scaffold.",
+   "C": "Correct — fibroblasts were required; VEGF-C alone was insufficient.",
+   "D": "Wrong — systemic corticosteroid was not the requirement described."
+  }
+ },
+ {
+  "id": "N-I-18.33",
+  "chapter": "Ch18",
+  "section": "Lymphatic anatomy for engineering",
+  "stem": "In designing lymphatic constructs, the chapter contrasts capillary and collecting lymphatics. Which description of the *collecting* lymphatics is correct?",
+  "options": {
+   "A": "Blind-ended, superficial, single-LEC vessels with scant basement membrane",
+   "B": "The secondary lymphoid organs where antigen-presenting and immune cells meet",
+   "C": "Non-endothelialized interstitial clefts that have no defined vessel wall",
+   "D": "Vessels with a definitive wall and intraluminal anti-backflow valves"
+  },
+  "answer": "D",
+  "exp": "Collecting lymphatics are structurally developed vessels with a definitive basement membrane and mural architecture and contain intraluminal valves that prevent backflow into the capillaries and interstitium — distinguishing them from the blind-ended, single-LEC-layer capillary lymphatics with scant basement membrane.",
+  "hy": "Collecting lymphatics = valves + definitive wall.",
+  "src": "Neligan I.18 · Lymphatic anatomy",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — blind-ended, superficial, single-LEC, scant-BM describes the *capillary* lymphatics.",
+   "B": "Wrong — secondary lymphoid organs (nodes/spleen) are a separate category, not the collecting vessels.",
+   "C": "Wrong — collecting lymphatics are endothelialized vessels with a defined wall, not non-endothelialized clefts.",
+   "D": "Correct — collecting lymphatics have valves and a developed wall/basement membrane."
+  }
+ },
+ {
+  "id": "N-I-18.34",
+  "chapter": "Ch18",
+  "section": "The reconstructive ladder",
+  "stem": "Tissue engineering is imagined as an aspirational new rung on the classic reconstructive ladder. Which option lists genuine rungs in the correct simple-to-complex direction?",
+  "options": {
+   "A": "Free tissue transfer → pedicled flap → skin grafts → primary intention",
+   "B": "Tissue expansion → secondary intention → free tissue transfer → skin grafts",
+   "C": "Secondary intention → skin grafts → local flap → free tissue transfer",
+   "D": "Skin grafts → primary intention → secondary intention → local flap"
+  },
+  "answer": "C",
+  "exp": "The reconstructive ladder runs from simple to complex — healing by secondary intention, primary intention, delayed primary closure, skin grafts (split- and full-thickness), tissue expansion, local flap, pedicled flap, local tissue transfer, and free tissue transfer — with tissue engineering imagined as an aspirational rung above the top. Only the third option ascends in the correct direction.",
+  "hy": "Reconstructive ladder ascends secondary intention → grafts → local flap → free flap.",
+  "src": "Neligan I.18 · Reconstructive ladder (Fig 18.12)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "why": {
+   "A": "Wrong — this lists the rungs in reverse (complex-to-simple) order.",
+   "B": "Wrong — the order is scrambled (tissue expansion does not precede secondary intention; free flap is not third).",
+   "C": "Correct — secondary intention → skin grafts → local flap → free tissue transfer ascends simple-to-complex.",
+   "D": "Wrong — the order is scrambled (primary/secondary intention sit below skin grafts, not above them)."
+  },
+  "expimage": "images/N-I-18-34.jpg",
+  "expimgcap": "The reconstructive ladder, simple (bottom) to complex (top)"
+ },
+ {
+  "id": "N-I-18.35",
+  "chapter": "Ch18",
+  "section": "Figure recognition — TE history",
+  "stem": "A trainee is shown this widely-published image from the early history of tissue engineering. The construct pictured is popularly known as:",
+  "options": {
+   "A": "Dolly the sheep",
+   "B": "The Vacanti mouse",
+   "C": "The Oncomouse (Harvard mouse)",
+   "D": "CC, the first cloned cat"
+  },
+  "answer": "B",
+  "exp": "This is the \"Vacanti mouse\" (1997): a cartilaginous, human-ear-shaped (bovine cartilage) scaffold grown beneath the dorsal skin of an immunodeficient (nude) mouse by Charles and Joseph Vacanti. It became a global media icon of tissue engineering's promise — and, the chapter notes, later quietly involuted into an amorphous ball of scar, symbolizing the field's over-promise.",
+  "hy": "Vacanti mouse = ear-shaped cartilage scaffold on a nude mouse (TE icon).",
+  "src": "Neligan I.18 · Fall of Mark-I (Fig 18.8)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "image": "images/N-I-18-35.jpg",
+  "imgcap": "What is this construct?",
+  "why": {
+   "A": "Wrong — Dolly was the first mammal cloned from an adult somatic cell (a sheep), not an ear-scaffold mouse.",
+   "B": "Correct — the pictured ear-on-mouse construct is the Vacanti mouse.",
+   "C": "Wrong — the Oncomouse is a genetically engineered cancer-prone mouse (a patent landmark), not a cartilage-scaffold construct.",
+   "D": "Wrong — CC (\"CopyCat\") was the first cloned domestic cat, unrelated to tissue-engineered cartilage."
+  }
+ },
+ {
+  "id": "N-I-18.36",
+  "chapter": "Ch18",
+  "section": "Figure recognition — angiosome map",
+  "stem": "The colored whole-body map shown here divides the body into discrete surface/muscle territories. Which anatomical concept, central to flap design, does it illustrate?",
+  "options": {
+   "A": "Dermatomes (spinal sensory territories)",
+   "B": "Lymphosomes (lymphatic drainage territories)",
+   "C": "Angiosomes (vascular territories)",
+   "D": "Mathes–Nahai muscle circulation patterns"
+  },
+  "answer": "C",
+  "exp": "The colored whole-body map depicts angiosomes — the discrete three-dimensional vascular territories supplied by a source artery and its accompanying vein, characterized by G. Ian Taylor. Angiosomes underpin flap design by defining which block of skin, fascia, and muscle can be reliably transferred on a given pedicle.",
+  "hy": "Angiosome = vascular territory of a source artery/vein (Taylor).",
+  "src": "Neligan I.18 · Second evolution (Fig 18.2)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "18",
+  "chname": "Tissue engineering",
+  "image": "images/N-I-18-36.jpg",
+  "imgcap": "Which concept is mapped?",
+  "why": {
+   "A": "Wrong — dermatomes are areas of skin innervated by a single spinal nerve root, a sensory map, not a vascular one.",
+   "B": "Wrong — lymphosomes are lymphatic drainage territories, a different (lymphatic) mapping concept.",
+   "C": "Correct — the map shows the body's vascular (angiosome) territories.",
+   "D": "Wrong — Mathes–Nahai classifies a muscle's vascular-pedicle pattern (I–V), not the whole-body surface map shown."
+  }
  }
 ]
