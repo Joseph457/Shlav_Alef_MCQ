@@ -42153,5 +42153,2021 @@
    "C": "Correct — the ear-shaped construct on the mouse is tissue-engineered cartilage.",
    "D": "Wrong — a carved autologous costal framework would be harvested from a human rib, not grown on a mouse."
   }
+ },
+ {
+  "id": "N-I-20.1",
+  "chapter": "Ch20",
+  "section": "Microanatomy — ossification routes",
+  "stem": "A mandibular distraction regenerate forms without any cartilaginous intermediate, whereas the callus of a femoral shaft fracture passes through one. What accounts for the difference?",
+  "options": {
+   "A": "The mandible forms by endochondral ossification, the femur by intramembranous",
+   "B": "Both form endochondrally; only the rate of distraction differs between them",
+   "C": "The mandible forms by intramembranous ossification, the femur endochondrally",
+   "D": "Both form intramembranously; only periosteal integrity differs between them"
+  },
+  "answer": "C",
+  "exp": "Bone forms by one of two routes. **Intramembranous ossification** is direct: mesenchymal stem cells condense, become osteoprogenitors, and osteoblasts lay new bone straight onto previously deposited bone (apposition) with **no cartilage template** — this builds the **flat bones of the craniofacial skeleton**, including the mandible, which is exactly why successful distraction osteogenesis of the craniofacial skeleton proceeds by membranous ossification with no cartilaginous intermediate. **Endochondral ossification** instead lays down an MSC-derived hyaline cartilage model that is subsequently replaced by bone, and it produces the **tubular long bones of the appendicular skeleton** plus the vertebral column and pelvis — so a femoral fracture heals through a cartilaginous callus that recapitulates that embryonic program. The practical corollary is that callus repair over a long-bone fracture calcifies its cartilage in the second week and only then becomes bone, whereas a distraction regenerate mineralizes directly from collagen aligned along the distraction axis.",
+  "hy": "Intramembranous = craniofacial flat bones (no cartilage); endochondral = long bones, vertebrae, pelvis.",
+  "src": "Neligan I.20 · Microanatomy and histochemistry",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the routes are inverted; the mandible is a membranous bone and the femur endochondral.",
+   "B": "Wrong — craniofacial bone does not use a cartilage model at all, whatever the distraction rate.",
+   "C": "Correct — membranous mandible versus endochondral femur explains the presence or absence of cartilage.",
+   "D": "Wrong — the femur is endochondral; periosteal integrity affects healing but not the ossification route."
+  }
+ },
+ {
+  "id": "N-I-20.2",
+  "chapter": "Ch20",
+  "section": "Cortical vs cancellous bone",
+  "stem": "Which statement about cortical and cancellous bone is correct?",
+  "options": {
+   "A": "Cortical bone has the greater remodeling surface area and thus higher metabolic activity.",
+   "B": "Cancellous bone is about 50% of the skeleton and differs chemically from cortical bone.",
+   "C": "Cortical bone is ~80% of osseous tissue; its periosteal cambium yields osteoblasts.",
+   "D": "Cancellous bone forms the outer shell of long bones and is lined internally by cambium."
+  },
+  "answer": "C",
+  "exp": "Cortical (compact) bone makes up about **80%** of osseous tissue, forms the outer skeleton, and is covered by a **bilayered periosteum** whose outer layer is dense fibrous tissue anchoring muscle and tendon and whose inner **cambium layer** contains plump cells that differentiate into osteoblasts on stimulation — the reason an intact periosteum improves graft survival and why periosteum is preserved in harvest. Cancellous (trabecular) bone is the remaining ~20%, sits deep in the medullary cavity mostly at the ends of long bones, and is arranged as trabeculae aligned to the lines of stress. The two are **chemically equivalent**, but cancellous bone has far greater surface area and therefore higher metabolic and remodeling activity. The medullary cavity itself is lined by endosteum, a thin vascular connective-tissue layer, not by periosteum.",
+  "hy": "Cortical ≈80% / cancellous ≈20%; chemically identical; cancellous = higher metabolic activity.",
+  "src": "Neligan I.20 · Cortical versus cancellous bone",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the greater surface area and metabolic activity belong to cancellous, not cortical, bone.",
+   "B": "Wrong — cancellous bone is ~20% of the skeleton and is chemically identical to cortical bone.",
+   "C": "Correct — ~80% cortical, and the periosteal cambium layer is the osteoblast source.",
+   "D": "Wrong — cancellous bone is deep/medullary; the medullary cavity is lined by endosteum."
+  }
+ },
+ {
+  "id": "N-I-20.3",
+  "chapter": "Ch20",
+  "section": "Chemical composition — by weight",
+  "stem": "By weight, calcified adult bone is composed of what proportions of inorganic matter, organic matter, and water?",
+  "options": {
+   "A": "40% inorganic / 35% organic / 25% water",
+   "B": "50% inorganic / 35% organic / 15% water",
+   "C": "60% inorganic / 30% organic / 10% water",
+   "D": "70% inorganic / 20% organic / 10% water"
+  },
+  "answer": "C",
+  "exp": "By weight bone is **60% inorganic, 30% organic, 10% water**; the same tissue expressed **by volume** is roughly **40% inorganic, 35% organic, 25% water**, which is the classic pair of figures that get confused. The inorganic phase is the mineral crystal **hydroxyapatite**, Ca₁₀(PO₄)₆(OH)₂, which also serves as the body's mineral reservoir because potassium, magnesium, sodium, and carbonate substitute into the lattice as impurities. The organic phase is osteoid — mostly type I collagen plus noncollagenous proteins — deposited by osteoblasts. Bone's strength comes from the interaction between collagen fibers (tensile) and the mineral (compressive), which is why demineralized bone matrix is flexible and why irradiation that damages collagen weakens the graft.",
+  "hy": "By weight 60/30/10; by volume 40/35/25.",
+  "src": "Neligan I.20 · The chemical composition of bone",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — 40/35/25 is bone's composition **by volume**, not by weight; the question asks by weight.",
+   "B": "Wrong — a plausible-looking but unlisted split; the organic fraction by weight is 30%.",
+   "C": "Correct — 60% inorganic, 30% organic, 10% water by weight.",
+   "D": "Wrong — overstates the mineral fraction; no such figure is given."
+  }
+ },
+ {
+  "id": "N-I-20.4",
+  "chapter": "Ch20",
+  "section": "Organic phase — collagen maturation",
+  "stem": "Inside the osteoblast, procollagen is hydroxylated and glycosylated before secretion; extracellularly the propeptides are cleaved to tropocollagen. Which reaction then produces mature collagen fibers, and what cofactor does it need?",
+  "options": {
+   "A": "Covalent cross-linking by lysyl oxidase, a copper-dependent enzyme",
+   "B": "Covalent cross-linking by lysyl hydroxylase, a vitamin C-dependent enzyme",
+   "C": "Proteolytic cleavage by cathepsin K, a cysteine protease of low pH",
+   "D": "Carboxylation by γ-glutamyl carboxylase, a vitamin K-dependent enzyme"
+  },
+  "answer": "A",
+  "exp": "Collagen is a trilaminar protein of two α1 and one α2 chain in a right-handed helix. After intracellular hydroxylation and glycosylation and Golgi packaging, procollagen is secreted and its propeptides are cleaved to **tropocollagen**; the copper-dependent enzyme **lysyl oxidase** then creates covalent cross-links within and between tropocollagen molecules to build mature fibers. Type I collagen is ~90% of bone matrix, so defects in these chains or in the enzymes that post-translationally modify them cause **osteogenesis imperfecta**, a disease of bone fragility and repeated fracture. Vitamin C is required earlier, for prolyl/lysyl *hydroxylation*, and vitamin K acts on a different protein entirely (osteocalcin), which is why these three cofactors are so often confused.",
+  "hy": "Lysyl oxidase (copper-dependent) cross-links tropocollagen → mature collagen.",
+  "src": "Neligan I.20 · Organic phase",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — lysyl oxidase is the copper-dependent cross-linking enzyme.",
+   "B": "Wrong — lysyl hydroxylase (vitamin C-dependent) performs hydroxylation, an earlier intracellular step.",
+   "C": "Wrong — cathepsin K is the osteoclast enzyme that degrades organic matrix during resorption.",
+   "D": "Wrong — γ-glutamyl carboxylase acts on vitamin K-dependent proteins such as osteocalcin, not collagen."
+  }
+ },
+ {
+  "id": "N-I-20.5",
+  "chapter": "Ch20",
+  "section": "Table 20.1 · Bone cells",
+  "stem": "Which statement about the three principal bone cell types is correct?",
+  "options": {
+   "A": "Osteocytes arise from hematopoietic precursors and can differentiate into osteoclasts.",
+   "B": "Osteoclasts arise from mesenchymal stem cells and stain strongly for alkaline phosphatase.",
+   "C": "Osteoblasts are multinucleated, carry a ruffled border, and line endosteal bone surfaces.",
+   "D": "Osteocytes are terminally differentiated, sit in lacunae, and are 90–95% of bone cells."
+  },
+  "answer": "D",
+  "exp": "**Osteocytes** are terminally differentiated osteoblasts trapped in **lacunae** and are **90–95% of all bone cells**, communicating through cytoplasmic processes in canaliculi joined by gap junctions; they are the mechanosensors that translate strain into chemical signals (NO, prostaglandins, Wnt/β-catenin activation) that direct remodeling. **Osteoblasts** are rounded, basophilic, mesenchymal-derived cells on external bone surfaces that stain strongly for **alkaline phosphatase** and produce and mineralize osteoid. **Osteoclasts** are large multinucleated cells (3–25 nuclei, ~40 µm) derived from the **hematopoietic** monocyte/macrophage lineage, carry a **ruffled border**, sit on endosteal and periosteal surfaces in areas of remodeling, and stain for **tartrate-resistant acid phosphatase**. Their lineages are the point: a mesenchymal cell can never become an osteoclast.",
+  "hy": "Osteocyte 90–95% of bone cells; osteoblast ALP+/mesenchymal; osteoclast TRAP+/hematopoietic.",
+  "src": "Neligan I.20 · Table 20.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — osteocytes descend from osteoblasts (mesenchymal), and cannot become osteoclasts.",
+   "B": "Wrong — osteoclasts are hematopoietic and stain for TRAP; ALP is the osteoblast marker.",
+   "C": "Wrong — multinuclearity and the ruffled border describe the osteoclast, not the osteoblast.",
+   "D": "Correct — osteocytes are terminally differentiated, lie in lacunae, and are 90–95% of bone cells."
+  },
+  "exptable": [
+   [
+    "Cell",
+    "Lineage",
+    "Location",
+    "Stain",
+    "Fate"
+   ],
+   [
+    "Osteoblast",
+    "Mesenchymal (MSC)",
+    "External bone surfaces",
+    "Alkaline phosphatase",
+    "20% → osteocyte; rest apoptose / bone-lining"
+   ],
+   [
+    "Osteocyte",
+    "From osteoblast",
+    "Lacunae (90–95% of bone cells)",
+    "—",
+    "Terminally differentiated"
+   ],
+   [
+    "Osteoclast",
+    "Hematopoietic stem cell",
+    "Endosteal + periosteal surfaces",
+    "Tartrate-resistant acid phosphatase",
+    "None"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.6",
+  "chapter": "Ch20",
+  "section": "Osteoblast fate",
+  "stem": "After depositing their osteoid, what proportion of mature osteoblasts becomes surrounded by matrix and terminally differentiates into osteocytes?",
+  "options": {
+   "A": "About 5%",
+   "B": "About 20%",
+   "C": "About 35–40%",
+   "D": "About 50%"
+  },
+  "answer": "B",
+  "exp": "Of mature osteoblasts, only about **20%** become surrounded by the matrix they secrete and terminally differentiate into osteocytes; the remainder either undergo apoptosis or flatten into bone-lining cells. The differentiation sequence is stepwise: osteoprogenitors stop proliferating, preosteoblasts secrete **alkaline phosphatase** as an early osteogenic marker, then mature osteoblasts become strongly basophilic, lose proliferative capacity, and deposit substantial osteoid while secreting cytokines and matrix proteins. Mature osteoblasts also carry receptors for **parathyroid hormone and 1,25-dihydroxyvitamin D**, which is how systemic calcium regulation reaches bone. This 20% figure explains why osteocyte density is set at the time of matrix deposition and cannot be replenished later.",
+  "hy": "~20% of osteoblasts become osteocytes; the rest apoptose or become bone-lining cells.",
+  "src": "Neligan I.20 · Osteoblasts — histology and function",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — too low; 5% is not the figure given for osteocytic conversion.",
+   "B": "Correct — about 20% of osteoblasts differentiate into osteocytes.",
+   "C": "Wrong — no such intermediate figure is given; the stated proportion is 20%.",
+   "D": "Wrong — half is far above the figure given; most osteoblasts apoptose or become bone-lining cells."
+  }
+ },
+ {
+  "id": "N-I-20.7",
+  "chapter": "Ch20",
+  "section": "Osteoclast — resorption machinery",
+  "stem": "Within the sealed resorption pit the osteoclast dissolves the mineral phase first and then degrades the organic matrix. Which pairing of agent and target is correct?",
+  "options": {
+   "A": "Cathepsin K dissolves hydroxyapatite; hydrochloric acid degrades the organic matrix",
+   "B": "Hydrochloric acid dissolves hydroxyapatite; cathepsin K degrades organic matrix",
+   "C": "Carbonic anhydrase dissolves hydroxyapatite; TRAP degrades the organic matrix",
+   "D": "Matrix metalloproteinase-9 dissolves hydroxyapatite; integrin αvβ3 degrades matrix"
+  },
+  "answer": "B",
+  "exp": "Resorption is a two-step chemical process inside a sealed compartment. The osteoclast attaches via integrins (notably **αvβ3**) and cadherins to form a sealing zone, then polarizes to create the **ruffled border**, a membrane built by fusion of acidic vesicles. Through it the cell secretes **hydrochloric acid** into the resorption pit (**Howship's lacuna**) to dissolve the crystalline hydroxyapatite; only once the mineral is gone can proteolytic enzymes — chiefly **matrix metalloproteinase-9 and cathepsin K** — degrade the organic collagen matrix. Degradation products are removed by transcytosis through the ruffled border and expelled; **TRAP** is localized to these transcytotic vesicles and generates reactive oxygen species that finish off the debris. The order is fixed: mineral first, matrix second.",
+  "hy": "Acid dissolves mineral first; cathepsin K/MMP-9 then digest collagen.",
+  "src": "Neligan I.20 · Osteoclasts — histology and function",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — reversed; cathepsin K is a protease and cannot dissolve mineral.",
+   "B": "Correct — HCl dissolves hydroxyapatite, then cathepsin K degrades the organic matrix.",
+   "C": "Wrong — TRAP marks transcytotic vesicles and degrades debris; it is not the matrix protease.",
+   "D": "Wrong — MMP-9 is a matrix protease, and integrin αvβ3 mediates sealing-zone attachment, not digestion."
+  }
+ },
+ {
+  "id": "N-I-20.8",
+  "chapter": "Ch20",
+  "section": "RANK/RANKL/OPG axis",
+  "stem": "A transgenic mouse is engineered to overexpress osteoprotegerin. Which skeletal phenotype results, and by what mechanism?",
+  "options": {
+   "A": "Osteopetrosis, because osteoprotegerin is the osteoblast ligand that activates RANK directly",
+   "B": "Osteoporosis, because osteoprotegerin is a decoy receptor blocking RANK–RANKL binding",
+   "C": "Osteopetrosis, because osteoprotegerin is a decoy receptor blocking RANK–RANKL binding",
+   "D": "Osteoporosis, because osteoprotegerin amplifies M-CSF signaling in osteoclast precursors"
+  },
+  "answer": "C",
+  "exp": "Osteoclastogenesis requires two osteoblast-derived signals: **M-CSF**, and **RANKL** on the osteoblast membrane engaging **RANK** on the osteoclast precursor, which recruits adaptor proteins (TRAF6) and activates NF-κB to switch on osteoclast genes. **Osteoprotegerin (OPG)** is a soluble TNF-related protein secreted by osteoblasts that acts as a **decoy receptor**, binding RANKL so it can never reach RANK. Overexpressing OPG therefore blocks osteoclast formation, so bone **formation** proceeds unopposed by resorption, producing dense, brittle **osteopetrosis** — the same phenotype seen in M-CSF-deficient (op/op), RANK-null, RANKL-null, and TRAF6-null mice. The mirror experiment confirms it: **OPG-knockout mice are osteoporotic**.",
+  "hy": "OPG = decoy for RANKL → less resorption → osteopetrosis; OPG knockout → osteoporosis.",
+  "src": "Neligan I.20 · Osteoclast differentiation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — RANKL, not OPG, is the osteoblast ligand that activates RANK.",
+   "B": "Wrong — osteoporosis is the OPG-**knockout** phenotype, not the overexpression phenotype.",
+   "C": "Correct — decoy-receptor blockade of RANK–RANKL suppresses resorption, giving osteopetrosis.",
+   "D": "Wrong — that describes the pro-osteoclastic M-CSF pathway, which OPG does not amplify."
+  }
+ },
+ {
+  "id": "N-I-20.9",
+  "chapter": "Ch20",
+  "section": "Table 20.2 · ECM molecules",
+  "stem": "Table 20.2 records which bone matrix molecules are also present in non-osseous tissue. Which pair is produced almost exclusively by skeletal cells?",
+  "options": {
+   "A": "Osteocalcin and bone sialoprotein",
+   "B": "Osteopontin and osteonectin",
+   "C": "Biglycan and alkaline phosphatase",
+   "D": "Type I collagen and osteopontin"
+  },
+  "answer": "A",
+  "exp": "Table 20.2 separates matrix molecules by whether they are also expressed outside the skeleton. **Bone sialoprotein** — an acidic phosphoprotein that binds collagen and nucleates hydroxyapatite, whose null mice have small undermineralized bones — is made almost exclusively by skeletal cells (osteoblasts, osteocytes, hypertrophic chondrocytes). **Osteocalcin (bone Gla protein)** — a vitamin K-dependent γ-carboxyglutamic-acid protein analogous to clotting factors II, VII, IX and X, the most abundant noncollagenous protein in bone, and a clinical marker of increased bone turnover — is likewise restricted to osteoblasts, odontoblasts and hypertrophic chondrocytes. Osteopontin, osteonectin, biglycan, alkaline phosphatase and type I collagen are all found in non-osseous tissues too, which is why serum osteocalcin is the more bone-specific turnover marker.",
+  "hy": "Bone sialoprotein + osteocalcin = the two bone-restricted matrix proteins.",
+  "src": "Neligan I.20 · Table 20.2 · Extracellular matrix molecules",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — both are listed as absent from non-osseous tissue.",
+   "B": "Wrong — osteopontin and osteonectin are both widely expressed outside bone.",
+   "C": "Wrong — biglycan and alkaline phosphatase both occur in nonosseous cells.",
+   "D": "Wrong — type I collagen is ubiquitous and osteopontin is expressed by tumor cells among others."
+  },
+  "exptable": [
+   [
+    "Molecule",
+    "Outside bone?",
+    "Key function"
+   ],
+   [
+    "Type I collagen",
+    "Yes",
+    "90% of matrix; primary scaffold (defect → osteogenesis imperfecta)"
+   ],
+   [
+    "Alkaline phosphatase",
+    "Yes",
+    "Regulates matrix mineralization; early osteoblast marker"
+   ],
+   [
+    "Osteopontin",
+    "Yes",
+    "Osteoclast anchoring + mineralization"
+   ],
+   [
+    "Osteonectin",
+    "Yes",
+    "Binds calcium and type I collagen"
+   ],
+   [
+    "Bone sialoprotein",
+    "**No**",
+    "Cell adhesion; nucleates hydroxyapatite"
+   ],
+   [
+    "Osteocalcin",
+    "**No**",
+    "Vitamin K-dependent; marker of bone turnover"
+   ],
+   [
+    "Biglycan",
+    "Yes",
+    "Proteoglycan; knockout → osteoporosis"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.10",
+  "chapter": "Ch20",
+  "section": "Transcriptional regulation — RUNX2",
+  "stem": "A child has hypoplastic clavicles, dental deformities, short stature, brachycephaly, and hypertelorism inherited in an autosomal-dominant pattern. Haploinsufficiency of which gene explains this skeletal phenotype?",
+  "options": {
+   "A": "SOX9",
+   "B": "RUNX2",
+   "C": "Osterix",
+   "D": "FGFR3"
+  },
+  "answer": "B",
+  "exp": "**RUNX2/CBFα-1** is the master osteoblast transcription factor, the mammalian homolog of Drosophila *Runt*, required at every step of osteoblastogenesis — induction, proliferation, and maturation. Homozygous *Runx2* deletion is lethal in mice from complete absence of mineralized matrix; **haploinsufficiency** in humans causes **cleidocranial dysplasia**, an autosomal-dominant disorder of hypoplastic or absent clavicles, dental deformities, short stature, brachycephaly, hypertelorism and other skeletal defects. RUNX2 sits above osterix in the cascade and is itself modulated by histone acetyltransferase cofactors and non-coding RNAs. SOX genes act upstream of RUNX2 but *inhibit* it, and FGFR3 governs a separate chondral pathway.",
+  "hy": "Runx2 haploinsufficiency = cleidocranial dysplasia (AD).",
+  "src": "Neligan I.20 · Transcriptional regulation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — SOX genes act upstream of RUNX2 and inhibit it; they are not the cleidocranial gene.",
+   "B": "Correct — RUNX2 haploinsufficiency produces cleidocranial dysplasia.",
+   "C": "Wrong — osterix lies downstream of Runx2; its loss abolishes bone but does not give this syndrome.",
+   "D": "Wrong — FGFR3 mutation causes achondroplasia, a chondrodysplasia, not cleidocranial dysplasia."
+  }
+ },
+ {
+  "id": "N-I-20.11",
+  "chapter": "Ch20",
+  "section": "Transcriptional regulation — hierarchy",
+  "stem": "Osterix-null mice form neither cortical nor cancellous bone yet make normal cartilage; osterix expression is absent in Runx2-knockout mice, while Runx2 expression is normal in osterix-null mice. What does this establish?",
+  "options": {
+   "A": "Osterix and Runx2 act in parallel, mutually independent pathways",
+   "B": "Runx2 acts downstream of osterix in osteoblast differentiation",
+   "C": "Osterix acts downstream of Runx2 in osteoblast differentiation",
+   "D": "Osterix is required for chondrocyte rather than osteoblast commitment"
+  },
+  "answer": "C",
+  "exp": "**Osterix (Osx)** is a zinc-finger transcription factor essential for bone formation: Osx-null mice make **no cortical or cancellous bone**, yet — unlike Runx2-null mice — their **cartilage is normal**, placing osterix strictly in the osteoblast arm. The epistasis argument is the decisive part: osterix expression is absent when Runx2 is knocked out, whereas Runx2 expression is normal when osterix is knocked out, so Runx2 must lie **above** osterix. Overexpression work confirmed it directly by showing Runx2 transactivates the *Osx* promoter through a Runx2-binding element. The practical consequence is that osteogenic differentiation can be staged with markers — alkaline phosphatase early, osteocalcin and osteopontin late — downstream of this RUNX2 → osterix axis.",
+  "hy": "RUNX2 → osterix (osterix is downstream); Osx-null = no bone, normal cartilage.",
+  "src": "Neligan I.20 · Transcriptional regulation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — parallel pathways would not show one-way loss of expression.",
+   "B": "Wrong — reversed; Runx2 expression is preserved in osterix-null animals.",
+   "C": "Correct — the reciprocal knockout expression data place osterix downstream of Runx2.",
+   "D": "Wrong — cartilage is normal in Osx-null mice, so osterix is not the chondrocyte factor."
+  }
+ },
+ {
+  "id": "N-I-20.12",
+  "chapter": "Ch20",
+  "section": "MSC — Dominici criteria",
+  "stem": "By the consensus criteria proposed by Dominici and colleagues, which surface-antigen profile defines a mesenchymal stem cell?",
+  "options": {
+   "A": "CD73+, CD45+, HLA-DR+ and CD105−, CD90−, CD34−, CD19−",
+   "B": "CD34+, CD45+, CD14+ and CD105−, CD73−, CD90−",
+   "C": "CD105+, CD34+, CD90+ and CD73−, CD45−, HLA-DR−",
+   "D": "CD105+, CD73+, CD90+ and CD34−, CD45−, HLA-DR−"
+  },
+  "answer": "D",
+  "exp": "Dominici and colleagues proposed three criteria for calling a cell a mesenchymal stem cell: it must **adhere to plastic** in culture; it must express **CD105, CD73 and CD90** while lacking **CD34, CD45, CD14 or CD11B, CD79A or CD19, and HLA-DR**; and it must differentiate into **osteoblasts, adipocytes and chondroblasts**. The excluded markers are the point — CD34 and CD45 are hematopoietic, CD14/CD11B monocytic, CD79A/CD19 B-lymphoid, and HLA-DR an antigen-presenting marker — so the definition deliberately excludes marrow's hematopoietic population. Although classically marrow-derived, MSCs are also expandable from adipose tissue, skeletal muscle, dental pulp, synovium, amniotic fluid, urine, umbilical cord and fetal tissues, which is why adipose-derived cells feature so heavily in reconstructive regenerative work.",
+  "hy": "MSC = CD105/CD73/CD90 positive, CD34/CD45/HLA-DR negative, tri-lineage capable.",
+  "src": "Neligan I.20 · Bone regeneration: the role of the stem cell",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — CD45 and HLA-DR are among the markers an MSC must not express.",
+   "B": "Wrong — exactly inverted; that profile describes hematopoietic, not mesenchymal, cells.",
+   "C": "Wrong — CD34 must be **absent** and CD73 **present** for an MSC.",
+   "D": "Correct — this is the positive/negative marker set in the consensus criteria."
+  }
+ },
+ {
+  "id": "N-I-20.13",
+  "chapter": "Ch20",
+  "section": "Bone morphogenetic protein",
+  "stem": "Which statement about bone morphogenetic protein is correct?",
+  "options": {
+   "A": "It signals through SMAD2 and SMAD3, which then complex with SMAD4 for transport.",
+   "B": "It is a direct regulator of angiogenesis and signals through tyrosine kinase receptors.",
+   "C": "It is secreted in a latent form and stored in matrix until its propeptide bond breaks.",
+   "D": "It is the only signaling molecule able to induce de novo bone formation on its own."
+  },
+  "answer": "D",
+  "exp": "Bone morphogenetic proteins were discovered by **Urist** in the 1960s from work with demineralized bone matrix; roughly **20 isoforms** are characterized, and they are pleiotropic members of the TGF-β superfamily with a signature series of seven cysteine residues at the carboxyl terminus. Their defining property is that **BMP is the only signaling molecule that can singly induce de novo bone formation**, which is what makes it the workhorse of osteoinduction — recombinant isoforms are used experimentally and clinically to heal critical-sized defects. BMP is secreted already **active** and binds type I/II serine-threonine kinase receptors; the type II kinase phosphorylates the type I receptor, which then phosphorylates **SMAD 1, 5 or 8**, and that complex binds SMAD4 and translocates to the nucleus. Contrast TGF-β, which is secreted latent, stored in matrix, and signals through SMAD2/3.",
+  "hy": "BMP alone induces de novo bone; secreted active; SMAD 1/5/8 → SMAD4.",
+  "src": "Neligan I.20 · Bone morphogenetic protein",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — SMAD2/3 is the TGF-β route; BMP uses SMAD 1, 5 and 8.",
+   "B": "Wrong — VEGF and FGF-2 are the direct angiogenic regulators acting via tyrosine kinase receptors.",
+   "C": "Wrong — that describes TGF-β, which is stored latent in matrix; BMP is secreted active.",
+   "D": "Correct — BMP is uniquely able to induce bone formation as a single agent."
+  }
+ },
+ {
+  "id": "N-I-20.14",
+  "chapter": "Ch20",
+  "section": "Recombinant BMP — clinical status",
+  "stem": "Which statement about recombinant BMP products and isoform potency matches the chapter?",
+  "options": {
+   "A": "rhBMP-2 (INFUSE) is the only rhBMP product with FDA approval for human use.",
+   "B": "rhBMP-7 (OP-1) holds full FDA premarket approval for craniofacial reconstruction.",
+   "C": "BMP-3 and BMP-5 are identified as having the greatest osteogenic capacity.",
+   "D": "Roughly five BMP isoforms have been characterized in humans to date."
+  },
+  "answer": "A",
+  "exp": "**rhBMP-2 (INFUSE, Medtronic)** is the only recombinant BMP product with **FDA approval** for human use, and it is used mainly in spinal fusion, orthopedic trauma and dental procedures — anterior lumbar allografts filled with rhBMP-2 achieved higher fusion rates and better Oswestry Disability Index scores than allograft alone. **rhBMP-7 (rhOP-1, Stryker)** had only limited approval and was **withdrawn from the market after failing to gain FDA premarket approval in 2009**. On potency, the isoform work identifies **BMP-2, -6 and -9** as having the greatest osteogenic capacity, with BMP-4 and -7 also significantly osteogenic. For most craniofacial applications the risk–benefit ratio of rhBMP-2 is still considered to need further investigation.",
+  "hy": "rhBMP-2 (INFUSE) = only FDA-approved rhBMP; rhBMP-7 withdrawn 2009; BMP-2/-6/-9 most osteogenic.",
+  "src": "Neligan I.20 · Bone morphogenetic protein function",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — rhBMP-2 is the sole FDA-approved recombinant BMP product.",
+   "B": "Wrong — rhBMP-7 failed premarket approval in 2009 and was removed from the market.",
+   "C": "Wrong — BMP-2, -6 and -9 are the most osteogenic isoforms, not BMP-3 and -5.",
+   "D": "Wrong — approximately 20 BMP isoforms have been characterized."
+  }
+ },
+ {
+  "id": "N-I-20.15",
+  "chapter": "Ch20",
+  "section": "TGF-β1 and osteoclastogenesis",
+  "stem": "TGF-β1 binds its receptor on the osteoblast and shifts the output of two secreted regulators. What is the net effect on osteoclast maturation, and why?",
+  "options": {
+   "A": "Increased — RANKL rises and osteoprotegerin falls, raising the RANKL:OPG ratio",
+   "B": "Decreased — osteoprotegerin rises and RANKL falls, lowering the RANKL:OPG ratio",
+   "C": "Decreased — macrophage colony-stimulating factor output by precursors is suppressed",
+   "D": "Increased — TRAF6-mediated NF-κB signaling in the precursor is directly amplified"
+  },
+  "answer": "B",
+  "exp": "TGF-β1 is the dominant TGF-β isoform expressed by bone cells and it couples resorption to formation. Binding its receptor on the osteoblast, it **augments osteoprotegerin expression while decreasing RANKL expression**; the resulting **lower RANKL:OPG ratio** means more of the available RANKL is mopped up by the decoy, so RANK on precursors is less engaged and osteoclast maturation falls. The effect is concentration-dependent and bifunctional — **low** TGF-β1 concentrations associate with high RANKL and RANK and therefore favor osteoclastogenesis, which is why exogenous dosing is unpredictable. TGF-β1 also recruits and proliferates osteoblast progenitors (promoting early but blocking late differentiation) and directs osteogenic marrow stromal cells to resorption sites, the mechanism of resorption–formation coupling.",
+  "hy": "TGF-β1 → ↑OPG, ↓RANKL → lower RANKL:OPG → less osteoclast maturation.",
+  "src": "Neligan I.20 · Transforming growth factor-β",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — that is the low-concentration TGF-β1 state, not its receptor-mediated effect on osteoblasts.",
+   "B": "Correct — the OPG-up/RANKL-down shift lowers the ratio and suppresses osteoclast maturation.",
+   "C": "Wrong — M-CSF suppression is not the described mechanism for TGF-β1.",
+   "D": "Wrong — TRAF6/NF-κB is the downstream RANK pathway, activated by RANKL rather than TGF-β1."
+  }
+ },
+ {
+  "id": "N-I-20.16",
+  "chapter": "Ch20",
+  "section": "FGF receptors and skeletal dysplasias",
+  "stem": "Human gene studies link individual fibroblast growth factor receptors to specific skeletal disorders. Which pairing is correct?",
+  "options": {
+   "A": "FGFR2 — Crouzon syndrome",
+   "B": "FGFR1 — achondroplasia",
+   "C": "FGFR3 — Pfeiffer syndrome",
+   "D": "FGFR2 — cleidocranial dysplasia"
+  },
+  "answer": "A",
+  "exp": "The fibroblast growth factor family has at least 18 members, all heparin-binding, signaling through **four receptors (FGFR-1 to -4)** that dimerize on ligand binding and transphosphorylate via intrinsic tyrosine kinase domains. FGF–FGFR signaling is essential for the developing axial skeleton, for **intramembranous ossification of the cranial bones**, and for maintaining cranial suture homeostasis — hence its mutations produce craniosynostoses and chondrodysplasias. The classic human pairings are **FGFR1 → Pfeiffer syndrome, FGFR2 → Crouzon syndrome, FGFR3 → achondroplasia**. FGF-2 also has a dose-schedule paradox worth knowing: continuous exposure proliferates osteoblasts but lowers differentiation markers and boosts osteoclast formation (net resorption), whereas intermittent exposure enhances bone formation. For orientation: Crouzon = craniosynostosis with midface hypoplasia and exorbitism but normal hands and feet; Pfeiffer = craniosynostosis **plus** broad, medially deviated thumbs and great toes; achondroplasia = rhizomelic short-limbed dwarfism from constitutively activating FGFR3.",
+  "hy": "FGFR1 = Pfeiffer, FGFR2 = Crouzon, FGFR3 = achondroplasia.",
+  "src": "Neligan I.20 · Fibroblast growth factor",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — Crouzon syndrome maps to FGFR2.",
+   "B": "Wrong — achondroplasia is FGFR3; FGFR1 is linked to Pfeiffer syndrome.",
+   "C": "Wrong — Pfeiffer syndrome is FGFR1, not FGFR3.",
+   "D": "Wrong — cleidocranial dysplasia is a RUNX2 disorder, unrelated to FGF receptors."
+  }
+ },
+ {
+  "id": "N-I-20.17",
+  "chapter": "Ch20",
+  "section": "Table 20.4 · Angiogenesis",
+  "stem": "Of the growth factors implicated in fracture healing, which two are the only *direct* regulators of angiogenesis?",
+  "options": {
+   "A": "PDGF and VEGF",
+   "B": "BMP and TGF-β",
+   "C": "VEGF and FGF-2",
+   "D": "TGF-β and FGF-2"
+  },
+  "answer": "C",
+  "exp": "Angiogenesis and osteogenesis are coupled — the HIF-1α pathway links them, and skeletal angiogenesis is thought to be rate-limiting for bone growth. Among the growth factors of fracture repair, **VEGF and FGF-2 are the only two that regulate angiogenesis directly**; BMP, TGF-β and PDGF act **indirectly**, largely by driving expression of angiogenic molecules such as VEGF. VEGF is the pivotal one: it is expressed by hypertrophic chondrocytes at the growth plate, deletion of even a single allele is lethal in utero, anti-VEGF antibody blocks vascular invasion of the primate growth plate and stunts longitudinal growth, and VEGF-deficient osteoblast precursors give an osteoporotic phenotype. Practically, VEGF alone does not build bone — combined AdBMP-2 plus VEGF protein produced significantly more bone and bone-to-implant contact than BMP-2 alone.",
+  "hy": "Only VEGF and FGF-2 are DIRECT angiogenic regulators; BMP/TGF-β/PDGF act indirectly.",
+  "src": "Neligan I.20 · Table 20.4 · Growth factors and angiogenesis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — VEGF qualifies but PDGF is an indirect regulator.",
+   "B": "Wrong — both BMP and TGF-β are listed as indirect regulators acting via other factors.",
+   "C": "Correct — VEGF and FGF-2 are the two direct regulators of angiogenesis.",
+   "D": "Wrong — FGF-2 qualifies but TGF-β is indirect."
+  },
+  "exptable": [
+   [
+    "Growth factor",
+    "Angiogenesis",
+    "Receptor type"
+   ],
+   [
+    "BMP",
+    "Indirect regulator",
+    "Serine–threonine kinase"
+   ],
+   [
+    "TGF-β",
+    "Indirect regulator",
+    "Serine–threonine kinase"
+   ],
+   [
+    "FGF-2",
+    "**Direct regulator**",
+    "Tyrosine kinase"
+   ],
+   [
+    "VEGF",
+    "**Direct regulator**",
+    "Tyrosine kinase"
+   ],
+   [
+    "PDGF",
+    "Indirect regulator",
+    "Tyrosine kinase"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.18",
+  "chapter": "Ch20",
+  "section": "Primary vs secondary repair",
+  "stem": "A displaced midshaft fracture is managed in a sling, without rigid internal fixation. Which repair route follows, and what is its defining histologic feature?",
+  "options": {
+   "A": "Secondary repair, with cutting cones advancing across the fracture",
+   "B": "Primary repair, with direct cortical union and no cartilage stage",
+   "C": "Secondary repair, proceeding through a cartilaginous intermediate",
+   "D": "Primary repair, with an intramembranous callus alongside the site"
+  },
+  "answer": "C",
+  "exp": "Two histologic routes of bone repair exist. **Primary (direct) bone repair** re-establishes cortical continuity **without any cartilaginous intermediate** and requires anatomic reduction with **rigid internal fixation**, minimal interfragmentary strain, and healing under axial compression; new bone is laid parallel to the long axis by osteoprogenitors advancing in cutting cones. **Secondary (callus) bone repair** occurs when a fracture is untreated or held by external fixation, intramedullary fixation, a sling or a cast — colonies of mesenchymal stem cells from periosteum, soft tissue and marrow form **cartilage first**, creating a callus that is then ossified. **Most fractures heal by secondary repair.**",
+  "hy": "No rigid fixation → secondary (callus) repair via a cartilaginous intermediate.",
+  "src": "Neligan I.20 · Healing of fractures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — cutting cones are the mechanism of *primary* repair after rigid fixation, not of callus healing.",
+   "B": "Wrong — this correctly describes primary repair, which needs anatomic reduction and rigid fixation, absent here.",
+   "C": "Correct — non-rigid immobilization heals through a cartilaginous callus.",
+   "D": "Wrong — an intramembranous callus adjacent to the fracture belongs to secondary repair, not primary."
+  },
+  "exptable": [
+   [
+    "",
+    "Primary repair",
+    "Secondary (callus) repair"
+   ],
+   [
+    "Fixation",
+    "Rigid internal, anatomic reduction",
+    "None / external / IM / cast"
+   ],
+   [
+    "Cartilage stage",
+    "Absent",
+    "Present (callus)"
+   ],
+   [
+    "Mechanism",
+    "Cutting cones, woven → lamellar",
+    "Inflammatory → reparative → remodeling"
+   ],
+   [
+    "Frequency",
+    "Less common",
+    "Most fracture repair"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.19",
+  "chapter": "Ch20",
+  "section": "Cutting cone",
+  "stem": "Primary bone repair after rigid internal fixation begins with cutting cones at the junction of living and necrotic bone. What is a cutting cone mainly made of, and what does it achieve?",
+  "options": {
+   "A": "Osteoblasts, which lay woven bone directly across the reduced fracture gap",
+   "B": "Osteoclasts, which tunnel across the fracture so vessels and stem cells follow",
+   "C": "Hypertrophic chondrocytes, which calcify callus cartilage for vascular invasion",
+   "D": "Fibroblasts, which bridge the gap with collagen before it becomes mineralized"
+  },
+  "answer": "B",
+  "exp": "A **cutting cone** is a travelling system of cells, **mainly active osteoclasts**, that forms at the junction of living and necrotic bone once the fragments are rigidly fixed. It burrows through cortical bone across the fracture, and in the tunnel it creates blood vessels and undifferentiated mesenchymal stem cells follow; those MSCs become osteoblasts, new haversian systems are laid down, and the fresh channels then serve as pathways for further vascular penetration. Bone is deposited first as **woven** matrix, becomes lamellar within a few weeks, and complete repair follows over months as the lamellar proportion rises. The benefits of the rigid plate osteosynthesis that permits this are greater stability with lower rates of non-union, malunion and infection.",
+  "hy": "Cutting cone = osteoclast-led tunnel; vessels + MSCs follow → new haversian systems.",
+  "src": "Neligan I.20 · Primary bone repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — osteoblasts follow behind to lay bone; they do not do the tunneling.",
+   "B": "Correct — osteoclasts lead the cone, and vessels with MSCs follow into the tunnel.",
+   "C": "Wrong — hypertrophic chondrocytes belong to endochondral callus repair, not primary repair.",
+   "D": "Wrong — a fibroblastic collagen bridge is not part of primary cortical healing."
+  }
+ },
+ {
+  "id": "N-I-20.20",
+  "chapter": "Ch20",
+  "section": "Secondary repair — timing",
+  "stem": "A closed tibial fracture is treated in a cast. At 60 hours the patient reports that pain and swelling are worse than on the day of injury. Is this expected, and what follows?",
+  "options": {
+   "A": "Unexpected — inflammation peaks at 24 hours, so this suggests a compartment syndrome",
+   "B": "Expected — inflammation peaks near 48 hours; the reparative phase begins at 3–4 days",
+   "C": "Unexpected — inflammation peaks at 5–7 days, so the swelling should still be rising",
+   "D": "Expected — inflammation peaks near 48 hours; the reparative phase begins at 2 weeks"
+  },
+  "answer": "B",
+  "exp": "Secondary (callus) repair runs in three overlapping phases. The **inflammatory phase** begins with disruption of osseous, soft and vascular tissue, lasts roughly **seven days** and **peaks at about 48 hours** — so worsening pain and swelling at 60 hours is entirely expected, and is in fact useful: the pain and swelling promote immobilization at the fracture site. The hematoma immobilizes the area further through its fibrin network and supplies the signals that start repair, with platelets releasing **PDGF and TGF-β** to drive mesenchymal stem cell proliferation and osteogenic differentiation while neutrophils, lymphocytes, monocytes and macrophages clear necrotic debris and stimulate angiogenesis. The **reparative phase** begins at about **3–4 days**, before inflammation has subsided, and runs for weeks to months, producing a callus of cartilage plus woven bone, osteoid, fibrous tissue and vessels. The **remodeling phase** then replaces woven bone with lamellar bone along the lines of stress and may stay active for several years.",
+  "hy": "Inflammatory ~7 d, peaks 48 h; reparative starts 3–4 d; remodeling years.",
+  "src": "Neligan I.20 · Secondary (callus) bone repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the peak is at about 48 hours, so symptoms at 60 hours do not by themselves indicate compartment syndrome.",
+   "B": "Correct — the 48-hour peak makes this expected, and the reparative phase starts at 3–4 days.",
+   "C": "Wrong — 5–7 days is roughly the whole inflammatory phase, not the point of maximum symptoms.",
+   "D": "Wrong — the timing of the peak is right but callus formation begins at 3–4 days, not two weeks."
+  },
+  "exptable": [
+   [
+    "Phase",
+    "Onset",
+    "Duration",
+    "Hallmark"
+   ],
+   [
+    "Inflammatory",
+    "Immediate, peaks 48 h",
+    "~7 days",
+    "Hematoma, PDGF/TGF-β release, debris clearance"
+   ],
+   [
+    "Reparative",
+    "3–4 days",
+    "Weeks–months",
+    "Callus: cartilage + woven bone"
+   ],
+   [
+    "Remodeling",
+    "Follows reparative",
+    "Several years",
+    "Woven → lamellar along lines of stress"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.21",
+  "chapter": "Ch20",
+  "section": "Ossification within the callus",
+  "stem": "Which statement about ossification in the fracture callus is correct?",
+  "options": {
+   "A": "Ossification is purely endochondral; intramembranous ossification plays no part.",
+   "B": "Endochondral ossification occurs in the second week, as callus cartilage calcifies.",
+   "C": "Intramembranous ossification occurs in the cartilage core, endochondral outside it.",
+   "D": "Lamellar bone is deposited first and is later converted to woven bone by osteoclasts."
+  },
+  "answer": "B",
+  "exp": "The fracture callus ossifies by **both** routes at once, in different places. **Endochondral ossification** occurs during the **second week**: the abundant cartilage formed over the fracture calcifies, blood vessels grow into that calcified cartilaginous callus carrying osteoblast progenitors, chondroclasts resorb the calcified cartilage, and osteoblasts lay woven bone in its place. **Intramembranous ossification** proceeds simultaneously in the region **adjacent to** the fracture site, without any cartilage template. The direction of maturation is always woven bone first, lamellar bone later — during remodeling osteoclasts resorb poorly placed trabeculae and new bone forms along the lines of stress, until pain subsides and normal activity can resume.",
+  "hy": "Callus uses both routes: endochondral (week 2, over the fracture) + intramembranous (adjacent).",
+  "src": "Neligan I.20 · Secondary (callus) bone repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — intramembranous ossification also occurs, adjacent to the fracture site.",
+   "B": "Correct — endochondral ossification of the calcified callus occurs in the second week.",
+   "C": "Wrong — the locations are inverted; the cartilage overlying the fracture ossifies endochondrally.",
+   "D": "Wrong — woven bone is laid first and is later replaced by lamellar bone, not the reverse."
+  }
+ },
+ {
+  "id": "N-I-20.22",
+  "chapter": "Ch20",
+  "section": "Long-bone blood supply",
+  "stem": "A diaphyseal fracture disrupts the nutrient artery of a long bone. Which part of the bone loses its principal blood supply?",
+  "options": {
+   "A": "The cancellous bone of the metaphysis and epiphysis at the bone ends",
+   "B": "The outer one-third of the cortex, supplied along its periosteal surface",
+   "C": "The whole cortex, since the nutrient artery is the only afferent supply",
+   "D": "The inner two-thirds of the cortex, together with the medullary cavity"
+  },
+  "answer": "D",
+  "exp": "A long bone is fed by three interconnecting arterial systems. The **diaphyseal nutrient artery** pierces the cortex, reaches the medullary cavity and divides into ascending and descending medullary branches; it is the principal supply to the **medullary cavity and the inner two-thirds of the cortex**. **Metaphyseal and epiphyseal arteries**, arising from vessels around the adjacent joints, supply the cancellous bone at the bone ends. **Periosteal arteries** supply the **outer one-third of the cortex**. Blood flows centrifugally, endosteum to periosteum, driven by high intramedullary pressure, through sinusoids and exchange vessels within the haversian systems. Because the systems anastomose extensively, metaphyseal–epiphyseal vessels can compensate when the nutrient artery is disrupted — which is why reaming or a displaced fracture does not automatically devascularize the diaphysis.",
+  "hy": "Nutrient artery = inner 2/3 cortex + marrow; periosteal = outer 1/3; metaphyseal/epiphyseal = bone ends.",
+  "src": "Neligan I.20 · Variables influencing bone repair — blood supply",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — cancellous bone at the ends is supplied by metaphyseal and epiphyseal arteries.",
+   "B": "Wrong — the outer third is periosteal territory.",
+   "C": "Wrong — three systems supply a long bone and they anastomose extensively.",
+   "D": "Correct — the nutrient artery supplies the marrow cavity and inner two-thirds of cortex."
+  }
+ },
+ {
+  "id": "N-I-20.23",
+  "chapter": "Ch20",
+  "section": "Skeletal perfusion",
+  "stem": "Blood flow to bone represents approximately what share of total cardiac output?",
+  "options": {
+   "A": "2–5%",
+   "B": "10–20%",
+   "C": "25–30%",
+   "D": "More than 40%"
+  },
+  "answer": "B",
+  "exp": "Blood flow to bone is approximately **10–20% of total cardiac output** — a reminder that bone is a metabolically active, highly perfused organ rather than inert scaffolding, and part of why bleeding from a cancellous donor site (for example the central artery of the iliac bone) can be brisk enough to need bone wax or electrocautery. That perfusion runs through three anastomosing arterial systems and returns via collecting sinuses and named companion veins, with centrifugal flow maintained by high intramedullary pressure. The same principle governs graft biology: revascularization, not mere mechanical contact, determines incorporation, which is why a well-vascularized recipient bed and avoidance of dead space are stated requirements for graft survival.",
+  "hy": "Bone receives ~10–20% of cardiac output.",
+  "src": "Neligan I.20 · Variables influencing bone repair — blood supply",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — understates skeletal perfusion, which is far higher than a few percent.",
+   "B": "Correct — approximately 10–20% of cardiac output reaches bone.",
+   "C": "Wrong — 25–30% overstates the figure given.",
+   "D": "Wrong — nearly half of cardiac output is far beyond the stated range."
+  }
+ },
+ {
+  "id": "N-I-20.24",
+  "chapter": "Ch20",
+  "section": "Fracture fixation — motion",
+  "stem": "Which statement about movement at a surgically fixed fracture site is correct?",
+  "options": {
+   "A": "Micromotion can enhance healing, while excess motion and absolute rigidity impair it.",
+   "B": "Absolute immobilization is optimal, and any motion at the site produces delayed union.",
+   "C": "Excess motion accelerates union by increasing strain-driven signaling from osteocytes.",
+   "D": "Motion has no measurable effect on healing once rigid plate fixation has been applied."
+  },
+  "answer": "A",
+  "exp": "The decisive variable in long-bone fracture healing is the **extent of movement at the fracture site after fixation**. Both extremes are harmful: **delayed union and non-union are associated with excess motion**, while **absolute immobilization** also hampers repair, probably because a stress-protected environment increases resorption. Between them lies **micromotion**, a small controlled amount of movement that **enhances** healing, and the degree of mechanical strain at the site has differential effects on chondrogenesis versus osteogenesis. This is the mechanical counterpart of Wolff's law — trabeculae reorient along new principal stress trajectories — and of mechanotransduction, in which osteocytes convert strain and interstitial fluid shear into NO, prostaglandins and COX-2-mediated signals that trigger turnover.",
+  "hy": "Micromotion helps; both excess motion and absolute rigidity impair fracture healing.",
+  "src": "Neligan I.20 · Fracture fixation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — micromotion enhances healing while excess motion and total rigidity impair it.",
+   "B": "Wrong — absolute immobilization increases resorption in a stress-protected environment.",
+   "C": "Wrong — excess motion is specifically associated with delayed union and non-union.",
+   "D": "Wrong — motion still matters; strain influences chondrogenesis and osteogenesis differentially."
+  }
+ },
+ {
+  "id": "N-I-20.25",
+  "chapter": "Ch20",
+  "section": "Osteoinduction vs osteoconduction",
+  "stem": "A porous calcium phosphate block is implanted into a defect. Host bone attaches to and grows along its surface, but the material itself cannot drive undifferentiated cells into the osteoblast lineage. Which property does it have, and which does it lack?",
+  "options": {
+   "A": "Osteoinductive but not itself osteoconductive",
+   "B": "Osteoconductive but not osteoinductive",
+   "C": "Osteogenic but not osteoconductive",
+   "D": "Osseointegrative but not osteogenic"
+  },
+  "answer": "B",
+  "exp": "The three remodeling properties must be kept separate. **Osteoconduction** is the ability of a material to act as a **scaffold** onto which bone attaches and grows; an osteoconductive substrate must be **porous** to permit ingrowth of bone and fibrovascular tissue. **Osteoinduction** is the stimulation of **undifferentiated pluripotent cells into the osteoblast lineage** — it happens naturally in skeletogenesis and fracture repair and can be driven exogenously by BMP. **Osseointegration** is a stable structural and functional anchorage between bone and an implant. A calcium phosphate substitute is the textbook purely osteoconductive material, which is precisely why such materials are **combined with osteoinductive factors such as BMP** before being placed in a defect. Native bone, by contrast, is both osteoconductive and osteoinductive.",
+  "hy": "Osteoconduction = scaffold; osteoinduction = recruits/differentiates cells; CaP is conductive only.",
+  "src": "Neligan I.20 · Bone remodeling",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — inverted; recruitment of undifferentiated cells is what this material cannot do.",
+   "B": "Correct — scaffolding without cell recruitment is osteoconduction without osteoinduction.",
+   "C": "Wrong — osteogenic means the graft carries its own living bone-forming cells, which an implant does not.",
+   "D": "Wrong — osseointegration describes bone–implant anchorage, not the scaffold property being tested."
+  }
+ },
+ {
+  "id": "N-I-20.26",
+  "chapter": "Ch20",
+  "section": "Osseointegration",
+  "stem": "Which statement about osseointegration is correct?",
+  "options": {
+   "A": "The implant must be bioresorbable so that host bone can eventually replace it entirely.",
+   "B": "Union proceeds through a cartilaginous intermediate, unlike primary fracture repair.",
+   "C": "Smoother machined implant surfaces give greater bone-to-implant contact than rough ones.",
+   "D": "Native bone and a foreign implant unite directly, with no cartilaginous intermediate."
+  },
+  "answer": "D",
+  "exp": "**Osseointegration** is a stable anchorage giving a structural and functional connection between bone and implant. Like **primary** fracture repair, it unites the two **without a cartilaginous intermediate** — the key difference being that one of the partners is a foreign body, so the implant's structure and composition become part of the biology. Prerequisites are that the implant be **bioinert** (causing no adverse tissue reaction — titanium is the standard example in dental, craniofacial and orthopedic use) or **favorably bioactive** (actively promoting osseous production or chemical bonding, often as a coating over a mechanically useful but biologically unfavorable core). Surface topography matters: **bone-implant contact correlates positively with surface roughness**, rougher surfaces tolerate shear better, and acid-etched or anodized titanium outperforms machined surfaces.",
+  "hy": "Osseointegration = direct bone–implant union, no cartilage; rougher surface → more bone contact.",
+  "src": "Neligan I.20 · Osseointegration",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — titanium, the model material, is bioinert and non-resorbable.",
+   "B": "Wrong — primary fracture repair also lacks a cartilage stage, so the contrast is false.",
+   "C": "Wrong — inverted; acid-etched and anodized rough surfaces give greater bone-implant contact.",
+   "D": "Correct — direct union without a cartilaginous intermediate, as in primary fracture repair."
+  }
+ },
+ {
+  "id": "N-I-20.27",
+  "chapter": "Ch20",
+  "section": "Bioactive glass",
+  "stem": "Bioactive glass produces new bone at the implant interface by which mechanism?",
+  "options": {
+   "A": "Slow release of strontium ions suppresses osteoclastic resorption at the bone interface",
+   "B": "Trace bone morphogenetic protein retained in the material induces osteoblast formation",
+   "C": "An exothermic setting reaction sterilizes the bed and provokes reactive new bone growth",
+   "D": "An apatite surface layer forms and recruits osteoprogenitor cells to release cytokines"
+  },
+  "answer": "D",
+  "exp": "**Bioactive glass** (for example NovaBone) is composed of silica dioxide, sodium dioxide, calcium dioxide and phosphate. Mixed with saline or blood, those components generate an **apatite surface layer** at the biomaterial–bone interface which incorporates collagen and proteins from adjacent native bone, creating a chemical bond; that layer then **recruits and stimulates osteoprogenitor cells to produce cytokines** with autocrine and paracrine effects, so osteoblasts proliferate and differentiate on the surface and new bone forms while the particulate glass is resorbed by osteoclasts. It is grouped with demineralized bone matrix as an **\"osteoactive\"** material, and has shown promise in craniomaxillofacial applications. The contrast with DBM is instructive: DBM works through **trace retained BMP**, not through a surface apatite layer.",
+  "hy": "Bioactive glass → apatite surface layer → osteoprogenitor recruitment → new bone.",
+  "src": "Neligan I.20 · Osteoactive materials / Osteoinduction",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — strontium-mediated antiresorptive action is a different biomaterial strategy entirely.",
+   "B": "Wrong — retained trace BMP is the mechanism of demineralized bone matrix, not bioactive glass.",
+   "C": "Wrong — a caustic exotherm describes methylmethacrylate curing, which is not osteogenic.",
+   "D": "Correct — the apatite surface layer recruits osteoprogenitors that secrete osteogenic cytokines."
+  }
+ },
+ {
+  "id": "N-I-20.28",
+  "chapter": "Ch20",
+  "section": "Distraction osteogenesis — history",
+  "stem": "Which attribution in the development of distraction osteogenesis is correct?",
+  "options": {
+   "A": "Codvilla introduced craniofacial distraction to humans in the early 1990s.",
+   "B": "McCarthy first described the tension–stress effect in the axial skeleton.",
+   "C": "Ilizarov established the \"tension–stress effect\" behind gradual distraction.",
+   "D": "Urist first applied an external distraction device in a canine crossbite model."
+  },
+  "answer": "C",
+  "exp": "Distraction osteogenesis — new bone formed by gradual separation of osteotomized fronts — was **pioneered by Codvilla at the turn of the 20th century** and expanded by **Ilizarov** in orthopedic surgery. Ilizarov's rigorous experiments established the governing hypothesis, the **\"tension–stress effect\"**: gradual controlled separation of osteotomized bone generates angiogenesis and new bone formation. Those classic experiments were done on the **axial** skeleton; craniofacial distraction came only in the early **1970s**, first in a **canine model** correcting an iatrogenic crossbite with an external device at 1 mm/day for 2 weeks, and application to the **human** craniofacial skeleton was introduced by **McCarthy and colleagues in the early 1990s**, in the mandible. Indications have since expanded from congenital cases to tumor-, trauma- and iatrogenic-related craniofacial skeletal deficiency.",
+  "hy": "Codvilla → Ilizarov (tension–stress, axial) → canine craniofacial 1970s → McCarthy human mandible 1990s.",
+  "src": "Neligan I.20 · Distraction osteogenesis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — Codvilla pioneered distraction around 1900; human craniofacial work is McCarthy's.",
+   "B": "Wrong — McCarthy introduced human craniofacial distraction; the tension–stress effect is Ilizarov's.",
+   "C": "Correct — Ilizarov established the tension–stress effect.",
+   "D": "Wrong — Urist is the BMP/demineralized bone matrix figure, unrelated to distraction devices."
+  }
+ },
+ {
+  "id": "N-I-20.29",
+  "chapter": "Ch20",
+  "section": "Distraction — the three stages",
+  "stem": "A 6-year-old's mandibular distractor has reached target length, so the screw is no longer turned — but the device is deliberately left in situ for a further eight weeks. Which stage is this, and what defines it?",
+  "options": {
+   "A": "From the end of distraction until device removal, while immature bone matures",
+   "B": "From osteotomy until the first turn of the screw, while early callus is forming",
+   "C": "The phase during which the axial screw is turned to generate immature new bone",
+   "D": "The phase in which the regenerate is molded with an orthopedic appliance in situ"
+  },
+  "answer": "A",
+  "exp": "Distraction requires three sequential stages. **Latency** is the interval immediately after osteotomy during which bone healing starts in the gap, periosteal integrity is restored and callus begins — typically **0–7 days**, gauged by age (the chapter also cites a 1–7 day range). **Activation (distraction)** is the phase in which an axial screw is turned at a predetermined rate for a set number of days, inducing osteogenesis and generating immature bone. **Consolidation** is the third and final stage, the period **from the end of distraction until the device is removed**, during which that immature bone remodels into mature bone. Each stage's parameters are set by the surgeon according to patient profile and the skeletal region. \"Molding the regenerate\" is a separate clinical trick applied *during* late activation, when the infantile regenerate is still malleable and can be shaped with an orthopedic appliance without causing fibrous non-union.",
+  "hy": "Consolidation = end of distraction → device removal; immature bone matures.",
+  "src": "Neligan I.20 · Distraction osteogenesis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — consolidation runs from the end of distraction to device removal.",
+   "B": "Wrong — that defines the latency period.",
+   "C": "Wrong — that defines the activation (distraction) phase.",
+   "D": "Wrong — molding the regenerate is a maneuver during late activation, not a stage."
+  },
+  "exptable": [
+   [
+    "Stage",
+    "Definition",
+    "Typical timing"
+   ],
+   [
+    "Latency",
+    "Osteotomy → start of distraction; callus begins",
+    "0–7 days (optimal 5–7); shorter in children"
+   ],
+   [
+    "Activation",
+    "Screw turned at set rate; immature bone generated",
+    "Until target length achieved"
+   ],
+   [
+    "Consolidation",
+    "End of distraction → device removal; bone matures",
+    "Extended in older/irradiated patients"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.30",
+  "chapter": "Ch20",
+  "section": "Latency period",
+  "stem": "You are writing the distraction protocol for a 5-year-old undergoing mandibular lengthening. What latency does the bulk of experimental evidence support, and how should the child's age modify it?",
+  "options": {
+   "A": "5–7 days; the younger the patient, the longer the latency period",
+   "B": "10–14 days; the younger the patient, the shorter the latency period",
+   "C": "5–7 days; the younger the patient, the shorter the latency period",
+   "D": "14–21 days; the latency period is independent of the patient's age"
+  },
+  "answer": "C",
+  "exp": "Latency ranges from **0 to 7 days** and is judged against patient variables — age, osteotomy site, blood supply — but **the majority of experimental evidence points to an optimal latency of 5–7 days**, and **the younger the patient, the shorter the latency**. The rationale is biological: immediate distraction may prevent an adequate hematoma and primordial callus, giving a regenerate of poor volume and mechanical strength or even fibrous non-union, while excessive delay lets the site consolidate prematurely. Children tolerate reduced latency and faster rates because of better blood supply and osteogenic potential — a low-complication series used **no latency with 2 mm/day** distraction, and a study of children aged 4–12 found no difference in one-year outcomes between a 48-hour latency and none at all. Comparative studies of 7, 14 and 21-day latencies showed no difference in osteogenesis.",
+  "hy": "Optimal latency 5–7 days; younger patient → shorter latency.",
+  "src": "Neligan I.20 · Variables affecting osteogenesis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the age relationship is inverted; children need less latency, not more.",
+   "B": "Wrong — 10–14 days exceeds the stated 0–7-day range.",
+   "C": "Correct — 5–7 days optimal, with shorter latency in younger patients.",
+   "D": "Wrong — latency is explicitly gauged according to the patient's age."
+  }
+ },
+ {
+  "id": "N-I-20.31",
+  "chapter": "Ch20",
+  "section": "Distraction — timing failures",
+  "stem": "Deferring the start of the activation (distraction) phase beyond 14 days after the osteotomy characteristically produces which problem?",
+  "options": {
+   "A": "Fibrous non-union arising from an inadequate primordial callus",
+   "B": "Premature consolidation of the distraction site and device failure",
+   "C": "Ischemic fibrogenesis from disruption of the periosteal blood supply",
+   "D": "A regenerate of suboptimal volume and reduced mechanical strength"
+  },
+  "answer": "B",
+  "exp": "The two ends of the latency error have opposite consequences, and mixing them up is the classic trap. **Too short a latency (immediate distraction)** prevents formation of an adequate hematoma and primordial callus, so the regenerate ends up of **suboptimal volume and mechanical strength**, and in the extreme becomes a **fibrous non-union** — experimentally, disrupting the initial fracture hematoma cut callus cross-sectional area by 26%. **Too long a delay — deferring distraction beyond 14 days —** allows the osteotomy site to **consolidate prematurely**, so the bone will not separate and the **device fails**. Separately, thermal or mechanical injury to the bone damages its blood supply and causes **ischemic fibrogenesis**, with disorganized collagen from arterial insufficiency or cystic degeneration from venous obstruction.",
+  "hy": "Delay >14 days → premature consolidation + device failure; immediate distraction → poor/fibrous regenerate.",
+  "src": "Neligan I.20 · Variables affecting osteogenesis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — fibrous non-union follows an inadequate primordial callus, i.e. too *short* a latency.",
+   "B": "Correct — premature consolidation with device failure follows deferment beyond 14 days.",
+   "C": "Wrong — ischemic fibrogenesis follows thermal or mechanical injury to the bone's blood supply.",
+   "D": "Wrong — a low-volume, weak regenerate is the consequence of immediate distraction."
+  }
+ },
+ {
+  "id": "N-I-20.32",
+  "chapter": "Ch20",
+  "section": "Distraction — hematoma",
+  "stem": "At the end of an osteotomy the surgeon irrigates out the fracture hematoma before applying the distractor. Experimentally this manoeuvre, which simulates an abbreviated latency period, reduces callus cross-sectional area by approximately how much?",
+  "options": {
+   "A": "About 10%",
+   "B": "About 26%",
+   "C": "About 45%",
+   "D": "About 65%"
+  },
+  "answer": "B",
+  "exp": "Disrupting the initial fracture hematoma — an experimental model of an abbreviated latency period — produces a **26% decrease in callus cross-sectional area** together with significant impairment of the mechanical strength of the newly formed bone. The finding is the quantitative justification for allowing a latency period at all: the hematoma is not waste product but a fibrin scaffold that immobilizes the gap and a reservoir of signaling molecules, with platelets releasing **PDGF and TGF-β** to drive mesenchymal stem cell proliferation and osteogenic differentiation. That is also why the primordial callus generated during latency is described as important for eventual regenerate volume, and why the debate over eliminating latency is confined to children, whose blood supply and osteogenic potential compensate.",
+  "hy": "Hematoma disruption → 26% drop in callus cross-sectional area.",
+  "src": "Neligan I.20 · Variables affecting osteogenesis",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — understates the measured effect on callus cross-section.",
+   "B": "Correct — a 26% reduction in callus cross-sectional area is the reported figure.",
+   "C": "Wrong — no such magnitude is reported for hematoma disruption.",
+   "D": "Wrong — far exceeds the reported reduction."
+  }
+ },
+ {
+  "id": "N-I-20.33",
+  "chapter": "Ch20",
+  "section": "Regenerate histology",
+  "stem": "Which statement about the histology of the distraction regenerate is correct?",
+  "options": {
+   "A": "The regenerate is rigid from the outset and cannot be remodeled by external forces.",
+   "B": "New bone is generated by endochondral ossification via a cartilaginous intermediate.",
+   "C": "Mineralization starts in the central fibrous interzone and advances toward the fronts.",
+   "D": "Mineralization begins at the fronts 10–14 days after distraction starts."
+  },
+  "answer": "D",
+  "exp": "Successful distraction produces bone by **membranous ossification with no cartilaginous intermediate**. Early on the process is better described as **distraction angiogenesis**: multipotent precursor cells appear with type I collagen matrix in the distraction zone, and endothelial precursors (CD31, CD34, Flk-1 markers) are enriched from mid-activation into the first 1–2 weeks of consolidation, honing to the zone under ischemic paracrine cues such as HIF-1α. Later in activation, dense collagen fibrils align **in the direction of distraction** as a template for mineralization. **Mineralization by mature osteoblasts begins 10–14 days after distraction starts, at the osteotomy fronts, and proceeds centrally toward the relatively avascular fibrous interzone**, forming the primary mineralization front. Because the young regenerate stays malleable, it can be deliberately **molded** with an appliance without producing fibrous non-union.",
+  "hy": "Membranous ossification; mineralization at 10–14 d, from the osteotomy fronts inward.",
+  "src": "Neligan I.20 · Distraction osteogenesis — histology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the infantile regenerate is malleable and can be molded during late activation.",
+   "B": "Wrong — distraction osteogenesis is membranous, without a cartilaginous intermediate.",
+   "C": "Wrong — the direction is inverted; the fibrous interzone is the last, most avascular region to mineralize.",
+   "D": "Correct — mineralization starts at 10–14 days at the fronts and advances centrally."
+  }
+ },
+ {
+  "id": "N-I-20.34",
+  "chapter": "Ch20",
+  "section": "Variables affecting osteogenesis",
+  "stem": "Which factor is correctly paired with its effect on distraction osteogenesis?",
+  "options": {
+   "A": "Preoperative chemotherapy preserves mineral density but weakens the bone mechanically",
+   "B": "A complete osteotomy with periosteal division reliably abolishes regenerate formation",
+   "C": "Osteocyte survival requires the cell to lie within 0.1 mm of a nutrient vessel",
+   "D": "Advancing patient age improves recruitment of osteoprogenitors to the distraction site"
+  },
+  "answer": "C",
+  "exp": "Vascularity dominates the outcome of distraction, and the hard number is that **osteocyte survival depends on lying within 0.1 mm of a nutrient vessel** — the reason neovascularization is critical to regenerate formation and mineralization, and why anything that impairs vascularization of the distracted field can cause outright failure of bone formation. Around this sit the other patient variables. **Age** contributes *negatively*, presumably through reduced recruitment of osteoprogenitors, so latency and consolidation may be extended in older patients, though age is not a contraindication. **Periosteal division** is no longer feared: even with complete osteotomy, periosteum has proved sufficiently osteogenic. **Radiotherapy** (36 Gy in animal work) impairs mineralization by compromising vascularity, cellularity and local oxygen, so irradiated patients may need extended latency, slower distraction and longer consolidation. On **chemotherapy**, preoperative dosing reduces regenerate mineral density and content without altering structural integrity, whereas perioperative dosing spares mineralization but degrades mechanical properties.",
+  "hy": "Osteocytes must sit within 0.1 mm of a nutrient vessel to survive.",
+  "src": "Neligan I.20 · Patient factors",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — that is the *perioperative* chemotherapy pattern; preoperative dosing lowers mineral density instead.",
+   "B": "Wrong — periosteum remains sufficiently osteogenic even after complete osteotomy.",
+   "C": "Correct — 0.1 mm is the stated maximum osteocyte-to-vessel distance for survival.",
+   "D": "Wrong — increasing age contributes negatively, with poorer osteoprogenitor recruitment."
+  }
+ },
+ {
+  "id": "N-I-20.35",
+  "chapter": "Ch20",
+  "section": "Cancellous vs cortical graft",
+  "stem": "Compared with a cortical autograft, a cancellous autograft characteristically shows which profile?",
+  "options": {
+   "A": "Greater osteogenic and osteoinductive capacity, revascularized in about 2 weeks",
+   "B": "Greater immediate structural strength, revascularized in about 2 weeks after inset",
+   "C": "Greater osteogenic capacity, but revascularization requires about 1–2 months",
+   "D": "Equivalent osteogenic capacity, with revascularization complete at about 6 weeks"
+  },
+  "answer": "A",
+  "exp": "Cancellous and cortical grafts differ in what they contribute and how fast. **Cancellous bone has little immediate strength or structural support but higher osteogenic, osteoinductive and osteoconductive properties**, carries viable osteoblasts and endosteal cells on its surfaces, and is **incorporated and revascularized more quickly — usually within about 2 weeks**, acting as an osteoconductive substrate for creeping substitution. **Cortical bone has limited osteogenic potential**, relies on plasmatic imbibition from the recipient bed to sustain its outer osteocytes, and takes **1–2 months** to incorporate and revascularize — but provides **immediate structural support**. Typical cancellous sources are iliac crest, cranial diploe, upper tibial epiphysis and distal radius; cortical grafts come from fibula, rib and iliac crest and are used for onlay augmentation of contour deficits.",
+  "hy": "Cancellous: more biology, revascularized ~2 wk; cortical: more strength, 1–2 months.",
+  "src": "Neligan I.20 · Cancellous versus cortical grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — greater biological activity with revascularization in roughly two weeks.",
+   "B": "Wrong — immediate structural strength is the cortical graft's advantage, not the cancellous graft's.",
+   "C": "Wrong — 1–2 months is the cortical, not cancellous, incorporation time.",
+   "D": "Wrong — the two graft types differ substantially in osteogenic capacity."
+  },
+  "exptable": [
+   [
+    "",
+    "Cancellous graft",
+    "Cortical graft"
+   ],
+   [
+    "Immediate strength",
+    "Little",
+    "Immediate structural support"
+   ],
+   [
+    "Osteogenic/inductive/conductive",
+    "Higher",
+    "Limited osteogenic potential"
+   ],
+   [
+    "Revascularization",
+    "~2 weeks",
+    "1–2 months"
+   ],
+   [
+    "Defect bridged",
+    "<6 cm, non-stress-bearing",
+    "Up to 12 cm"
+   ],
+   [
+    "Typical donors",
+    "Iliac crest, cranial diploe, upper tibial epiphysis, distal radius",
+    "Fibula, rib, iliac crest"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.36",
+  "chapter": "Ch20",
+  "section": "Graft size limits",
+  "stem": "Two patients need non-vascularized bone: one has a 4 cm non-stress-bearing craniofacial defect, the other a 9 cm segmental radial defect that needs immediate structural support. Which pairing is correct?",
+  "options": {
+   "A": "Cortical graft for the 4 cm defect; cancellous graft for the 9 cm defect",
+   "B": "Cancellous graft for both, since each falls under the cancellous ceiling",
+   "C": "Cancellous graft for the 4 cm defect; cortical graft for the 9 cm defect",
+   "D": "Vascularized transfer for both, since each exceeds the 2 cm graft ceiling"
+  },
+  "answer": "C",
+  "exp": "Graft choice is a mechanical calculation, and the two defects sit on opposite sides of it. **Cancellous grafts** have little immediate strength but high osteogenic, osteoinductive and osteoconductive capacity and revascularize in about **2 weeks**; they are indicated to bridge **gaps of less than 6 cm in non-stress-bearing areas** — the 4 cm craniofacial defect. **Cortical grafts** have limited osteogenic potential and take **1–2 months** to incorporate by creeping substitution, but they give **immediate structural support** and can bridge defects **up to 12 cm**; they must be tailored to the defect and generally need rigid fixation to prevent fracture of the healing graft, which suits the 9 cm radial defect. Above those ceilings — or where the bed is scarred, infected or irradiated, or greater strength is needed for a segmental defect over 6 cm in a load-bearing area — a vascularized transfer is the answer instead.",
+  "hy": "Cancellous <6 cm non-stress-bearing; cortical up to 12 cm with rigid fixation.",
+  "src": "Neligan I.20 · Cancellous versus cortical grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — inverted; the graft needing immediate structural support is the 9 cm one.",
+   "B": "Wrong — 12 cm is the *cortical* ceiling; cancellous grafts are limited to under 6 cm and give no support.",
+   "C": "Correct — cancellous under 6 cm non-stress-bearing, cortical for the 9 cm structural defect.",
+   "D": "Wrong — the vascularized threshold is segmental loss over 6–8 cm, not over 2 cm."
+  },
+  "exptable": [
+   [
+    "",
+    "Cancellous graft",
+    "Cortical graft"
+   ],
+   [
+    "Immediate strength",
+    "Little",
+    "Immediate structural support"
+   ],
+   [
+    "Revascularization",
+    "~2 weeks",
+    "1–2 months"
+   ],
+   [
+    "Defect bridged",
+    "<6 cm, non-stress-bearing",
+    "Up to 12 cm"
+   ],
+   [
+    "Typical donors",
+    "Iliac crest, cranial diploe, upper tibial epiphysis, distal radius",
+    "Fibula, rib, iliac crest"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.37",
+  "chapter": "Ch20",
+  "section": "Graft handling",
+  "stem": "Which intraoperative measure correctly protects the cellular viability of a bone graft?",
+  "options": {
+   "A": "Allow up to 3 hours of room-air exposure before the graft is finally inset",
+   "B": "Soak the graft in an antibiotic wash, which is bactericidal and cytoprotective",
+   "C": "Keep the graft below 42°C, since higher temperatures cause bone cell death",
+   "D": "Orient the graft so its cortical surface faces the cancellous recipient bed"
+  },
+  "answer": "C",
+  "exp": "The chapter gives an explicit handling protocol for maximizing graft survival. **Temperatures above 42°C cause cell death, so grafts must be kept cool** — the reason an osteotome rather than a saw is used to split calvarial grafts, to avoid heat damage. **Air exposure at room temperature should be minimized, ideally to under one hour**, though longer ischemia is tolerated if the medullary nutrient supply is later reconstituted, as in vascularized bone. **Antibiotic washes are not only bactericidal but also cellucidal** and should be used with caution. Dead space around the graft is avoided, the **cancellous portion of the graft is placed against cancellous bone in the bed**, and the graft is ideally set into a previously prepared vascularized bed.",
+  "hy": "Keep graft <42°C, air exposure <1 h, antibiotic washes are cellucidal, cancellous-to-cancellous.",
+  "src": "Neligan I.20 · Clinical considerations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — air exposure should ideally be kept under one hour, not three.",
+   "B": "Wrong — antibiotic washes are cellucidal as well as bactericidal, so they are used cautiously.",
+   "C": "Correct — bone cells die above 42°C, so grafts are kept cool.",
+   "D": "Wrong — the cancellous surface of the graft should face the cancellous bed, not the cortical one."
+  }
+ },
+ {
+  "id": "N-I-20.38",
+  "chapter": "Ch20",
+  "section": "Graft handling and storage",
+  "stem": "A corticocancellous graft is harvested at the start of a resection and inset is expected in about five hours. Which handling plan is correct for that delay?",
+  "options": {
+   "A": "Blood-soaked sponge with moist saline gauze laid over it until inset",
+   "B": "10% human serum albumin with 90% balanced salt solution, held at 3°C",
+   "C": "Antibiotic wash then moist gauze, refrigerated at 4°C until it is needed",
+   "D": "Dry storage in a covered basin, then saline immersion just before inset"
+  },
+  "answer": "A",
+  "exp": "Two escalating measures are described, and the delay decides which. For a **short delay**, covering the graft in a **blood-soaked sponge with moist saline gauze on top enhances bone viability by 4–6 hours** — which covers a five-hour wait. Only if **longer** exposure is required must the graft be held in **10% human serum albumin with 90% balanced salt solution at 3°C** in **Collins–Terasaki solution**, a high-potassium, intracellular-composition preservation fluid developed for cold organ storage. The surrounding rules explain why: **air exposure at room temperature should ideally be under one hour**, **temperatures above 42°C cause cell death**, and **antibiotic washes are cellucidal as well as bactericidal** so are used with caution. A non-vascularized graft's surface osteocytes survive on plasmatic imbibition alone until creeping substitution takes over, so warm ischemia and desiccation are what kill it.",
+  "hy": "Blood-soaked sponge = 4–6 h; beyond that, 10% albumin/90% BSS at 3°C (Collins–Terasaki).",
+  "src": "Neligan I.20 · Clinical considerations",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — a blood-soaked sponge under moist gauze covers 4–6 hours, which spans this delay.",
+   "B": "Wrong — that medium is reserved for delays longer than a sponge can cover.",
+   "C": "Wrong — antibiotic washes are cellucidal and would damage the graft's cells.",
+   "D": "Wrong — dry storage desiccates the graft; air exposure should ideally stay under an hour."
+  }
+ },
+ {
+  "id": "N-I-20.39",
+  "chapter": "Ch20",
+  "section": "Iliac harvest — safety margins",
+  "stem": "Three weeks after iliac crest harvest a patient sustains an avulsion fracture of the anterior superior iliac spine. Which margin was violated, and what is the corresponding limit at the posterior approach?",
+  "options": {
+   "A": "Stop 4 cm posterior to the ASIS; stop 3 cm anterior to the PSIS",
+   "B": "Stop 1 cm posterior to the ASIS; stop 2 cm anterior to the PSIS",
+   "C": "Stop 3 cm posterior to the ASIS; stop 4 cm anterior to the PSIS",
+   "D": "Stop 5 cm posterior to the ASIS; stop 5 cm anterior to the PSIS itself"
+  },
+  "answer": "C",
+  "exp": "The ilium is the **most commonly used site for corticocancellous grafts** because of its versatility, the volume of cortical and cancellous bone available, and the option of transferring it as a vascularized flap. Two landmark rules protect it. Anteriorly, the dissection should **stop 3 cm posterior to the anterior superior iliac spine**, to prevent an **avulsion fracture of the ASIS**. Posteriorly, the most posterior osteotome mark is made **4 cm anterior to the posterior superior iliac spine**, to prevent **injury to the sacroiliac joint**. Beyond the margins, technique preserves the shape of the crest by careful splitting and preserves the insertions of the abdominal and gluteal muscles; the split crest can be wired back together, which decreases postoperative pain and allows the iliac wing to regenerate for repeat harvest.",
+  "hy": "Anterior: stop 3 cm posterior to ASIS. Posterior: stop 4 cm anterior to PSIS.",
+  "src": "Neligan I.20 · Techniques of harvest — ilium",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the two values are transposed.",
+   "B": "Wrong — both margins are too small to protect the spine and the sacroiliac joint.",
+   "C": "Correct — 3 cm from the ASIS anteriorly and 4 cm from the PSIS posteriorly.",
+   "D": "Wrong — 5 cm is not the stated margin at either spine."
+  }
+ },
+ {
+  "id": "N-I-20.40",
+  "chapter": "Ch20",
+  "section": "Iliac harvest — nerve injury",
+  "stem": "Two weeks after anterior iliac crest harvest a patient reports burning numbness over the anterolateral thigh. Retraction during that harvest most likely injured which nerve?",
+  "options": {
+   "A": "Lateral femoral cutaneous nerve",
+   "B": "Superior cluneal nerve branches",
+   "C": "Ilioinguinal nerve trunk",
+   "D": "Genitofemoral nerve, femoral branch"
+  },
+  "answer": "A",
+  "exp": "The **lateral femoral cutaneous nerve** runs retroperitoneally on the deep surface of the iliacus muscle down to the inguinal ligament near the ASIS, so **unnecessary superior dissection or excessive retraction during anterior iliac harvest stretches it and produces postoperative paresthesia** — clinically meralgia paresthetica over the anterolateral thigh. The other stated technical cautions in this exposure are to avoid tearing the gluteal muscles and to avoid removing the iliac crest itself. The **cluneal nerves** are the corresponding hazard of the **posterior** approach, particularly when the crest is harvested in the prone position. Overall donor morbidity is modest — chronic donor-site pain, paresthesias and gait abnormality are the recognized complications, and a 5600-patient series reported an overall complication rate of **0.5%** with proper technique.",
+  "hy": "Anterior iliac harvest → lateral femoral cutaneous nerve; posterior → cluneal nerves.",
+  "src": "Neligan I.20 · Techniques of harvest — ilium",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — the lateral femoral cutaneous nerve is stretched by superior dissection or retraction.",
+   "B": "Wrong — cluneal nerve injury is the hazard of the posterior iliac approach.",
+   "C": "Wrong — the ilioinguinal nerve is not identified as the nerve at risk in this exposure.",
+   "D": "Wrong — the genitofemoral nerve is not the nerve described for iliac crest harvest."
+  }
+ },
+ {
+  "id": "N-I-20.41",
+  "chapter": "Ch20",
+  "section": "Iliac graft dimensions",
+  "stem": "A reconstruction needs a corticocancellous plate of roughly 6 × 10 cm, to be taken from the ilium. Which harvest yields a plate of that size?",
+  "options": {
+   "A": "The outer (lateral) cortical plate of the iliac wing",
+   "B": "A subcrest corticocancellous strip along the iliac crest",
+   "C": "Posterior iliac cancellous curettage via a cortical window",
+   "D": "The inner (medial) cortical plate of the iliac wing"
+  },
+  "answer": "D",
+  "exp": "How much bone the ilium yields depends on which cortical plates must be preserved, and the two plates are not the same size. The described maxima are a **subcrest corticocancellous graft up to 11 cm**, a **corticocancellous inner (medial) plate of about 6 × 10 cm**, and a **corticocancellous outer (lateral) plate of about 5 × 8 cm** — so a 6 × 10 cm plate can only come from the **inner** table. Cancellous bone can be taken down to the **cotyloid ridge above the glenoid fossa**. The **anterior** crest is convenient because the patient stays supine, whereas the **posterior** crest yields **more** graft and avoids aberrant entry into the abdomen. Correct handling of the iliac wing — careful splitting, preserving muscle insertions, wiring the leaves back together — permits regeneration and allows repeat harvest.",
+  "hy": "Ilium: inner plate ~6 × 10 cm > outer plate ~5 × 8 cm; subcrest strip ≤11 cm.",
+  "src": "Neligan I.20 · Techniques of harvest — ilium",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the outer plate reaches only about 5 × 8 cm, short of the required dimensions.",
+   "B": "Wrong — the subcrest strip runs up to 11 cm in length but is not a plate of this width.",
+   "C": "Wrong — curettage yields loose cancellous bone, not a corticocancellous plate.",
+   "D": "Correct — the inner plate is the larger of the two, at about 6 × 10 cm."
+  },
+  "exptable": [
+   [
+    "Harvest",
+    "Maximum size"
+   ],
+   [
+    "Subcrest corticocancellous graft",
+    "Up to 11 cm"
+   ],
+   [
+    "Corticocancellous **inner** plate",
+    "~6 × 10 cm"
+   ],
+   [
+    "Corticocancellous **outer** plate",
+    "~5 × 8 cm"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.42",
+  "chapter": "Ch20",
+  "section": "Rib graft",
+  "stem": "Which statement about the rib as a bone graft donor site is correct?",
+  "options": {
+   "A": "Rib regenerates reliably, so a second harvest from the same rib is simple.",
+   "B": "Rib yields abundant cancellous bone and accepts stable screw fixation well.",
+   "C": "Ribs 5–7 are the usual donors, and one rib is skipped when two are needed.",
+   "D": "Short segments from two ribs are preferred over one long segment from one."
+  },
+  "answer": "C",
+  "exp": "**Ribs 5–7 are the most commonly used donor ribs**, and when two ribs are needed **one rib is skipped** to preserve the contour and stability of the thoracic wall, with the incision placed over the skipped rib. Harvest is subperiosteal, taken up to the costochondral junction, and **a long segment from one rib is preferred over short segments from two**; cartilage can be included if needed. Rib's virtues are flexibility — it bends easily and takes wire fixation — and good integration with recipient bone. Its drawbacks are that ribs are **fragile and will not hold stable screw fixation**, cancellous volume is **minimal**, and **regeneration is poor, so a second harvest from the same rib is implausible**. Risks are pneumothorax, intercostal bleeding and air leak, with chest wall deformity or scoliosis if consecutive ribs are taken.",
+  "hy": "Ribs 5–7; skip a rib; long segment from one rib; no stable screw fixation; poor regeneration.",
+  "src": "Neligan I.20 · Techniques of harvest — rib",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — rib regenerates poorly, making a second harvest from the same rib implausible.",
+   "B": "Wrong — rib gives minimal cancellous bone and is too fragile for stable screw fixation.",
+   "C": "Correct — ribs 5–7 are the usual donors and one rib is skipped when two are taken.",
+   "D": "Wrong — one long segment is explicitly preferred over short segments from two ribs."
+  }
+ },
+ {
+  "id": "N-I-20.43",
+  "chapter": "Ch20",
+  "section": "Calvarial harvest",
+  "stem": "Which statement about calvarial bone graft harvest is correct?",
+  "options": {
+   "A": "The corticotomy should stay ≥1.5 cm from the coronal and ≥1 cm from the sagittal suture.",
+   "B": "The corticotomy should stay ≥1 cm from the coronal and ≥1.5 cm from the sagittal suture.",
+   "C": "A saw rather than an osteotome should be used to split the full-thickness graft on the back table.",
+   "D": "In young children an in-situ split graft is preferred, since the calvarium is thick."
+  },
+  "answer": "B",
+  "exp": "Calvarial grafts are **ectomesenchymal with a rich diploic vascular system** that revascularizes the haversian systems rapidly, favoring osteocyte survival, less resorption and better maintenance of structure — which is why they suit calvarial, midfacial, nasal and orbital reconstruction. They are harvested as **split** (in-situ outer table) or **full-thickness** grafts. The stated safety margins are that the **corticotomy should not be closer than 1 cm to the coronal suture or 1.5 cm to the sagittal suture**, with awareness of the perforating vessel posteriorly near the sagittal suture and of the anterior temporal crest and intraosseous lateral vein. A full-thickness graft is split on the back table with an **osteotome rather than a saw**, to reduce loss of bony substance and heat damage. **In young children a split graft may not be feasible because the calvarium is thin**, so an intracranial approach with a neurosurgeon is preferred — as it is for large grafts, irregular skull shapes, or when the inner table is needed. Complications are rare, about **0.25%**.",
+  "hy": "Calvarium: ≥1 cm from coronal, ≥1.5 cm from sagittal suture; split with osteotome; ~0.25% complications.",
+  "src": "Neligan I.20 · Techniques of harvest — calvarium",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the two margins are transposed.",
+   "B": "Correct — 1 cm from the coronal and 1.5 cm from the sagittal suture.",
+   "C": "Wrong — an osteotome is specified, since a saw wastes bone and generates heat.",
+   "D": "Wrong — the young calvarium is thin, which is why a split graft may not be feasible."
+  }
+ },
+ {
+  "id": "N-I-20.44",
+  "chapter": "Ch20",
+  "section": "Vascularized transfer — indication",
+  "stem": "A patient has a 7 cm segmental tibial defect after open trauma, in a load-bearing location with a scarred soft-tissue bed. Which reconstruction does the chapter advise?",
+  "options": {
+   "A": "Cancellous autograft packed against the ends, with rigid plate fixation",
+   "B": "Cortical strut allograft, with long-term fixation until union is achieved",
+   "C": "Vascularized bone transfer, carrying its own blood supply to the defect",
+   "D": "Demineralized bone matrix combined with autogenous cancellous chips"
+  },
+  "answer": "C",
+  "exp": "Vascularized bone flaps carry their own blood supply, so they **bypass the reparative phase of a conventional graft and do not depend on recipient-bed vascularity**. Osteocytes survive, so remodeling during revascularization is reduced and bone mass and strength are maintained; further advantages are increased blood flow to a compromised recipient site, the option of composite tissue (skin, muscle, nerve), and growth potential when a growth plate is included. The stated indication covers this patient twice over: **segmental defects greater than 6–8 cm** after traumatic or oncologic bone loss (also composite tissue loss, non-union, avascular necrosis, osteomyelitis or biologic failure), **and** a **compromised recipient site — scarring, infection or irradiation — or the need for greater biomechanical strength in a segmental defect over 6 cm in a load-bearing area**. A cortical graft tops out at 12 cm but relies on plasmatic imbibition from a bed this patient does not have.",
+  "hy": "Vascularized bone for segmental loss >6–8 cm, >6 cm load-bearing, or a hostile bed.",
+  "src": "Neligan I.20 · Vascularized bone flaps / Principles of bone transfer",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — cancellous graft is limited to gaps under 6 cm in non-stress-bearing areas.",
+   "B": "Wrong — allograft loses osteogenic and osteoinductive capacity, unites slowly, and is weaker than autograft after incorporation.",
+   "C": "Correct — segmental loss over 6–8 cm in a load-bearing, scarred bed is the stated indication.",
+   "D": "Wrong — demineralized matrix is a graft extender, not a reconstruction for a load-bearing segmental gap."
+  }
+ },
+ {
+  "id": "N-I-20.45",
+  "chapter": "Ch20",
+  "section": "Free fibula transfer",
+  "stem": "You plan a free fibula flap for a 14 cm segmental mandibular defect. The patient's fibula measures 34 cm end to end. How much bone can be taken, and what governs the limit?",
+  "options": {
+   "A": "Up to 32 cm, leaving 2 cm distally to protect the syndesmosis itself",
+   "B": "Up to 24 cm, leaving 10 cm distally to protect the peroneal nerve",
+   "C": "Up to 30 cm, since 30 cm is the ceiling whatever the fibular length",
+   "D": "Up to 28 cm, leaving 6 cm distally to keep the ankle joint stable"
+  },
+  "answer": "D",
+  "exp": "The free fibula supplies a **straight piece of cortical bone up to 30 cm**, which is why it is the workhorse for mandibular and long-bone reconstruction. The absolute donor constraint is that **6 cm of fibula must be left distally to maintain a stable ankle joint** — so from a 34 cm fibula the usable length is about 28 cm, comfortably more than the 14 cm this defect needs. Its principal supply is the **nutrient artery, a branch of the peroneal artery, 1.5–3 mm in diameter**, supplemented by periosteal branches proximal to the nutrient vessel and musculoperiosteal branches distally — which is what permits multiple osteotomies for shaping without devascularizing the segments. Fasciocutaneous perforators carry a **skin paddle up to 10 × 20 cm**, adjacent muscle (soleus, peroneal, flexor hallucis longus) can be included, and rigid fixation at the recipient site improves healing. Complications — ankle instability, persistent pain, neurologic compromise, wound breakdown — run **20% to 50%** across series.",
+  "hy": "Fibula ≤30 cm of bone; always leave 6 cm distally for ankle stability.",
+  "src": "Neligan I.20 · Vascularized fibula",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — leaving only 2 cm distally would destabilize the ankle joint.",
+   "B": "Wrong — 10 cm is not the described remnant, and the distal rule protects the ankle, not the nerve.",
+   "C": "Wrong — 30 cm is the ceiling in a long fibula, but the 6 cm distal remnant is the binding limit here.",
+   "D": "Correct — 34 cm less the mandatory 6 cm distal remnant leaves about 28 cm of harvestable bone."
+  },
+  "expimage": "images/N-I-20-45.jpg",
+  "expimgcap": "Fibula free flap and its pedicle"
+ },
+ {
+  "id": "N-I-20.46",
+  "chapter": "Ch20",
+  "section": "Fibula — growth plate transfer",
+  "stem": "A child with a malignant long-bone tumor needs resection that will remove the native growth plate. Which feature of the free fibula transfer answers this, and on which pedicle does it depend?",
+  "options": {
+   "A": "The physis can be carried with the flap, based on the inferior genicular vessels",
+   "B": "The physis can be carried with the flap, based on the peroneal artery and vein",
+   "C": "The epiphysis can be carried with the flap, based on the posterior tibial vessels",
+   "D": "The physis can be carried with the flap, based on the anterior tibial vessels"
+  },
+  "answer": "D",
+  "exp": "A unique advantage of free vascularized fibula transfer is that **the physis can be included in the flap, based on the anterior tibial artery and vein** — distinct from the shaft's peroneal supply. This matters exactly in the scenario given: a child with a malignant bone tumor requiring extirpation of all or part of a long bone **including the native growth plate**, where a growth-capable reconstruction preserves future limb length. It also illustrates the general principle that vascularized bone flaps carry **growth potential when a growth plate is included**, one of their stated advantages over non-vascularized grafts along with osteocyte survival, reduced resorption, maintained bone mass and strength, increased blood flow to a compromised bed, and the option of composite skin, muscle and nerve.",
+  "hy": "Fibular physis transfer is based on the anterior tibial vessels (the shaft is peroneal).",
+  "src": "Neligan I.20 · Vascularized fibula",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — genicular vessels are not the stated basis of the fibular physeal transfer.",
+   "B": "Wrong — the peroneal system supplies the fibular shaft, not the growth plate.",
+   "C": "Wrong — the posterior tibial vessels are not the pedicle described for this transfer.",
+   "D": "Correct — the physis is carried on the anterior tibial artery and vein."
+  }
+ },
+ {
+  "id": "N-I-20.47",
+  "chapter": "Ch20",
+  "section": "Vascularized iliac transfer",
+  "stem": "Which vessels give the better blood supply to a vascularized iliac bone flap, and which system are they contrasted with?",
+  "options": {
+   "A": "Deep circumflex iliac vessels; contrasted with the superficial circumflex iliac",
+   "B": "Superficial circumflex iliac vessels; contrasted with the deep circumflex iliac",
+   "C": "Ascending branch of the lateral femoral circumflex artery; contrasted with the DCIA",
+   "D": "Superior gluteal vessels; contrasted with the deep circumflex iliac system"
+  },
+  "answer": "A",
+  "exp": "The ilium has a **robust periosteal blood supply in addition to its nutrient artery**, and several pedicles have been studied. The **superficial circumflex iliac vessels** are often used in conjunction with a groin fasciocutaneous flap, but the **deep circumflex iliac vessels (DCIA/DCIV) offer the better blood supply to the bone**, which is why the DCIA flap is the standard vascularized iliac transfer and can be raised with an overlying skin paddle. A third option exists: a piece of vascularized iliac crest can be taken with an **anterolateral thigh flap** off the lateral femoral circumflex system, whose **ascending branch** gives a small pedicle to the anterior superior iliac crest. The trade-off in choosing an iliac flap is bone stock and natural curvature — useful for mandibular body reconstruction — against donor morbidity and a shorter, bulkier pedicle than the fibula.",
+  "hy": "DCIA/DCIV = better bone supply than the superficial circumflex iliac system.",
+  "src": "Neligan I.20 · Vascularized iliac transfer",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — the deep circumflex iliac vessels give the better osseous supply.",
+   "B": "Wrong — inverted; the superficial system is used mainly with a groin fasciocutaneous flap.",
+   "C": "Wrong — the ascending branch of the lateral femoral circumflex is the ALT-based alternative, not the better supply.",
+   "D": "Wrong — superior gluteal vessels are not described as a pedicle for the iliac bone flap."
+  },
+  "expimage": "images/N-I-20-47.jpg",
+  "expimgcap": "Vascularized iliac bone flap and its pedicle"
+ },
+ {
+  "id": "N-I-20.48",
+  "chapter": "Ch20",
+  "section": "Vascularized scapular flap",
+  "stem": "The mean pedicle of a circumflex scapular–based scapular bone flap is 7.5 cm. Which maneuver lengthens it, and to what length?",
+  "options": {
+   "A": "Base the bone on the dorsal scapular artery instead of the circumflex — 13–15 cm",
+   "B": "Divide teres major and base the bone on the thoracodorsal trunk itself — about 10–11 cm",
+   "C": "Interpose a vein graft up to the subscapular trunk at its origin — about 20 cm",
+   "D": "Clip the circumflex scapular perforators, basing bone on angular vessels — 13–15 cm"
+  },
+  "answer": "D",
+  "exp": "The scapular bone flap is transferred on the **circumflex scapular circulation**, taken either from the lateral scapular border or the medial scapular ridge, or alternatively on the **angular branch of the thoracodorsal system**, which supplies the scapular wing. **Mean pedicle length on the circumflex scapular system is 7.5 cm**; **clipping the circumflex scapular perforators so the bone is supplied by the angular vessels lengthens it to 13–15 cm**, which avoids the need for vein grafts. Its strengths are chimeric composite flaps combining vascularized scapula with rib and/or iliac crest for \"hostile\" defects — composite defects in smokers, irradiated or scarred fields. Costs are shoulder dysfunction from dividing teres major and minor, and scapular winging from dividing serratus anterior — but because the donor site does not affect walking, it can be preferable to fibula or iliac crest in older patients for whom ambulation is essential to recovery.",
+  "hy": "Circumflex scapular pedicle 7.5 cm → 13–15 cm by switching to the angular branch.",
+  "src": "Neligan I.20 · Vascularized scapula",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the dorsal scapular artery is not the vessel used to extend this pedicle.",
+   "B": "Wrong — teres division causes shoulder dysfunction and is not the pedicle-lengthening maneuver.",
+   "C": "Wrong — the described maneuver specifically **avoids** the need for vein grafts.",
+   "D": "Correct — clipping the circumflex scapular perforators shifts supply to the angular vessels, giving 13–15 cm."
+  }
+ },
+ {
+  "id": "N-I-20.49",
+  "chapter": "Ch20",
+  "section": "Vascularized rib transfer",
+  "stem": "Most vascularized rib transfers are raised on which blood supply, and for what reason?",
+  "options": {
+   "A": "The periosteal supply, because taking the nutrient vessel demands a thoracotomy",
+   "B": "The nutrient vessel from the posterior intercostal, without needing a thoracotomy",
+   "C": "The internal mammary perforators, because they provide the longest usable pedicle",
+   "D": "The lateral thoracic artery, because that route spares the intercostal nerve trunk"
+  },
+  "answer": "A",
+  "exp": "The rib provides a **curved, malleable piece of bone up to 30 cm long** with a dual supply: a **nutrient vessel arising from the posterior intercostal vessels** and a **periosteal supply** from intercostal, internal mammary, lateral thoracic and thoracoacromial sources. Overlying muscle, skin and fat can be carried, and a composite rib flap is particularly useful for complex three-dimensional cranial defects. The catch is access: **a dissection that includes the nutrient vessel requires a thoracotomy**, with the added difficulty and risk that entails, so **most vascularized rib transfers are based on the periosteal blood supply alone**. This is the same trade-off that governs the vascularized calvarial flap, where the parietal bone is carried on periosteal vessels from the superficial temporal system, on the middle temporal artery, or as a temporalis myo-osseous flap on the deep temporal vessels.",
+  "hy": "Vascularized rib is usually periosteally based, because the nutrient vessel needs a thoracotomy.",
+  "src": "Neligan I.20 · Vascularized rib",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — the periosteal supply is used because the nutrient vessel demands a thoracotomy.",
+   "B": "Wrong — harvesting the nutrient vessel is precisely what forces a thoracotomy.",
+   "C": "Wrong — internal mammary is one of several periosteal contributors, not the reason for the choice.",
+   "D": "Wrong — lateral thoracic supply is a periosteal contributor and is not selected to spare a nerve."
+  }
+ },
+ {
+  "id": "N-I-20.50",
+  "chapter": "Ch20",
+  "section": "Allograft biology",
+  "stem": "A processed, non-vascularized bone allograft retains which biological property and loses which?",
+  "options": {
+   "A": "Retains osteogenic and osteoinductive capacity; loses osteoconduction entirely",
+   "B": "Retains osteoinduction; loses osteogenic and osteoconductive capacity",
+   "C": "Retains osteogenic capacity; loses osteoinduction and osteoconduction",
+   "D": "Retains osteoconduction; loses osteogenic and osteoinductive capacity"
+  },
+  "answer": "D",
+  "exp": "A bone allograft comes from a genetically dissimilar individual of the same species. To limit immune stimulation, **all viable cellular components are removed** by mechanical debridement, ultrasonic or pulsatile water washes, ethanol washes, antibiotic soaks and terminal irradiation; the goal is a **sterile, acellular, biocompatible and osteoconductive** product. In the process the allograft **loses its osteogenic and osteoinductive properties**, leaving it to act mainly as a **scaffold for ingrowth of recipient mesenchymal cells that repopulate it by creeping substitution**. Advantages are unlimited supply, no donor-site morbidity and reduced operative time; disadvantages are the lost biology, the immunologic response to fresh allograft, slow union requiring long-term fixation, and lower post-incorporation biomechanical strength than autograft — which matters when reconstructing weight-bearing bone.",
+  "hy": "Processed allograft = osteoconductive scaffold only; osteogenic and osteoinductive capacity is lost.",
+  "src": "Neligan I.20 · Allogeneic bone grafts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the prepared allograft is specifically described as lacking osteogenic properties.",
+   "B": "Wrong — osteoconduction is what survives processing; osteoinduction is what is lost.",
+   "C": "Wrong — osteogenic capacity requires viable cells, which are deliberately removed.",
+   "D": "Correct — processing preserves osteoconduction and removes osteogenic and osteoinductive capacity."
+  }
+ },
+ {
+  "id": "N-I-20.51",
+  "chapter": "Ch20",
+  "section": "Allograft processing",
+  "stem": "A structural cortical allograft is needed for a load-bearing reconstruction, so mechanical strength matters. Which combination of terminal sterilization and preservation best preserves it?",
+  "options": {
+   "A": "Terminal irradiation under 20 kGy, with deep-freezing at −70°C",
+   "B": "Terminal irradiation above 30 kGy, with deep-freezing at −70°C",
+   "C": "Terminal irradiation under 20 kGy, with freeze-drying of the graft",
+   "D": "Terminal irradiation above 30 kGy, with freeze-drying of the graft"
+  },
+  "answer": "A",
+  "exp": "Two independent processing decisions each cost strength, and a load-bearing structural allograft has to survive both. **Terminal sterilization uses moderate-dose irradiation of under 20 kGy**; doses **above 30 kGy** are needed to neutralize significant viral loads but **weaken the bone significantly**, which is why viral safety is carried instead by extensive donor screening and testing — with the residual **HIV transmission risk about one in 1.67 million**, and HIV, hepatitis B and hepatitis C the pathogens of main concern. **Preservation** is the second decision: **deep-freezing at −70°C or freeze-drying**, where **freeze-drying may cause a larger decrease in bone strength than deep-freezing** (newer glycerol-based methods aim to beat both while keeping osteoconductivity). So the strength-preserving combination is low-dose terminal irradiation plus deep-freezing. Note the trade-off does not run only one way: freeze-dried allografts are the **least immunogenic** preparation.",
+  "hy": "<20 kGy terminal irradiation + deep-freeze −70°C preserves strength; >30 kGy and freeze-drying both weaken it.",
+  "src": "Neligan I.20 · Processing and preservation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — low-dose terminal irradiation with deep-freezing costs the least mechanical strength.",
+   "B": "Wrong — doses above 30 kGy weaken bone significantly, whatever the preservation method.",
+   "C": "Wrong — freeze-drying reduces strength more than deep-freezing does.",
+   "D": "Wrong — this combines both strength-costing choices, the worst option for a load-bearing graft."
+  }
+ },
+ {
+  "id": "N-I-20.52",
+  "chapter": "Ch20",
+  "section": "Allograft preservation & immunogenicity",
+  "stem": "Which statement comparing deep-frozen and freeze-dried bone allograft is correct?",
+  "options": {
+   "A": "Freeze-drying weakens bone more than deep-freezing and evokes a minimal immune response.",
+   "B": "Deep-freezing weakens bone more than freeze-drying and abolishes the immune response.",
+   "C": "Fresh-frozen allografts activate predominantly humoral rather than cell-mediated immunity.",
+   "D": "Freeze-dried allografts provoke the strongest cell-mediated response of any preparation."
+  },
+  "answer": "A",
+  "exp": "Preservation method changes both mechanics and immunology. **Freeze-drying may cause a larger decrease in bone strength than deep-freezing at −70°C**, which is why glycerol-based preservation is being developed to give superior strength with maintained osteoconductivity. Immunologically, host reaction depends on antigen mismatch and on preparation: the immune system responds to **fresh** allografts by **both humoral and cell-mediated** mechanisms; **fresh-frozen** allografts predominantly activate the **cell-mediated** system, driven by mismatch at MHC class I and II; and **freeze-dried allografts elicit only a minimal immune response**. Rejection is subtler than in solid organs, showing as resorption and mechanical dysfunction, with chronic rejection impairing remodeling by sequestering the implant in a fibrous capsule; cyclosporine diminishes the process.",
+  "hy": "Freeze-drying weakens bone more but is the least immunogenic; fresh-frozen = cell-mediated.",
+  "src": "Neligan I.20 · Processing / Immunogenicity",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — greater strength loss with freeze-drying, but only a minimal immune response.",
+   "B": "Wrong — the strength relationship is inverted, and no preparation abolishes immunity entirely.",
+   "C": "Wrong — fresh-frozen allografts predominantly activate cell-mediated immunity.",
+   "D": "Wrong — freeze-dried allografts are the least, not the most, immunogenic preparation."
+  }
+ },
+ {
+  "id": "N-I-20.53",
+  "chapter": "Ch20",
+  "section": "Demineralized bone matrix",
+  "stem": "You will extend a limited autograft with demineralized bone matrix to fill a critical-sized calvarial defect, and theatre stocks three DBM preparations made with different carriers. What does the comparative evidence say about that choice?",
+  "options": {
+   "A": "The preparations are interchangeable, since all are demineralized in the same way",
+   "B": "Preparations that handle better, with glycerol or hyaluronan, formed more bone",
+   "C": "Carrier-free preparations form the most bone, as carriers dilute the trace BMP",
+   "D": "The carrier governs handling only; bone formation tracks particle size instead"
+  },
+  "answer": "B",
+  "exp": "**Demineralized bone matrix** is made by morselizing human cadaver long-bone diaphyses to 250–600 µm particles, demineralizing them in **0.6 N hydrochloric acid** and washing with deionized water, ethanol and ethyl ether — the method descending from the landmark work of **Urist and Strates** and Reddi and Huggins. Demineralization strips the mineral phase but leaves **trace BMP**, so DBM is **osteoinductive as well as osteoconductive**, though never osteogenic (no viable cells survive). Handling is its practical weakness, so manufacturers add carriers — glycerol, gelatin, calcium sulfate, hyaluronan — and **not all preparations of DBM are the same**. In a head-to-head comparison in an athymic-rat critical-sized calvarial defect model, Acarturk and Hollinger found a **differential bone-regenerative effect between formulations**, and specifically that the ones which **handled better — DBM with glycerol (Grafton) and DBM with hyaluronan (DBX) — produced statistically significantly higher bone formation** on histomorphometry. Overall regeneration was still less robust than predicted, possibly because the threshold quantity of particulate DBM needed for complete ossification was not reached.",
+  "hy": "DBM preparations are NOT interchangeable — better-handling glycerol/hyaluronan formulations grew more bone.",
+  "src": "Neligan I.20 · Osteoactive materials (Acarturk & Hollinger)",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — the comparison found a differential effect between formulations, so they are not interchangeable.",
+   "B": "Correct — the glycerol (Grafton) and hyaluronan (DBX) formulations formed significantly more bone.",
+   "C": "Wrong — carrier-free DBM handles poorly and is hard to apply; carriers were added to fix that.",
+   "D": "Wrong — the carrier affected bone formation, not just handling; particle size is fixed at 250–600 µm."
+  }
+ },
+ {
+  "id": "N-I-20.54",
+  "chapter": "Ch20",
+  "section": "BoneSource cement",
+  "stem": "BoneSource calcium phosphate cement sets into which end-product, and over what time course?",
+  "options": {
+   "A": "Carbonated apatite; sets in 20–25 minutes, final set at 4–6 hours",
+   "B": "Pure hydroxyapatite; implantable at 5 minutes, curing over about 24 hours",
+   "C": "Pure hydroxyapatite; sets in 20–25 minutes, final set at 4–6 hours",
+   "D": "β-tricalcium phosphate; sets in 8–10 minutes, final set at 4–6 hours"
+  },
+  "answer": "C",
+  "exp": "**BoneSource** was the first commercially available calcium phosphate cement. It is a mixture of **tetracalcium phosphate and dicalcium phosphate dehydrate activated with water at a 4:1 ratio**; after an isothermic reaction the paste can be contoured on the field and **sets into pure hydroxyapatite within 20–25 minutes**, with a **final set time of 4–6 hours**. A **dry operative field is mandatory** for it to reach its cured state, in which it achieves a compressive strength of **50 MPa** and diametral strength of **8 MPa**. Calcium phosphate substitutes as a class have been FDA-approved since 1994 and have supplanted calcium sulfate because they resemble bone more closely, are more biocompatible and resorb less. In the largest craniofacial series (61 patients, 20-month mean follow-up) complications were **11%, mainly seromas**; a cranioplasty trial of 103 patients reported a **5.8%** infection rate.",
+  "hy": "BoneSource → pure hydroxyapatite; sets 20–25 min, final set 4–6 h; dry field mandatory.",
+  "src": "Neligan I.20 · Cement pastes — BoneSource",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — carbonated calcium phosphate is Norian's chemistry; BoneSource yields pure hydroxyapatite.",
+   "B": "Wrong — implantable at 5 minutes and curing over 24 hours describes Norian, not BoneSource.",
+   "C": "Correct — pure hydroxyapatite, setting in 20–25 minutes with final set at 4–6 hours.",
+   "D": "Wrong — β-tricalcium phosphate is not BoneSource's end-product, and 8–10 minutes is the mixing time for methylmethacrylate."
+  }
+ },
+ {
+  "id": "N-I-20.55",
+  "chapter": "Ch20",
+  "section": "Norian SRS/CRS — outcomes",
+  "stem": "A 30 cm² full-thickness frontal **inlay** cranioplasty is planned with Norian CRS in a patient whose frontal sinus was entered at resection. Which of the two limitations Gilardino and colleagues reported bears directly on an inlay of this size?",
+  "options": {
+   "A": "Complications trend upward once inlay defects exceed 25 cm²",
+   "B": "Onlay constructs in contaminated fields fare significantly worse",
+   "C": "The reported complication rate applied only to onlay constructs",
+   "D": "The 26% rate was confined to full-thickness inlay reconstruction"
+  },
+  "answer": "A",
+  "exp": "**Norian SRS/CRS** is a carbonated calcium phosphate mimicking the inorganic phase of bone, mixed intraoperatively from a base powder (monocalcium sulfate, monohydrate, α-TCP, calcium carbonate) with a sodium-phosphate solvent; it becomes implantable after **5 minutes**, cures over about **24 hours** to a microporous polycrystalline apatite with **compressive strength 50 MPa and tensile strength 2.1 MPa** (versus cancellous bone's 1.9 and 2.42 MPa), and has been FDA-approved since 1998. In the largest craniofacial series Gilardino and colleagues reported a substantial **26% overall complication rate regardless of cranioplasty type**, mostly infectious, and stratified two distinct limitations: an **increasing trend in complications when inlay defects larger than 25 cm² are reconstructed**, and a **statistically significant increase when onlay constructs are placed in areas of high bacterial contamination such as the paranasal sinuses**. Because this reconstruction is an **inlay**, it is the 25 cm² size limit that applies directly — the contamination finding was reported for onlay constructs. Its shortcomings trace to poor biodegradability and a microporous structure that restricts bone ingrowth.",
+  "hy": "Norian: 26% overall; inlay >25 cm² trends worse, contaminated **onlay** fields significantly worse.",
+  "src": "Neligan I.20 · Cement pastes — Norian SRS/CRS",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — the size limitation was reported specifically for inlay reconstructions above 25 cm².",
+   "B": "Wrong — true, but that finding was reported for onlay constructs, not the inlay planned here.",
+   "C": "Wrong — the 26% rate applied regardless of whether the cement was used as inlay or onlay.",
+   "D": "Wrong — the overall rate was not confined to full-thickness inlay reconstruction."
+  }
+ },
+ {
+  "id": "N-I-20.56",
+  "chapter": "Ch20",
+  "section": "Prefabricated polymers",
+  "stem": "Which statement contrasting methylmethacrylate with porous polyethylene (Medpor) cranioplasty is correct?",
+  "options": {
+   "A": "Methylmethacrylate cures with an exotherm near 85°C; Medpor's pores allow ingrowth.",
+   "B": "Methylmethacrylate cures without appreciable heat; Medpor's smooth surface resists bacteria.",
+   "C": "Both materials are biodegradable and are progressively replaced by host bone over time.",
+   "D": "Methylmethacrylate permits tissue ingrowth through its pores; Medpor cures exothermically."
+  },
+  "answer": "A",
+  "exp": "**Methylmethacrylate** forms from methyl methacrylate polymer, methyl methacrylate-styrene copolymer and benzoyl peroxide monomer; the reaction is caustic with **carcinogenic fumes requiring a fume hood** and an **exotherm approaching 85°C**, which in situ can cause severe thermal injury — its major drawback. After mixing for **8–10 minutes** it yields a rigid, radiolucent, non-biodegradable material that can be contoured and rigidly fixed; it is cheap, but has a **high bacterial adhesion profile** and hence a high rate of infected cranioplasties, and residual monomer from incomplete polymerization can provoke inflammation. **Medpor** is high-density porous polyethylene with a **pore size of 100–250 µm** that **permits native tissue ingrowth**, which may confer some infection resistance; it is used for nasal/malar augmentation, orbital floor reconstruction, genioplasty and cranial augmentation, can be contoured intraoperatively or prefabricated from CT data, but risks infection, exposure and extrusion, so it is limited to well-vascularized sites — an irradiated field is a relative contraindication.",
+  "hy": "MMA exotherm ~85°C, high bacterial adhesion; Medpor pores 100–250 µm allow ingrowth.",
+  "src": "Neligan I.20 · Prefabricated polymers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Correct — an ~85°C exotherm for methylmethacrylate, and 100–250 µm pores allowing ingrowth in Medpor.",
+   "B": "Wrong — the methylmethacrylate exotherm is its defining hazard, and Medpor is porous, not smooth.",
+   "C": "Wrong — methylmethacrylate explicitly lacks biodegradation, and neither is replaced by host bone.",
+   "D": "Wrong — the two properties are transposed between the materials."
+  },
+  "exptable": [
+   [
+    "Material",
+    "Setting/handling",
+    "Key advantage",
+    "Key drawback"
+   ],
+   [
+    "Methylmethacrylate",
+    "Mixed 8–10 min; exotherm ~85°C",
+    "Low cost, in-situ contouring, no biodegradation",
+    "Thermal injury, high bacterial adhesion, residual monomer"
+   ],
+   [
+    "Medpor (porous polyethylene)",
+    "Prefabricated or contoured; pores 100–250 µm",
+    "Tissue ingrowth, CT-based customization",
+    "Infection/exposure/extrusion; needs vascularized bed"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-20.57",
+  "chapter": "Ch20",
+  "section": "Fig 20.1 · Cortical bone microarchitecture",
+  "stem": "This diagram of compact cortical bone labels the Volkmann's canals running perpendicular to the osteons. What do those canals connect?",
+  "options": {
+   "A": "Adjacent osteocyte lacunae, so that their processes can meet at gap junctions",
+   "B": "The endosteum with the trabeculae of the cancellous core of the same bone",
+   "C": "Vessels in haversian canals with those of the bone marrow and the periosteum",
+   "D": "The osteoclast's ruffled border with the resorption pit beneath it on bone"
+  },
+  "answer": "C",
+  "exp": "The osteon, or **haversian system**, is cortical bone's functional unit: concentric lamellae around a central **haversian canal** carrying vascular and nervous tissue, running **parallel** to the long axis of the bone. **Volkmann's canals** run **perpendicular** to them and are the transverse rungs of the ladder — the nutrient vessels inside haversian canals anastomose through them with vessels of the **bone marrow and the periosteum**, which is what keeps a dense cortical shell perfused and why stripping periosteum matters. **Canaliculi** are the microscopic channels between osteocyte lacunae, and **Howship's lacuna** is the resorption pit an osteoclast digs under its ruffled border — three named spaces that are easy to conflate.",
+  "hy": "Volkmann's canals connect haversian vessels with marrow and periosteal vessels.",
+  "src": "Neligan I.20 · Fig 20.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-57.jpg",
+  "imgcap": "Compact cortical bone microarchitecture",
+  "why": {
+   "A": "Wrong — canaliculi, not Volkmann's canals, carry the osteocyte processes that meet at gap junctions.",
+   "B": "Wrong — Volkmann's canals are cortical vascular channels, not a link to the trabecular core.",
+   "C": "Correct — they connect haversian canal vessels with those of marrow and periosteum.",
+   "D": "Wrong — that space is Howship's lacuna, the osteoclast's resorption pit."
+  }
+ },
+ {
+  "id": "N-I-20.58",
+  "chapter": "Ch20",
+  "section": "Fig 20.2 · Osteon",
+  "stem": "This osteon shows osteocytes in their lacunae with fine canaliculi radiating between them. What does linking adjacent osteocyte processes by gap junctions through those canaliculi principally allow?",
+  "options": {
+   "A": "Clearance of collagen degradation products into the haversian vessel lumen",
+   "B": "Direct transfer of hydroxyapatite crystals from one lacuna to the next one",
+   "C": "Migration of osteoclast precursors from marrow out toward the periosteum",
+   "D": "A cellular syncytium that senses mechanical strain and directs remodeling"
+  },
+  "answer": "D",
+  "exp": "Osteocytes sit in **lacunae** and send cytoplasmic processes through **canaliculi** to neighboring lacunae, where **gap junctions** join them into a continuous **syncytium**. That network is the anatomical basis for the osteocyte's role as the skeleton's **mechanosensor**: strain deforms the cells directly, interstitial fluid flow generates shear and streaming potentials, and the osteocyte converts this into chemical signals — **nitric oxide, prostaglandins (PGE2, PGI2), COX-2 induction, c-fos and IGF-1**, with activation of the **Wnt/β-catenin** pathway — that instruct osteoblasts and osteoclasts where to remodel. This is the cellular machinery behind **Wolff's law**, and targeted ablation of osteocytes produces osteoporosis with defective mechanotransduction. Processes also reach the haversian canal so the cell can obtain nutrients and shed waste.",
+  "hy": "Lacunae + canaliculi + gap junctions = mechanosensory syncytium driving remodeling.",
+  "src": "Neligan I.20 · Fig 20.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-58.jpg",
+  "imgcap": "A single osteon of the haversian system",
+  "why": {
+   "A": "Wrong — collagen breakdown products are cleared by osteoclast transcytosis during resorption.",
+   "B": "Wrong — mineral is deposited from the extracellular matrix, not passed cell to cell.",
+   "C": "Wrong — osteoclast precursors arrive by the bloodstream, not through canaliculi.",
+   "D": "Correct — the connected network senses strain and signals where remodeling should occur."
+  }
+ },
+ {
+  "id": "N-I-20.59",
+  "chapter": "Ch20",
+  "section": "MSC differentiation",
+  "stem": "A single mesenchymal progenitor is driven to cartilage by SOX9 and to bone by RUNX2 with osterix. What relationship do SOX genes have to RUNX2 within the osteoblast lineage itself?",
+  "options": {
+   "A": "They are transactivated by RUNX2 and lie immediately downstream of it",
+   "B": "They are required cofactors without which RUNX2 cannot bind promoters",
+   "C": "They act only in cartilage and are never expressed in osteoblast lineage",
+   "D": "They are expressed in the lineage but act upstream of and inhibit RUNX2"
+  },
+  "answer": "D",
+  "exp": "The schematic shows one pluripotent mesenchymal stem cell committing along four lineages under distinct master regulators — **MyoD** for myocytes, **PPARγ** for adipocytes, **SOX9** for chondrocytes, and **RUNX2 with osterix** for the osteoblast arm — with osteogenic progress stageable by **alkaline phosphatase early** and **osteopontin (with osteocalcin/osteonectin) late**. Several **SOX genes are also expressed within the osteoblast lineage, where they act upstream of RUNX2/CBFα-1 and osterix and play an inhibitory role**, which is the mechanism that keeps a shared progenitor pool from committing to bone and cartilage at once. RUNX2 sits above osterix (Runx2 transactivates the *Osx* promoter), so the hierarchy runs SOX inhibition → RUNX2 → osterix → mature osteoblast.",
+  "hy": "SOX genes act upstream of RUNX2/osterix and inhibit them.",
+  "src": "Neligan I.20 · Fig 20.3 / Transcriptional regulation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "why": {
+   "A": "Wrong — it is osterix, not the SOX genes, that Runx2 transactivates downstream.",
+   "B": "Wrong — SOX genes inhibit rather than enable RUNX2 activity in this lineage.",
+   "C": "Wrong — several SOX genes are expressed within the osteoblast lineage itself.",
+   "D": "Correct — SOX genes are upstream inhibitors of RUNX2 and osterix."
+  },
+  "expimage": "images/N-I-20-59.jpg",
+  "expimgcap": "Mesenchymal stem cell differentiation pathways"
+ },
+ {
+  "id": "N-I-20.60",
+  "chapter": "Ch20",
+  "section": "Fig 20.4 · Primary vs secondary repair",
+  "stem": "In this schematic the left-hand column shows nondisplaced segments healing without cartilage, while the right-hand column shows displaced segments passing through hypertrophic chondrocytes. Which condition is required to obtain the left-hand pattern?",
+  "options": {
+   "A": "Distraction of the fragments at a controlled rate of about 1 mm per day",
+   "B": "Anatomic reduction with rigid internal fixation and minimal fragment strain",
+   "C": "Cast immobilization with deliberate micromotion allowed at the fracture site",
+   "D": "Intramedullary nailing, which converts callus healing into direct union"
+  },
+  "answer": "B",
+  "exp": "The left-hand column is **primary (direct) bone repair**: nondisplaced fragments unite by direct cortical healing with **no cartilaginous intermediate**, cutting cones rebuilding haversian systems and the nutrient artery re-established across the gap. Getting it requires specific mechanical conditions — the fragments must be **reduced to anatomic position, usually by rigid internal fixation**, with **interfragmentary strain at a minimum**, and healing proceeds under **axial compression** (bone fails under tension). The right-hand column is what happens without that: displaced or unstable segments form a hematoma, then a cartilaginous callus with **hypertrophic chondrocytes**, then woven bone, then remodeled lamellar bone. Untreated fractures, or those held by cast, sling, **external or intramedullary** fixation, all heal this second way — which is how most fractures actually heal.",
+  "hy": "Primary repair needs anatomic reduction + rigid fixation + minimal strain.",
+  "src": "Neligan I.20 · Fig 20.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-60.jpg",
+  "imgcap": "Two schematic routes of bone repair",
+  "why": {
+   "A": "Wrong — that is a distraction osteogenesis protocol, not a fracture-fixation condition.",
+   "B": "Correct — anatomic reduction with rigid fixation and minimal strain gives direct cortical union.",
+   "C": "Wrong — cast immobilization is explicitly listed among the routes that heal by callus.",
+   "D": "Wrong — intramedullary fixation is named as a route that heals by secondary repair."
+  }
+ },
+ {
+  "id": "N-I-20.61",
+  "chapter": "Ch20",
+  "section": "Fig 20.6 · Callus repair sequence",
+  "stem": "This stage of callus repair shows hypertrophic chondrocytes with new vessels sprouting into the callus from the nutrient artery. Which cell removes the calcified cartilage there so that osteoblasts can lay woven bone?",
+  "options": {
+   "A": "The osteocyte, by periosteocytic osteolysis around its own lacuna",
+   "B": "The polymorphonuclear neutrophil recruited during the inflammatory phase",
+   "C": "The hypertrophic chondrocyte itself, by autolysis of its surrounding matrix",
+   "D": "The chondroclast, which resorbs calcified cartilage ahead of new bone"
+  },
+  "answer": "D",
+  "exp": "The second image is the **reparative phase**, beginning about 3–4 days after fracture: mesenchymal stem cells from periosteum, soft tissue and marrow mature into osteoblasts, chondrocytes and fibroblasts and build a callus of cartilage plus woven bone, osteoid, fibrous tissue and vessels. During the **second week** the cartilage overlying the fracture calcifies and blood vessels grow into it carrying osteoblast progenitor cells — the sprouting shown in that image. **As the calcified cartilage is resorbed by chondroclasts, osteoblasts begin to lay woven bone in its place**; simultaneously, intramembranous ossification proceeds adjacent to the fracture site without any cartilage template. Woven bone is then replaced by lamellar bone during remodeling, which can stay active for years.",
+  "hy": "Chondroclasts resorb calcified callus cartilage; osteoblasts then deposit woven bone.",
+  "src": "Neligan I.20 · Fig 20.6",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-61.jpg",
+  "imgcap": "Stages of callus fracture repair",
+  "why": {
+   "A": "Wrong — periosteocytic osteolysis is a proposed osteocyte function in mineral homeostasis, not callus turnover.",
+   "B": "Wrong — neutrophils clear necrotic debris in the inflammatory phase, not calcified cartilage.",
+   "C": "Wrong — hypertrophic chondrocytes calcify the matrix; they do not resorb it.",
+   "D": "Correct — chondroclasts resorb the calcified cartilage ahead of woven bone deposition."
+  }
+ },
+ {
+  "id": "N-I-20.62",
+  "chapter": "Ch20",
+  "section": "Fig 20.7 · Long-bone blood supply",
+  "stem": "A diaphyseal fracture disrupts the principal nutrient artery labeled in this diagram. Which labeled system anastomoses with it to keep the marrow cavity and inner cortex supplied?",
+  "options": {
+   "A": "Venous sinusoids and metaphyseal veins running beside the arterial supply",
+   "B": "The periosteal capillaries in continuity with the cortical capillary network",
+   "C": "The central venous channel draining through the large emissary vein shown",
+   "D": "Metaphyseal and epiphyseal vessels penetrating the cortex near the joints"
+  },
+  "answer": "D",
+  "exp": "A long bone has three arterial systems that **interconnect extensively**. The **principal nutrient artery** pierces the cortex, divides into ascending and descending medullary branches, and supplies the **marrow cavity and inner two-thirds of the cortex**. **Periosteal vessels** supply only the **outer one-third** of the diaphyseal cortex. **Metaphyseal and epiphyseal vessels**, arising from arteries around the adjacent joints, penetrate the cortex in the adult and **anastomose with the nutrient artery — providing adequate supply to the marrow cavity and inner cortex when the nutrient artery is disrupted**. That anastomotic reserve is why a displaced diaphyseal fracture or intramedullary reaming does not simply devascularize the shaft. Venous return runs through medullary sinusoids, transverse epiphyseal channels, a central venous channel and large emissary veins, with centrifugal flow driven by high intramedullary pressure.",
+  "hy": "Metaphyseal/epiphyseal vessels are the anastomotic backup for a disrupted nutrient artery.",
+  "src": "Neligan I.20 · Fig 20.7",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-62.jpg",
+  "imgcap": "Blood supply of a long bone",
+  "why": {
+   "A": "Wrong — venous sinusoids and metaphyseal veins drain bone rather than perfusing it.",
+   "B": "Wrong — periosteal capillaries supply only the outer third of the cortex.",
+   "C": "Wrong — the central venous channel is an efferent, not an arterial, structure.",
+   "D": "Correct — these vessels anastomose with the nutrient artery and cover its territory."
+  }
+ },
+ {
+  "id": "N-I-20.63",
+  "chapter": "Ch20",
+  "section": "Fig 20.8 · Distraction regenerate",
+  "stem": "This regenerate is shown roughly 10 days into distraction. Compared with the bands that flank it, what characterizes the central zone marked FZ?",
+  "options": {
+   "A": "The densest capillary network among the three kinds of zone shown here",
+   "B": "Relative avascularity, with collagen aligned along the distraction axis",
+   "C": "Calcified cartilage, awaiting chondroclastic resorption before bone forms",
+   "D": "Mature lamellar bone in which marrow spaces have been re-established"
+  },
+  "answer": "B",
+  "exp": "About 10 days into distraction the regenerate organizes symmetrically into three kinds of zone: at the center the **avascular fibrous interzone (FZ)**, flanked by the two **mineralization zones (MZ)** — the advancing primary mineralization fronts where mature osteoblasts deposit bone — and outside those the two **regenerate zones (RZ)**, which abut the **residual host bone segments (RHBS)**. What defines the interzone is that it is **relatively avascular**, and that within it **dense collagen fibrils are formed and organized in the direction of distraction**, serving as the template on which mineralization later occurs. Because mineralization begins at the osteotomy fronts about 10–14 days after distraction starts and advances **centrally**, the interzone is the last region to ossify — which is why failure of neovascularization shows up first as a persistent interzone and ultimately as fibrous non-union. Note also that distraction is **membranous**: there is no cartilaginous intermediate anywhere in the regenerate.",
+  "hy": "FZ = relatively avascular fibrous interzone with collagen aligned along the distraction axis.",
+  "src": "Neligan I.20 · Fig 20.8",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-63.jpg",
+  "imgcap": "Zones of the distraction regenerate",
+  "why": {
+   "A": "Wrong — the richest neovascularity sits in the flanking mineralization zones, not the interzone.",
+   "B": "Correct — the interzone is relatively avascular, with collagen fibrils aligned along the distraction axis.",
+   "C": "Wrong — distraction osteogenesis is membranous; no calcified cartilage stage occurs.",
+   "D": "Wrong — mature lamellar bone with marrow is the end-state of consolidation, not the 10-day interzone."
+  }
+ },
+ {
+  "id": "N-I-20.64",
+  "chapter": "Ch20",
+  "section": "Fig 20.9 · Iliac harvest",
+  "stem": "In this step of an anterior iliac harvest the periosteum has already been incised over the crest. Which maneuver is being performed?",
+  "options": {
+   "A": "An osteotome separating the cortical plate from the cancellous bone",
+   "B": "A wire suture reuniting the inner and outer cortex at the end of harvest",
+   "C": "A rongeur removing the iliac crest before the graft itself is elevated",
+   "D": "A curette scooping cancellous bone out of the exposed medullary space"
+  },
+  "answer": "A",
+  "exp": "Iliac harvest follows a defined sequence: the periosteum is incised after the crest is exposed, an **osteotome separates the cortex from the underlying cancellous bone**, cross-sections show the lines of separation of the inner and outer cortical plates, the cancellous bone is exposed and removed with a curette, and finally the **inner and outer cortex are reunited with a stainless steel wire suture**. That reunion is the point of the whole technique — preserving the shape of the iliac crest by careful splitting, keeping the abdominal and gluteal muscle insertions on their respective leaves, and wiring the split crest back together, which decreases postoperative pain and lets the iliac wing regenerate so it can be harvested again. A cartilaginous cap is frequently found over the bone and must be split to reach the cortical plate.",
+  "hy": "Osteotome splits cortex from cancellous bone; plates are rewired to preserve crest contour.",
+  "src": "Neligan I.20 · Fig 20.9",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-64.jpg",
+  "imgcap": "A step in harvesting bone from the ilium",
+  "why": {
+   "A": "Correct — the osteotome is separating the cortical plate from the cancellous bone.",
+   "B": "Wrong — wire reunion of the two cortical plates is the final step of the harvest.",
+   "C": "Wrong — removing the iliac crest itself is explicitly to be avoided.",
+   "D": "Wrong — curettage of cancellous bone follows once the cortex has been separated and retracted."
+  }
+ },
+ {
+  "id": "N-I-20.65",
+  "chapter": "Ch20",
+  "section": "Fig 20.12 · Rib harvest",
+  "stem": "This figure identifies the ribs most commonly taken as grafts. Subperiosteal elevation during harvest is carried up to which landmark?",
+  "options": {
+   "A": "The costovertebral joint, at the posterior attachment of the rib",
+   "B": "The angle of the rib, where its curvature changes most sharply",
+   "C": "The sternocostal joint, at the lateral border of the sternum itself",
+   "D": "The costochondral junction, where the bony rib meets cartilage"
+  },
+  "answer": "D",
+  "exp": "**Ribs 5–7 are the most commonly used donor ribs.** Harvest begins with a short skin incision over the rib, dissection down to it, and longitudinal incision of the periosteum on the **lateral** aspect; **subperiosteal elevation is then carried up to the costochondral junction**, the point at which bony rib gives way to costal cartilage — and cartilage can be included in the harvest if it is needed. Length is decided by the requirement, with **one long segment from a single rib preferred over short segments from two**, and when two ribs are taken **one rib is skipped** (with the incision placed over the skipped rib) to preserve chest wall contour and stability. Afterwards the wound is irrigated and checked for an air leak before layered closure of periosteum, muscle, subcutaneous tissue and skin. Risks are pneumothorax, intercostal bleeding and air leak, with chest wall deformity or scoliosis if consecutive ribs are harvested.",
+  "hy": "Rib harvest is subperiosteal up to the costochondral junction; ribs 5–7; skip a rib when two are needed.",
+  "src": "Neligan I.20 · Fig 20.12 / Techniques of harvest — rib",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-65.jpg",
+  "imgcap": "The most commonly used donor ribs",
+  "why": {
+   "A": "Wrong — the costovertebral joint is the posterior articulation, far beyond the harvested segment.",
+   "B": "Wrong — the angle of the rib is a curvature landmark, not the bone–cartilage transition.",
+   "C": "Wrong — the sternocostal joint lies medial to the cartilage, past the point elevation stops.",
+   "D": "Correct — subperiosteal elevation is carried up to the costochondral junction."
+  }
+ },
+ {
+  "id": "N-I-20.66",
+  "chapter": "Ch20",
+  "section": "Fig 20.17 · Vascularized calvarial flap",
+  "stem": "This parietal bone flap is elevated with its overlying soft tissue, and sutures hold periosteum to bone to protect its supply. Which vascular system carries this flap?",
+  "options": {
+   "A": "The occipital artery, running with the pericranium over the lambdoid suture",
+   "B": "The diploic vessels alone, entering the bone through the inner cortical table",
+   "C": "The supraorbital and supratrochlear vessels crossing the orbital rim to bone",
+   "D": "Periosteal vessels in continuity with the superficial temporal artery system"
+  },
+  "answer": "D",
+  "exp": "Calvarial bone can be transferred as a **vascularized flap** for unfavorable — irradiated or scarred — recipient sites and for midface reconstruction, which is what distinguishes it from a free calvarial graft. The outer table of the parietal bone is taken with a curved osteotome after a trough is cut around the periphery, and its **blood supply is maintained by preserving the periosteal vessels in continuity with the superficial temporal artery system** within the galea/superficial musculoaponeurotic layer and the deep temporal fascia; sutures passed between galea, periosteum and calvaria hold the periosteum onto the bone so that supply is not stripped. Related options are a vascularized calvarial flap on the **middle temporal artery**, taken with a fused segment of deep and superficial temporal fascia 2 cm above the orbital rim, and a **temporalis myo-osseous flap** based on the **deep temporal vessels**.",
+  "hy": "Parietal bone flap survives on periosteal vessels from the superficial temporal system.",
+  "src": "Neligan I.20 · Fig 20.17",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "20",
+  "chname": "Repair and grafting of bone",
+  "image": "images/N-I-20-66.jpg",
+  "imgcap": "A vascularized parietal bone flap",
+  "why": {
+   "A": "Wrong — the occipital artery is not the vessel described for a vascularized parietal flap.",
+   "B": "Wrong — the diploic supply serves free calvarial grafts, and cannot pedicle a flap on its own.",
+   "C": "Wrong — supraorbital and supratrochlear vessels are not the described pedicle for parietal bone.",
+   "D": "Correct — periosteal vessels continuous with the superficial temporal system carry the flap."
+  }
  }
 ]
