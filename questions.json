@@ -44169,5 +44169,1903 @@
    "C": "Wrong — supraorbital and supratrochlear vessels are not the described pedicle for parietal bone.",
    "D": "Correct — periosteal vessels continuous with the superficial temporal system carry the flap."
   }
+ },
+ {
+  "id": "N-I-21.1",
+  "chapter": "Ch21",
+  "section": "Seddon classification",
+  "stem": "Which statement about Seddon's 1943 classification of nerve injury is correct?",
+  "options": {
+   "A": "It grades injuries by mechanism, separating crush from traction and laceration.",
+   "B": "It was based on gross and histologic anatomical change, not mechanism of injury.",
+   "C": "It defines five degrees of injury ordered by the connective-tissue layer that is disrupted.",
+   "D": "It grades injuries by electromyographic findings at three weeks after injury."
+  },
+  "answer": "B",
+  "exp": "Sir Herbert Seddon's 1943 system was the first classification of nerve injury and rests on **gross and histologic anatomical change rather than mechanism**: **neurapraxia** is a segment of demyelination and/or conduction block along the course of an intact nerve; **axonotmesis** implies direct axonal damage; **neurotmesis** is transection of the peripheral nerve. The scheme predicts behavior — a neurapraxic nerve undergoes no Wallerian degeneration and recovers fully, an axonotmetic nerve degenerates distally but can regrow through preserved connective-tissue scaffolding, and a neurotmetic nerve will not recover without repair. Sunderland later expanded this into five degrees ordered by which connective-tissue layer is disrupted, and Mackinnon added the mixed sixth degree — those refinements grade axonotmesis and neurotmesis more finely for surgical decision-making.",
+  "hy": "Seddon 1943 = anatomy-based triad: neurapraxia / axonotmesis / neurotmesis — not mechanism-based.",
+  "src": "Neligan I.21 · Classification of nerve injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — mechanism (penetrating, crush, stretch/avulsion) is a separate, complementary classification used for treatment algorithms.",
+   "B": "Correct — Seddon based the triad on gross and histologic anatomical change, not on how the injury occurred.",
+   "C": "Wrong — five degrees by connective-tissue layer describes Sunderland's later expansion, not Seddon's system.",
+   "D": "Wrong — electromyographic correlates were mapped onto the classification later; Seddon's 1943 scheme predates and does not use EMG."
+  }
+ },
+ {
+  "id": "N-I-21.2",
+  "chapter": "Ch21",
+  "section": "Sunderland/Mackinnon degrees",
+  "stem": "At exploration of a nerve that has not recovered, the surgeon finds the nerve grossly in continuity but with a fusiform segment of complete scar block across which no regeneration is occurring. In the Sunderland/Mackinnon scheme this is which degree of injury?",
+  "options": {
+   "A": "Second degree",
+   "B": "Third degree",
+   "C": "Fourth degree",
+   "D": "Fifth degree"
+  },
+  "answer": "C",
+  "exp": "A **neuroma-in-continuity with a complete scar block** is the definition of a **Sunderland fourth-degree** injury: the nerve looks whole externally, but internally every axon ends in disorganized scar, so no regeneration crosses the segment and no recovery occurs without excision and reconstruction. Though the trunk is grossly in continuity, Table 21.1 classes the fourth degree under Seddon's **neurotmesis** — it behaves like a transection and will not recover without repair (the running text once calls it axonotmetic; know the table's mapping for the exam). A fifth-degree injury is complete division of the nerve; second- and third-degree injuries retain enough endoneurial architecture to regenerate at 1 mm/day, completely in second degree and partially in third. Establishing the degree is critical precisely here: fourth- and fifth-degree injuries are the ones that will never recover spontaneously and always need surgery.",
+  "hy": "Fourth degree = neuroma-in-continuity with complete scar block — in continuity but functionally transected; no spontaneous recovery.",
+  "src": "Neligan I.21 · Classification of nerve injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — a second-degree injury has axonal rupture with intact basal lamina tubes and makes a full recovery, with no scar block.",
+   "B": "Wrong — a third-degree injury has some scar and incomplete recovery, but regeneration still crosses the injured segment.",
+   "C": "Correct — neuroma-in-continuity with complete scar block is the fourth-degree lesion; nothing regenerates across it.",
+   "D": "Wrong — fifth degree is complete transection with two separated stumps, not a nerve in gross continuity."
+  }
+ },
+ {
+  "id": "N-I-21.3",
+  "chapter": "Ch21",
+  "section": "Zero-degree injury",
+  "stem": "A patient with a compressive palsy has complete loss of nerve signal transmission; once the compression is surgically removed, function returns almost immediately and fully. Mackinnon has recently termed this pattern:",
+  "options": {
+   "A": "A zero-degree injury from ongoing ischemic conduction block",
+   "B": "A first-degree injury with segmental demyelination",
+   "C": "A sixth-degree injury with mixed normal fascicles",
+   "D": "A second-degree injury with preservation of the basal lamina tubes"
+  },
+  "answer": "A",
+  "exp": "Mackinnon has recently termed this the **zero-degree injury**: a subset of Sunderland first-degree lesions in which an **ongoing ischemic conduction block** prevents any signal transmission, yet once the compression is removed there is **full and nearly immediate recovery** — faster even than a classic demyelinating neurapraxia, which must remyelinate over weeks. The concept matters clinically because a dense deficit from compression does not necessarily mean structural axonal damage: relieving the compression can restore function at once, which is an argument for timely decompression of compressive lesions. In the Sunderland ladder proper, first degree = focal demyelination/conduction block, and the zero-degree variant sits below it as pure ischemic block without demyelination.",
+  "hy": "Zero-degree (Mackinnon) = ischemic conduction block; decompression → full, nearly immediate recovery.",
+  "src": "Neligan I.21 · Classification of nerve injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — ongoing ischemic conduction block with immediate full recovery after decompression is Mackinnon's zero-degree injury.",
+   "B": "Wrong — a first-degree (neurapraxic) injury from segmental demyelination recovers over up to ~12 weeks as the segment remyelinates, not immediately.",
+   "C": "Wrong — the sixth degree is a mixed multi-level injury combining first- to fourth-degree fascicles, not a compressive block.",
+   "D": "Wrong — a second-degree injury requires axonal regrowth at 1 mm/day, so recovery is slow rather than immediate."
+  }
+ },
+ {
+  "id": "N-I-21.4",
+  "chapter": "Ch21",
+  "section": "Table 21.1 — EMG by degree",
+  "stem": "Ten days after a closed injury an electromyogram shows no fibrillation potentials or positive sharp waves and normal motor unit potentials, yet the patient has a dense motor deficit. Which degree of injury does this study support?",
+  "options": {
+   "A": "Fourth degree (neurotmesis)",
+   "B": "Third degree (axonotmesis)",
+   "C": "Second degree (axonotmesis)",
+   "D": "First degree (neurapraxia)"
+  },
+  "answer": "D",
+  "exp": "Normal electromyography in the face of a dense deficit points to **first-degree injury (neurapraxia)**: because the axons are intact and no Wallerian degeneration has occurred, there are **no fibrillation potentials or positive sharp waves**, and **motor unit potentials remain normal** wherever any voluntary activation crosses the block. In every axonotmetic or neurotmetic degree (second through fifth), Wallerian degeneration of the distal segment produces denervation potentials — fibrillations and positive sharp waves — once about 3 weeks have passed. The timing in the vignette is deliberate: at 10 days even an axonal injury may not yet show fibrillations, but normal (not absent) MUPs confirm axonal continuity, which is the discriminating finding here.",
+  "hy": "Neurapraxia on EMG: no fibs/PSWs ever, MUPs normal — axons intact, no Wallerian degeneration.",
+  "src": "Neligan I.21 · Table 21.1 — EMG correspondence",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — a fourth-degree neuroma-in-continuity shows fibrillations with absent MUPs, the opposite of this tracing.",
+   "B": "Wrong — third-degree injuries show fibrillations acutely with nascent MUPs only as regeneration proceeds.",
+   "C": "Wrong — second-degree injuries also fibrillate once Wallerian degeneration completes; MUPs are collateral/nascent, not normal.",
+   "D": "Correct — absent denervation potentials with normal MUPs despite a deficit is the neurapraxic pattern."
+  }
+ },
+ {
+  "id": "N-I-21.5",
+  "chapter": "Ch21",
+  "section": "Table 21.1 — nascent MUPs timing",
+  "stem": "In the classification table, second- and third-degree injuries are both axonotmetic, both show fibrillations acutely, and both regenerate at 1 mm/day. Which electromyographic feature separates them?",
+  "options": {
+   "A": "Fibrillation potentials are absent acutely in second degree but present in third",
+   "B": "Positive sharp waves persist chronically in second degree but resolve in third",
+   "C": "Nascent motor unit potentials by 3 months in second degree versus 4 months in third",
+   "D": "Motor unit potentials remain permanently absent in second degree but reappear in third"
+  },
+  "answer": "C",
+  "exp": "Both are axonotmetic, both fibrillate acutely, and both regrow at the classic 1 mm/day, but the table separates them by the **timing of nascent (reinnervation) motor unit potentials**: collateral sprouting or nascent MUPs appear **by about 3 months in a second-degree** injury and **by about 4 months in a third-degree** injury, reflecting the extra difficulty of regrowing through ruptured basal lamina tubes and scar. The structural difference drives the clinical one — second degree ruptures axons but preserves the basal lamina tubes, so recovery is complete; third degree ruptures both axons and their tubes with some scar, so recovery is variable and incomplete. Chronically, both lose their fibrillations and show chronic and/or polyphasic MUPs.",
+  "hy": "Nascent MUPs: ≤3 months = 2nd degree, ≤4 months = 3rd degree; tubes intact → full recovery, tubes ruptured → incomplete.",
+  "src": "Neligan I.21 · Table 21.1 — EMG correspondence",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — fibrillations are present acutely in both second- and third-degree injuries once Wallerian degeneration has occurred.",
+   "B": "Wrong — in both degrees the denervation potentials fade chronically; persistence of PSWs is not the discriminator.",
+   "C": "Correct — nascent MUPs by ≤3 months indicate second degree, by ≤4 months third degree; that timing difference is the table's separator.",
+   "D": "Wrong — permanently absent MUPs describe fourth- and fifth-degree injuries, where no reinnervation ever occurs."
+  },
+  "exptable": [
+   [
+    "Degree (Seddon)",
+    "Injury",
+    "Recovery",
+    "Acute fibs/PSW",
+    "Acute MUPs",
+    "Chronic MUPs"
+   ],
+   [
+    "1st (neurapraxia)",
+    "Focal demyelination/conduction block",
+    "Full, fast (<12 wk)",
+    "Absent",
+    "Normal",
+    "Normal"
+   ],
+   [
+    "2nd (axonotmesis)",
+    "Axon ruptured, basal lamina intact",
+    "Full, 1 mm/day",
+    "Present",
+    "Sprouting/nascent ≤3 mo",
+    "Chronic/polyphasic"
+   ],
+   [
+    "3rd (axonotmesis)",
+    "Axon + basal lamina ruptured, some scar",
+    "Incomplete, 1 mm/day",
+    "Present",
+    "Sprouting/nascent ≤4 mo",
+    "Chronic/polyphasic"
+   ],
+   [
+    "4th (neurotmesis)",
+    "Neuroma-in-continuity, complete scar block",
+    "None",
+    "Present",
+    "Absent",
+    "Absent"
+   ],
+   [
+    "5th (neurotmesis)",
+    "Complete transection",
+    "None",
+    "Present",
+    "Absent",
+    "Absent"
+   ],
+   [
+    "6th (Mackinnon)",
+    "Mixed 1st–4th ± normal fascicles",
+    "Variable",
+    "Variable",
+    "Variable",
+    "Variable"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-21.6",
+  "chapter": "Ch21",
+  "section": "Sixth-degree injury",
+  "stem": "The principal surgical difficulty in a Mackinnon sixth-degree injury is:",
+  "options": {
+   "A": "Locating the proximal stump when it retracts to the spinal foramen",
+   "B": "Repairing only the fourth- and fifth-degree fascicles without harming recoverable ones",
+   "C": "Overcoming the complete scar block that spans every fascicle across the injured segment",
+   "D": "Distinguishing the injury from neurapraxia, since both recover fully with time"
+  },
+  "answer": "B",
+  "exp": "The sixth-degree injury (added by **Mackinnon**) is a **multi-level, mixed lesion**: within one nerve, different fascicles carry different degrees of injury — some first to third degree with potential for spontaneous recovery, some fourth or fifth degree that will never recover, and some entirely normal. The surgical challenge is therefore **selectivity**: reconstruct only the fascicles with fourth- and fifth-degree damage while leaving undisturbed the neighbors that are recovering on their own — an intraneural dissection where overzealous surgery converts recovering fascicles into iatrogenic injuries. This is also why sixth-degree injuries recover partially and unpredictably, and why intraoperative tools (stimulation, careful fascicular mapping) matter most in this pattern.",
+  "hy": "Sixth degree = mixed fascicular injury; operate on the 4th/5th-degree fascicles only, protect the recoverable ones.",
+  "src": "Neligan I.21 · Classification of nerve injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — proximal stump retraction to inaccessible levels characterizes root avulsion, which is a separate problem addressed by transfers.",
+   "B": "Correct — the difficulty is limiting repair to the fourth- and fifth-degree fascicles without damaging fascicles that can recover spontaneously.",
+   "C": "Wrong — a complete scar block across every fascicle is the fourth-degree lesion; the sixth degree is defined by its mixed, uneven pattern.",
+   "D": "Wrong — neurapraxia recovers fully within weeks; a sixth-degree injury recovers only partially, so the two are not easily confused."
+  }
+ },
+ {
+  "id": "N-I-21.7",
+  "chapter": "Ch21",
+  "section": "Motor unit reserve",
+  "stem": "A laborer's ulnar nerve injury is found at electromyography to have lost well over half of its motor unit pool, yet his grip and intrinsic function are clinically normal. What proportion of motor units can be lost before a functional deficit appears, and why?",
+  "options": {
+   "A": "Up to 40–50%, because remaining muscle fibers hypertrophy to double their force",
+   "B": "Up to 70–80%, because surviving units sprout to five times their territory",
+   "C": "Up to 20–30%, because motor axon loss maps linearly onto strength",
+   "D": "Up to 90–95%, because central plasticity reroutes activation patterns"
+  },
+  "answer": "B",
+  "exp": "Patients can lose **up to 70–80% of the motor unit pool before any functional deficit is noticed**, because surviving motor units **collaterally sprout and reinnervate territories up to 5 times their original size**. This reserve explains the flat portion of the function-versus-innervation curve: strength is maintained across first-, second- and much of third-degree injury severity, then collapses steeply once the remaining pool falls below the critical fraction, as in fourth- and fifth-degree lesions. Clinically this cuts both ways — a \"normal\" examination does not exclude substantial axonal loss (electrodiagnostics quantify what examination hides), and conversely a detectable clinical deficit implies the motor unit pool is already massively depleted.",
+  "hy": "Up to 70–80% of motor units can be lost silently — collateral sprouting expands surviving units to ~5× their territory.",
+  "src": "Neligan I.21 · Classification of nerve injury — Fig 21.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — the compensation is neural (collateral sprouting), not doubling of muscle-fiber force, and the threshold is higher than 40–50%.",
+   "B": "Correct — function is preserved until ~70–80% of the pool is lost because sprouting units expand to about five times their territory.",
+   "C": "Wrong — a linear map of axon loss onto strength is exactly what the sprouting reserve prevents.",
+   "D": "Wrong — 90–95% overstates the reserve, and the mechanism is peripheral sprouting rather than central rerouting."
+  },
+  "expimage": "images/N-I-21-7.jpg",
+  "expimgcap": "Muscle function versus percentage of intact motor neurons, mapped to the Sunderland/Seddon degrees"
+ },
+ {
+  "id": "N-I-21.8",
+  "chapter": "Ch21",
+  "section": "Wallerian degeneration",
+  "stem": "Which statement correctly pairs a Seddon injury type with the fate of the distal axon?",
+  "options": {
+   "A": "Neurapraxia — Wallerian degeneration begins distally within 48 hours",
+   "B": "Axonotmesis — the distal segment is preserved by intact basal lamina",
+   "C": "Neurapraxia — no Wallerian degeneration occurs distal to the lesion",
+   "D": "Neurotmesis — the distal segment degenerates only if repair is delayed"
+  },
+  "answer": "C",
+  "exp": "In **neurapraxia, Wallerian degeneration does not occur** — the axons remain in continuity, the block is focal demyelination or ischemia, and the distal nerve keeps conducting when stimulated below the lesion; recovery is excellent, generally within 3 months. In both **axonotmesis and neurotmesis, Wallerian degeneration proceeds distal to the injury**: the disconnected distal axons fragment and are cleared, which is what produces fibrillations on EMG after ~3 weeks and abolishes distal conduction. Wallerian degeneration is named for Augustus Waller, who described distal axonal disintegration after nerve section; its presence or absence is the biological line between conduction-block injuries and true axonal injuries, and drives everything downstream — EMG findings, Tinel progression, and recovery rate.",
+  "hy": "Wallerian degeneration: absent in neurapraxia; present distal to the lesion in axonotmesis and neurotmesis.",
+  "src": "Neligan I.21 · Classification of nerve injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — that timeline belongs to axonal injuries; a neurapraxic segment keeps its distal axons intact.",
+   "B": "Wrong — intact basal lamina in second-degree injury guides regrowth, but the distal axon still undergoes Wallerian degeneration.",
+   "C": "Correct — no Wallerian degeneration occurs in neurapraxia, which is why prognosis is excellent and EMG shows no denervation.",
+   "D": "Wrong — degeneration after transection is inevitable and begins promptly; it does not wait on the timing of repair."
+  }
+ },
+ {
+  "id": "N-I-21.9",
+  "chapter": "Ch21",
+  "section": "Neurapraxia recovery",
+  "stem": "A soldier develops a complete radial nerve palsy from sleeping with his arm over a chair. Electrodiagnostics confirm a purely demyelinating conduction block. Over what time frame is full recovery anticipated?",
+  "options": {
+   "A": "Within about 2 weeks",
+   "B": "Within about 3 months",
+   "C": "Within about 6 months",
+   "D": "Within about 12 months"
+  },
+  "answer": "B",
+  "exp": "A compressive \"Saturday night\" palsy with a purely demyelinating conduction block is a **neurapraxia**, and the chapter's expectation is **full recovery of strength and function generally within 3 months** (the classification table gives fast recovery, under 12 weeks). No Wallerian degeneration occurs, so recovery awaits only segmental remyelination rather than axonal regrowth at 1 mm/day — which is why neurapraxia recovers in weeks while an axonotmetic radial lesion at the same level would need many months to re-reach the wrist extensors. If recovery does not materialize on schedule, the diagnosis of pure neurapraxia is revisited with serial examination and electrodiagnostics, since a mixed or higher-degree injury may be hiding behind the initial block.",
+  "hy": "Neurapraxia → full recovery within ~3 months (<12 weeks); no Wallerian degeneration, remyelination only.",
+  "src": "Neligan I.21 · Classification of nerve injury",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — 2 weeks is too fast even for remyelination; only Mackinnon's zero-degree ischemic block recovers essentially immediately after decompression.",
+   "B": "Correct — neurapraxic injuries recover fully and quickly, generally within 3 months.",
+   "C": "Wrong — 6 months is the timescale of axonal regrowth over a mid-arm distance, not of a demyelinating block.",
+   "D": "Wrong — 12 months is the outer window for reinnervating muscle after axonal injury, far beyond neurapraxic recovery."
+  }
+ },
+ {
+  "id": "N-I-21.10",
+  "chapter": "Ch21",
+  "section": "Sharp penetrating injury",
+  "stem": "A 24-year-old sustains a knife laceration to the volar forearm with a dense median nerve deficit. Exploration is planned. Within what window should he be in the operating room if intraoperative stimulation of the distal segment is to remain useful?",
+  "options": {
+   "A": "Within 24 hours",
+   "B": "Within 72 hours",
+   "C": "Within 7 days",
+   "D": "Within 2 weeks"
+  },
+  "answer": "B",
+  "exp": "Sharp lacerations with a nerve deficit almost always harbor partial or complete transection, so they **should be explored, and within 72 hours if stimulation of the distal segment is needed**: the distal stump remains electrically stimulable for only about 72 hours after injury, until Wallerian degeneration silences it. Early exploration also finds the tissue planes unscarred and the nerve ends mobile, maximizing the odds of a **tension-free primary neurorrhaphy** — with every added day, retraction and scarring make primary coaptation harder. When penetrating trauma also compromises the circulation, immediate exploration is warranted for the vascular emergency — and the chapter warns that in these combined proximal injuries the nerve injury is easily overlooked amid the more urgent vascular and orthopedic priorities.",
+  "hy": "Sharp injury + deficit → explore within 72 h: distal stump stimulable ~72 h, ends unretracted → tension-free primary repair.",
+  "src": "Neligan I.21 · Penetrating injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — 24 hours is ideal but not the stated physiologic limit; the distal stump remains stimulable for about 72 hours.",
+   "B": "Correct — 72 hours is the window during which the distal stump can still be stimulated to guide exploration and repair.",
+   "C": "Wrong — by 7 days Wallerian degeneration has silenced the distal stump and a repair is already \"delayed\" (2–7 days).",
+   "D": "Wrong — 2 weeks is the window over which the nerve ends have not yet retracted, relevant to feasibility of primary repair, not to stimulability."
+  },
+  "expimage": "images/N-I-21-10.jpg",
+  "expimgcap": "Management algorithm for penetrating injury and lacerations"
+ },
+ {
+  "id": "N-I-21.11",
+  "chapter": "Ch21",
+  "section": "Blunt/blast injury",
+  "stem": "A gunshot wound to the arm produces a complete radial nerve palsy with no vascular injury. Which management is most appropriate?",
+  "options": {
+   "A": "Immediate exploration, because blast injury implies nerve transection",
+   "B": "Conservative care; edema-related neurapraxia should resolve within 12 weeks",
+   "C": "Nerve grafting at 72 hours, before the distal stump loses stimulability",
+   "D": "Electrodiagnostic studies within the first week to grade the injury definitively"
+  },
+  "answer": "B",
+  "exp": "Blunt penetrating and blast injuries — gunshot wounds, incendiary devices — are **managed conservatively, like closed crush and traction injuries**, because the deficit is usually a **neurapraxia from local tissue edema and blast effect** with real potential for spontaneous recovery; that neurapraxia **should resolve within 12 weeks**. The plan is serial clinical examination with electrodiagnostic studies at intervals; **if no recovery is evident by 4 months, the crush-injury algorithm applies** and operative reconstruction is planned. This contrasts sharply with a sharp laceration plus deficit, which is explored within 72 hours because transection is likely. The distinction — sharp explored early, blunt/blast observed — is one of the chapter's core management splits.",
+  "hy": "Gunshot/blast palsy = presumed edema neurapraxia: observe; resolve by 12 wk, else crush algorithm at 4 months.",
+  "src": "Neligan I.21 · Penetrating injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — blast injury usually causes a neurapraxic in-continuity lesion, not transection, so immediate exploration is not indicated.",
+   "B": "Correct — conservative management with serial examination is standard; the edema-related neurapraxia should clear within 12 weeks.",
+   "C": "Wrong — grafting at 72 hours belongs to sharp transections that cannot be repaired primarily, not to blast palsies with recovery potential.",
+   "D": "Wrong — electrodiagnostics in the first week cannot yet show denervation (fibrillations take ~3 weeks) and would not change early management."
+  }
+ },
+ {
+  "id": "N-I-21.12",
+  "chapter": "Ch21",
+  "section": "Crush and compartment syndrome",
+  "stem": "After a forearm crush under a pallet, which finding is most characteristic as the EARLIEST sign of impending compartment syndrome?",
+  "options": {
+   "A": "Loss of the radial pulse at the wrist",
+   "B": "Decrease in vibration sensibility",
+   "C": "Loss of motor function in deep flexors",
+   "D": "Pain on passive digital extension"
+  },
+  "answer": "B",
+  "exp": "The **earliest sign of impending compartment syndrome is a decrease in vibration sensibility** — large-fiber function fails first as rising compartment pressure compromises nerve perfusion. **Pain, loss of motor function, and loss of distal pulses are later findings**; a palpable pulse never excludes the diagnosis. Compartment syndrome is the most severe consequence of soft-tissue crush and is a **surgical emergency** — in the closed-injury algorithm it sits at the very first branch: compartment syndrome or vascular compromise → **acute decompression**, before any question of nerve-specific management arises. Waiting for the classic late signs costs muscle, which tolerates ischemia worst of all the limb tissues.",
+  "hy": "Impending compartment syndrome: vibration sensibility drops FIRST; pain, motor loss, pulselessness are late. Acute decompression.",
+  "src": "Neligan I.21 · Crush injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — loss of pulses is a late finding; perfusion pressure at the compartment level fails long before the radial pulse does.",
+   "B": "Correct — decreased vibration sensibility is cited as the early sign of impending compartment syndrome.",
+   "C": "Wrong — motor loss is listed among the later findings, after sensory changes are established.",
+   "D": "Wrong — pain (including with passive stretch) is described among the later findings in this chapter's sequence, not the earliest change."
+  },
+  "expimage": "images/N-I-21-12.jpg",
+  "expimgcap": "Management algorithm for closed traction, stretch, or avulsion injury"
+ },
+ {
+  "id": "N-I-21.13",
+  "chapter": "Ch21",
+  "section": "Tissue susceptibility to crush",
+  "stem": "In a severe soft-tissue crush of the forearm without compartment syndrome, which tissue is MOST susceptible to irreversible damage from the external force?",
+  "options": {
+   "A": "The tendon",
+   "B": "The skin",
+   "C": "The nerve",
+   "D": "The muscle"
+  },
+  "answer": "D",
+  "exp": "**Muscle is the tissue most susceptible to external crush forces**: even when the injury is not severe enough to produce a compartment syndrome, local muscle destruction and necrosis may dominate the picture and contribute more to functional loss than the nerve injury itself. **Tendon and skin are more resistant**, withstanding higher compressive forces before irreversible cellular damage, and **nerves are described as fairly resistant given their elasticity** — though a mixed nerve injury can still occur. The practical consequence: in a crushed limb the surgeon must judge how much deficit is myogenic versus neurogenic, because a nerve-directed operation cannot recover function lost to muscle necrosis, and the nerve component of crush is usually managed conservatively at first.",
+  "hy": "Muscle is most susceptible to external crush — its necrosis may outweigh the nerve injury; tendon, skin, and elastic nerves all resist more.",
+  "src": "Neligan I.21 · Crush injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — tendon is explicitly among the resistant tissues, tolerating high compressive force before cell death.",
+   "B": "Wrong — skin, like tendon, withstands compression relatively well.",
+   "C": "Wrong — nerves are fairly resistant to crush because of their elasticity; they are not the most vulnerable tissue.",
+   "D": "Correct — muscle is the most susceptible tissue, and its necrosis can outweigh the nerve lesion in final function."
+  }
+ },
+ {
+  "id": "N-I-21.14",
+  "chapter": "Ch21",
+  "section": "Stretch/avulsion injuries",
+  "stem": "Nerves injured by high-velocity stretch tend to avulse at predictable sites. Which anatomical feature creates these sites, and what reconstruction is used when the segment proximal to an avulsion cannot be accessed?",
+  "options": {
+   "A": "Points of tethering such as bony foramina; nerve or tendon transfers",
+   "B": "Points of maximal mobility in mid-limb; interpositional autografting",
+   "C": "Watershed zones of perineurial blood supply; vascularized nerve grafts",
+   "D": "Sites of physiologic narrowing under retinacula; end-to-side coaptation"
+  },
+  "answer": "A",
+  "exp": "Stretch injuries damage the internal architecture once strain exceeds the nerve's elastic limit, often with no external evidence of injury, and high-velocity mechanisms **avulse nerves at points of tethering — bony foramina and the spinal cord** — where the nerve cannot dissipate strain by gliding. If the proximal stump is accessible, grafting is possible; **where the proximal segment cannot be reached — cranial nerves, spinal roots — reconstruction is by nerve transfers or tendon transfers**, since there is nothing proximal to coapt or graft from. These injuries frequently accompany limb- or life-threatening trauma that takes precedence, and the overall plan addresses the nerve first (by degree of injury), then augments with tendon transfers or joint arthrodesis as needed.",
+  "hy": "Avulsion occurs at tethering points (foramina, spinal cord); inaccessible proximal stump → nerve or tendon transfer.",
+  "src": "Neligan I.21 · Stretch and avulsion injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — tethering at bony foramina and the cord sets the avulsion sites, and transfers reconstruct when no proximal nerve is reachable.",
+   "B": "Wrong — mid-limb mobile segments dissipate strain by gliding; avulsion clusters at fixed points, and autografting requires an accessible proximal stump.",
+   "C": "Wrong — vascular watershed zones describe ischemic vulnerability, not the mechanics of traction avulsion.",
+   "D": "Wrong — retinacular narrowings are entrapment sites for compression syndromes, not the avulsion points of high-velocity stretch."
+  }
+ },
+ {
+  "id": "N-I-21.15",
+  "chapter": "Ch21",
+  "section": "Direct muscle neurotization",
+  "stem": "When avulsion occurs at the neuromuscular junction and no distal nerve exists, the proximal nerve can be implanted directly into the muscle. What does the evidence show about this technique?",
+  "options": {
+   "A": "Randomized clinical trials confirm recovery equal to that after standard nerve coaptation",
+   "B": "Some clinical series report MRC 4/5, but experimental data do not support this",
+   "C": "It reliably restores protective sensation but never any motor function",
+   "D": "It works in children only, because motor endplates regenerate before age 10"
+  },
+  "answer": "B",
+  "exp": "Direct muscle neurotization — implanting the proximal nerve into the denervated muscle when the distal nerve (e.g., after avulsion from the neuromuscular junction) no longer exists — has **clinical reports of recovery as good as MRC 4/5 at 1–2 years, but experimental studies do not support these findings**: in the laboratory, recovery is much less than a formal nerve coaptation would produce. It therefore remains an alternative of last resort for the muscle itself, used only when no distal nerve stump is available, and it illustrates a recurring theme of this chapter: enthusiasm from small clinical series must be tempered by controlled experimental data. MRC grading (Medical Research Council) scores muscle power 0–5, where 4 is movement against resistance and 5 is normal strength.",
+  "hy": "Direct muscle neurotization: option when NO distal nerve exists; clinical claims (MRC 4/5) unsupported by experimental data.",
+  "src": "Neligan I.21 · Stretch and avulsion injuries",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — no randomized-trial equivalence exists; experimental comparisons favor formal coaptation.",
+   "B": "Correct — some studies report MRC 4/5 recovery at 1–2 years, but experimental models show recovery well below nerve coaptation.",
+   "C": "Wrong — the technique is a motor reconstruction; the debate is over how much motor recovery it yields, not sensation.",
+   "D": "Wrong — no age restriction of that kind is described; the limiting factor is absence of a distal nerve, not patient age."
+  }
+ },
+ {
+  "id": "N-I-21.16",
+  "chapter": "Ch21",
+  "section": "Bedside sensory testing",
+  "stem": "A 4-year-old with a palmar laceration is too frightened to cooperate with two-point discrimination. Which examination is best suited to screen digital nerve function here?",
+  "options": {
+   "A": "Semmes–Weinstein monofilament mapping of both palmar quadrants",
+   "B": "Static two-point discrimination repeated after play therapy",
+   "C": "The ten test, comparing moving light touch to the contralateral digit",
+   "D": "The sensory collapse test performed over the suspected point of nerve injury"
+  },
+  "answer": "C",
+  "exp": "The **\"ten test\"** uses the patient's own subjective comparison of **moving light touch** on the injured digit against the **contralateral (normal) digit as a 10/10 reference**, and it is quick, requires no instruments, and is specifically **useful in young children who cannot cooperate with two-point discrimination and in rapid assessment of a patient being rushed to the operating room** for an associated vascular injury. Semmes–Weinstein monofilaments (calibrated nylon filaments mapping pressure thresholds) and static/moving two-point discrimination are the formal quantitative tests but demand cooperation and time. The sensory collapse test (formerly \"scratch collapse\") serves a different purpose — localizing points of compression in a multi-level injury — not screening digital sensibility.",
+  "hy": "Ten test = moving light touch vs contralateral digit (subjective /10) — ideal for young children and pre-OR haste.",
+  "src": "Neligan I.21 · History and physical examination",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — Semmes–Weinstein monofilament mapping is a calibrated threshold test that needs a cooperative, attentive patient.",
+   "B": "Wrong — two-point discrimination is precisely the test a frightened 4-year-old cannot perform, static or otherwise.",
+   "C": "Correct — the ten test's contralateral moving-light-touch comparison suits young children and rapid pre-operative screening.",
+   "D": "Wrong — the sensory collapse test localizes compression points in multi-level injury; it does not quantify digital sensory function."
+  }
+ },
+ {
+  "id": "N-I-21.17",
+  "chapter": "Ch21",
+  "section": "Tinel's sign",
+  "stem": "Three weeks after a closed humeral fracture with radial nerve palsy, a Tinel's sign is present at the fracture level. What does this finding indicate?",
+  "options": {
+   "A": "Some degree of axonal injury rather than pure conduction block",
+   "B": "A purely neurapraxic lesion that will recover within 12 weeks",
+   "C": "A neurotmetic lesion that mandates immediate operative repair",
+   "D": "Ongoing ischemic conduction block of the Mackinnon zero-degree type"
+  },
+  "answer": "A",
+  "exp": "A **Tinel's sign indicates some degree of axonal injury — axonotmesis or neurotmesis — rather than a pure conduction block or demyelination (neurapraxia)**, because the percussion-evoked paresthesia arises from regenerating or injured axon tips at the level tapped. It is also the cheapest tracking tool available: an **advancing Tinel** along the nerve's course over serial visits marks the front of axonal regrowth and is used to monitor progression of recovery, while a Tinel stalled at the injury suggests regeneration is blocked (as in a fourth-degree neuroma-in-continuity). In this vignette, the sign tells the examiner the radial palsy is not merely neurapraxic — axons have been damaged — which lengthens the expected recovery and mandates serial examination.",
+  "hy": "Tinel present = axonal injury (axonotmesis/neurotmesis), NOT neurapraxia; advancing Tinel tracks regeneration.",
+  "src": "Neligan I.21 · History and physical examination",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — Tinel's sign marks axonal injury and its advance follows the regeneration front.",
+   "B": "Wrong — a purely neurapraxic (demyelinating) block generates no Tinel because axons are intact; that pattern would argue against this finding.",
+   "C": "Wrong — Tinel confirms axonal damage but cannot separate axonotmesis from neurotmesis, so it does not by itself mandate surgery.",
+   "D": "Wrong — a zero-degree ischemic block transmits no signal but has no injured axon tips to percuss; it recovers immediately after decompression."
+  }
+ },
+ {
+  "id": "N-I-21.18",
+  "chapter": "Ch21",
+  "section": "Pain as a discriminator",
+  "stem": "Two patients present after closed traction injuries to the brachial plexus. One reports severe burning neuropathic pain; the other has a painless dense deficit. Which inference does the chapter support?",
+  "options": {
+   "A": "Painless deficits carry the worse prognosis because sensory axons are lost",
+   "B": "Pain intensity bears no relationship to the histologic degree of the underlying injury",
+   "C": "Neuropathic pain indicates central sensitization, not the injury grade",
+   "D": "Severe neuropathic pain suggests a neurotmetic rather than in-continuity injury"
+  },
+  "answer": "D",
+  "exp": "The chapter identifies **neuropathic pain as a key discriminator: neurotmetic injuries typically present with significantly more neuropathic pain than injuries that remain in-continuity** (neurapraxia, axonotmesis). A dense but painless deficit favors a lesser-degree, in-continuity lesion with potential for spontaneous recovery, while severe burning pain after traction raises concern for rupture — one reason the preoperative pain questionnaire helps predict both the injury type and the patient's outcome. This is also clinically actionable at the bedside: in the difficult early period when imaging and electrodiagnostics are still uninformative, the pain profile shifts the index of suspicion toward or away from operative exploration.",
+  "hy": "Severe neuropathic pain after nerve trauma suggests neurotmesis; in-continuity injuries hurt less.",
+  "src": "Neligan I.21 · History and physical examination",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — painless deficits suggest an in-continuity injury with better spontaneous prognosis, not worse.",
+   "B": "Wrong — the chapter draws the opposite conclusion: pain burden correlates with the likelihood of a neurotmetic injury.",
+   "C": "Wrong — central sensitization develops later in chronic pain; the acute discriminating value described here is peripheral injury grade.",
+   "D": "Correct — significantly more neuropathic pain points to a neurotmetic rather than in-continuity lesion."
+  }
+ },
+ {
+  "id": "N-I-21.19",
+  "chapter": "Ch21",
+  "section": "EMG timing after injury",
+  "stem": "Why are electrodiagnostic studies NOT recommended in the first days after a suspected axonal nerve injury, except to document pre-injury pathology?",
+  "options": {
+   "A": "Local edema blocks the stimulating current across the injured segment",
+   "B": "Anesthetic infiltration at injury abolishes distal conduction responses",
+   "C": "Fibrillations and positive sharp waves take at least 3 weeks to appear",
+   "D": "Motor unit potentials are uninterpretable until reinnervation is complete"
+  },
+  "answer": "C",
+  "exp": "The electromyographic signs of axonal injury — **fibrillation potentials and positive sharp waves — take at least 3 weeks to appear, because they require Wallerian degeneration of the distal segment** to render muscle fibers denervated and spontaneously active. A study done in the first days therefore cannot grade the injury and is **not recommended except to document pre-injury pathology** (e.g., a pre-existing neuropathy that would confound later comparisons). Even later, a single study cannot separate axonotmesis from neurotmesis — only **tracking changes over time** does, which is why regular serial electrodiagnostics are advocated and why EMG changes often precede clinical recovery by months.",
+  "hy": "Fibs/PSWs need ~3 weeks (post-Wallerian) to appear — early EDX only documents pre-injury baseline.",
+  "src": "Neligan I.21 · Electrodiagnostic evaluation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — edema does not block the diagnostic signal; the limitation is biological (denervation potentials have not yet developed).",
+   "B": "Wrong — local anesthetic effects last hours, irrelevant to studies days later.",
+   "C": "Correct — denervation potentials appear only after Wallerian degeneration, at least 3 weeks post-injury.",
+   "D": "Wrong — MUP analysis is informative throughout; it is the denervation potentials that lag, and reinnervation MUPs are exactly what later studies look for."
+  }
+ },
+ {
+  "id": "N-I-21.20",
+  "chapter": "Ch21",
+  "section": "Electrodiagnostic components",
+  "stem": "Which pairing of electrodiagnostic measure and the information it provides is correct?",
+  "options": {
+   "A": "Conduction velocity — the count of motor units under voluntary control",
+   "B": "Electromyography — a quantitative measure of axonal continuity",
+   "C": "SNAP amplitude — the degree of myelination of the motor fibers",
+   "D": "CMAP and SNAP amplitudes — the number of functional axons present"
+  },
+  "answer": "D",
+  "exp": "Nerve conduction studies give **quantitative** data: **conduction velocity reflects myelination**, while **compound muscle action potential (CMAP) and sensory nerve action potential (SNAP) amplitudes measure the number of functional axons** in continuity with the spinal cord. **Electromyography (EMG) gives qualitative data on the nerve–muscle unit** — insertional activity, denervation potentials, and the character of motor unit potentials. The division of labor matters clinically: a demyelinating block slows velocity with preserved amplitudes; axonal loss drops amplitudes with relatively preserved velocity; and EMG adds the reinnervation story (nascent, polyphasic MUPs) months before clinical recovery. Together they grade severity and track the potential for recovery over serial studies.",
+  "hy": "Velocity = myelin; CMAP/SNAP amplitude = number of functional axons; EMG = qualitative nerve–muscle unit data.",
+  "src": "Neligan I.21 · Electrodiagnostic evaluation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — conduction velocity indexes myelination; counting activated motor units is not what velocity measures.",
+   "B": "Wrong — EMG is the qualitative arm of the workup; the quantitative axon measures are the amplitudes on conduction studies.",
+   "C": "Wrong — SNAP amplitude counts functional sensory axons; myelination is read from conduction velocity.",
+   "D": "Correct — CMAP and SNAP amplitudes offer a measure of the number of functional axons present."
+  }
+ },
+ {
+  "id": "N-I-21.21",
+  "chapter": "Ch21",
+  "section": "MUPs and the 3-month rule",
+  "stem": "Four months after a closed proximal forearm crush, serial examinations show no clinical recovery and electromyography shows no motor unit potentials in any median-innervated muscle. What is the next step?",
+  "options": {
+   "A": "Continue serial examination and repeat electrodiagnostics at 6 months",
+   "B": "Surgical exploration and reconstruction of the injured nerve",
+   "C": "Begin low-frequency electrical stimulation to accelerate regrowth",
+   "D": "Corticosteroid taper to reduce intraneural edema and scarring"
+  },
+  "answer": "B",
+  "exp": "In closed injuries the operative trigger is defined electrodiagnostically: **if there is no evidence of recovery in the form of motor unit potentials by 3–4 months, surgical exploration and reconstruction are warranted**. This patient is at 4 months with neither clinical recovery nor MUPs — the pathway (and the closed-injury algorithm) directs **surgery now**, because waiting longer spends the finite reinnervation window: \"time is muscle,\" motor endplates fail progressively, and irreversible atrophy begins as early as one year after denervation. The counterfactual anchors the rule — **the presence of MUPs by 3 months implies at worst a third-degree injury** that should recover spontaneously at 1 mm/day and is managed with continued serial examination instead of surgery.",
+  "hy": "Closed injury: no MUPs by 3–4 months → explore and reconstruct; MUPs by 3 months → at worst 3rd degree, observe.",
+  "src": "Neligan I.21 · Electrodiagnostic evaluation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — extending observation to 6 months squanders regeneration time when the 3–4-month MUP milestone has already failed.",
+   "B": "Correct — absent MUPs at 3–4 months in a closed injury is the indication for exploration and reconstruction.",
+   "C": "Wrong — postoperative low-frequency stimulation is an adjunct to a repair, not a substitute for the indicated operation.",
+   "D": "Wrong — corticosteroids have no role described in reversing a failed-recovery closed nerve injury."
+  }
+ },
+ {
+  "id": "N-I-21.22",
+  "chapter": "Ch21",
+  "section": "Imaging of nerve injury",
+  "stem": "Compared with high-resolution ultrasound for evaluating a traumatic nerve injury, 3-Tesla magnetic resonance neurography:",
+  "options": {
+   "A": "Offers dynamic real-time assessment of nerve gliding but depends heavily on operator experience",
+   "B": "Identifies fascicular orientation better and at a substantially lower cost",
+   "C": "Is more sensitive for intraneural edema but static, costlier, with less spatial resolution",
+   "D": "Is preferred for follow-up because it involves no positioning of the limb"
+  },
+  "answer": "C",
+  "exp": "Three-Tesla **magnetic resonance neurography is very sensitive for intraneural edema** and shows the surrounding anatomy well, but it is a **static examination with less spatial resolution and higher cost** than high-resolution ultrasound. **Ultrasound**, in expert hands, identifies the level of injury, a neuroma, focal compression points, and fascicular orientation, and uniquely offers **dynamic** examination of the nerve as it glides — its limits are **operator dependence** and availability. The two are complementary adjuncts to — never substitutes for — history, examination, and electrodiagnostics: imaging localizes and characterizes, while electrophysiology grades severity and tracks recovery.",
+  "hy": "US = dynamic, cheap, operator-dependent, high resolution; 3T MRN = edema-sensitive, static, expensive, lower spatial resolution.",
+  "src": "Neligan I.21 · Imaging",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — dynamic gliding assessment and operator dependence are the profile of ultrasound, not MRI.",
+   "B": "Wrong — fascicular orientation at lower cost is an ultrasound strength; MR neurography is the costlier study.",
+   "C": "Correct — MRN's sensitivity to intraneural edema comes packaged with a static, more expensive, lower-spatial-resolution examination.",
+   "D": "Wrong — no positioning advantage is described for MRN; its value lies in edema detection and anatomic overview."
+  }
+ },
+ {
+  "id": "N-I-21.23",
+  "chapter": "Ch21",
+  "section": "Sequencing with skeletal injury",
+  "stem": "In a mangled extremity with an ulnar shaft fracture and a lacerated ulnar nerve, why is bony fixation performed BEFORE the nerve repair?",
+  "options": {
+   "A": "Fracture hematoma must first be evacuated to prevent intraneural fibrosis forming at the repair site",
+   "B": "Manipulation during fixation risks iatrogenic damage to a completed microsurgical repair",
+   "C": "Nerve regeneration cannot begin until the skeleton is axially stable",
+   "D": "Plate application shortens the bone and lengthens the available nerve"
+  },
+  "answer": "B",
+  "exp": "The sequencing rule is that **bony fixation precedes nerve repair because the possibility of iatrogenic injury to the microscopic nerve repair is high** during the manipulation, traction, and reduction maneuvers of fixation — a completed neurorrhaphy of 9-0 nylon cannot survive fracture reduction across the same field. The same logic orders the whole polytrauma sequence: stabilize the patient, treat life-threatening injuries first, then skeleton, then nerve. Postoperatively the principle reappears — when fractures coexist with nerve repairs, the bony fixation dictates the rehabilitation protocol. Note the nuance: fixation comes first within a single operative setting or staged plan, yet the nerve is not forgotten — unexplained postoperative deficits after fixation raise the question of iatrogenic or overlooked injury.",
+  "hy": "Fix bone BEFORE nerve: reduction maneuvers would tear a completed microsurgical coaptation.",
+  "src": "Neligan I.21 · Patient selection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — hematoma evacuation is not the stated reason for the sequence; the threat is mechanical disruption of the repair.",
+   "B": "Correct — fixation before neurorrhaphy protects the microscopic repair from iatrogenic damage during skeletal manipulation.",
+   "C": "Wrong — axons regenerate irrespective of skeletal stability; the ordering is about protecting the coaptation, not enabling regrowth.",
+   "D": "Wrong — plating does not lengthen the nerve; managing a nerve gap is a separate problem solved by mobilization, grafting, or transfer."
+  }
+ },
+ {
+  "id": "N-I-21.24",
+  "chapter": "Ch21",
+  "section": "Pain questionnaire in selection",
+  "stem": "When a preoperative pain-evaluation questionnaire is used in nerve-injury patients, which pattern predicts a better surgical outcome?",
+  "options": {
+   "A": "Diffuse whole-limb pain marked across multiple regions of the body diagram",
+   "B": "Absence of any pain complaint at the time of presentation",
+   "C": "Pain confined to the contralateral, uninjured extremity",
+   "D": "Selection of specific pain areas that fit the presenting injury"
+  },
+  "answer": "D",
+  "exp": "In the authors' experience, patients **who select specific areas of pain that fit their presenting injury are more likely to have a good outcome than those who mark very diffuse pain patterns**. The preoperative **pain evaluation questionnaire** thus serves two purposes: it helps **predict the likelihood of a neurotmetic injury** (neurotmesis presents with significantly more neuropathic pain than in-continuity lesions) and it maps the patient's **overall pain burden**, informing selection and expectation-setting. A diffuse, anatomy-incongruent pain diagram flags central amplification and psychosocial load — factors that degrade outcomes independent of the quality of the nerve reconstruction — whereas a focal, injury-congruent pattern behaves like a surgical problem that surgery can help.",
+  "hy": "Focal, injury-congruent pain pattern on the questionnaire → better outcome; diffuse patterns predict worse results.",
+  "src": "Neligan I.21 · Patient selection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — diffuse whole-limb marking is exactly the pattern associated with poorer outcomes.",
+   "B": "Wrong — absence of pain is not the predictor described; congruence of the pain map with the injury is.",
+   "C": "Wrong — contralateral pain does not fit the presenting injury and would not predict benefit.",
+   "D": "Correct — specific pain areas fitting the injury predict a good outcome in the authors' experience."
+  }
+ },
+ {
+  "id": "N-I-21.25",
+  "chapter": "Ch21",
+  "section": "Definitions by repair interval",
+  "stem": "A median nerve is repaired 5 days after injury, following freshening of both stumps. By the chapter's definitions this is a:",
+  "options": {
+   "A": "Primary repair",
+   "B": "Delayed repair",
+   "C": "Secondary repair",
+   "D": "Staged repair"
+  },
+  "answer": "B",
+  "exp": "By the chapter's definitions, nerves repaired **within 48 hours are repaired primarily**; a **delayed repair occurs between 2 and 7 days and requires freshening of the proximal and distal ends** before coaptation (fibrin and early scar seal the stumps); and nerves repaired **after the first week are secondarily repaired**. A 5-day repair with freshening is therefore a delayed repair. The times are acknowledged as arbitrary, but the trend they encode is not: the longer the interval, the more the ends retract and scar, and the less likely a tension-free primary coaptation becomes even with significant mobilization. That is also why the practical windows — 72 hours for distal stimulability, 2 weeks before retraction defeats primary repair — dominate operative planning.",
+  "hy": "Repair timing: ≤48 h primary · 2–7 d delayed (freshen ends) · >1 week secondary.",
+  "src": "Neligan I.21 · Timing of repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — primary repair is defined as repair within the first 48 hours.",
+   "B": "Correct — a repair at 2–7 days, after freshening the ends, is by definition a delayed repair.",
+   "C": "Wrong — secondary repair begins after the first week.",
+   "D": "Wrong — \"staged repair\" is not one of the chapter's timing categories."
+  }
+ },
+ {
+  "id": "N-I-21.26",
+  "chapter": "Ch21",
+  "section": "The 2-week window",
+  "stem": "A median nerve transection from an assault is referred 10 days after injury, the wound having been managed elsewhere for its vascular repair. Why can the surgeon still plan a direct end-to-end neurorrhaphy rather than a graft?",
+  "options": {
+   "A": "The proximal and distal ends have not yet retracted, so primary neurorrhaphy is often possible",
+   "B": "Wallerian degeneration has not yet begun, so the distal pathway remains fully open",
+   "C": "Fibrillation potentials have not yet appeared on testing, so electrodiagnostic studies stay interpretable",
+   "D": "Schwann cell senescence has not yet started, so grafts of any length will succeed"
+  },
+  "answer": "A",
+  "exp": "The specific advantage of repair **within 2 weeks** is anatomic: **the proximal and distal nerve ends have not yet retracted, so primary neurorrhaphy is often possible** — beyond this, elastic recoil and scarring separate the stumps and a graft becomes likely. The other early-repair advantages carry their own windows: an unscarred surgical field, epineurial microvessels still visible as alignment landmarks, and distal-stump stimulability, which lasts only about 72 hours. Distinguish these surgical-feasibility windows from the biological prognosis windows — repair within 6 months for a good result, best within 3 weeks — which reflect motor endplate survival rather than the mechanics of coaptation.",
+  "hy": "≤2 weeks: stumps not yet retracted → primary neurorrhaphy still achievable; ≤72 h: distal stump still stimulable.",
+  "src": "Neligan I.21 · Timing of repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — within 2 weeks the ends have not retracted, preserving the chance of direct coaptation.",
+   "B": "Wrong — Wallerian degeneration begins within days of an axonal injury; it is not deferred for 2 weeks, and the distal tubes remain usable regardless.",
+   "C": "Wrong — fibrillations appear at ~3 weeks, but their absence is a diagnostic matter, not the advantage of early repair.",
+   "D": "Wrong — Schwann senescence limits long grafts as a function of graft length, not of a 2-week repair window."
+  }
+ },
+ {
+  "id": "N-I-21.27",
+  "chapter": "Ch21",
+  "section": "Prognosis and timing",
+  "stem": "A laborer is referred 5 months after a missed but repairable proximal ulnar nerve transection and asks whether an operation now is still worthwhile. Which counsel reflects the chapter's timing thresholds?",
+  "options": {
+   "A": "Repair within 6 months carries a good prognosis; the best results follow repair within 3 weeks",
+   "B": "Repair within 12 months carries a good prognosis; the best results follow repair within 6 weeks",
+   "C": "Repair within 3 months carries a good prognosis; the best results follow repair within 1 week",
+   "D": "Repair within 18 months carries a good prognosis; the best results follow repair within 3 months"
+  },
+  "answer": "A",
+  "exp": "The chapter's prognosis thresholds: **a good prognosis is expected if repair occurs within 6 months, and the best results occur when repair is performed within 3 weeks**. The biology underneath is the pairing of two clocks — \"**time is muscle**\": functional recovery is inversely proportional to denervation time and directly proportional to the number of motor axons reaching the endplates, with irreversible muscle atrophy beginning as early as one year after denervation; and \"time is pathway\": the distal support environment for regeneration degrades as months pass. These windows are why the 3–4-month electrodiagnostic decision point exists — it leaves enough runway to reconstruct within the useful period rather than after the endplates are gone.",
+  "hy": "Repair ≤6 months → good prognosis; best results ≤3 weeks. Time is muscle — atrophy irreversible from ~1 year.",
+  "src": "Neligan I.21 · Prognosis and outcomes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — 6 months for a good prognosis and 3 weeks for the best results are the stated thresholds.",
+   "B": "Wrong — those figures overstate both windows; by 12 months denervated muscle is already undergoing irreversible atrophy.",
+   "C": "Wrong — 3 months/1 week compresses the true windows; useful repair extends to 6 months.",
+   "D": "Wrong — 18 months lies beyond the survival of motor endplates; recovery of muscle function would no longer be expected."
+  }
+ },
+ {
+  "id": "N-I-21.28",
+  "chapter": "Ch21",
+  "section": "Tension and microcirculation",
+  "stem": "During a delayed ulnar nerve repair the ends coapt only under visible stretch, and the surgeon converts to grafting, citing the strain at which microvascular flow falls in even an uninjured nerve. That threshold is:",
+  "options": {
+   "A": "5%",
+   "B": "15%",
+   "C": "30%",
+   "D": "50%"
+  },
+  "answer": "B",
+  "exp": "In an uninjured nerve, a **15% strain causes a reduction in microvascular flow and a delay of peak velocity** — the experimental anchor for the rule that **excessive tension inhibits regeneration**, since tension across a coaptation scars the repair site and impairs axonal regrowth. Clinically the tension across a repair is never measured; instead, **coaptation with any tension is meticulously avoided**, and if the gap cannot close without it, the correct move is a graft — two tension-free neurorrhaphy sites outperform one tight repair. A small amount of tension to achieve primary coaptation is acceptable (per the synopsis), but the intolerance of nerve microcirculation to stretch is why the threshold for converting to graft is low.",
+  "hy": "15% strain already cuts nerve microvascular flow — repair under tension scars; prefer graft over tight coaptation.",
+  "src": "Neligan I.21 · Tension",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — 5% is below the strain shown to compromise flow; it would understate the nerve's real tolerance.",
+   "B": "Correct — a 15% strain reduces microvascular flow and delays peak velocity in the uninjured nerve.",
+   "C": "Wrong — 30% overstates the threshold; flow suffers at half that strain.",
+   "D": "Wrong — 50% strain is far beyond the physiologic range; structural failure would dominate long before."
+  }
+ },
+ {
+  "id": "N-I-21.29",
+  "chapter": "Ch21",
+  "section": "Postural manipulation",
+  "stem": "To achieve a tension-free median nerve coaptation at the wrist, a surgeon considers splinting the wrist in marked flexion. The authors denounce this practice because:",
+  "options": {
+   "A": "It increases dehiscence risk and causes stiffness from the immobilization",
+   "B": "It shortens the nerve permanently and prevents later tendon transfers",
+   "C": "It converts an epineurial repair into an obligatory perineurial repair",
+   "D": "It masks the intraoperative assessment of fascicular alignment at the coaptation"
+  },
+  "answer": "A",
+  "exp": "The authors **denounce postural manipulation of the extremity** (flexing joints to shorten the nerve course) as a route to \"tension-free\" repair because it **increases the likelihood of dehiscence and causes stiffness from the immobilization**; furthermore, **prolonged immobilization scars the nerve to its bed and destroys nerve gliding**. The repair that only holds with the wrist flexed is a repair under tension in disguise — when motion resumes, the coaptation is loaded exactly when it is weakest. The correct alternatives are honest ones: mobilize the nerve ends (a gap under 5 mm can be overcome), or accept the gap and graft it. This links to the postoperative philosophy: a properly tension-free repair is verified through a full arc of motion in the operating room and tolerates early protected motion.",
+  "hy": "No postural manipulation for \"tension-free\" repair — dehiscence + stiffness; mobilize or graft instead.",
+  "src": "Neligan I.21 · Tension",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — the cited objections are dehiscence risk and stiffness from the immobilization it requires.",
+   "B": "Wrong — nerves are not permanently shortened by positioning, and tendon transfers are unrelated to this choice.",
+   "C": "Wrong — positioning does not dictate epineurial versus perineurial technique.",
+   "D": "Wrong — alignment is assessed with the limb in neutral; masking it is not the stated objection to postural flexion."
+  }
+ },
+ {
+  "id": "N-I-21.30",
+  "chapter": "Ch21",
+  "section": "Suture selection — Giddins",
+  "stem": "Repairing a median nerve at the wrist, a trainee requests 10-0 nylon, reasoning that the finest suture must be the gentlest choice. Based on Giddins' cadaveric data, why is 9-0 the better selection here?",
+  "options": {
+   "A": "It produced the least foreign-body reaction of all tested calibers",
+   "B": "Its elasticity matched the nerve, unlike braided sutures that sawed through",
+   "C": "At lower tension, 10-0 snapped and 8-0 pulled out of the nerve tissue",
+   "D": "It was the smallest caliber holding the repair through full range of motion"
+  },
+  "answer": "C",
+  "exp": "Giddins et al. tested suture calibers in cadaveric median nerve repairs and found **9-0 nylon optimal because, at a lower tension, 10-0 nylon snapped and 8-0 nylon pulled out of the nerve tissue** — the ideal caliber matches the failure mode to the tissue: strong enough not to break, fine enough not to cheese-wire through epineurium. Clinically the suture diameter is selected by nerve size, and the epineurial technique uses **the fewest number of 9-0 epineurial sutures that ensures accurate fascicular alignment** — every additional stitch is intraneural foreign material provoking fibrosis. The finding also frames the fibrin-glue discussion: microsuture remains the gold standard for coaptation strength, with glue as an adjunct rather than a substitute.",
+  "hy": "Giddins: 9-0 nylon optimal for median nerve — 10-0 snaps, 8-0 pulls out; use the fewest sutures that align.",
+  "src": "Neligan I.21 · Type of repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — foreign-body reaction favors fewer and finer sutures generally but was not the tested endpoint distinguishing calibers.",
+   "B": "Wrong — elasticity matching and braided-suture sawing were not the study's comparison; monofilament nylon calibers were.",
+   "C": "Correct — 10-0 snapped and 8-0 pulled out at lower tension, leaving 9-0 as the optimum for the median nerve.",
+   "D": "Wrong — the study tested tension to failure in cadavers, not performance through postoperative range of motion."
+  }
+ },
+ {
+  "id": "N-I-21.31",
+  "chapter": "Ch21",
+  "section": "Coaptation adjuncts",
+  "stem": "Regarding fibrin glue in nerve repair, the chapter states that:",
+  "options": {
+   "A": "It has replaced microsutures as the gold standard for all tension-free repairs in adults",
+   "B": "The gold standard remains microsuture; the authors combine suture with fibrin glue",
+   "C": "It is contraindicated because it incites chronic inflammatory scarring",
+   "D": "It is reserved for pediatric repairs where sutures cannot be placed"
+  },
+  "answer": "B",
+  "exp": "Several surgeons advocate fibrin glue in place of sutures, especially when there is no tension, but **the gold standard remains microsuture under the operating microscope; the authors routinely use a combination of suture and fibrin glue** — sutures provide alignment and tensile security, glue seals the coaptation and may limit axonal escape. Fibrin glue (fibrinogen activated by thrombin, recreating the final step of the clotting cascade as a biologic sealant) is thus an adjunct, not a replacement. This mirrors a broader principle in the chapter: alignment quality governs outcome, so any technique — glue, wraps, conduit-assisted coaptation — is judged by whether it preserves accurate, tension-free fascicular apposition.",
+  "hy": "Microsuture under the microscope = gold standard; fibrin glue is an adjunct — the authors combine both.",
+  "src": "Neligan I.21 · Type of repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — glue has not displaced microsuture; that claim would describe a practice the chapter explicitly does not endorse.",
+   "B": "Correct — the stated standard is microsuture, with the authors combining suture and fibrin glue routinely.",
+   "C": "Wrong — no contraindication from inflammatory scarring is described for fibrin glue; that concern belongs to synthetic conduit material.",
+   "D": "Wrong — no pediatric-only role is described for glue."
+  }
+ },
+ {
+  "id": "N-I-21.32",
+  "chapter": "Ch21",
+  "section": "Epineurial repair technique",
+  "stem": "During delayed repair of a transected ulnar nerve, after debriding to healthy pouting fascicles, which landmarks are used to rotationally align the coaptation?",
+  "options": {
+   "A": "The perineurial septa marked with methylene blue preoperatively",
+   "B": "Electrical mapping of every fascicle before any suture is placed",
+   "C": "The relative diameters of the two stumps after edema resolves",
+   "D": "Surface epineurial vessels and the matching fascicular pattern"
+  },
+  "answer": "D",
+  "exp": "Once the severed ends are freshened to **healthy pouting fascicles**, rotational alignment for an epineurial repair uses **external landmarks: a longitudinal vessel on the epineurial surface and matching of the fascicular patterns** of the two stumps, so the fascicles meet **without overlapping**. The chapter's technical ideal is the fewest 9-0 epineurial sutures that hold this alignment through a gentle full range of motion. Intraoperative hand-held stimulation can add functional matching in select settings (within 72 hours, motor only), but the workhorse of orientation is anatomic. Malrotation wastes regeneration on wrong targets, and bunching or overlap of fascicles produces an inferior result even with a technically \"tight\" repair.",
+  "hy": "Epineurial alignment = surface vessel + fascicular pattern match, no overlap, fewest sutures that hold it.",
+  "src": "Neligan I.21 · Type of repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — preoperative dye marking of perineurial septa is not a described technique.",
+   "B": "Wrong — electrical mapping of every fascicle is impractical and unnecessary; stimulation has narrow, specific intraoperative uses.",
+   "C": "Wrong — stump diameters cannot give rotational orientation.",
+   "D": "Correct — the surface vessel and the fascicular pattern are the stated landmarks for accurate rotational alignment."
+  }
+ },
+ {
+  "id": "N-I-21.33",
+  "chapter": "Ch21",
+  "section": "End-to-end coaptation",
+  "stem": "For which injured nerves does the chapter recommend classic end-to-end repair (primary or with graft)?",
+  "options": {
+   "A": "Pure motor nerves only, because transected sensory nerves regain protective sensation spontaneously",
+   "B": "All motor, sensory, and mixed nerves in critical distributions without expected spontaneous recovery",
+   "C": "Only distal sensory nerves, since proximal repairs rarely reach their targets",
+   "D": "Mixed nerves only, and only when intraoperative stimulation has confirmed conduction across the distal segment"
+  },
+  "answer": "B",
+  "exp": "Classic **end-to-end repair — whether primary neurorrhaphy or with interposed graft — continues to be recommended for all motor, sensory, and mixed nerves in critical distributions where spontaneous recovery is not expected to occur**. The qualifier does real work: *critical distribution* (median sensibility, intrinsic motor function) justifies committing the full proximal axon pool to the distal pathway; *no expected spontaneous recovery* excludes lesser-degree injuries that will do better untouched. Noncritical sensory deficits are the arena where alternatives (end-to-side transfer, conduit, allograft) become acceptable. End-to-end remains the default because every alternative sacrifices something — axon count, specificity, or donor function.",
+  "hy": "End-to-end repair: the default for every critical motor/sensory/mixed deficit without expected spontaneous recovery.",
+  "src": "Neligan I.21 · Type of repair",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — sensory nerves in critical distributions (e.g., median) are repaired end-to-end too; spontaneous recovery is not assumed for transections.",
+   "B": "Correct — all motor, sensory, and mixed nerves in critical distributions without expected recovery get end-to-end repair.",
+   "C": "Wrong — proximal repairs are still performed end-to-end; distance worsens prognosis but does not change the coaptation principle.",
+   "D": "Wrong — end-to-end repair does not require demonstrable distal conduction; in transection the distal stump falls silent after ~72 hours regardless."
+  }
+ },
+ {
+  "id": "N-I-21.34",
+  "chapter": "Ch21",
+  "section": "Intraoperative stimulation",
+  "stem": "Which statement about the hand-held intraoperative nerve stimulator is correct?",
+  "options": {
+   "A": "Distal stumps stay stimulable for about 72 hours, and the device informs on motor but not sensory fascicles",
+   "B": "Distal stumps remain stimulable for about 72 hours, and the device maps motor and sensory fascicles equally well",
+   "C": "It is useful only in sharp lacerations, because closed traction injuries abolish distal conduction immediately",
+   "D": "It replaces preoperative electrodiagnostic studies, which add no information once the nerve has been exposed"
+  },
+  "answer": "A",
+  "exp": "The hand-held stimulator facilitates intraoperative decisions in closed traction injuries (especially brachial plexus and large mixed nerves), multi-level injuries, and partial plexus injuries, and its physiologic constraint is the crux: **distal stumps of transected nerves can usually be stimulated for about 72 hours following injury** — until Wallerian degeneration silences them — after which distal muscle contraction can no longer be evoked. Within that window it helps locate small branches (e.g., facial nerve) in a traumatic field and confirms topographic alignment. Its output concerns **distal motor fascicles; it is not useful for sensory deficits**. It also refines plans when preoperative electrodiagnostics were equivocal, and identifies redundant donor fascicles for nerve transfer.",
+  "hy": "Intraoperative stimulator: distal stump answers for only ~72 h post-transection; motor information only.",
+  "src": "Neligan I.21 · Intraoperative nerve stimulation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — ~72 hours of distal stimulability and motor-only information are the device's two defining limits.",
+   "B": "Wrong — the 72-hour window is correct, but the stimulator reads evoked muscle contraction, so it informs on distal motor fascicles only; sensory deficits cannot be interrogated.",
+   "C": "Wrong — closed traction injury of the plexus is precisely a listed indication; conduction is not abolished across every injured segment.",
+   "D": "Wrong — the stimulator complements rather than replaces preoperative electrodiagnostics, refining the plan when studies were equivocal."
+  }
+ },
+ {
+  "id": "N-I-21.35",
+  "chapter": "Ch21",
+  "section": "The nerve gap — first principles",
+  "stem": "A tidy ulnar nerve transection at the mid-forearm leaves a 4-mm gap after debridement. There is no contamination. What is the preferred management?",
+  "options": {
+   "A": "A short acellular nerve allograft to guarantee zero tension",
+   "B": "A reversed sural nerve graft trimmed to exactly 4 mm",
+   "C": "Mobilization of the nerve ends and primary coaptation",
+   "D": "A collagen conduit with the ends inset 1 mm at each side"
+  },
+  "answer": "C",
+  "exp": "With a clean field and a gap under 5 mm, **mobilization of the proximal and distal ends overcomes the gap through the nerve's elastic properties, allowing primary coaptation** — the gold standard, since fewer neurorrhaphies means more proximal axons reaching the end organ. The chapter's caveat is equally important: if a repair can only be achieved **under tension, or in contamination, unfavorable scarring will occur — two tension-free neurorrhaphy sites (i.e., an interposed graft) are preferable to a single neurorrhaphy under unfavorable conditions**. The full menu for a true gap (Table 21.2) spans autograft, fresh or acellular allograft, conduit, and the transfer family, each trading off donor morbidity, Schwann cell content, length limits, and cost.",
+  "hy": "Gap <5 mm, clean → mobilize and repair primarily; tension or contamination → graft (two good repairs beat one bad one).",
+  "src": "Neligan I.21 · Nerve repair / Table 21.2",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — an allograft substitutes an avoidable interface; a 4-mm gap closes by mobilization thanks to nerve elasticity.",
+   "B": "Wrong — a sural graft trades a donor incision and two coaptations for a gap that primary repair handles better.",
+   "C": "Correct — gaps under 5 mm are overcome by mobilizing the ends for a primary, tension-free coaptation.",
+   "D": "Wrong — conduits are reserved for small sensory gaps when direct repair is impossible, not for a mobilizable 4-mm defect."
+  },
+  "exptable": [
+   [
+    "Option",
+    "Key advantage",
+    "Key limitation"
+   ],
+   [
+    "Nerve autograft",
+    "Gold standard; Schwann cells in matrix",
+    "Donor site, sensory loss, limited length"
+   ],
+   [
+    "Fresh allograft",
+    "Recovery can approach autograft",
+    "~18 months systemic immunosuppression"
+   ],
+   [
+    "Acellular allograft (ANA)",
+    "Inert scaffold, no donor site",
+    "<5 cm, no Schwann cells, small nerves, cost"
+   ],
+   [
+    "Conduit",
+    "Off-shelf, guides regrowth",
+    "<3 cm, small sensory nerves only, no matrix"
+   ],
+   [
+    "Nerve transfer (end-to-end)",
+    "Early recovery near target",
+    "Sacrifices expendable donor, re-education"
+   ],
+   [
+    "End-to-side transfer",
+    "No length limit",
+    "Poor sensory results; motor needs donor neurectomy"
+   ],
+   [
+    "Reverse end-to-side (SETS)",
+    "Augments partial/recovering injury",
+    "Requires topographic expertise"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-21.36",
+  "chapter": "Ch21",
+  "section": "Autograft principles",
+  "stem": "Why does the chapter call the autologous nerve graft a \"bronze\" rather than gold standard, even though it remains the benchmark for the nerve gap?",
+  "options": {
+   "A": "Allografts have overtaken autografts in every published clinical trial",
+   "B": "Grafts survive only when vascularized, which most donor nerves are not",
+   "C": "Donor nerves regenerate poorly after harvest, leaving the donor site permanently painful in most patients",
+   "D": "Functional recovery through a graft is never normal, with fiber loss at each repair site"
+  },
+  "answer": "D",
+  "exp": "The chapter's provocation is that the autograft, long the \"gold standard\" for the nerve gap, **\"should actually be considered a 'bronze standard' as functional recovery is never normal\"**: with **each repair site a percentage of fibers is lost**, and as many as **50% of regenerating axons may never reach the correct end-target**. The graft is a guide, not a guarantee — success needs revascularization (hence small, thin, cabled grafts rather than whole trunks, which failed historically), accurate alignment at two coaptations, and enough Schwann support along the way (senescence sets in above ~6 cm). The label matters clinically: it justifies pursuing alternatives — distal nerve transfers that need only one coaptation near the target — when the graft route is long or late.",
+  "hy": "Autograft = \"bronze standard\": two repair sites lose fibers, ~50% of axons never reach the right target, recovery never normal.",
+  "src": "Neligan I.21 · Autologous nerve grafting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — allografts remain inferior to autograft at all lengths in the cited data; no trial supremacy exists.",
+   "B": "Wrong — conventional (nonvascularized) grafts revascularize from the bed; that is why thin cabled grafts are used, not a reason grafting fails wholesale.",
+   "C": "Wrong — donor-site morbidity is real (sensory loss, occasional pain) but permanent pain in most patients is not the described drawback, nor the reason for the \"bronze\" label.",
+   "D": "Correct — recovery through a graft is never normal, and fiber loss at each coaptation is part of why."
+  }
+ },
+ {
+  "id": "N-I-21.37",
+  "chapter": "Ch21",
+  "section": "Graft length limits",
+  "stem": "Beyond what autograft length do results become less predictable, corresponding to the length above which Schwann cell senescence yields incomplete regeneration?",
+  "options": {
+   "A": "3 cm",
+   "B": "6 cm",
+   "C": "10 cm",
+   "D": "20 cm"
+  },
+  "answer": "B",
+  "exp": "Autograft results become **less predictable at lengths greater than 6 cm**, and the biological explanation is recent: **Schwann cell senescence increases with graft length, yielding incomplete regeneration above ~6 cm in autografts — and above ~3 cm in acellular allografts**. The paired numbers are worth memorizing as a ladder: conduit <3 cm (no cells, no matrix), ANA ≤3 cm in the authors' practice (matrix without cells), autograft reliable to ~6 cm (cells + matrix), and beyond that — or with a hostile, soft-tissue-deficient bed — free vascularized nerve grafts carry their own blood supply. Long conventional grafts of 20 cm or more have succeeded, but with varying degrees of success; predictability, not possibility, is what the 6-cm line marks.",
+  "hy": "Senescence ladder: conduit <3 cm · ANA ~3 cm · autograft ~6 cm — beyond, results grow unpredictable; consider vascularized graft.",
+  "src": "Neligan I.21 · Autologous nerve grafting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — 3 cm is the allograft/conduit ceiling, where Schwann senescence limits acellular scaffolds.",
+   "B": "Correct — 6 cm is the autograft length beyond which results are less predictable and senescence-driven incomplete regeneration appears.",
+   "C": "Wrong — 10 cm is not a stated threshold on this scale.",
+   "D": "Wrong — 20 cm marks the extreme of reported graft lengths with variable success, not the predictability threshold."
+  }
+ },
+ {
+  "id": "N-I-21.38",
+  "chapter": "Ch21",
+  "section": "Vascularized nerve grafts",
+  "stem": "What is the CURRENT indication for a free vascularized nerve graft?",
+  "options": {
+   "A": "Any nerve gap greater than 3 cm, provided the recipient bed is well vascularized and unscarred",
+   "B": "All digital nerve gaps in active smokers, in whom ischemia of conventional grafts is anticipated",
+   "C": "Reconstruction of larger-diameter nerve grafts, such as the ulnar nerve in brachial plexus avulsion injury",
+   "D": "Primary neurorrhaphies performed under tension, where the vascular pedicle relieves strain across the coaptation site"
+  },
+  "answer": "C",
+  "exp": "Taylor and Ham introduced the free vascularized nerve graft in 1976 for long gaps, but for smaller defects vascularized and conventional grafts do not differ clinically; Doi et al. recommend the vascularized graft when **the gap exceeds 6 cm with associated soft-tissue loss**. **Currently, the indication is reconstruction of larger-diameter nerve grafts — such as the ulnar nerve used as a graft in brachial plexus avulsion injury** — where a thick trunk cannot revascularize from a scarred bed by imbibition and would undergo central necrosis. The concept: a conventional graft is a free tissue transfer without a pedicle, surviving on bed ingrowth; once diameter, length, or bed quality exceeds what diffusion supports, the graft must bring its own circulation.",
+  "hy": "Free vascularized nerve graft today: large-diameter donor trunks (ulnar nerve) in brachial plexus avulsion; Doi — >6 cm gap + soft-tissue loss.",
+  "src": "Neligan I.21 · Autologous nerve grafting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — a 3-cm gap in a good bed is well within conventional autograft range; vascularity adds nothing there.",
+   "B": "Wrong — no such smoker-specific indication exists in the chapter.",
+   "C": "Correct — the current indication is the larger-diameter graft, exemplified by the ulnar nerve in plexus avulsion reconstruction.",
+   "D": "Wrong — a vascular pedicle does not neutralize tension; repairs under tension scar regardless of perfusion."
+  }
+ },
+ {
+  "id": "N-I-21.39",
+  "chapter": "Ch21",
+  "section": "Graft harvest technique",
+  "stem": "When harvesting nerve autograft for a defect, the graft should be taken:",
+  "options": {
+   "A": "Exactly the defect length, since a graft stretches with joint motion once revascularized in its bed",
+   "B": "Twice the defect length, so a second cable can be banked for revision",
+   "C": "5–10% shorter than the defect, because grafts elongate during revascularization",
+   "D": "15–20% longer than the defect, after exploration and neuroma excision define the true gap"
+  },
+  "answer": "D",
+  "exp": "Grafts are **harvested 15–20% longer than the measured defect** so the interposition lies without tension after inevitable elastic recoil, and harvest happens **after exploration and neuroma excision**, because only resection back to healthy, pouting fascicles reveals the true length and caliber to be reconstructed. Cutting the graft to the \"bench\" defect length before excision guarantees it comes up short. Related craft points: grafts are laid as multiple small, thin cables to match stump caliber and to revascularize quickly, and donor nerves are chosen from within the affected extremity through the same incision wherever possible.",
+  "hy": "Harvest autograft 15–20% longer than the defect, and only AFTER neuroma excision defines the real gap.",
+  "src": "Neligan I.21 · Autologous nerve grafting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — grafts recoil rather than stretch; an exact-length graft ends up under tension.",
+   "B": "Wrong — doubling length for a banked spare is not a described practice.",
+   "C": "Wrong — harvesting short in anticipation of elongation inverts the true recommendation.",
+   "D": "Correct — 15–20% extra length, measured against the post-excision defect, gives a tension-free interposition."
+  }
+ },
+ {
+  "id": "N-I-21.40",
+  "chapter": "Ch21",
+  "section": "Graft modality — donor fiber type",
+  "stem": "Experimental grafting studies indicate the best regeneration occurs across which donor graft types, and which two motor grafts cause the least clinical morbidity?",
+  "options": {
+   "A": "Motor grafts exclusively; the posterior interosseous nerve and the spinal accessory nerve",
+   "B": "Sensory grafts; the sural nerve and the medial antebrachial cutaneous nerve carry the least morbidity",
+   "C": "Motor or mixed grafts; the obturator branch to gracilis and the distal anterior interosseous nerve",
+   "D": "Mixed grafts; the superficial branch of the radial nerve and the dorsal cutaneous ulnar branch"
+  },
+  "answer": "C",
+  "exp": "Experimental studies comparing donor types support **motor and mixed nerve grafts as achieving better regeneration across the repair than sensory grafts** — the size and distribution of motor endoneurial tubes better accommodate regenerating motor axons. Donor motor nerves are scarce, and in clinical practice **the branch from the obturator nerve to the gracilis and the distal anterior interosseous nerve are the two motor grafts causing the least morbidity**: the gracilis branch is expendable (at the cost of the gracilis as a future free functional muscle), and the distal AIN has spent its motor duty by the pronator quadratus. This principle also explains the shift away from reflexively using the sural — a sensory graft — for motor-critical reconstructions.",
+  "hy": "Motor/mixed grafts regenerate better than sensory; least-morbid motor donors = obturator branch to gracilis + distal AIN.",
+  "src": "Neligan I.21 · Autologous nerve grafting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — the spinal accessory belongs to nerve-transfer donor lists, and \"motor exclusively\" overstates the finding, which includes mixed grafts.",
+   "B": "Wrong — sensory grafts are the type experimentally outperformed; sural and MABC are the classic sensory donors.",
+   "C": "Correct — motor or mixed grafts do best, and obturator-to-gracilis plus distal AIN are the two least-morbid motor donors.",
+   "D": "Wrong — the superficial radial and dorsal cutaneous ulnar branches are sensory donors, not the evidence-backed pairing."
+  }
+ },
+ {
+  "id": "N-I-21.41",
+  "chapter": "Ch21",
+  "section": "Table 21.3 — donor lengths",
+  "stem": "A brachial plexus reconstruction requires the longest possible single-donor autograft. Which donor provides the greatest harvestable length?",
+  "options": {
+   "A": "Medial antebrachial cutaneous nerve",
+   "B": "Sural nerve",
+   "C": "Dorsal cutaneous branch of the ulnar nerve",
+   "D": "Third webspace branch of the median nerve"
+  },
+  "answer": "B",
+  "exp": "For sheer harvestable length, the **sural nerve provides 30–50 cm** — the longest single donor in the table — with 9–14 fascicles (medial sural 1–3, lateral sural 5–7) at 2.5–4 mm, at the cost of difficult positioning and a second extremity. The **MABC offers up to 28 cm**, the **DCU up to 26 cm**, and the **TWM about 24.5 cm**; the LABC (5–8 cm), PCM (~5.24 cm), and PIN (~2.5 cm) are short-gap donors. Note the chapter's evolution: despite the sural's length, the authors' algorithm has moved away from it, preferring donors within the affected extremity through the same incision — length is only one variable against morbidity, access, and size match.",
+  "hy": "Donor lengths: sural 30–50 cm > MABC ≤28 > DCU ≤26 > TWM 24.5; LABC/PCM/PIN are short-gap donors.",
+  "src": "Neligan I.21 · Table 21.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — the MABC's 28 cm is second-tier; it shines for caliber and morbidity-sparing end-to-side routing, not maximal length.",
+   "B": "Correct — the sural nerve's 30–50 cm is the greatest harvestable length of any listed donor.",
+   "C": "Wrong — the DCU reaches only ~26 cm and is chosen mainly when the ulnar nerve is already injured.",
+   "D": "Wrong — the TWM's 24.5 cm trails the sural by a wide margin."
+  },
+  "exptable": [
+   [
+    "Donor",
+    "Harvestable length",
+    "Fascicles",
+    "Signature point"
+   ],
+   [
+    "Sural",
+    "30–50 cm",
+    "9–14 (MSC 1–3 / LSC 5–7)",
+    "Longest; second extremity, positioning"
+   ],
+   [
+    "MABC",
+    "Up to 28 cm",
+    "7–10",
+    "Larger caliber; end-to-side distal stump to median cuts morbidity"
+   ],
+   [
+    "DCU",
+    "Up to 26 cm",
+    "—",
+    "Use if ulnar nerve already injured, same field"
+   ],
+   [
+    "TWM",
+    "24.5 cm",
+    "2–13",
+    "Noncritical hand sensory loss; volar access"
+   ],
+   [
+    "LABC",
+    "5–8 cm",
+    "4–9",
+    "Digital-nerve size match; forearm scar"
+   ],
+   [
+    "PCM",
+    "Mean 5.24 cm",
+    "—",
+    "Palm sensory loss; volar access"
+   ],
+   [
+    "AIN (distal)",
+    "Short segment",
+    "3–5",
+    "Motor graft, no sensory loss, digital match"
+   ],
+   [
+    "PIN (terminal)",
+    "2.5 cm",
+    "2",
+    "No cutaneous loss; dorsal incision"
+   ],
+   [
+    "Obturator to gracilis",
+    "9.9–13.6 cm",
+    "2–4",
+    "Expendable MOTOR graft; costs future gracilis flap"
+   ]
+  ]
+ },
+ {
+  "id": "N-I-21.42",
+  "chapter": "Ch21",
+  "section": "Table 21.3 — donor selection",
+  "stem": "For a 2-cm digital nerve gap in the index finger, which autograft donor offers a good size match while sparing all cutaneous sensation?",
+  "options": {
+   "A": "Lateral antebrachial cutaneous nerve",
+   "B": "Sural nerve, medial sural component",
+   "C": "Palmar cutaneous branch of the median nerve",
+   "D": "Distal anterior interosseous nerve"
+  },
+  "answer": "D",
+  "exp": "For a short digital nerve gap, the **distal anterior interosseous nerve** offers a **good size match with digital nerves and costs no sensory loss whatsoever** — its price is a deep dissection into pronator quadratus and a short available segment, both acceptable here. The LABC also matches digital caliber well but sacrifices forearm skin sensation (and leaves a visible scar); the PCM numbs the palm; the medial sural component costs lateral foot sensation, a second operative extremity, and repositioning. This is the logic of the authors' donor algorithm in miniature: prefer donors in the same limb, through convenient incisions, whose deficit the patient will never notice.",
+  "hy": "Digital nerve gap: distal AIN = size match + zero cutaneous sensory loss; LABC matches but numbs forearm skin.",
+  "src": "Neligan I.21 · Table 21.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — the LABC is a good size match but sacrifices lateral forearm sensation, failing the \"no sensory loss\" condition.",
+   "B": "Wrong — the sural costs lateral foot sensibility plus positioning and a second extremity for a gap this small.",
+   "C": "Wrong — the PCM leaves a numb patch of palm, a poor trade for an index-finger digital gap.",
+   "D": "Correct — the distal AIN is a pure motor donor with digital-caliber match and no cutaneous sensory deficit."
+  }
+ },
+ {
+  "id": "N-I-21.43",
+  "chapter": "Ch21",
+  "section": "Fresh nerve allografts",
+  "stem": "Fresh nerve allografts from organ donors achieved good functional outcomes over long gaps, yet they are no longer standard practice. What was their principal drawback?",
+  "options": {
+   "A": "The need for about 18 months of systemic immunosuppression",
+   "B": "Universal graft rejection within the first 6 postoperative weeks",
+   "C": "Transmission of donor infection in the majority of recipients",
+   "D": "Central necrosis of any graft thicker than a few millimeters"
+  },
+  "answer": "A",
+  "exp": "Fresh nerve allografts from organ donors achieved good functional outcomes across long gaps — proof that donor nerve tissue can work — but they demanded **systemic immunosuppression for about 18 months**, with all its attendant morbidity, until host axons had traversed and replaced the graft's cellular elements. That trade-off is what killed the technique for routine use and drove development of the **acellular** nerve allograft, which removes the immunogenic cells while retaining the extracellular scaffold, needing no immunosuppression at the cost of losing living Schwann cells. Historical footnote: the first nerve allograft implantation dates to 1870, by Philipeaux and Vulpian.",
+  "hy": "Fresh allograft works but needs ~18 months of systemic immunosuppression — the reason ANAs were developed.",
+  "src": "Neligan I.21 · Nerve allografts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — roughly 18 months of systemic immunosuppression, with significant morbidity, was the principal drawback.",
+   "B": "Wrong — with immunosuppression the grafts were not rejected; outcomes were good, which is what made the trade-off tempting.",
+   "C": "Wrong — donor infection transmission is a theoretical screening issue, not the cited limitation.",
+   "D": "Wrong — central necrosis of thick grafts is the vascular argument concerning autografts and vascularized grafts, not the allograft's flaw."
+  }
+ },
+ {
+  "id": "N-I-21.44",
+  "chapter": "Ch21",
+  "section": "Acellular nerve allograft structure",
+  "stem": "Which structural property explains why an acellular nerve allograft can support host regeneration without immunosuppression?",
+  "options": {
+   "A": "Decellularization retains epineurium, fascicles, endoneurial tubes, and laminin as an inert scaffold",
+   "B": "Gamma irradiation cross-links the donor collagen so that host macrophages cannot present its antigens",
+   "C": "Cryopreservation keeps donor Schwann cells alive while deleting their surface HLA molecules",
+   "D": "Chemical processing replaces the donor matrix with a synthetic laminin-coated polymer lattice"
+  },
+  "answer": "A",
+  "exp": "Decellularization removes the immunogenic cellular material yet **retains the three-dimensional structure of nerve: epineurium, fascicles, endoneurial tubes, and laminin** — an inert, nonimmunogenic scaffold that host axons and **host Schwann cells** repopulate much as they would autologous tissue. This is precisely why ANAs need no immunosuppression (nothing living remains to reject) and why their weakness is the flip side of the same coin: **no Schwann cells** are included, so regeneration depends on host Schwann migration and proliferation — which senesces as graft length grows, capping reliable use at short gaps. Laminin matters mechanistically: it is the basal-lamina glycoprotein along which regenerating axons preferentially extend.",
+  "hy": "ANA = decellularized human nerve: epineurium + fascicles + endoneurial tubes + laminin retained; no cells to reject — and none to help.",
+  "src": "Neligan I.21 · Nerve allografts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — the retained acellular architecture (epineurium, fascicles, endoneurial tubes, laminin) is the basis of its function and tolerance.",
+   "B": "Wrong — irradiation cross-linking is not the described processing, and antigen masking is not the mechanism of ANA tolerance.",
+   "C": "Wrong — preserving living donor Schwann cells describes the FRESH allograft, which is why that option needed immunosuppression.",
+   "D": "Wrong — the matrix is native decellularized tissue, not a synthetic polymer substitute."
+  }
+ },
+ {
+  "id": "N-I-21.45",
+  "chapter": "Ch21",
+  "section": "ANA indications",
+  "stem": "In the authors' practice, an acellular nerve allograft is an appropriate choice for which defect?",
+  "options": {
+   "A": "A 5-cm mixed ulnar nerve gap at the elbow in a young laborer",
+   "B": "A 4-cm defect of the recurrent motor branch of the median nerve",
+   "C": "A 2-cm gap of a noncritical, small-diameter digital sensory nerve",
+   "D": "An 8-cm high median nerve gap when no autograft donor is available"
+  },
+  "answer": "C",
+  "exp": "In the authors' practices ANAs have largely replaced conduits and are appropriate for **small-diameter, noncritical, short (≤3 cm) nerve gaps** — the 2-cm digital sensory gap is the textbook case. They are **never used for large-diameter gaps, motor defects, or long gaps**, where the authors have observed poor outcomes: host Schwann cells must repopulate the scaffold, and ischemia-and-proliferation-induced **Schwann senescence** degrades regeneration as length (allograft >3 cm) and diameter rise — the same reason the 207-graft clinical series found poorer recovery with longer, thicker ANAs. Note the nuance against Table 21.2, which lists the generic ANA length limitation as <5 cm: the authors' operational ceiling is the more conservative ≤3 cm.",
+  "hy": "ANA: small-diameter, noncritical, ≤3 cm (authors) — never motor, never large-diameter, never long.",
+  "src": "Neligan I.21 · Nerve allografts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — a 5-cm mixed ulnar gap is long, large-diameter, and motor-critical: three separate ANA exclusions; it needs autograft.",
+   "B": "Wrong — the recurrent motor branch is a critical MOTOR target, and 4 cm exceeds the authors' ceiling; ANAs are never used for motor defects.",
+   "C": "Correct — a short, small-diameter, noncritical digital sensory gap is exactly the ANA indication.",
+   "D": "Wrong — an 8-cm high median gap fails on length, diameter, and criticality; scarce donors argue for vascularized autograft strategies, not ANA."
+  }
+ },
+ {
+  "id": "N-I-21.46",
+  "chapter": "Ch21",
+  "section": "ANA evidence",
+  "stem": "For a 5-cm mixed high-forearm nerve defect, a colleague proposes a large-diameter acellular allograft, citing \"a 207-graft clinical series validating ANAs.\" What did that series actually demonstrate?",
+  "options": {
+   "A": "Recovery declined with longer graft lengths and increasing graft diameter",
+   "B": "Recovery was better in distal sensory reconstructions and pediatric recipients",
+   "C": "Outcomes were unaffected by the fixation method, whether microsuture or fibrin sealant",
+   "D": "Recovery was poorer when reconstruction was delayed beyond six weeks"
+  },
+  "answer": "A",
+  "exp": "The clinical study of **207 acellular nerve allografts** found **functional recovery poorer for longer graft lengths and increasing graft diameter** — the two variables that strain a scaffold dependent on host Schwann cell ingrowth. Mechanistic work backs this up: axonal regeneration through ANA **decreases with graft length and is inferior to autograft at all lengths**, driven in part by **Schwann cell senescence induced by ischemia and cellular proliferation**; transplanting Schwann cells into an ANA restores regeneration toward isograft levels in the laboratory. Processing also matters — three differently processed ANA models produced different in vivo recovery in rats. Together these data define the ANA's safe envelope (short, thin, noncritical, sensory) and explain every boundary of it.",
+  "hy": "207-ANA series: recovery falls as ANA length and diameter rise — host-Schwann dependence is the ceiling.",
+  "src": "Neligan I.21 · Nerve allografts",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — longer and larger-diameter ANAs recovered worse in the 207-graft clinical study.",
+   "B": "Wrong — distal sensory reconstruction is the ANA's best use, and pediatric outcomes were not the study's finding.",
+   "C": "Wrong — fixation method (suture vs fibrin sealant) was not the outcome-defining variable.",
+   "D": "Wrong — reconstruction delay is a universal prognostic factor but not what this study isolated."
+  }
+ },
+ {
+  "id": "N-I-21.47",
+  "chapter": "Ch21",
+  "section": "Conduit materials",
+  "stem": "Which statement about nerve conduits is correct?",
+  "options": {
+   "A": "Non-degradable silicone guides remain the most widely used conduit material",
+   "B": "Biological conduits must include small-intestine submucosa to conduct axons",
+   "C": "Conduits, like acellular allografts, provide an endoneurial matrix for regenerating axons",
+   "D": "Biodegradable synthetic conduits such as polyglycolic acid are in current use"
+  },
+  "answer": "D",
+  "exp": "**Biodegradable synthetic conduits such as polyglycolic acid are currently used, while non-degradable silicone guides have fallen out of favor** — a permanent tube around a repair is retained foreign material that can cause chronic inflammatory reaction and excessive scarring, the major disadvantage of conduits generally. Biological conduits — bone, artery, collagen, vein, muscle, small-intestine submucosa — have all been used. The niche is narrow either way: **noncritical, small-diameter sensory defects under 3 cm**, where protective and sometimes good sensation can be restored. Conduits for major nerve gaps have been described but abandoned given the demonstrated superiority of grafting; and as wraps at a primary repair they lack clinical-efficacy literature and can cause neuropathic pain if applied tightly.",
+  "hy": "Conduits today: biodegradable synthetics (PGA) in use, silicone abandoned; niche = noncritical sensory gaps <3 cm.",
+  "src": "Neligan I.21 · Nerve conduits",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — silicone's non-degradable permanence is exactly why it fell out of favor.",
+   "B": "Wrong — SIS is merely one biological option among bone, artery, collagen, vein, and muscle.",
+   "C": "Wrong — a conduit has neither Schwann cells nor matrix; the retained endoneurial-tube matrix is the acellular allograft's property.",
+   "D": "Correct — biodegradable synthetics such as polyglycolic acid are the conduits in current use."
+  }
+ },
+ {
+  "id": "N-I-21.48",
+  "chapter": "Ch21",
+  "section": "Conduit technique",
+  "stem": "When a conduit is chosen for a short digital nerve gap, the chapter recommends placing a small portion of the proximal nerve inside the conduit. What is the rationale?",
+  "options": {
+   "A": "It serves as a source of Schwann cells for the regenerating axons",
+   "B": "It anchors the conduit mechanically and prevents extrusion during early motion",
+   "C": "It seals the conduit lumen against ingrowth of scar fibroblasts",
+   "D": "It doubles the axonal cross-section available for regeneration"
+  },
+  "answer": "A",
+  "exp": "When a conduit is used, the chapter recommends **placing a small portion of the proximal nerve into the conduit to serve as a source of Schwann cells** — the conduit's central deficiency is that it contains **no Schwann cells and no matrix**, so seeding it with native nerve tissue gives the regenerating front cellular support it would otherwise lack. This is the same principle that ranks the gap options: autograft (cells + matrix) > ANA (matrix, no cells) > conduit (neither), with recovery expectations descending in step. Related technical caveats: conduits may also be used as wraps to prevent axonal escape at a coaptation, but tight wraps cause neuropathic pain and incomplete regeneration, and clinical-efficacy data are lacking.",
+  "hy": "Conduit trick: inset a sliver of proximal nerve — it donates Schwann cells to a tube that has none.",
+  "src": "Neligan I.21 · Nerve conduits",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — the inset nerve portion functions as a Schwann cell source for axons traversing the conduit.",
+   "B": "Wrong — anchorage against extrusion is not the stated rationale.",
+   "C": "Wrong — the maneuver adds cellular support; it does not seal the lumen against fibroblasts.",
+   "D": "Wrong — a small nerve sliver does not double the axonal cross-section; its value is biological, not geometric."
+  }
+ },
+ {
+  "id": "N-I-21.49",
+  "chapter": "Ch21",
+  "section": "Evidence for nerve transfers",
+  "stem": "In 2011, Garg et al. pooled international outcome data on upper brachial plexus injuries. What did this systematic analysis demonstrate?",
+  "options": {
+   "A": "Tendon transfers outperformed all nerve-based reconstruction strategies in adults",
+   "B": "Nerve grafting and nerve transfers achieved statistically equal outcomes",
+   "C": "Outcomes depended only on patient age, not on reconstructive method",
+   "D": "Nerve transfers were strongly superior to nerve grafting in these injuries"
+  },
+  "answer": "D",
+  "exp": "Garg et al. (2011) performed a **systematic analysis of pooled international data in upper brachial plexus injuries and demonstrated that nerve transfers were strongly superior to nerve grafting** — a landmark result that consolidated the paradigm shift of the past decade toward transfers. The mechanistic case: a transfer converts a proximal, high-level injury into a distal one, placing a single tension-free coaptation close to the target muscle, outside the zone of injury, so reinnervation beats the endplate clock that long proximal grafts routinely lose. For upper plexus palsy this means, for example, reanimating elbow flexion and shoulder function through distal donor fascicles rather than grafting from the injured roots across long distances.",
+  "hy": "Garg 2011, pooled international data: nerve transfers strongly superior to grafting in upper brachial plexus injury.",
+  "src": "Neligan I.21 · Nerve transfers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — tendon transfers were not the comparator; the analysis pitted nerve transfers against nerve grafting.",
+   "B": "Wrong — equivalence is the opposite of the reported result; transfers were strongly superior.",
+   "C": "Wrong — age is a powerful prognostic factor generally, but the study's finding was about reconstructive method.",
+   "D": "Correct — nerve transfers strongly outperformed grafting in upper plexus injuries in the pooled analysis."
+  }
+ },
+ {
+  "id": "N-I-21.50",
+  "chapter": "Ch21",
+  "section": "Rationale of nerve transfers",
+  "stem": "Why does a distal nerve transfer improve the prospects of functional recovery in a HIGH median nerve injury?",
+  "options": {
+   "A": "It converts a proximal injury into a distal one, shortening regeneration distance to the endplates",
+   "B": "It doubles the axonal count crossing the original injury zone before atrophy begins",
+   "C": "It removes the need for motor re-education because the donor is always synergistic",
+   "D": "It allows the proximal repair to be skipped entirely, avoiding any dissection within the zone of scar"
+  },
+  "answer": "A",
+  "exp": "A distal nerve transfer **converts a proximal, high-level injury into a low-level one**: expendable donor fascicles **outside the zone of injury** are coapted to the recipient nerve **close to its target muscles**, so regenerating axons cross one neurorrhaphy and a short distance instead of the whole limb. In a high median nerve palsy this is decisive for hand function — axons regrowing from the elbow at 1 mm/day would spend a year or more reaching the thenar musculature, arriving after irreversible atrophy has begun, whereas a distal transfer reinnervates within months. The additional advantages: surgery in unscarred tissue, a single coaptation (each repair site costs fibers), and preserved muscle-tendon architecture.",
+  "hy": "Distal transfer = high-level injury converted to low-level: one coaptation, near the target, outside the zone of injury.",
+  "src": "Neligan I.21 · Nerve transfers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — shortening the regeneration distance by converting proximal to distal injury is the core rationale.",
+   "B": "Wrong — the transfer bypasses the injury zone entirely rather than boosting axon counts across it.",
+   "C": "Wrong — motor re-education is still required; synergistic donors merely ease it.",
+   "D": "Wrong — the proximal injury may still be repaired when indicated; avoiding scar dissection is a benefit, not the mechanism of earlier recovery."
+  }
+ },
+ {
+  "id": "N-I-21.51",
+  "chapter": "Ch21",
+  "section": "Nerve vs tendon transfer",
+  "stem": "Which advantage belongs to a NERVE transfer rather than a tendon transfer?",
+  "options": {
+   "A": "Recovery is independent of the time elapsed since the original injury",
+   "B": "The final result does not depend on any postoperative therapy or motor re-education",
+   "C": "One transfer can restore several muscles, with insertions left undisturbed",
+   "D": "Function returns immediately, since the muscle-tendon unit is untouched"
+  },
+  "answer": "C",
+  "exp": "The chapter lists three advantages of nerve transfer over tendon transfer: **(1) nerve transfers can restore sensibility in addition to motor function; (2) a nerve innervating multiple muscle groups can be restored with a single transfer; and (3) the muscle's insertion and attachments are not disrupted, so original function and tension are maintained**. Tendon transfers, by contrast, are bound to the amplitude and excursion of the muscle-tendon unit, serve one function along a straight line of pull, and require detaching and rerouting insertions. The trade-offs run the other way too — transfers need an expendable donor, topographic knowledge, and motor/sensory re-education (eased by synergistic donors and the donor-activation focused rehabilitation protocol), and their results take months while a tendon transfer works as soon as it heals.",
+  "hy": "Nerve > tendon transfer: restores sensation too, one donor can drive several muscles, insertions stay untouched.",
+  "src": "Neligan I.21 · Nerve transfers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — time-independence describes tendon transfers, usable at any stage; nerve transfers race the denervation clock.",
+   "B": "Wrong — nerve transfers demand motor re-education; the donor-activation protocol exists precisely for this.",
+   "C": "Correct — multi-muscle reinnervation with undisturbed insertions is among the listed advantages of nerve transfer.",
+   "D": "Wrong — immediate function belongs to tendon transfers; nerve transfers await axonal regrowth to the endplates."
+  }
+ },
+ {
+  "id": "N-I-21.52",
+  "chapter": "Ch21",
+  "section": "End-to-side transfers",
+  "stem": "For which deficit is a conventional end-to-side nerve transfer an acceptable option, and why?",
+  "options": {
+   "A": "A critical motor deficit, because motor axons sprout spontaneously into the side graft within weeks",
+   "B": "A proximal mixed nerve deficit, because both fiber types regenerate along the epineurium",
+   "C": "Any deficit under 3 cm, because short distances favor collateral sprouting of all fibers",
+   "D": "A noncritical sensory deficit, because sensory axons sprout spontaneously from an intact donor"
+  },
+  "answer": "D",
+  "exp": "Conventional **end-to-side transfer is acceptable for noncritical SENSORY deficits, because sensory axons sprout spontaneously** from an intact donor nerve into the attached recipient. **Motor axons do not spontaneously collaterally sprout — regenerative motor sprouting requires axonal injury proximal to the repair** (the basis of donor neurectomy in motor end-to-side, and of the deliberately injured donor in the supercharge reverse configuration). Hence the option grid of Table 21.2: end-to-side has no length limitation but poor sensory results and motor recovery only with donor neurectomy; its practical role is restoring protective sensation where sacrificing a donor end-to-end is not justified.",
+  "hy": "End-to-side: sensory axons sprout spontaneously (noncritical sensory OK); motor axons need proximal injury — no spontaneous motor sprouting.",
+  "src": "Neligan I.21 · Nerve transfers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — motor axons are exactly the fibers that will not sprout into a side coaptation without proximal donor injury.",
+   "B": "Wrong — proximal mixed deficits are critical targets needing end-to-end strategies, and epineurial \"travel\" is not a sprouting mechanism.",
+   "C": "Wrong — no 3-cm rule governs end-to-side physiology; fiber type, not distance, is the determinant.",
+   "D": "Correct — noncritical sensory deficits can be served end-to-side because sensory sprouting is spontaneous."
+  }
+ },
+ {
+  "id": "N-I-21.53",
+  "chapter": "Ch21",
+  "section": "Supercharge end-to-side (SETS)",
+  "stem": "A patient with severe cubital tunnel syndrome shows dense intrinsic weakness but some anticipated capacity for proximal recovery. Which transfer supports the intrinsic muscles while the native ulnar axons regrow?",
+  "options": {
+   "A": "End-to-end transfer of the entire anterior interosseous nerve into the ulnar nerve proper",
+   "B": "Reverse transfer of the ulnar motor branch end-to-side into the median nerve trunk",
+   "C": "Distal anterior interosseous nerve transferred end-to-side to the ulnar motor branch",
+   "D": "Third-webspace sensory fascicle transferred end-to-end to the first dorsal interosseous"
+  },
+  "answer": "C",
+  "exp": "This is the **supercharge end-to-side (SETS) transfer: the distal anterior interosseous nerve is coapted end-to-side to the ulnar motor branch**, delivering motor axons to the intrinsics early **while the native ulnar axons regenerate from the proximal injury** — \"babysitting\" the motor endplates through the long wait. It is applied in **severe cubital tunnel syndrome or high ulnar nerve injury where some proximal recovery is anticipated**, i.e., proximal Sunderland second- and third-degree injuries whose regeneration distance would otherwise outlast the endplates. In the algorithm, SETS is triggered by electrodiagnostic patterns of severe axonotmesis (fibrillations with reduced/absent MUPs but a recoverable pathway). The AIN is expendable after its pronator quadratus duty and sits adjacent to the ulnar motor fascicles at the distal forearm.",
+  "hy": "SETS = distal AIN end-to-side to ulnar motor branch — early intrinsic reinnervation while proximal ulnar axons regrow.",
+  "src": "Neligan I.21 · Nerve transfers",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — sacrificing the entire AIN end-to-end forfeits the native ulnar recovery this technique is designed to preserve.",
+   "B": "Wrong — reversing donor and recipient describes no useful configuration here; the ulnar motor branch is the RECIPIENT.",
+   "C": "Correct — distal AIN transferred end-to-side (supercharge) to the ulnar motor branch is the SETS procedure for this scenario.",
+   "D": "Wrong — a sensory fascicle cannot reinnervate the first dorsal interosseous; motor support requires a motor donor."
+  },
+  "expimage": "images/N-I-21-53.jpg",
+  "expimgcap": "Algorithm for incorporating nerve transfers into management of nerve injury, driven by electrodiagnostic findings"
+ },
+ {
+  "id": "N-I-21.54",
+  "chapter": "Ch21",
+  "section": "Algorithm 21.3 — EDX-guided surgery",
+  "stem": "Following Algorithm 21.3, a closed injury shows NO motor unit potentials at 4 months despite fibrillations and positive sharp waves. Which reconstruction does the algorithm direct?",
+  "options": {
+   "A": "Decompression alone, with repeat electrodiagnostic studies after 2 further months",
+   "B": "Supercharge end-to-side transfer, preserving the native pathway",
+   "C": "No surgery; serial clinical examination until 6 months post-injury",
+   "D": "End-to-end nerve transfer or nerve grafting for a neurotmetic injury"
+  },
+  "answer": "D",
+  "exp": "In Algorithm 21.3, fibrillations and positive sharp waves with **NO motor unit potentials at 4 months** classify the lesion as **neurotmetic (Sunderland IV–V)** — a neuroma-in-continuity or transection across which no reinnervation is occurring — and the algorithm directs **end-to-end nerve transfer or nerve grafting**. Contrast the neighboring branches: MUPs present at 3 months → at worst axonotmesis, follow recovery at 6 months (decompression ± SETS if recovery lags); severe axonotmesis with poor intraoperative stimulation → SETS transfer preserving the native pathway. The supercharge option disappears once the lesion is neurotmetic because there is no recovering native pathway left to supplement — reconstruction must replace it outright.",
+  "hy": "Algorithm 21.3: fibs + no MUPs at 4 months = neurotmesis (IV–V) → end-to-end transfer or graft; SETS is only for recoverable axonotmesis.",
+  "src": "Neligan I.21 · Nerve transfers — Algorithm 21.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — repeat studies after 2 further months belong to earlier, indeterminate branches; at 4 months without MUPs the diagnosis is made.",
+   "B": "Wrong — SETS augments a pathway expected to recover; a neurotmetic lesion has none, so supercharging is futile.",
+   "C": "Wrong — continued observation forfeits endplate survival when the algorithm has already declared surgical disease.",
+   "D": "Correct — neurotmesis (IV–V) on this electrodiagnostic pattern is reconstructed by end-to-end transfer or grafting."
+  },
+  "expimage": "images/N-I-21-54.jpg",
+  "expimgcap": "Algorithm 21.3 — the EDX-driven choice among no surgery, decompression, SETS, and end-to-end transfer/graft"
+ },
+ {
+  "id": "N-I-21.55",
+  "chapter": "Ch21",
+  "section": "FK506",
+  "stem": "FK506 accelerates the rate of axonal outgrowth in animal models, yet it is not used systemically for human nerve repair. Which statement about this agent is correct?",
+  "options": {
+   "A": "It is a calcineurin inhibitor whose systemic toxicity limits human use; local delivery matched systemic effect in rat allografts",
+   "B": "It is a mTOR inhibitor that failed to improve regeneration in any animal model despite its favorable systemic safety profile in transplant patients",
+   "C": "It is a calcium channel blocker abandoned because locally delivered drug caused more neural fibrosis than the systemic formulation ever did",
+   "D": "It is an interleukin-2 agonist that improves regeneration only when infused continuously with a permanent implanted intraneural catheter"
+  },
+  "answer": "A",
+  "exp": "**FK506 (tacrolimus) is a calcineurin inhibitor and immunosuppressant that produces a robust increase in the RATE of axonal outgrowth in animals**; systemic use for nerve repair is blocked by **immunosuppressive toxicity**, but **local delivery to nerve allografts in rats improved motor and sensory regeneration equivalently to systemic administration** — the proof-of-concept for depot or carrier-based local delivery. Its neuro-regenerative action is separable from immunosuppression (signaling via FKBP proteins on the growth machinery), which is why sub-immunosuppressive local dosing is plausible. Among the chapter's adjuncts it is the pharmacologic acceleration strategy, alongside the physical one (postoperative electrical stimulation) and the anti-degeneration one (PEG fusion).",
+  "hy": "FK506: calcineurin-inhibitor immunosuppressant that speeds axonal outgrowth; local = systemic efficacy in rat allografts.",
+  "src": "Neligan I.21 · Bioengineering and adjunctive therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — calcineurin inhibitor, systemic toxicity limits human use, and local delivery matched systemic effect in rat allograft models.",
+   "B": "Wrong — mTOR inhibition describes sirolimus, and FK506's animal data are strongly positive, not negative.",
+   "C": "Wrong — FK506 is not a calcium channel blocker, and local delivery improved rather than worsened outcomes.",
+   "D": "Wrong — an IL-2 agonist is the pharmacologic opposite of FK506's action (it blocks IL-2 transcription), and no catheter requirement exists."
+  }
+ },
+ {
+  "id": "N-I-21.56",
+  "chapter": "Ch21",
+  "section": "PEG fusion",
+  "stem": "Polyethylene glycol (PEG) fusion is under investigation as an adjunct to acute nerve repair. What is its proposed mechanism?",
+  "options": {
+   "A": "It polymerizes into a microporous scaffold that mechanically guides axons across the repair site",
+   "B": "It chelates intraneural calcium so that the repair remains electrically silent while healing",
+   "C": "It removes free water around the coaptation, preventing the onset of Wallerian degeneration",
+   "D": "It stimulates Schwann cell mitosis, doubling the rate of remyelination across the neurorrhaphy site"
+  },
+  "answer": "C",
+  "exp": "PEG fusion targets the moment of transection: first a **calcium-free solution keeps the cut axonal ends open** (calcium influx normally triggers sealing), then **polyethylene glycol removes the free water around the neurorrhaphy**, allowing axolemmal membranes to fuse — **preventing the onset of Wallerian degeneration** and producing electrical continuity at once; rat sciatic repairs showed **measurable CMAP amplitudes immediately after repair** and better functional indices at 3 and 7 days than controls. Caveats: fusion may bypass the **trophic guidance cues** that steer regenerating axons to correct targets in mixed nerves, and the technique is **time-sensitive** after injury; clinical trials are underway. It is the only strategy in the chapter aimed at abolishing, rather than accelerating recovery from, Wallerian degeneration.",
+  "hy": "PEG fusion: calcium-free solution + PEG dehydration fuses axolemmas — Wallerian degeneration prevented, CMAP immediate; time-sensitive.",
+  "src": "Neligan I.21 · Bioengineering and adjunctive therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — PEG acts by membrane fusion chemistry, not as a scaffold; scaffolds populated with Schwann cells are a separate bioengineering line.",
+   "B": "Wrong — the calcium-free step keeps axon ends open; the goal is immediate conduction, not electrical silence.",
+   "C": "Correct — dehydrating the coaptation microenvironment fuses the membranes and prevents Wallerian degeneration from starting.",
+   "D": "Wrong — Schwann cell mitosis and remyelination rates are the target of electrical stimulation and FK506 research, not of PEG."
+  }
+ },
+ {
+  "id": "N-I-21.57",
+  "chapter": "Ch21",
+  "section": "Postoperative electrical stimulation",
+  "stem": "After a microsurgical digital nerve repair, a unit wishes to add the chapter's trial-proven adjunct to improve functional recovery. Which protocol carries that clinical-trial support?",
+  "options": {
+   "A": "One hour of low-frequency electrical stimulation after surgery",
+   "B": "Six weeks of daily transcutaneous high-frequency stimulation",
+   "C": "Continuous implanted stimulation until motor units reappear",
+   "D": "Preoperative conditioning stimulation for one week before repair"
+  },
+  "answer": "A",
+  "exp": "In randomized clinical trials of **digital nerve laceration** and **cubital tunnel syndrome**, patients receiving **1 hour of postoperative low-frequency electrical stimulation** had better functional recovery than with conventional surgery alone. Mechanism: brief low-frequency stimulation of the injured nerve **upregulates neurotrophins and regeneration-associated genes**, improving both the **speed and the accuracy** of regeneration across the repair site. The dose is counterintuitive and testable — a single perioperative hour, not weeks of therapy — and ongoing work explores new stimulation paradigms and delivery devices to push clinical translation. Among adjuncts, this one already has human trial evidence in two distinct settings, which distinguishes it from FK506 (animal data) and PEG fusion (trials underway).",
+  "hy": "One hour of low-frequency postoperative e-stim → better recovery (digital nerve + cubital tunnel RCTs); upregulates neurotrophins/RAGs.",
+  "src": "Neligan I.21 · Bioengineering and adjunctive therapies",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — a single postoperative hour of low-frequency stimulation improved recovery in both trials.",
+   "B": "Wrong — weeks of daily high-frequency TENS is not the studied protocol.",
+   "C": "Wrong — no implanted continuous stimulation was used; the effect came from one brief session.",
+   "D": "Wrong — the trials stimulated after surgery, not as preoperative conditioning."
+  }
+ },
+ {
+  "id": "N-I-21.58",
+  "chapter": "Ch21",
+  "section": "Postoperative mobilization",
+  "stem": "After a tension-free primary neurorrhaphy verified through a full arc of motion in the operating room, what postoperative regimen do the authors use?",
+  "options": {
+   "A": "Rigid splinting for 6 weeks to protect the coaptation from any tendon or joint excursion",
+   "B": "Immediate unrestricted active motion, since the repair was tension-free",
+   "C": "Continuous passive motion begun in the recovery room to prevent adhesion formation",
+   "D": "Immobilization up to 7 days, with protected range of motion started within 72 hours"
+  },
+  "answer": "D",
+  "exp": "After a verified tension-free repair — the extremity having been taken through a **full arc of motion in the operating room** to confirm stability — no immobilization is theoretically required, but **the authors immobilize for up to 7 days** to protect the coaptation as proximal axons cross, **starting protected range of motion within 72 hours for most patients**. The rationale for early motion is neural: **gliding prevents the nerve scarring to its bed**, and prolonged immobilization produces exactly the adhesions and stiffness the repair was designed to avoid. When concomitant injuries coexist, the structure needing more protection dictates the protocol (flexor tendons in zone 2; bony fixation with fractures).",
+  "hy": "Tension-free repair: immobilize ≤7 days, protected ROM from within 72 h — motion preserves gliding, immobility breeds scar.",
+  "src": "Neligan I.21 · Postoperative care",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — 6 weeks of rigid splinting is a fracture or tendon-protection timescale that would scar the nerve to its bed.",
+   "B": "Wrong — even a tension-free repair gets up to 7 days of protection before unrestricted motion; \"immediate unrestricted\" overshoots the protocol.",
+   "C": "Wrong — recovery-room continuous passive motion is not the described regimen; protection precedes protected motion.",
+   "D": "Correct — up to 7 days of immobilization with protected range of motion started within 72 hours is the authors' strategy."
+  }
+ },
+ {
+  "id": "N-I-21.59",
+  "chapter": "Ch21",
+  "section": "Competing rehabilitation protocols",
+  "stem": "In a zone 2 volar finger injury with both digital nerves and both flexor tendons repaired, which rehabilitation principle applies?",
+  "options": {
+   "A": "The flexor tendon protocol takes precedence; the nerves can be readdressed later if needed",
+   "B": "The nerve repair dictates the therapy, since early neural gliding prevents painful neuroma formation",
+   "C": "Both structures are immobilized for 6 weeks to protect the two repairs equally",
+   "D": "Early passive extension splinting is chosen to protect the neurorrhaphies from stretch"
+  },
+  "answer": "A",
+  "exp": "When nerve and tendon repairs share a finger, **the injury requiring more protective therapy dictates the protocol — in a zone 2 volar finger injury the flexor tendon rehabilitation protocol takes precedence, and the nerves can be readdressed at a later time if necessary**. Zone 2 (from the A1 pulley to the FDS insertion — historically \"no man's land\") is where flexor tendon repairs live or die by their motion protocol, adhesions being the enemy; a digital nerve repair, by contrast, tolerates the tendon-driven regimen and can be revised or reconstructed later if it fails. The same hierarchy applies to fractures: bony fixation takes precedence over nerve and soft-tissue rehabilitation demands.",
+  "hy": "Zone 2 combined injury: flexor tendon protocol rules the rehab; the nerve repair is the revisable partner.",
+  "src": "Neligan I.21 · Postoperative care",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — the flexor tendon protocol takes precedence, with the nerve readdressed later if needed.",
+   "B": "Wrong — neural gliding matters, but the tendon's adhesion risk is the greater rehabilitation master in zone 2.",
+   "C": "Wrong — six weeks of immobilization would doom the tendon repair to adhesions and the finger to stiffness.",
+   "D": "Wrong — extension splinting protects neither structure here and contradicts the flexor protocol's controlled motion."
+  }
+ },
+ {
+  "id": "N-I-21.60",
+  "chapter": "Ch21",
+  "section": "Postoperative neuropathic pain",
+  "stem": "Six weeks after median nerve grafting, a patient reports burning, shooting pain extending beyond the zone of injury. First-line pharmacologic control should be:",
+  "options": {
+   "A": "Long-acting opioids scheduled around the clock until regrowth is complete",
+   "B": "High-dose NSAIDs targeting the inflammatory phase of nerve regeneration",
+   "C": "Neurotropic medication such as nortriptyline or pregabalin",
+   "D": "A short course of systemic corticosteroids to reduce intraneural edema"
+  },
+  "answer": "C",
+  "exp": "Postoperative neuropathic symptoms — paresthesia, burning, shooting pain, often extending beyond the zone of injury — are mostly controlled with **neurotropic medications such as nortriptyline or pregabalin**. Nortriptyline is a tricyclic antidepressant (noradrenergic reuptake inhibition dampening central pain amplification); pregabalin is a gabapentinoid binding the α2δ subunit of voltage-gated calcium channels to reduce excitatory neurotransmitter release. Severe recovering-nerve pain may still need narcotics, neuroleptics, and a pain specialist, within a **multimodality approach** — relaxation techniques, meditation, exercise, psychotherapy — and active treatment of anxiety and depression, because pain control demonstrably affects final outcome. Opioids are rescue therapy here, not first-line, and NSAIDs and steroids do not address neuropathic mechanisms.",
+  "hy": "First-line for post-repair neuropathic pain: nortriptyline or pregabalin, inside a multimodal program; escalate to pain specialist if severe.",
+  "src": "Neligan I.21 · Postoperative care",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — scheduled long-acting opioids are reserved for severe refractory pain with specialist involvement, not first-line neuropathic control.",
+   "B": "Wrong — NSAIDs target inflammatory nociception, not the ectopic firing of regenerating axons.",
+   "C": "Correct — neurotropic agents (nortriptyline, pregabalin) are the described first-line pharmacotherapy.",
+   "D": "Wrong — systemic corticosteroids have no described role in postoperative neuropathic pain after nerve repair."
+  }
+ },
+ {
+  "id": "N-I-21.61",
+  "chapter": "Ch21",
+  "section": "Prognostic factors",
+  "stem": "Which patient-related factor MOST strongly predicts the outcome of a peripheral nerve repair?",
+  "options": {
+   "A": "Age, through shorter regeneration distances and greater brain plasticity in children",
+   "B": "Sex, through hormonal modulation of Schwann cell proliferation rates in adult patients",
+   "C": "Body mass index, through the depth of the surgical dissection required",
+   "D": "Smoking status, through microvascular compromise of the coaptation site"
+  },
+  "answer": "A",
+  "exp": "**Age is the most predominant patient-related factor**: children and young adults achieve better sensory and motor results after nerve repair, first because **smaller body size means the 1 mm/day regeneration rate reaches the motor endplates sooner**, and second because of **faster, more adaptable brain plasticity** — the central remapping that turns regrown axons into usable function. Medical comorbidities such as **diabetes and peripheral vascular disease** may also adversely affect recovery, but they rank behind age. The other determinant families are injury-related (proximal mixed injuries and crush/avulsion do worse than distal sharp transections) and repair-related (timing, tension, alignment, scarring) — the full prognostic triad the chapter organizes.",
+  "hy": "Age dominates prognosis: shorter distance to endplates + superior plasticity; diabetes/PVD are secondary adverse factors.",
+  "src": "Neligan I.21 · Prognosis and outcomes",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Correct — age, via regeneration distance and plasticity, is the predominant patient-related factor.",
+   "B": "Wrong — sex-hormone modulation of Schwann biology is not among the chapter's prognostic factors.",
+   "C": "Wrong — body mass index and dissection depth are not described determinants of nerve recovery.",
+   "D": "Wrong — smoking harms many reconstructions, but the chapter's listed comorbidities here are diabetes and peripheral vascular disease."
+  }
+ },
+ {
+  "id": "N-I-21.62",
+  "chapter": "Ch21",
+  "section": "Role of tendon transfers",
+  "stem": "For which patient is a tendon transfer the standard of care rather than a nerve-based reconstruction?",
+  "options": {
+   "A": "A young patient presenting within days of a sharp, distal, single-nerve transection injury",
+   "B": "Any patient whose injury involves the brachial plexus rather than a single nerve",
+   "C": "A child under 10, in whom donor nerves are too small to permit safe coaptation",
+   "D": "A patient unable to comply with transfer rehabilitation or unfit for lengthy grafting"
+  },
+  "answer": "D",
+  "exp": "**Tendon transfers remain the standard of care for patients who are not good candidates for lengthy nerve grafting procedures or who cannot comply or cooperate with nerve-transfer rehabilitation** — and they carry unique advantages: they can be performed **at any stage, without the time constraints** that govern nerve reconstruction (no endplate clock), and certain sets, such as the **radial nerve tendon transfers, give very reliable outcomes with quicker return to activity** than nerve transfers. In the broader algorithm they also serve as augmentation after nerve surgery (with joint arthrodesis) and as salvage when grafting fails beyond the reinnervation window. The trade-offs mirror N-I-21.51's list in reverse: one function per transfer, excursion-limited, insertions rerouted, no sensory restoration.",
+  "hy": "Tendon transfer: no time limit, reliable (classically for radial nerve palsy) — standard of care for the noncompliant or graft-unfit patient.",
+  "src": "Neligan I.21 · Secondary procedures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "why": {
+   "A": "Wrong — a fresh, sharp, distal single-nerve transection is the ideal case for primary neurorrhaphy, not tendon transfer.",
+   "B": "Wrong — plexus injury usually demands nerve-based strategies first; transfers of tendons complement rather than replace them.",
+   "C": "Wrong — no pediatric size barrier to nerve surgery is described; children are in fact the best nerve-repair candidates.",
+   "D": "Correct — inability to comply with transfer rehabilitation or unfitness for lengthy grafting makes tendon transfer the standard of care."
+  }
+ },
+ {
+  "id": "N-I-21.63",
+  "chapter": "Ch21",
+  "section": "Figure — neuroma-in-continuity",
+  "stem": "Eight months after a deep palmar crush injury, a patient with no recovery of median-innervated hand function undergoes exploration, with the finding shown. Intraoperative stimulation across the segment evokes no distal response. What is the next step?",
+  "options": {
+   "A": "External neurolysis alone, preserving the bulbous segment in continuity",
+   "B": "Excision of the lesion to healthy fascicles with interpositional cable grafts",
+   "C": "Supercharge end-to-side anterior interosseous nerve transfer distal to the lesion",
+   "D": "Wrapping the segment in a conduit to prevent further axonal escape"
+  },
+  "answer": "B",
+  "exp": "The finding is a **neuroma-in-continuity of the median nerve** at the carpal tunnel — a fusiform scarred segment after crush injury — and the physiology is already declared: eight months without recovery and **no response to stimulation across the segment** marks a **fourth-degree (Sunderland) injury**, a complete intraneural scar block that will never conduct. The operation is **excision of the neuroma back to healthy, pouting fascicles in both directions and reconstruction of the resulting gap** — here achieved with **interpositional cable grafting** (in the source case, medial antebrachial cutaneous nerve cables). Neurolysis cannot help a lesion with no conducting fascicles, and a wrap treats only axonal escape at a repair. Had stimulation shown conduction across the segment, the calculus would reverse toward neurolysis and protection of recovering fascicles.",
+  "hy": "Neuroma-in-continuity + no conduction across = 4th-degree scar block → excise to healthy fascicles + cable graft.",
+  "src": "Neligan I.21 · Autologous nerve grafting — Fig 21.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "image": "images/N-I-21-63.jpg",
+  "imgcap": "Intraoperative view of the median nerve at the level of the carpal tunnel",
+  "why": {
+   "A": "Wrong — external neurolysis suits a conducting nerve tethered in scar; a silent fourth-degree block has nothing to free.",
+   "B": "Correct — a non-conducting neuroma-in-continuity is excised to healthy fascicles and the gap cable-grafted.",
+   "C": "Wrong — SETS supplements a pathway with expected recovery; this segment has none, so distal supercharging alone abandons the median territory.",
+   "D": "Wrong — conduit wrapping prevents axonal escape at a coaptation; it does not treat an established scar block."
+  },
+  "expimage": "images/N-I-21-63-graft.jpg",
+  "expimgcap": "The same nerve after neuroma excision and interpositional cable grafting with a donor cutaneous nerve"
+ },
+ {
+  "id": "N-I-21.64",
+  "chapter": "Ch21",
+  "section": "Figure — digital nerve reconstruction",
+  "stem": "The patient shown presented with painful bilateral digital nerve neuromas; the neuromas were resected and reconstructed as pictured, with the implanted material chosen to match the caliber of each injured nerve. Which statement about this reconstruction is correct?",
+  "options": {
+   "A": "The graft is a processed human nerve scaffold that depends on ingrowth of host Schwann cells",
+   "B": "The graft carries living donor Schwann cells and therefore demands systemic immunosuppression",
+   "C": "The graft is a synthetic polyglycolic acid tube that hydrolyzes within several months",
+   "D": "The graft is a vascularized autograft perfused through a microsurgical anastomosis"
+  },
+  "answer": "A",
+  "exp": "The white tubular implants bridging the digital nerve defects after neuroma resection are **acellular (processed) nerve allografts** — decellularized human nerve retaining epineurium, fascicles, endoneurial tubes, and laminin, chosen in **differing diameters to match the caliber of each injured nerve**. Their defining dependence: **no Schwann cells are included, so regeneration relies on ingrowth of host Schwann cells**, which is why they serve small-diameter, noncritical, short (≤3 cm) sensory gaps like these and why performance decays with length and diameter. No immunosuppression is needed (nothing cellular remains to reject), distinguishing them from fresh allografts; and their off-the-shelf availability spares a donor site — the practical reason they have largely replaced conduits in the authors' practice.",
+  "hy": "Off-the-shelf digital nerve reconstruction = ANA: matched-caliber acellular scaffolds, host Schwann-dependent, no immunosuppression.",
+  "src": "Neligan I.21 · Nerve allografts — Fig 21.5",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "image": "images/N-I-21-64.jpg",
+  "imgcap": "Digital nerve reconstruction after neuroma resection",
+  "why": {
+   "A": "Correct — processed acellular human nerve scaffolds depend entirely on host Schwann cell repopulation.",
+   "B": "Wrong — living donor Schwann cells belong to FRESH allografts, the variant that required ~18 months of immunosuppression.",
+   "C": "Wrong — polyglycolic acid tubes are hollow conduits; the pictured grafts are structured nerve tissue placed as caliber-matched segments.",
+   "D": "Wrong — vascularized autografts need microvascular anastomoses and a donor site; these implants are avascular off-the-shelf scaffolds."
+  }
+ },
+ {
+  "id": "N-I-21.65",
+  "chapter": "Ch21",
+  "section": "Figure — coaptation techniques",
+  "stem": "Two repair techniques of a transected peripheral nerve are shown. Compared with the technique in the UPPER panel, the technique in the lower panel:",
+  "options": {
+   "A": "Is proven clinically superior for major mixed nerves because the larger fascicular groups are aligned directly under vision",
+   "B": "Avoids intraneural dissection entirely, so it is preferred whenever the epineurium remains intact",
+   "C": "Risks increased fibrosis from dissection and permanent intraneural stitches, without proven clinical superiority",
+   "D": "Requires systemic immunosuppression because the perineurial blood–nerve barrier is opened"
+  },
+  "answer": "C",
+  "exp": "The upper panel shows an **epineurial repair** — sutures through the outer epineurium only, fascicles aligned by the surface vessel and fascicular pattern; the lower panel a **perineurial (grouped fascicular) repair** — the epineurium opened and individual fascicular groups coapted with intraneural stitches. The argument FOR perineurial repair is direct alignment of larger fascicular groups in major nerves; its documented cost is **extensive intraneural dissection and permanent intraneural suture material, leading to increased fibrosis and incomplete regeneration**, and **clinical studies support both techniques as equally effective provided fascicles are not overlapped**. Practical reality adds that trauma, edema, and scar distort topography, making true fascicular matching difficult — so epineurial repair remains the preferred method.",
+  "hy": "Perineurial repair: theoretically better group alignment, but more dissection + permanent intraneural stitches → fibrosis; clinically equal to epineurial.",
+  "src": "Neligan I.21 · Type of repair — Figs 21.2/21.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "image": "images/N-I-21-65.jpg",
+  "imgcap": "Two suture techniques for coaptation of a transected nerve",
+  "why": {
+   "A": "Wrong — clinical studies show equivalence, not superiority, when fascicles are not overlapped.",
+   "B": "Wrong — avoiding intraneural dissection is the EPINEURIAL technique's virtue, shown in the upper panel.",
+   "C": "Correct — the perineurial technique risks fibrosis from dissection and permanent intraneural sutures without proven clinical advantage.",
+   "D": "Wrong — opening the perineurium has immunologic irrelevance; no immunosuppression attends any autologous repair."
+  }
+ },
+ {
+  "id": "N-I-21.66",
+  "chapter": "Ch21",
+  "section": "Figure — fascicular malalignment",
+  "stem": "The schematic shows a completed nerve coaptation. What does this appearance predict for regeneration across the repair?",
+  "options": {
+   "A": "An inferior result, because bunched and overlapping fascicles misdirect regenerating axons",
+   "B": "A normal result, because redundant fascicles unfold as postoperative edema subsides",
+   "C": "An improved result, because fascicle-to-fascicle contact area has been maximized",
+   "D": "A delayed but complete result, because axons cross the redundant loops at the classic 1 mm per day"
+  },
+  "answer": "A",
+  "exp": "The schematic shows **bunching and overlap of fascicles** at the coaptation — redundant fascicle loops folded within and escaping the repair — and the source figure's lesson is blunt: good fascicular alignment is crucial to optimal outcome, whereas **bunching and overlap produce an inferior result**. Overlapped fascicles present regenerating axons with mismatched or blocked endoneurial targets: axons meet perineurium or the wrong fascicle face-on and are misdirected into scar or foreign territory, wasting the fixed proximal axon supply. The technical remedy is in the repair rules — debride to healthy pouting fascicles, trim to allow apposition without redundancy, align by surface vessels and fascicular pattern, and use the fewest sutures that hold that alignment through gentle full range of motion.",
+  "hy": "Bunched/overlapped fascicles at a repair = inferior result — axons misdirect; alignment without overlap is the goal.",
+  "src": "Neligan I.21 · Type of repair — Fig 21.3",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "21",
+  "chname": "Repair and grafting of peripheral nerve",
+  "image": "images/N-I-21-66.jpg",
+  "imgcap": "Schematic of a completed nerve coaptation",
+  "why": {
+   "A": "Correct — bunching and overlap misdirect regenerating axons and yield an inferior result.",
+   "B": "Wrong — redundancy does not self-correct with edema resolution; the misdirection happens as axons cross the repair.",
+   "C": "Wrong — apparent contact area gained by overlap is false surface: axons need open endoneurial tubes end-on, not folded fascicle walls.",
+   "D": "Wrong — the 1 mm/day rate governs regrowth along intact pathways; it does not rescue axons aimed into scar or mismatched fascicles."
+  }
  }
 ]
