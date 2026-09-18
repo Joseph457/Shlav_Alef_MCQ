@@ -46067,5 +46067,1635 @@
    "C": "Wrong — apparent contact area gained by overlap is false surface: axons need open endoneurial tubes end-on, not folded fascicle walls.",
    "D": "Wrong — the 1 mm/day rate governs regrowth along intact pathways; it does not rescue axons aimed into scar or mismatched fascicles."
   }
+ },
+ {
+  "id": "N-I-22.1",
+  "chapter": "Ch22",
+  "section": "Adipose tissue structure",
+  "stem": "Which statement about the cellular architecture of adipose tissue is correct?",
+  "options": {
+   "A": "Adipocytes rest directly on a continuous basement membrane shared with the dermal fibroblast population",
+   "B": "Pericytes and endothelial cells are confined to visceral fat and absent from subcutaneous depots",
+   "C": "Lipid-laden adipocytes sit among stromal vascular cells in a lobule-forming extracellular matrix",
+   "D": "The stromal vascular population is homogeneous, consisting exclusively of committed preadipocytes"
+  },
+  "answer": "C",
+  "exp": "Adipose tissue is built of **large lipid-laden adipocytes surrounded by stromal vascular cells** — fibroblasts, immune cells, pericytes, and endothelial cells — with an **extracellular matrix that interconnects adipocytes and forms the fat lobules**, providing the structural framework of the tissue. This architecture is the anatomical basis of modern fat-graft biology: the non-adipocyte compartment (the stromal vascular fraction, SVF) carries the adipose-derived stem cells and endothelial precursors that drive graft revascularization and survival, so a \"fat graft\" is a composite cellular therapy rather than a transfer of pure adipocytes. The lobular ECM also explains mechanical behavior during harvest — parcels fracture along lobular planes, and preserving that architecture is a stated goal of gentle harvesting.",
+  "hy": "Adipose tissue = adipocytes + stromal vascular cells (fibroblasts, immune cells, pericytes, endothelial cells) in a lobule-forming ECM.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — no shared basement membrane with dermal fibroblasts is described; the framework is the lobular extracellular matrix.",
+   "B": "Wrong — pericytes and endothelial cells are constituents of the stromal vasculature of adipose tissue generally, including the subcutaneous depots used for grafting.",
+   "C": "Correct — adipocytes surrounded by diverse stromal vascular cells within a lobule-forming ECM is the described architecture.",
+   "D": "Wrong — the stromal vascular population is heterogeneous; preadipocytes are only one of its constituents."
+  }
+ },
+ {
+  "id": "N-I-22.2",
+  "chapter": "Ch22",
+  "section": "Brown versus white fat",
+  "stem": "A medical student asks why brown fat is never mentioned in fat grafting courses. Which reply is correct?",
+  "options": {
+   "A": "Brown fat cannot be aspirated because its deposits lie exclusively along the great vessels of the mediastinum",
+   "B": "Brown fat is predominantly neonatal, generating thermogenesis from triglycerides; grafting uses white fat",
+   "C": "Brown fat is immunogenic after transfer because of its dense sympathetic innervation and mitochondrial load",
+   "D": "Brown fat converts to white fat on transplantation, so the two behave identically once grafted"
+  },
+  "answer": "B",
+  "exp": "In humans, **brown adipose tissue is predominantly found during the neonatal period and generates thermogenesis from triglycerides**; it does not appear to play a significant role in adult metabolism (though research interest is emerging), and **white fat is used exclusively for fat grafting procedures**. Brown fat's heat production comes from its dense mitochondria uncoupling substrate oxidation from ATP synthesis — the physiologic furnace of the newborn, which cannot shiver effectively. White fat, by contrast, is the storage-and-signaling tissue of the adult and the tissue plastic surgeons aspirate, process, and reinject. The distinction matters conceptually: everything in this chapter — adipokines, ASC biology, graft survival — concerns white fat.",
+  "hy": "Brown fat = neonatal thermogenesis from triglycerides; grafting uses white fat exclusively.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the reason brown fat is irrelevant to grafting is its neonatal predominance and thermogenic role, not an exclusively perivascular location.",
+   "B": "Correct — brown fat is a predominantly neonatal thermogenic tissue, and white fat alone is grafted.",
+   "C": "Wrong — immunogenicity from sympathetic innervation is not a described property of brown fat.",
+   "D": "Wrong — no brown-to-white conversion after transplantation is described; brown fat is simply not the grafted tissue."
+  }
+ },
+ {
+  "id": "N-I-22.3",
+  "chapter": "Ch22",
+  "section": "Major adipokines",
+  "stem": "Leptin and adiponectin, the major adipokines implicated in obesity, act primarily by:",
+  "options": {
+   "A": "Inhibiting fibrinolysis and promoting intravascular thrombosis",
+   "B": "Increasing hepatic gluconeogenesis through cortisol potentiation",
+   "C": "Driving preadipocyte differentiation through PPAR-γ activation",
+   "D": "Regulating appetite and energy expenditure"
+  },
+  "answer": "D",
+  "exp": "**Leptin and adiponectin are the major adipokines** implicated in obesity and function by **regulating appetite and energy expenditure**. Adipokines are the effector molecules secreted by adipose tissue — hormones, cytokines, growth factors, and peptides acting in endocrine, paracrine, and autocrine fashion across lipid and steroid metabolism, growth-factor signaling, vasoactivity, complement activation, and ECM deposition. Leptin (also a late marker of adipocyte differentiation) signals energy sufficiency centrally; adiponectin is its metabolic partner in insulin sensitivity. These two sit apart from the proinflammatory set (TNF-α, IL-8, IL-6) that rises in obesity and drives insulin resistance, and from PAI-1, the coagulation-side adipokine.",
+  "hy": "Major adipokines leptin + adiponectin regulate appetite and energy expenditure.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — inhibition of fibrinolysis promoting thrombosis is PAI-1's role, not that of leptin/adiponectin.",
+   "B": "Wrong — cortisol-potentiated gluconeogenesis is not the described mechanism of these adipokines.",
+   "C": "Wrong — PPAR-γ activation is the transcriptional engine of adipocyte differentiation, not the action of leptin/adiponectin.",
+   "D": "Correct — appetite and energy-expenditure regulation is their stated function."
+  }
+ },
+ {
+  "id": "N-I-22.4",
+  "chapter": "Ch22",
+  "section": "Obesity and inflammation",
+  "stem": "An obese patient shows progressive insulin resistance. Which adipose-derived cytokine profile does the chapter link to this state?",
+  "options": {
+   "A": "Increased TNF-α, IL-8, and IL-6 acting as proinflammatory cytokines",
+   "B": "Increased adiponectin with suppression of hepatic glucose output",
+   "C": "Decreased leptin with loss of central appetite suppression signals",
+   "D": "Increased interferon-γ from adipose-resident cytotoxic T lymphocytes"
+  },
+  "answer": "A",
+  "exp": "Obesity raises **TNF-α, IL-8, and IL-6**, which function as **proinflammatory cytokines promoting increased insulin resistance** — the molecular link between adipose excess and metabolic disease. Adipose tissue is an endocrine organ: as depots expand, their secretome shifts toward inflammation, deranging insulin signaling in muscle, liver, and fat itself, alongside disturbances of triglyceride and cholesterol stores and end-organ insults. The same obese state also raises PAI-1 (thrombosis) while the appetite-energy regulators leptin and adiponectin are the adipokines classically implicated in obesity's central regulation. For the boards, keep the triads straight: inflammatory/insulin-resistance = TNF-α/IL-8/IL-6; appetite/energy = leptin/adiponectin; coagulation = PAI-1.",
+  "hy": "Obesity → ↑TNF-α, IL-8, IL-6 → proinflammatory state → insulin resistance.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — these three cytokines rise in obesity and promote insulin resistance.",
+   "B": "Wrong — adiponectin is an appetite/energy-expenditure regulator; a rise producing insulin resistance is not the described physiology.",
+   "C": "Wrong — leptin regulates appetite, and reduced leptin is not the stated mechanism of obesity-related insulin resistance.",
+   "D": "Wrong — interferon-γ from cytotoxic T cells is not among the adipose-derived cytokines the chapter names."
+  }
+ },
+ {
+  "id": "N-I-22.5",
+  "chapter": "Ch22",
+  "section": "PAI-1",
+  "stem": "An obese patient develops a deep venous thrombosis after surgery. Which adipose-derived factor, increased in obesity, most directly contributed — and through what action?",
+  "options": {
+   "A": "TNF-α — promoting insulin resistance in peripheral tissues",
+   "B": "PAI-1 — promoting thrombosis by inhibition of fibrinolysis",
+   "C": "Leptin — dysregulating appetite and energy expenditure centrally",
+   "D": "IL-6 — driving proinflammatory cytokine signal transduction"
+  },
+  "answer": "B",
+  "exp": "The thrombosis-side adipokine is **PAI-1 (type 1 plasminogen activator inhibitor): increased in obesity, it promotes thrombosis by inhibiting fibrinolysis, acting as a main endogenous regulator of the coagulation system** — the factor most directly behind this patient's postoperative DVT. Plasminogen activators convert plasminogen to plasmin, the enzyme that dissolves fibrin; PAI-1 blocks that step, so clot persists. The distractor pairings are each REAL adipokine roles — TNF-α (with IL-8 and IL-6) rises in obesity as a proinflammatory driver of insulin resistance, and leptin (with adiponectin) regulates appetite and energy expenditure — but none of those actions produces thrombosis. Keeping the three adipokine \"lanes\" straight (inflammation/insulin resistance · appetite/energy · coagulation) answers a whole family of questions.",
+  "hy": "Obesity → ↑PAI-1 → fibrinolysis inhibited → thrombosis; the coagulation lane of the adipokines.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — TNF-α's obesity role is proinflammatory insulin resistance, not clot stabilization.",
+   "B": "Correct — PAI-1 rises in obesity and promotes thrombosis by inhibiting fibrinolysis.",
+   "C": "Wrong — leptin governs appetite and energy expenditure; it is not the coagulation-side factor.",
+   "D": "Wrong — IL-6 belongs with TNF-α and IL-8 in the proinflammatory, insulin-resistance lane."
+  }
+ },
+ {
+  "id": "N-I-22.6",
+  "chapter": "Ch22",
+  "section": "White fat physiology",
+  "stem": "Which statement about the physiologic roles of white adipose tissue is correct?",
+  "options": {
+   "A": "It stores energy chiefly as glycogen, cushions vital organs, and supports reproductive physiology",
+   "B": "It stores triglycerides, cushions organs, and drives adult thermogenesis by uncoupled triglyceride oxidation",
+   "C": "It cushions vital organs, regulates immune responses, and secretes erythropoietin to govern red-cell mass",
+   "D": "It stores energy, cushions organs, and joins metabolic, immune, reproductive, and angiogenic physiology"
+  },
+  "answer": "D",
+  "exp": "White fat is far more than a calorie depot: the chapter lists **storage of energy-rich triglycerides, cushioning of vital structures and organs, maintenance of metabolic homeostasis, immune regulation, reproduction, and angiogenesis** among its physiologic roles. Both directions of imbalance cause disease — obesity on one side, genetic or acquired **lipodystrophies** and age-related fat loss on the other — generally through derangements of insulin metabolism and lipid stores. Each distractor smuggles one false member into an otherwise true triad: fat stores TRIGLYCERIDES (glycogen is the liver-muscle store); thermogenesis from triglycerides is BROWN fat's neonatal job; and erythropoietin is renal, not adipose. This breadth of function is why grafted fat is biologically active tissue, carrying angiogenic and immunomodulatory capacity with it.",
+  "hy": "White fat: energy storage + cushioning + metabolic homeostasis + immune regulation + reproduction + angiogenesis — an endocrine organ, not a filler.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the smuggled member is glycogen: white fat stores energy as triglycerides; glycogen is the hepatic and muscle store.",
+   "B": "Wrong — the smuggled member is thermogenesis: heat generation from triglycerides is brown fat's neonatal role, not white fat's.",
+   "C": "Wrong — the smuggled member is erythropoietin: red-cell mass is governed by the kidney's EPO, not an adipokine.",
+   "D": "Correct — the full list of physiologic roles is exactly what the chapter enumerates."
+  }
+ },
+ {
+  "id": "N-I-22.7",
+  "chapter": "Ch22",
+  "section": "ECM changes in adipogenesis",
+  "stem": "As preadipocytes differentiate into mature adipocytes, which shift occurs in their extracellular matrix production — and what happens if collagen synthesis is blocked during this phase?",
+  "options": {
+   "A": "Collagen types I and III increase while type IV falls; blocking collagen synthesis accelerates maturation",
+   "B": "Collagens I and III fall while type IV, laminin, and entactin rise; blocking collagen synthesis prevents differentiation",
+   "C": "All collagen production ceases entirely as lipid accumulates; blocking collagen synthesis therefore has no effect on maturation",
+   "D": "Collagen type II replaces types I and III; blocking collagen synthesis converts cells to a fibroblast fate"
+  },
+  "answer": "B",
+  "exp": "As preadipocytes mature they lose their fibroblast-like character partly by remodeling their matrix output: **collagen types I and III decrease while collagen type IV, laminin, entactin, and glycosaminoglycans increase** — the interstitial-collagen program of a fibroblast giving way to the basement-membrane program of a mature adipocyte, which surrounds itself with a basal lamina. The dependence runs deep: **inhibition of collagen synthesis during this phase actually blocks preadipocyte differentiation**, showing that matrix production is not a byproduct but a requirement of adipogenesis. Morphologically the same transition converts a spindled, cytoskeleton-rich preadipocyte into the spherical lipid-laden adipocyte.",
+  "hy": "Adipogenesis: collagen I/III ↓, collagen IV + laminin/entactin/GAGs ↑ — and blocking collagen synthesis blocks differentiation.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the direction is inverted, and blocking collagen synthesis halts rather than accelerates maturation.",
+   "B": "Correct — interstitial collagens fall, basement-membrane components rise, and collagen synthesis is required for differentiation.",
+   "C": "Wrong — matrix production continues in a changed profile; it does not cease with lipid accumulation.",
+   "D": "Wrong — collagen type II is cartilage matrix and plays no role in this transition."
+  }
+ },
+ {
+  "id": "N-I-22.8",
+  "chapter": "Ch22",
+  "section": "Transcriptional control of adipogenesis",
+  "stem": "Which factor is described as the MOST specific to adipogenic differentiation, and which proteins stimulate its expression early in the pathway?",
+  "options": {
+   "A": "PPAR-γ, stimulated early by the enhancer-binding proteins C/EBP-β and C/EBP-α",
+   "B": "C/EBP-α, stimulated early by lipoprotein lipase together with the Krüppel-like factors",
+   "C": "Krox20, stimulated early by insulin acting through its tyrosine kinase receptor",
+   "D": "Pref-1, stimulated early by PPAR-γ once lipid accumulation is under way"
+  },
+  "answer": "A",
+  "exp": "**PPAR-γ (peroxisome proliferator-activated receptor-γ) is the factor demonstrated to be the most specific to adipogenic differentiation**: once its receptor is activated by agonist ligand, the target cell commits — morphologic change, lipid accumulation, and activation of the mature adipocyte's gene program. Support comes from the **CCAAT/enhancer-binding proteins: C/EBP-β and C/EBP-α stimulate PPAR-γ expression during early differentiation, and C/EBP-α acts again later in the pathway**. The supporting cast includes lipoprotein lipase, the Krüppel-like factors KLF5/KLF15/KLF2, Krox20 (early growth response 2), and O/E-1 (early B-cell factor). Clinically this axis is the reason thiazolidinedione drugs (PPAR-γ agonists) drive adipogenesis — the pathway is pharmacologically real.",
+  "hy": "PPAR-γ = master, most adipogenesis-specific factor; C/EBP-β and C/EBP-α stimulate it early, C/EBP-α again late.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — PPAR-γ is the most adipogenesis-specific factor, stimulated early by C/EBP-β and C/EBP-α.",
+   "B": "Wrong — C/EBP-α is a supporter that stimulates PPAR-γ; LPL and the KLFs are ancillary factors, not its inducers in this scheme.",
+   "C": "Wrong — Krox20 is one of the recently implicated accessory factors, not the most specific master regulator.",
+   "D": "Wrong — pref-1 maintains the PREadipocyte phenotype and falls during differentiation; it is the counter-regulator, not the master switch."
+  }
+ },
+ {
+  "id": "N-I-22.9",
+  "chapter": "Ch22",
+  "section": "Hormonal requirements of adipogenesis",
+  "stem": "In a culture model of adipocyte differentiation, which pairing of hormonal requirement and marker behavior is correct?",
+  "options": {
+   "A": "Insulin is inhibitory throughout, and pref-1 rises steadily as the adipocyte matures",
+   "B": "Only IGF-1 is required, and adipsin expression falls away during differentiation",
+   "C": "Glucocorticoids alone drive differentiation, and leptin appears well before any lipid accumulation",
+   "D": "Insulin and IGF-1 are both required, while pref-1, guardian of the preadipocyte state, declines"
+  },
+  "answer": "D",
+  "exp": "**Both insulin and insulin-like growth factor-1 (IGF-1) are known to be required for adipocyte differentiation**, while **preadipocyte factor-1 (pref-1) — whose role is maintenance of the preadipocyte phenotype — decreases during differentiation**. The logic is a two-way switch: anabolic hormonal signaling (insulin/IGF-1) pushes the program forward, and the brake that holds the cell in its progenitor state (pref-1) must be released for maturation to proceed. Watching pref-1 fall while late markers (adipsin, leptin, aP2) rise is how differentiation is tracked in culture. The insulin requirement also connects adipogenesis to systemic metabolism — the same hormone that stores lipid in mature adipocytes builds new ones.",
+  "hy": "Insulin + IGF-1 required for adipogenesis; pref-1 guards the preadipocyte state and falls as differentiation proceeds.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — insulin is required, not inhibitory, and pref-1 falls rather than rises with maturation.",
+   "B": "Wrong — insulin is required alongside IGF-1, and adipsin is a LATE marker that appears, not disappears.",
+   "C": "Wrong — glucocorticoid (dexamethasone) is a culture adjunct, but the stated hormonal requirements are insulin and IGF-1; leptin is a late product, not a precursor event.",
+   "D": "Correct — dual insulin/IGF-1 requirement with declining pref-1 is the described physiology."
+  }
+ },
+ {
+  "id": "N-I-22.10",
+  "chapter": "Ch22",
+  "section": "Late differentiation markers",
+  "stem": "Which set of factors marks the LATE, mature stage of adipocyte differentiation?",
+  "options": {
+   "A": "Pref-1 together with KLF5 and the early B-cell factor O/E-1",
+   "B": "C/EBP-β together with PPAR-γ and lipoprotein lipase",
+   "C": "Adipsin, angiotensinogen II, ACBP, leptin, and aP2",
+   "D": "Collagen types I and III with entactin and the glycosaminoglycans"
+  },
+  "answer": "C",
+  "exp": "The **late markers of differentiation** — factors produced once adipocytes mature — are **adipsin, angiotensinogen II, acyl-CoA-binding protein (ACBP), leptin, and the two fatty acid-binding proteins: adipocyte lipid-binding protein (aP2) and keratinocyte lipid-binding protein**. The sequence is testable at both ends: EARLY events are transcriptional (C/EBP-β/α stimulating PPAR-γ, with LPL, KLFs, Krox20, O/E-1 as accessories), while LATE events are the working proteins of a functioning fat cell — lipid chaperones (FABPs), endocrine output (leptin), complement component (adipsin), and vasoactive precursor (angiotensinogen II). Distinguishing the transcription-factor stage from the mature-product stage is exactly the discrimination this item tests.",
+  "hy": "Late adipocyte markers: adipsin · angiotensinogen II · ACBP · leptin · aP2/keratinocyte FABP.",
+  "src": "Neligan I.22 · Adipose tissue: structure and physiology",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — pref-1 marks the preadipocyte and disappears; KLF5 and O/E-1 act early in the transcriptional cascade.",
+   "B": "Wrong — C/EBP-β, PPAR-γ, and LPL belong to the early/mid transcriptional machinery, not the mature secretome.",
+   "C": "Correct — these five are the stated late, mature-adipocyte products.",
+   "D": "Wrong — collagens I/III with entactin describe matrix biology (and I/III actually FALL); they are not the late marker set."
+  }
+ },
+ {
+  "id": "N-I-22.11",
+  "chapter": "Ch22",
+  "section": "The ASC concept",
+  "stem": "The term \"adipose-derived stem cell\" was adopted after Zuk's 2001 report of differentiation plasticity. Which triad of properties defines the ASC?",
+  "options": {
+   "A": "Self-renewal, asymmetric division, and multi-lineage potency",
+   "B": "Unlimited passage number, aneuploidy tolerance, and niche independence",
+   "C": "Hematopoietic origin, CD45 positivity, and lymphoid differentiation",
+   "D": "Contact inhibition, lineage restriction, and telomerase silencing"
+  },
+  "answer": "A",
+  "exp": "After Dardick's 1976 description of preadipocytes in the rat and their later isolation from human tissue, **Zuk's 2001 report of differentiation plasticity** led to adoption of the term **adipose-derived stem cell (ASC)**, defined by **self-renewal, asymmetric division, and multi-lineage potency**. In practice: ASCs proliferate and expand rapidly in culture but need exogenous growth factors for lineage-specific differentiation; mesenchymal fates (fat, bone, cartilage, muscle) are well established in vitro and in vivo, and differentiation toward ectodermal and endodermal lineages has been reported. The definitional triad is what elevates these cells from \"stromal fibroblast-like cells\" to stem cells and underlies every regenerative claim made for fat.",
+  "hy": "ASC (Zuk 2001): self-renewal + asymmetric division + multi-lineage potency; preadipocytes first described by Dardick 1976.",
+  "src": "Neligan I.22 · Biology of ASCs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — the stem-cell triad of self-renewal, asymmetric division, and multipotency defines the ASC.",
+   "B": "Wrong — passage number, aneuploidy tolerance, and niche independence describe cultured cell-line behavior, not the stem-cell definition.",
+   "C": "Wrong — hematopoietic origin and CD45 describe the non-adherent fraction washed AWAY during ASC isolation.",
+   "D": "Wrong — contact inhibition and lineage restriction are properties of differentiated somatic cells, the opposite of stemness."
+  }
+ },
+ {
+  "id": "N-I-22.12",
+  "chapter": "Ch22",
+  "section": "SVF isolation",
+  "stem": "During ASC isolation from lipoaspirate, the collagenase-digested cell pellet is plated in culture. What identifies the ASC population, and what does the added dexamethasone in the expansion medium accomplish?",
+  "options": {
+   "A": "ASCs float with the buoyant adipocyte layer after digestion; the dexamethasone lyses contaminating erythrocytes before plating",
+   "B": "ASCs adhere to the untreated flask within 6–8 hours; dexamethasone halts differentiation toward other mesenchymal lineages",
+   "C": "ASCs are selected by their strong MHC-II expression; dexamethasone then drives them toward the adipogenic phenotype",
+   "D": "ASCs sediment fastest during centrifugation at 3000 rpm; dexamethasone maintains the preadipocyte marker pref-1"
+  },
+  "answer": "B",
+  "exp": "After collagenase digestion, the heterogeneous pellet — the **stromal vascular fraction** — is plated: **ASCs adhere to the untreated culture flask within 6–8 hours (37°C, 5% CO₂), and the non-adherent population, roughly 7–15% of the SVF and mainly of hematopoietic origin, is washed away** with buffered solution or fresh media. The expansion medium (DMEM/DMEM-F12, 10% serum, antibiotics) includes **a small amount of dexamethasone to halt differentiation toward another mesenchymal lineage**, holding the cells in their progenitor state until specific growth factors are applied to direct fate — adipose, bone, cartilage, or muscle. Plastic adherence as the selection step is the classic operational definition of mesenchymal-type stem cells.",
+  "hy": "ASC isolation: plastic adherence 6–8 h selects ASCs; 7–15% non-adherent hematopoietic cells washed off; dexamethasone holds lineage neutrality.",
+  "src": "Neligan I.22 · Biology of ASCs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — buoyant flotation is the adipocytes' behavior; ASCs are selected by adherence, and dexamethasone has no erythrolytic role.",
+   "B": "Correct — adherence by 6–8 hours, washout of the 7–15% hematopoietic fraction, and dexamethasone blocking off-lineage drift.",
+   "C": "Wrong — ASCs notably LACK MHC-II, and dexamethasone prevents rather than drives lineage commitment in expansion medium.",
+   "D": "Wrong — centrifugation sediments the whole SVF; it cannot separate ASCs, and pref-1 maintenance is not dexamethasone's role."
+  }
+ },
+ {
+  "id": "N-I-22.13",
+  "chapter": "Ch22",
+  "section": "SVF versus cultured ASC",
+  "stem": "A surgeon wishes to add autologous regenerative cells to a graft during a single operation. Which comparison of stromal vascular fraction (SVF) and culture-expanded ASCs is correct?",
+  "options": {
+   "A": "SVF preparation requires a full 24 hours of processing, whereas ASC expansion finishes within the operative hour",
+   "B": "Both preparations demand dedicated cell culture facilities well beyond the operating room",
+   "C": "SVF yields a purified stem cell population, whereas cultured ASCs stay heterogeneous mixtures",
+   "D": "SVF is obtainable in 60–90 minutes near the OR; full ASC isolation takes 24 hours and culture facilities"
+  },
+  "answer": "D",
+  "exp": "The practical division of labor: **SVF may be obtained from tissue within 60–90 minutes, in a clean room near — or even within — an operating room using available automated devices**, whereas **complete ASC isolation takes 24 hours and requires cell culture facilities**. Collagenase digestion yields roughly **2–5 × 10⁵ nucleated SVF cells per gram of adipose tissue**; culture then buys the ability to expand numbers, select subpopulations, and control the microenvironment — at the cost of time, facilities, and regulatory burden. So intraoperative \"cell-assisted\" strategies use SVF; engineered, characterized cell products use cultured ASCs. The SVF is heterogeneous (endothelial, pericytic, hematopoietic, and stem populations), which is exactly why it can be prepared fast but is not a pure stem-cell product.",
+  "hy": "SVF: 60–90 min, OR-adjacent, ~2–5×10⁵ cells/g; pure expanded ASCs: 24 h + culture facilities.",
+  "src": "Neligan I.22 · Biology of ASCs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the timings are reversed: SVF is the rapid intraoperative product; ASC isolation is the 24-hour one.",
+   "B": "Wrong — SVF isolation can be done near or in the OR with automated devices; only ASC culture demands laboratory facilities.",
+   "C": "Wrong — SVF is the heterogeneous mixture; culture is what selects and purifies toward ASCs.",
+   "D": "Correct — 60–90-minute SVF versus 24-hour, facility-dependent ASC isolation is the stated comparison."
+  }
+ },
+ {
+  "id": "N-I-22.14",
+  "chapter": "Ch22",
+  "section": "SVF subpopulations",
+  "stem": "Flow cytometry of a freshly isolated stromal vascular fraction identifies a subpopulation that is CD31-negative and CD34-positive. Per the classification of Li and colleagues, these cells are:",
+  "options": {
+   "A": "Mature endothelial cells",
+   "B": "Endothelial stem cells",
+   "C": "Adipose stem cells",
+   "D": "Pericytes"
+  },
+  "answer": "C",
+  "exp": "In the scheme of Li and colleagues, four SVF subpopulations are defined by CD31 (endothelial) and CD34 (progenitor): **CD31+/CD34− = mature endothelial; CD31+/CD34+ = endothelial stem; CD31−/CD34+ = adipose stem cell (progenitor marker only); and CD146+/CD90+/CD31−/CD34− = the pericyte group**, contractile cells that regulate blood flow and sit adjacent to vessel walls. The logic reads directly off the markers: CD31 says \"endothelial lineage,\" CD34 says \"progenitor state.\" A cell with the progenitor marker but no endothelial identity is the adipose stem cell — the population this whole field is built on. Flow cytometry of fresh SVF also shows the early progenitor markers CD34 and CD90 more broadly.",
+  "hy": "Li's SVF map: CD31−/CD34+ = ASC · CD31+/CD34+ = endothelial stem · CD31+/CD34− = mature endothelial · CD146+/CD90+/31−/34− = pericyte.",
+  "src": "Neligan I.22 · Biology of ASCs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — mature endothelial cells are CD31-positive/CD34-negative, the mirror image of this profile.",
+   "B": "Wrong — endothelial stem cells carry BOTH markers (CD31+/CD34+).",
+   "C": "Correct — progenitor marker without endothelial marker defines the adipose stem cell.",
+   "D": "Wrong — the pericyte group is CD146+/CD90+ and negative for both CD31 and CD34."
+  }
+ },
+ {
+  "id": "N-I-22.15",
+  "chapter": "Ch22",
+  "section": "ASC immunobiology",
+  "stem": "Which immunologic property of ASCs underlies their investigation in vascularized composite tissue allotransplantation?",
+  "options": {
+   "A": "They lack MHC-II and inhibit proliferation of activated peripheral blood mononuclear cells",
+   "B": "They secrete donor-specific IgG that neutralizes recipient alloantibodies after transfer",
+   "C": "They express abundant MHC-II, enabling presentation of tolerogenic antigens to host T cells",
+   "D": "They differentiate into regulatory T lymphocytes when placed within recipient lymphoid tissue"
+  },
+  "answer": "A",
+  "exp": "Like bone marrow-derived stem cells, **ASCs do not express MHC-II and inhibit proliferation of activated peripheral blood mononuclear cells**, suggesting a role in modulating the immune system in inflammatory disorders or allogeneic transplantation — which is why they are **an active research target in vascularized composite tissue allotransplantation (VCA), hoping to aid induction of tolerance** to transplanted allograft tissue such as face or hand transplants. Absent MHC-II means the cells present poorly to CD4 T cells; suppressing activated PBMC proliferation adds an active immunoregulatory arm. Related practical note from the same section: non-enzymatic (mechanical/ultrasound) isolation has no proven equivalence, and the aqueous lipoaspirate fraction holds too few ASCs — enzymatic digestion remains necessary for clinically meaningful yields.",
+  "hy": "ASCs: MHC-II negative + suppress activated PBMCs → tolerance-induction candidates in VCA.",
+  "src": "Neligan I.22 · Biology of ASCs",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — MHC-II absence with suppression of activated PBMC proliferation is the stated immunobiology.",
+   "B": "Wrong — no donor-specific antibody secretion is described; the mechanism is cellular immunomodulation.",
+   "C": "Wrong — the cells specifically LACK MHC-II; antigen presentation is not their tolerogenic route.",
+   "D": "Wrong — conversion into regulatory T cells is not a described ASC behavior; they are mesenchymal, not lymphoid."
+  }
+ },
+ {
+  "id": "N-I-22.16",
+  "chapter": "Ch22",
+  "section": "First clinical fat graft",
+  "stem": "The first clinical report of fat grafting — harvest from the arm to correct a depressed facial scar from osteomyelitis, in 1893 — belongs to:",
+  "options": {
+   "A": "Vincenz Czerny",
+   "B": "Gustav Neuber",
+   "C": "Eugene Holländer",
+   "D": "Erich Lexer"
+  },
+  "answer": "B",
+  "exp": "**Gustav Neuber, 1893** — the German surgeon who harvested adipose tissue **from the arm to correct a depressed facial scar resulting from osteomyelitis** — owns the first clinical report of fat grafting. The immediate successors complete the origin story: **Vincenz Czerny** (two years later) transferred a buttock lipoma to correct a post-surgical breast deformity; **Eugene Holländer** first pushed fat through a small-diameter cannula (with considerable resorption); **Erich Lexer** wrote the 1919 two-volume book on the technique; and **Charles Miller** (1926) described injecting autologous fat for facial folds and wrinkles. The technique then stalled for decades as \"difficult, time-consuming, and unpredictable\" — until Peer's biology and Coleman's technique revived it.",
+  "hy": "First clinical fat graft: Neuber 1893 — arm fat to a depressed osteomyelitic facial scar.",
+  "src": "Neligan I.22 · Historical perspective",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — Czerny's landmark came two years later: buttock lipoma to a post-surgical breast deformity, the first breast application.",
+   "B": "Correct — Neuber's 1893 arm-to-face graft is the first clinical report.",
+   "C": "Wrong — Holländer's contribution was the first cannula injection of fat, not the first graft.",
+   "D": "Wrong — Lexer's contribution was the 1919 two-volume book presenting a broad range of successfully treated conditions."
+  }
+ },
+ {
+  "id": "N-I-22.17",
+  "chapter": "Ch22",
+  "section": "Historical contributions",
+  "stem": "Which pairing of pioneer and contribution is correct?",
+  "options": {
+   "A": "Eugene Holländer — published the 1919 two-volume book dedicated to fat grafting technique",
+   "B": "Erich Lexer — first injected fat through a small-diameter cannula",
+   "C": "Charles Miller — systematically studied the histology of transplanted fat in the 1950s",
+   "D": "Vincenz Czerny — transferred a buttock lipoma to correct a post-surgical breast deformity"
+  },
+  "answer": "D",
+  "exp": "The true pairing is **Czerny — transfer of a buttock lipoma to correct a post-surgical breast deformity** (1895, two years after Neuber's first graft): the historical debut of autologous fat in the breast. The others are shuffled: the **1919 two-volume book** was **Lexer's** (depressed scars, breast asymmetry, knee ankylosis, tendon adhesions, micrognathia); the **first small-diameter cannula injection** was **Holländer's** (complicated by considerable reabsorption); and the **1950s systematic histologic studies** were **Peer's**, while **Miller's** 1926 contribution was injecting fat for facial folds and wrinkles. Boards love these swaps — anchor each name to its one-line contribution and the era follows naturally.",
+  "hy": "Czerny = lipoma→breast (1895) · Holländer = first cannula injection · Lexer = 1919 book · Miller = 1926 facial wrinkles · Peer = 1950s histology.",
+  "src": "Neligan I.22 · Historical perspective",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the 1919 two-volume book belongs to Lexer; Holländer's mark was the cannula injection.",
+   "B": "Wrong — Lexer wrote the book; the first cannula injection was Holländer's.",
+   "C": "Wrong — the 1950s histologic work was Peer's; Miller described fat injection for facial folds in 1926.",
+   "D": "Correct — Czerny transferred a buttock lipoma to a post-surgical breast deformity."
+  }
+ },
+ {
+  "id": "N-I-22.18",
+  "chapter": "Ch22",
+  "section": "Peer's observations",
+  "stem": "Lyndon Peer's systematic studies of transplanted fat in the 1950s established which principle?",
+  "options": {
+   "A": "Grafts gain volume across the first year as the surviving adipocytes hypertrophy in situ",
+   "B": "Graft survival proved independent of handling technique and of the dimensions of the graft",
+   "C": "Grafts lose about 45% of weight and volume by one year, and a single large graft fares worse than several small ones",
+   "D": "Only grafts larger than a walnut retained their volume, because central adipocytes there escape the ischemic stress of transfer"
+  },
+  "answer": "C",
+  "exp": "Peer's 1950s studies made fat grafting quantitative: **adipose grafts lose about 45% of their weight and volume at one year**; surviving fat cells appear to maintain native volume; **improper handling decreases survival**; and **a walnut-sized graft loses volume more rapidly than multiple smaller grafts of the same weight, because the smaller grafts have greater surface area** — with **revascularization, seen microscopically, essential for survival**. Every principle of the modern technique is embedded here: gentle handling, small aliquots, surface-area maximization, and the vascular imperative. Coleman's structural fat grafting is essentially Peer's biology turned into an operating-room protocol.",
+  "hy": "Peer: ~45% graft weight/volume lost by 1 year; smaller parcels survive better (surface area); revascularization is essential.",
+  "src": "Neligan I.22 · Historical perspective",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — grafts shrink substantially in year one; volume gain through hypertrophy is the opposite of Peer's finding.",
+   "B": "Wrong — handling technique and graft dimensions were exactly the variables Peer showed to matter.",
+   "C": "Correct — ~45% loss at one year and the surface-area advantage of multiple small grafts are Peer's classic observations.",
+   "D": "Wrong — large single grafts fared WORSE; central ischemia, not protection, is their fate."
+  }
+ },
+ {
+  "id": "N-I-22.19",
+  "chapter": "Ch22",
+  "section": "Coleman structural fat grafting",
+  "stem": "The technique Coleman perfected in the 1990s — which finally made fat grafting reproducible — rests on which three pillars?",
+  "options": {
+   "A": "Gentle extraction, centrifugation, and serial small-volume injection in multiple tissue planes",
+   "B": "High-vacuum harvest, saline washing, and single-bolus injection into a widely pre-tunneled pocket",
+   "C": "Sharp-needle aspiration, enzymatic digestion, and immediate cell-assisted reinjection",
+   "D": "En-bloc excision, mincing on gauze, and layered closure over the implanted fat"
+  },
+  "answer": "A",
+  "exp": "Coleman's **structural fat grafting**, perfected in the 1990s after a decade of confusion, rests on **gentle extraction of fat, centrifugation, and serial small-volume injections in multiple tissue planes** — and he has documented the durability of results with this method over almost 30 years of use. Each pillar maps to biology: gentleness preserves parcel architecture (Peer's handling principle), centrifugation removes nonviable aqueous and oil components to give a predictable volume, and small aliquots across planes maximize surface contact for revascularization. The liposuction boom of Fournier and Illouz had made fat abundantly available in the 1980s; Coleman supplied the reproducible method that finally made the abundant raw material clinically reliable.",
+  "hy": "Coleman structural fat grafting = gentle harvest + centrifugation + serial small aliquots in multiple planes.",
+  "src": "Neligan I.22 · Historical perspective",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — the three pillars are gentle extraction, centrifugation, and serial small-volume multi-plane injection.",
+   "B": "Wrong — high vacuum and single-bolus placement violate both the handling and surface-area principles the technique enforces.",
+   "C": "Wrong — sharp aspiration and enzymatic digestion describe laboratory SVF preparation, not Coleman's clinical method.",
+   "D": "Wrong — en-bloc excision with mincing is the pre-1990s approach whose unpredictability the technique replaced."
+  }
+ },
+ {
+  "id": "N-I-22.20",
+  "chapter": "Ch22",
+  "section": "Task Force — harvest",
+  "stem": "Setting up a first fat-grafting case, a colleague loads a 2-mm sharp cannula on high machine vacuum \"for speed.\" Which change aligns the harvest with the 2009 ASPS Fat Graft Task Force suggestion?",
+  "options": {
+   "A": "Keep the sharp cannula but connect it to low-vacuum syringe aspiration instead",
+   "B": "Switch to a 3- to 4-mm blunt cannula and use the minimal suction required",
+   "C": "Move up to a 5- to 6-mm blunt cannula reserved for power-assisted systems",
+   "D": "Convert to open surgical excision of fat parcels to avoid cannula shear entirely"
+  },
+  "answer": "B",
+  "exp": "The colleague's setup violates both halves of the recommendation: the **2009 ASPS Fat Graft Task Force** suggested **tissue harvest with a 3- to 4-mm BLUNT cannula, using the minimal amount of suction required for extraction** — the twin goals being patient safety (minimal invasiveness) and tissue viability (minimal trauma). A sharp 2-mm cannula concentrates shear on the parcels and risks structural injury, and high machine vacuum ruptures adipocytes regardless of the cannula; lowering the vacuum alone would fix only half the problem. The ASPS task force (convened 2007 to re-examine breast fat grafting) set the reference pipeline: 3–4-mm blunt harvest, syringe-contained centrifugation, 2–2.5-mm blunt-cannula injection in small serial aliquots.",
+  "hy": "Task Force 2009 harvest: 3–4-mm BLUNT cannula + minimal suction — fix both the tip and the vacuum.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — syringe aspiration lowers the vacuum but keeps the sharp tip; the recommendation specifies a blunt cannula as well.",
+   "B": "Correct — a 3- to 4-mm blunt cannula with minimal suction is the Task Force harvest suggestion.",
+   "C": "Wrong — 5–6-mm instruments exceed the recommended caliber, and no power-assisted proviso exists.",
+   "D": "Wrong — open excision is nowhere recommended; cannula harvest with gentle suction is the standard."
+  }
+ },
+ {
+  "id": "N-I-22.21",
+  "chapter": "Ch22",
+  "section": "Task Force — processing",
+  "stem": "For separating viable adipocytes from blood, serum, and damaged cells, the same Task Force report suggested which processing approach?",
+  "options": {
+   "A": "Gravity decantation for 30 minutes in an open sterile basin",
+   "B": "Centrifugation at 3000 rpm for 3 minutes inside the harvest syringe",
+   "C": "Washing with warmed physiologic buffer across a closed filter membrane",
+   "D": "Rolling the aspirate on absorbent gauze until the oil phase disappears"
+  },
+  "answer": "B",
+  "exp": "For processing, the same Task Force report suggested that **viable adipocytes be separated from blood, serum, and damaged adipocytes via centrifugation at 3000 rpm for 3 minutes, with the fat remaining within the harvest syringe to limit exposures**. Keeping the lipoaspirate in its syringe minimizes contamination and air exposure — two stated enemies of graft viability — while centrifugation stratifies the contents into oil (top), fat (middle), and aqueous (bottom) layers for clean separation. Note the fuller evidence picture taught elsewhere in the chapter: Fisher later showed superior retention with gauze-rolled fat, and the reviews by Gir and Sinno conclude no processing technique is proven superior — the Task Force numbers remain the classic examinable standard.",
+  "hy": "Task Force 2009 processing: centrifuge 3000 rpm × 3 min INSIDE the harvest syringe.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — a 30-minute open-basin decant maximizes exactly the air exposure the recommendation seeks to limit.",
+   "B": "Correct — 3000 rpm for 3 minutes within the harvest syringe is the stated suggestion.",
+   "C": "Wrong — buffer washing is a described alternative in the literature, not the Task Force suggestion.",
+   "D": "Wrong — gauze rolling is Fisher's later-studied method (and Coleman's small-volume trick), not the 2009 recommendation."
+  }
+ },
+ {
+  "id": "N-I-22.22",
+  "chapter": "Ch22",
+  "section": "Processing evidence — Fisher",
+  "stem": "Fisher et al. compared processing methods and found superior graft retention with gauze-rolled fat. To what was this advantage attributed?",
+  "options": {
+   "A": "Greater retention of the stromal vascular fraction components",
+   "B": "Complete removal of the oil phase by the absorbent medium",
+   "C": "Lower bacterial counts than in centrifuge-processed aspirate",
+   "D": "Smaller particle size allowing passage through finer cannulas"
+  },
+  "answer": "A",
+  "exp": "Fisher et al. demonstrated **superior graft retention rates with gauze-rolled fat, attributed in part to greater retention of the stromal vascular fraction components**. The mechanism is worth internalizing: rolling lipoaspirate across an absorbent medium (Telfa) wicks away oil and aqueous phases while the cellular scaffold — adipocytes plus the SVF with its ASCs and vascular progenitors — stays on the gauze, whereas centrifugal force can drive part of that pellet-forming stromal population out of the fat layer. Because SVF cells improve graft survival largely through angiogenic properties, keeping them in the graft pays off in retention. The counterweight taught alongside: Coleman-style centrifugation gives high survival with near-normal enzyme activity, and no processing method is proven categorically superior (Gir; Sinno) — gauze rolling's own limitation is inefficiency at volume.",
+  "hy": "Fisher: Telfa/gauze-rolled fat retains better — it keeps more SVF in the graft.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — the retention advantage was attributed to greater preservation of SVF components.",
+   "B": "Wrong — oil removal happens with several methods, including centrifugation and wicking; it is not the distinguishing mechanism cited.",
+   "C": "Wrong — bacterial counts were not the studied variable.",
+   "D": "Wrong — particle-size reduction describes nanofat processing, not the gauze-rolling advantage."
+  }
+ },
+ {
+  "id": "N-I-22.23",
+  "chapter": "Ch22",
+  "section": "State of the processing evidence",
+  "stem": "A colleague insists that centrifugation is \"the proven best\" processing technique. Per the reviews by Gir and by Sinno, which reply is correct?",
+  "options": {
+   "A": "Centrifugation is indeed superior in every published head-to-head randomized comparison of techniques",
+   "B": "Decantation outperforms centrifugation whenever the volume processed exceeds 100 mL",
+   "C": "No technique is proven superior; the sheer number of procedural variables defeats comparison",
+   "D": "Washing is superior, and both reviews recommend abandoning centrifugation altogether"
+  },
+  "answer": "C",
+  "exp": "Per the review literature the chapter cites: **Gir and colleagues concluded that the body of evidence does not support one processing technique above another, and Sinno et al. elucidated the numerous procedural variables that make proving superiority of any technique so difficult**. That is the honest state of the science — washing, centrifugation, decantation, and concentration all have advocates and equivocal comparative data, which is also why the ASPS Task Force language is a \"suggestion\" rather than a mandate, and why large randomized trials remain elusive (too many interacting variables: donor site, cannula, vacuum, processing, injection, recipient bed, outcome measures, and the difficulty of blinding surgeons). The clinically useful posture: master one disciplined pipeline and apply it consistently.",
+  "hy": "Gir + Sinno: no fat-processing technique is proven superior; procedural variables defeat clean comparison.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — no head-to-head trial supremacy for centrifugation exists; the reviews conclude the opposite.",
+   "B": "Wrong — a volume-based decantation rule is not a finding of either review.",
+   "C": "Correct — neither review found a superior technique, and Sinno explains why proof is elusive.",
+   "D": "Wrong — neither review recommends abandoning centrifugation; they rank nothing above anything else."
+  }
+ },
+ {
+  "id": "N-I-22.24",
+  "chapter": "Ch22",
+  "section": "Injection cannula diameter — Özsoy",
+  "stem": "Reasoning that a finer cannula must be gentler, a resident selects a 1.6-mm Coleman-type injection cannula over the available 2.0- and 2.5-mm ones. Per Özsoy's comparison, the effect on adipocyte viability is:",
+  "options": {
+   "A": "Significantly higher viability than with the 2.5-mm cannula, since finer bores are gentler",
+   "B": "Viability equal across the three diameters, since shear depends only on flow rate",
+   "C": "Higher viability only when the diameter exceeds 2.0 mm, with no difference below that",
+   "D": "Significantly lower viability than with the 2.5-mm cannula"
+  },
+  "answer": "D",
+  "exp": "The intuition is backwards: Özsoy et al. found **adipocyte viability significantly GREATER with the 2.5-mm-diameter injection cannula than with the smaller 1.6- and 2-mm diameters** — so the resident's finer cannula delivers significantly LOWER viability, not gentler treatment. The physics does the explaining: adipocytes are highly susceptible to **shear stress, which is proportional to flow rate during injection**, and for a given flow a narrower tube concentrates shear on the cells passing through it; the chapter's full list of shear determinants is viscosity, concentration, cannula length, cannula diameter, and flow rate. Larger-bore, slower, low-shear injection preserves the product that careful harvest and processing created — \"gentle\" in fat grafting means wide and slow, not fine and fast.",
+  "hy": "Özsoy: 2.5-mm injection cannula beats 1.6/2.0 mm for adipocyte viability — small bore = concentrated shear.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the \"finer is gentler\" instinct is precisely what the data overturn; small bores raise shear.",
+   "B": "Wrong — flow rate is one determinant, but diameter independently changes the shear the cells experience; viability differed by cannula.",
+   "C": "Wrong — no such threshold pattern was reported; the 2.5-mm cannula outperformed both smaller sizes.",
+   "D": "Correct — the 1.6-mm choice yields significantly lower adipocyte viability than the 2.5-mm cannula."
+  }
+ },
+ {
+  "id": "N-I-22.25",
+  "chapter": "Ch22",
+  "section": "The consensus approach",
+  "stem": "Reviews cannot crown a single technique, yet the chapter notes a modest preference for one overall approach to autologous fat transfer. Which is it?",
+  "options": {
+   "A": "Thigh harvest with a sharp cannula, washing in warmed buffer, and reinjection delayed until the following morning",
+   "B": "Flank harvest with maximal syringe vacuum, gravity decantation, and staged reinjection at a second sitting",
+   "C": "Abdominal harvest with a blunt-tip cannula, Telfa rolling of the entire harvested volume, and single-bolus deep injection",
+   "D": "Abdominal harvest with a blunt cannula, centrifugation without washing, and immediate small aliquots by multiple passes"
+  },
+  "answer": "D",
+  "exp": "Though no technique is PROVEN superior, the chapter records **\"a modest preference in favor of the following approach: harvesting abdominal fat with a blunt-tip cannula technique, centrifugation without washing or other manipulation, and immediate injection of small aliquots of fat by means of multiple passes.\"** Each element is the low-trauma, low-manipulation branch of its step: the abdomen is accessible with resilient-depot data behind it (Schipper); the blunt tip and gentle suction protect parcel architecture; centrifugation without washing separates nonviable components while minimizing handling and air exposure; and immediate multi-pass small aliquots serve revascularization while avoiding storage losses. Large randomized trials remain elusive — too many interacting variables and unblindable surgeons — so this consensus pipeline is the pragmatic default the field converged on.",
+  "hy": "The preferred pipeline: abdominal fat · blunt-tip cannula · centrifugation without washing · immediate small aliquots, multiple passes.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — sharp cannulas, buffer washing, and overnight delay each add trauma, manipulation, or storage loss the preferred approach avoids.",
+   "B": "Wrong — maximal vacuum traumatizes the aspirate and staged reinjection forfeits the immediacy the preference specifies.",
+   "C": "Wrong — Telfa rolling is the small-volume retention champion but lacks efficiency for whole-volume processing, and bolus injection invites central necrosis.",
+   "D": "Correct — abdominal blunt-tip harvest, centrifugation without washing, and immediate small-aliquot multi-pass injection is the stated preference."
+  }
+ },
+ {
+  "id": "N-I-22.26",
+  "chapter": "Ch22",
+  "section": "Donor site selection",
+  "stem": "A 40-year-old requests fat grafting and asks whether her thigh or abdominal fat \"works better.\" Which summary of the donor-site evidence is correct?",
+  "options": {
+   "A": "Viability is similar across sites; the superficial abdominal depot is most resilient, and ASC counts vary by patient as well as depot",
+   "B": "Thigh fat survives measurably better than abdominal fat in every comparative study, so the thigh should be the default donor in women",
+   "C": "Flank fat contains the highest ASC density and is therefore the evidence-based first choice irrespective of patient factors and accessibility",
+   "D": "Knee fat is the most metabolically stable donor depot and gives the highest retention rates in nude-mouse xenograft models of grafting"
+  },
+  "answer": "A",
+  "exp": "The donor-site literature is deliberately undramatic: harvests from **four common donor sites (abdomen, thigh, flank, knee) showed no immediate differences in adipocyte viability**, corroborated in a nude-mouse model using three sites — yet **Schipper et al. showed variability in ASC physiologic function by depot, with the superficial abdominal depot the most resilient and providing superior graft retention**, plus **age-related changes in ASC function**, and **ASC counts vary widely from patient to patient, not only depot to depot**. So the honest counseling: no site is proven \"better\" for immediate viability; abdominal fat has the best resilience data; and patient factors (age, individual biology) may matter more than the depot. Practical selection therefore runs on accessibility, patient preference, and contour goals — with the chapter's stated modest preference for abdominal harvest.",
+  "hy": "Immediate viability ≈ equal across depots; Schipper: superficial abdominal ASCs most resilient; patient-to-patient variation is wide — not only depot-to-depot.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — equal immediate viability, abdominal-depot resilience, and dominant patient-level variation summarize the evidence.",
+   "B": "Wrong — no study shows thigh superiority in every comparison; immediate viability differences were absent.",
+   "C": "Wrong — flank fat has no cited ASC-density crown; that claim has no home in the chapter.",
+   "D": "Wrong — knee fat carries no special stability data; it is merely one of the compared sites."
+  }
+ },
+ {
+  "id": "N-I-22.27",
+  "chapter": "Ch22",
+  "section": "Nanofat and ultrasound harvest",
+  "stem": "Which statement about mechanically processed and ultrasound-harvested fat is correct?",
+  "options": {
+   "A": "Nanofat preserves intact structural parcels and is the preferred product for volume replacement of the breast",
+   "B": "Ultrasound-assisted liposuction destroys the stromal vascular fraction and is unsuitable for graft harvest",
+   "C": "Nanofat's small particle size suits scar softening; ultrasound harvest barely affects viability or SVF",
+   "D": "Both preparations require enzymatic digestion of the aspirate before the product can be injected safely"
+  },
+  "answer": "C",
+  "exp": "Two technique notes with real clinical traction: **\"nanofat\"-type mechanically processed lipoaspirates reduce particle size before injection and are useful for softening scars and rejuvenating tissues**, and **ultrasound-assisted liposuction (UAL) appears to have minimal effect on cellular viability and overall graft survival, with similar SVF cell populations regardless of harvest technique**. Nanofat is a mechanical emulsification — no enzymes — trading structural volume for a regenerative, injectable-through-fine-needles product aimed at skin quality; it is not a volumizer. The UAL data matter for practices that harvest with energy-assisted systems: the SVF content, the biologically active fraction, survives the ultrasound exposure.",
+  "hy": "Nanofat = mechanically size-reduced graft for scar softening/rejuvenation; UAL harvest ≈ unchanged viability + SVF.",
+  "src": "Neligan I.22 · Fat harvesting, preparation, and grafting techniques",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — nanofat sacrifices intact parcels by design; structural breast volume is the opposite of its role.",
+   "B": "Wrong — UAL showed minimal effect on viability with preserved SVF populations, not destruction.",
+   "C": "Correct — particle-size reduction for scars/rejuvenation and viability-neutral UAL harvest are both as stated.",
+   "D": "Wrong — neither method involves enzymatic digestion; nanofat is mechanical and UAL is a harvest modality."
+  }
+ },
+ {
+  "id": "N-I-22.28",
+  "chapter": "Ch22",
+  "section": "Harvest technique details",
+  "stem": "Which combination reflects the described harvesting technique for structural fat grafting?",
+  "options": {
+   "A": "1% lidocaine with 1 : 100,000 epinephrine by dry technique, with harvest through a sharp 14-gauge needle",
+   "B": "0.2% lidocaine with 1 : 200,000 epinephrine at a 1 : 1 superwet ratio, a ~10-minute wait, then a bucket-handle cannula",
+   "C": "0.5% lidocaine with 1 : 200,000 epinephrine at a 3 : 1 tumescent ratio, harvesting immediately at maximal syringe vacuum",
+   "D": "Plain saline at 2 : 1 with a 20-minute wait, then power-assisted harvest through a 6-mm cannula at full machine suction"
+  },
+  "answer": "B",
+  "exp": "The described harvesting recipe: infiltrate through hidden incisions a local mixture of **0.2% lidocaine with 1:200,000 epinephrine**, in a volume **equal to the fat to be removed (1:1 ratio — the superwet technique)**; **wait approximately 10 minutes**; then harvest with a **bucket-handle cannula designed to capture intact fatty parcels large enough to survive yet small enough to pass through the standard 17-gauge infiltration cannula used for grafting** — run on any vacuum or power-assisted system or on 10 mL syringes with the plunger pulled back only a few milliliters to limit negative pressure. Incisions close with interrupted 5-0 fast-absorbing sutures. Every number serves viability: dilute anesthetic with vasoconstriction, matched infiltration, minimal vacuum, and parcel size tuned to the downstream injection system.",
+  "hy": "Superwet harvest: 0.2% lidocaine/1:200,000 epi at 1:1, ~10-min wait, bucket-handle cannula, parcels sized for a 17-gauge injection cannula.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Harvesting",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — 1% lidocaine dry-technique sharp-needle harvest matches no part of the described method.",
+   "B": "Correct — every element (0.2%/1:200,000, 1:1 superwet, 10 minutes, bucket-handle, 17-gauge compatibility) is as described.",
+   "C": "Wrong — 0.5% lidocaine is the PLACEMENT-site anesthetic; harvest infiltration is 0.2%, and maximal vacuum is prohibited.",
+   "D": "Wrong — plain saline, 2:1 ratios, and full machine suction through a 6-mm cannula contradict the technique throughout."
+  }
+ },
+ {
+  "id": "N-I-22.29",
+  "chapter": "Ch22",
+  "section": "The 1987 ASPS position",
+  "stem": "In 1987 the ASPS banned fat grafting to the breast. What was the primary stated concern?",
+  "options": {
+   "A": "Documented acceleration of residual breast cancer growth by the grafted adipocytes themselves",
+   "B": "An unacceptable rate of intraoperative fat embolism during breast injection procedures",
+   "C": "Donor-site morbidity judged disproportionate to the modest aesthetic gain achieved",
+   "D": "Interference with cancer surveillance, presumed from poor retention and frequent fat necrosis"
+  },
+  "answer": "D",
+  "exp": "The **1987 ASPS ban on fat grafting to the breast** was driven **primarily by concerns regarding ongoing cancer surveillance — presumed from the era's low graft retention rates and high rates of fat necrosis believed to interfere with routine screening**. Breast cancer's epidemiologic weight (most common female cancer, leading cause of female cancer death) made any potential masking of early diagnosis unacceptable. The sequel is the story of evidence overturning presumption: Coleman's structural technique raised retention and predictability in the 1990s, imaging advanced (modern mammography, MRI, ultrasound), and in **2007 the ASPS convened its Fat Graft Task Force** to re-examine hazards and benefits — leading to today's routine use of fat in breast reconstruction. Only later did the ASC-oncology questions arise as a second wave of concern.",
+  "hy": "1987 ASPS breast ban = surveillance fear (fat necrosis + poor retention masking cancer); re-examined by the 2007 Task Force.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — no documented tumor acceleration existed; the ban was precautionary and surveillance-driven.",
+   "B": "Wrong — fat embolism is a rare technical risk, not the basis of the 1987 position.",
+   "C": "Wrong — donor-site morbidity was never the stated rationale.",
+   "D": "Correct — presumed interference with cancer surveillance from necrosis and poor retention drove the ban."
+  }
+ },
+ {
+  "id": "N-I-22.30",
+  "chapter": "Ch22",
+  "section": "Oncologic concerns",
+  "stem": "The oncologic concerns raised about fat grafting to the breast are primarily four-fold. Which option lists them correctly?",
+  "options": {
+   "A": "Surveillance interference, growth factor release, stem cell transformation, and enhanced metastasis",
+   "B": "Radiation sensitization, microcalcification artifact, lymphatic obstruction, and accelerated capsular contracture around implants",
+   "C": "Donor-site seeding, systemic immunosuppression, delayed wound healing, and interference with sentinel node mapping",
+   "D": "Graft hypertrophy, cyst formation, chronic mastitis, and conversion of scar fibroblasts to myofibroblasts"
+  },
+  "answer": "A",
+  "exp": "The oncologic concerns are **four-fold: (1) interference with cancer surveillance, (2) growth factor release, (3) stem cell malignant transformation, and (4) enhanced migration and metastases of cancer cells**. Each has its own literature: surveillance has been essentially exonerated (imaging and biopsy rates comparable to or better than other breast operations); growth-factor and migration concerns arise from in vitro ASC–cancer-cell interplay; malignant transformation of grafted stem cells remains theoretical. Despite all four, fat grafting has become routine in breast cancer reconstruction — autologous tissue without microsurgery, outpatient logistics, abundant donor sites, minimal morbidity — because the clinical safety data have consistently failed to validate the laboratory worries.",
+  "hy": "Four breast-oncology concerns: surveillance · growth factors · stem-cell transformation · enhanced migration/metastasis.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — these are the four enumerated concerns.",
+   "B": "Wrong — radiation sensitization and capsular contracture are not among the four; this set describes other clinical phenomena.",
+   "C": "Wrong — donor seeding, immunosuppression, and node-mapping interference are not the cited concerns.",
+   "D": "Wrong — cyst formation and mastitis are complications, not the oncologic-concern framework."
+  }
+ },
+ {
+  "id": "N-I-22.31",
+  "chapter": "Ch22",
+  "section": "Surveillance evidence",
+  "stem": "Rubin et al. compared mammograms after breast fat grafting with those after breast reduction. What did they find?",
+  "options": {
+   "A": "Fat-grafted breasts showed significantly more masses requiring biopsy than reduced breasts",
+   "B": "The two procedures produced identical rates of scarring and identical BI-RADS distributions",
+   "C": "Scarring, biopsy-requiring masses, and BI-RADS scores were all higher after reduction",
+   "D": "Mammography proved uninterpretable after either operation in the majority of patients"
+  },
+  "answer": "C",
+  "exp": "Rubin et al. compared mammograms after breast fat grafting versus **breast reduction** — the revealing control, since reduction is an accepted operation nobody bans — and found **scarring (P <0.001) and masses requiring biopsy (P <0.001) significantly HIGHER in the reduction cohort, with BI-RADS scores also significantly higher for reduction patients (P <0.001)**. BI-RADS (Breast Imaging Reporting and Data System) is the standardized mammographic suspicion scale, so higher scores mean more radiologic concern. The companion evidence: a matched postmastectomy cohort showed biopsy-to-clarify-imaging rates of 17.6% with grafting versus 7.8% without — not significantly different (P = 0.14) — and fewer than 10% of imaging studies in grafted patients targeted the grafted quadrant. Together these data dissolved the surveillance objection: fat grafting perturbs breast imaging LESS than an operation performed daily without controversy.",
+  "hy": "Rubin: breast REDUCTION beats grafting for scarring, biopsy-triggering masses, and BI-RADS scores (all P <0.001) — surveillance fear inverted.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the biopsy-generating masses were significantly more frequent after reduction, not grafting.",
+   "B": "Wrong — the comparison was decisively unequal, in grafting's favor.",
+   "C": "Correct — all three radiologic markers of concern were higher in the reduction cohort.",
+   "D": "Wrong — mammography remained interpretable in both groups; the study graded findings, not readability."
+  }
+ },
+ {
+  "id": "N-I-22.32",
+  "chapter": "Ch22",
+  "section": "2015 systematic review",
+  "stem": "In the 2015 systematic review of fat grafting to the breast (35 studies, 3624 patients), which complication profile was reported?",
+  "options": {
+   "A": "Oil cysts were the most common complication, and repeat breast imaging was never required afterward",
+   "B": "Fat necrosis led at 4.4%, with biopsy needed in 2.7% and an interval mammogram in 11.5%",
+   "C": "Infection led the complication list at 9%, with fat necrosis a rare event below 1%",
+   "D": "Contour deformity occurred in a third of patients, with biopsy required in over 10%"
+  },
+  "answer": "B",
+  "exp": "The **2015 systematic review of fat grafting to the breast (35 studies, 3624 patients)** found **fat necrosis the most common complication at 4.4%**, with **biopsy of a subsequent breast lump required in 2.7%** and **an interval mammogram in 11.5%** — and its meta-analysis of comparative studies showed **no significant difference in oncological event rates between fat-grafted and non-grafted groups (P = 0.10)**. Fat necrosis is the signature complication of the technique (avascular graft centers saponify, calcify, or form oil cysts), which is exactly why radiologic literacy about post-grafting appearances matters; yet even so, only a small minority of patients needed tissue diagnosis. This review is the workhorse citation for counseling: quantifiable, modest complication rates and no oncologic signal.",
+  "hy": "2015 review (35 studies/3624 pts): fat necrosis 4.4% = most common; biopsy 2.7%; interval mammogram 11.5%; oncologic events NS.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — oil cysts were not the leading complication, and interval imaging was needed in 11.5%.",
+   "B": "Correct — 4.4% fat necrosis, 2.7% biopsy, 11.5% interval mammogram are the review's figures.",
+   "C": "Wrong — infection did not lead the list, and fat necrosis was far from rare at 4.4%.",
+   "D": "Wrong — contour deformity in a third and biopsy above 10% wildly overstate the reported rates."
+  }
+ },
+ {
+  "id": "N-I-22.33",
+  "chapter": "Ch22",
+  "section": "Bench-to-bedside discrepancy",
+  "stem": "Basic science studies repeatedly show ASCs enhancing breast cancer cell behavior, yet clinical series show no excess recurrence. What largely explains this discrepancy?",
+  "options": {
+   "A": "The immortalized laboratory lines came from distant metastases decades ago and do not model primary cancer",
+   "B": "Clinical follow-up periods remain far too short for any biologic effect of grafting to have manifested in patients",
+   "C": "ASCs die within hours of clinical transfer in vivo, so no tumor interaction is biologically possible",
+   "D": "Laboratory culture media lack the estrogen required for any ASC-tumor interaction to occur at all"
+  },
+  "answer": "A",
+  "exp": "The bench–bedside contradiction — ASCs empower breast cancer cells in vitro, yet clinical recurrence is not elevated — exists **\"in large part due to the use of immortalized breast cancer cell lines (BCCs)… isolated decades ago from distant metastases,\" which \"remain phenotypically different from primary cancer cell lines.\"** The laboratory canon (MDA-MB-231, 4T1, MCF-7) models aggressive metastatic biology: conditioned media from such lines chemoattract ASCs via PDGF-β signaling, co-culture enhances migration, xenografts show increased liver/lung/spleen metastases, and contact upregulates malignancy markers. But a patient after oncologic resection harbors — at most — microscopic residual primary disease, a different biological entity. Hence the chapter's instruction to exercise \"great caution\" when reading BCC studies as if they represented primary cancer, and the weight it gives instead to clinically simulating models and to the reassuring clinical series.",
+  "hy": "In-vitro alarm vs clinical safety: immortalized BCC lines = decades-old distant-metastasis biology, not primary cancer.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — the phenotypic gap between immortalized metastatic lines and primary cancer is the stated explanation.",
+   "B": "Wrong — clinical follow-up includes multi-year matched cohorts and systematic reviews; short follow-up is not the cited reconciliation.",
+   "C": "Wrong — grafted cells survive and function (that is the premise of the field); rapid ASC death is not the explanation.",
+   "D": "Wrong — estrogen-free media is not the argument the chapter makes."
+  }
+ },
+ {
+  "id": "N-I-22.34",
+  "chapter": "Ch22",
+  "section": "Clinically relevant tumor models",
+  "stem": "When the authors' group built models closer to clinical fat grafting, what did they observe?",
+  "options": {
+   "A": "Fat graft particles doubled tumor cell proliferation when compared with conditioned-media control cultures",
+   "B": "Tumor cells admixed directly into grafts engrafted more readily than the same cells injected alone",
+   "C": "MCF-7 tumors both enlarged and upgraded histologically after simulated breast reconstruction with human fat grafts",
+   "D": "Graft particles did not promote tumor growth, admixed cells engrafted poorly, and MCF-7 tumors were unchanged"
+  },
+  "answer": "D",
+  "exp": "When the authors' group re-engineered the experiments to resemble the clinical act — **fat graft PARTICLES instead of purified ASC cultures — the models \"do not suggest a positive effect on tumor cell growth\"; tumor cells admixed directly into a graft and injected into nude mice engrafted poorly, showing \"a fat graft is not a supportive environment for tumor cells\"; and MCF-7 tumors established in mammary fat pads showed no increase in size or grade after simulated reconstruction with human fat grafting**. The lesson is methodological: purified, culture-activated ASCs bathed over metastatic cell lines is a maximal-hazard construct; an intact graft — adipocytes, matrix, and SVF in physiologic proportion — behaves differently. These clinically faithful models close the loop between the reassuring epidemiology and the alarming reductionist bench work.",
+  "hy": "Rubin-group models with real graft particles: no tumor promotion, poor tumor engraftment inside grafts, no MCF-7 growth/grade change.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — graft particles produced no growth advantage at all, let alone a doubling.",
+   "B": "Wrong — admixed tumor cells engrafted POORLY; the graft proved a hostile, not favorable, bed.",
+   "C": "Wrong — MCF-7 tumors neither enlarged nor upgraded after simulated reconstruction.",
+   "D": "Correct — all three clinically relevant models pointed to oncologic neutrality."
+  }
+ },
+ {
+  "id": "N-I-22.35",
+  "chapter": "Ch22",
+  "section": "Recurrence data",
+  "stem": "A breast cancer survivor asks about recurrence risk if she undergoes fat grafting. Which figures reflect the cited literature?",
+  "options": {
+   "A": "Local recurrence roughly triples after grafting, rising from about 2% to more than 6% within two years",
+   "B": "Recurrence after grafting remains unstudied, with no systematic review or matched-cohort data available",
+   "C": "A 16-study review found 2.2% local recurrence after grafting, below the 5.2–10.6% baseline, with null case-control comparisons",
+   "D": "Grafting halves the recurrence rate, an effect attributed to active immune surveillance of the tumor bed by the transferred ASCs"
+  },
+  "answer": "C",
+  "exp": "The counseling numbers: **breast cancer recurrence without grafting runs 5.2–10.6%**; after grafting, **a systematic review of 16 clinical studies (2100 patients) found a 2.2% local recurrence rate**; a case–control study showed **no significant excess** for local (0.95% vs 1.90%, P = 0.33), regional (0.95% vs 0%, P = 0.16), or distant recurrence (3.32% vs 2.61%, P = 0.65); a concurrent review of 1573 grafted women found **locoregional relapse of 2.92% (0.95% per year)**; the 35-study review reported a 4.4% weighted mean recurrence at 24.6 months with meta-analysis showing no group difference; and a matched cohort (321 grafted, 642 controls) found no recurrence difference (P = 0.792). No single comparison shows harm, and the absolute figures sit at or below the ungrafted baseline ranges. That is as close to an evidence-based \"safe\" as retrospective oncology gets — with the honest caveat that optimal timing within breast-conserving therapy remains unknown.",
+  "hy": "Post-grafting local recurrence ≈ 2.2% (16 studies/2100) vs 5.2–10.6% baseline; every controlled comparison non-significant.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — no tripling exists anywhere in the data; controlled comparisons are all null.",
+   "B": "Wrong — multiple systematic reviews, case–control and matched-cohort studies address exactly this question.",
+   "C": "Correct — 2.2% local recurrence against a 5.2–10.6% ungrafted baseline, with non-significant case–control comparisons at every site.",
+   "D": "Wrong — no protective halving is claimed; the correct conclusion is neutrality, not benefit."
+  }
+ },
+ {
+  "id": "N-I-22.36",
+  "chapter": "Ch22",
+  "section": "The intraepithelial neoplasia signal",
+  "stem": "Petit and colleagues initially reported a concerning recurrence signal after fat grafting in one subgroup. What was the subgroup, and how did the signal evolve?",
+  "options": {
+   "A": "Inflammatory carcinoma; the recurrence signal grew steadily stronger with each additional year of follow-up",
+   "B": "Patients with intraepithelial neoplasia; the concern dissolved at longer follow-up as controls caught up",
+   "C": "BRCA mutation carriers; the signal disappeared only after completion prophylactic mastectomy",
+   "D": "Triple-negative disease; the signal persisted and produced a formal contraindication to grafting"
+  },
+  "answer": "B",
+  "exp": "Petit and colleagues raised the literature's \"one lone exception\": **an initial signal of increased recurrence after fat grafting in patients with INTRAEPITHELIAL NEOPLASIA** — but **at longer follow-up the concern was alleviated as the control group \"caught up\" to the same recurrence rate**, and Kronowitz's group likewise found no adverse effect on recurrence. This is a classic epidemiologic artifact pattern: a transient between-group gap generated by timing and surveillance intensity rather than by biology, dissolving as observation lengthens. It earns its place in counseling precisely because informed patients may find it online: the honest summary is that even the one worrisome subgroup analysis normalized with time. The chapter's residual open question is not \"whether\" but \"when\" — the **optimal timing of grafting in breast-conserving therapy is still unknown**.",
+  "hy": "Petit: transient recurrence signal in intraepithelial neoplasia only — erased at longer follow-up as controls caught up.",
+  "src": "Neligan I.22 · Safety concerns",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — inflammatory carcinoma was not the subgroup, and no signal strengthened over time.",
+   "B": "Correct — intraepithelial neoplasia was the subgroup, and longer follow-up dissolved the difference.",
+   "C": "Wrong — BRCA carriers were not the studied subgroup of this signal.",
+   "D": "Wrong — no persisting signal or formal contraindication resulted; the concern was alleviated."
+  }
+ },
+ {
+  "id": "N-I-22.37",
+  "chapter": "Ch22",
+  "section": "Reconstructive indications",
+  "stem": "Which group of conditions is listed among the reconstructive applications of fat grafting?",
+  "options": {
+   "A": "Congenital deformities such as hemifacial microsomia and Treacher Collins, trauma scars, and liposuction deformities",
+   "B": "Acute open fractures, chronically infected wounds, and defects already awaiting free-flap transfer within the same admission week",
+   "C": "Melanoma excision beds awaiting definitive margin clearance and active established lymphedema of the arm",
+   "D": "Unstable burn wounds with exposed tendon requiring immediate stable vascularized soft-tissue coverage"
+  },
+  "answer": "A",
+  "exp": "The reconstructive menu includes **congenital deformities — hemifacial microsomia and Treacher Collins syndrome — post-traumatic scarring and tissue loss, and iatrogenic deformities from prior surgery: hollowed upper eyelids, flattening of the posterior jaw line, and contour deformities from liposuction**. Hemifacial microsomia (asymmetric first/second branchial-arch underdevelopment) and Treacher Collins (bilateral malar-mandibular hypoplasia) are exactly the diffuse soft-tissue deficiencies that staged fat grafting addresses without adding scars or hardware, and the head-and-neck cancer patient — resected, flap-reconstructed, and irradiated — extends the same principle to acquired contour deficits (see figure: full-thickness cheek resection reconstructed with a radial forearm flap and radiation, presenting disease-free for fat-graft contouring).",
+  "hy": "Fat-graft reconstruction: hemifacial microsomia, Treacher Collins, trauma scarring, iatrogenic hollows/liposuction deformities.",
+  "src": "Neligan I.22 · Diagnosis/patient presentation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — congenital (hemifacial microsomia, Treacher Collins), traumatic, and iatrogenic deformities are the cited applications.",
+   "B": "Wrong — acute open fractures and infected wounds are not fat-grafting indications; those demand debridement and vascularized coverage.",
+   "C": "Wrong — un-cleared melanoma beds and active lymphedema appear nowhere among the applications.",
+   "D": "Wrong — unstable burn wounds with exposed tendon need flap coverage; fat grafting addresses late contour and scar quality, not acute coverage."
+  },
+  "expimage": "images/N-I-22-37.jpg",
+  "expimgcap": "Pre-treatment views of a patient after cheek resection, free-flap reconstruction, and radiotherapy, before fat grafting"
+ },
+ {
+  "id": "N-I-22.38",
+  "chapter": "Ch22",
+  "section": "Fat for radiation damage",
+  "stem": "A patient with a stiff, noncompliant irradiated chest wall asks how fat grafting could help. Ejaz and colleagues demonstrated improvement of radiation-induced scar contracture in a mouse hindlimb model mediated by:",
+  "options": {
+   "A": "Upregulation of type I collagen cross-linking within the irradiated dermis",
+   "B": "Recruitment of circulating hematopoietic progenitors to the radiated field",
+   "C": "Direct replacement of fibrotic tissue by surviving grafted adipocytes alone",
+   "D": "Downregulation of TGF-beta pathways"
+  },
+  "answer": "D",
+  "exp": "Ejaz and colleagues demonstrated clear improvement of scar contracture in an irradiated mouse hindlimb after grafting, **mediated by downregulation of TGF-beta pathways** — the profibrotic master signal of radiation injury. Clinically the same regenerative property lets stiff, noncompliant irradiated tissue \"be restored to a more normal consistency and texture\" while contour defects are filled; anecdotal reports extend the benefit to scar appearance and skin quality generally, and amputees gain more robust, better-fitting prosthetic stumps after grafting. TGF-β (transforming growth factor-beta) drives fibroblast-to-myofibroblast conversion and collagen deposition; suppressing this axis is the best-articulated mechanism for fat's \"regenerative\" softening of radiated beds — the scientific footing under cases like the irradiated breast shown.",
+  "hy": "Fat in irradiated tissue: Ejaz — contracture improves via TGF-β pathway downregulation; clinical beds soften and accept volume.",
+  "src": "Neligan I.22 · Diagnosis/patient presentation",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — increased collagen cross-linking is the fibrosis mechanism itself, the opposite of the demonstrated effect.",
+   "B": "Wrong — hematopoietic progenitor recruitment is not the mediator identified in the hindlimb model.",
+   "C": "Wrong — simple volumetric replacement by adipocytes does not explain softening of the surrounding fibrosis; the effect is signaling-mediated.",
+   "D": "Correct — TGF-beta pathway downregulation is the demonstrated mechanism."
+  },
+  "expimage": "images/N-I-22-38.jpg",
+  "expimgcap": "A radiated breast after quadrantectomy, before and after fat grafting with scar release"
+ },
+ {
+  "id": "N-I-22.39",
+  "chapter": "Ch22",
+  "section": "Anesthesia planning",
+  "stem": "A patient requests fat grafting of a small facial scar and, at the same sitting, grafting of both breasts. Which anesthesia plan matches the chapter's guidance?",
+  "options": {
+   "A": "Both procedures are comfortably completed under local infiltration alone in the office setting",
+   "B": "The facial scar suits local anesthesia; grafting beyond a few milliliters needs at least sedation",
+   "C": "General anesthesia is mandatory for any fat transfer because of the fat embolism risk",
+   "D": "Regional blocks are the standard for facial grafting, with sedation reserved for the donor sites alone"
+  },
+  "answer": "B",
+  "exp": "The chapter's anesthesia rule of thumb: **fat grafting to small areas can certainly be performed under local anesthesia, but anything involving more than a few milliliters will generally require sedation at a minimum** — so the facial scar qualifies for local, while bilateral breast grafting (with its multi-hundred-milliliter harvest) does not. This is also a patient-selection filter: candidates \"must be able to withstand the anesthetic requirements of the procedure,\" and profound systemic illness may therefore preclude larger-volume grafting even when the recipient site is suitable. The pairing in this vignette — a milliliter-scale site and a large-volume site in one sitting — is decided by the larger procedure.",
+  "hy": "Local anesthesia only for small-volume sites; beyond a few milliliters → at least sedation.",
+  "src": "Neligan I.22 · Patient selection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — bilateral breast grafting far exceeds the few-milliliter ceiling for pure local anesthesia.",
+   "B": "Correct — small facial work suits local; larger-volume grafting needs sedation at minimum.",
+   "C": "Wrong — general anesthesia is not mandated; the requirement scales with volume, and embolism is prevented by technique, not anesthetic choice.",
+   "D": "Wrong — regional blocks for the face and donor-site-driven sedation are not the described framework."
+  }
+ },
+ {
+  "id": "N-I-22.40",
+  "chapter": "Ch22",
+  "section": "The thin patient",
+  "stem": "A very thin patient requests large-volume fat grafting to the body. Which consideration is correct?",
+  "options": {
+   "A": "Thin patients are ideal candidates because their lipoaspirate carries a higher density of ASCs",
+   "B": "Fat can be borrowed from banked allogeneic sources when the autologous stores are inadequate",
+   "C": "Insufficient donor fat is a relative contraindication; weight gain helps only if maintained afterwards",
+   "D": "Weight gain before surgery is routinely prescribed, since the grafted fat is unaffected by later weight loss"
+  },
+  "answer": "C",
+  "exp": "**The thin patient without sufficient fat stores is a relative contraindication** — the chapter's one anatomic patient-selection barrier. Nuances worth counseling: facial work needs little fat, so \"enough fat can usually be harvested\" even in thin patients (medial thighs are the overlooked depot, especially in thin males); breast and body work needs significantly more, and donor paucity may cap the achievable correction. **Asking the patient to gain weight preoperatively is feasible only if the patient is willing and able to MAINTAIN that weight afterwards** — because grafted fat tracks body habitus, and **weight loss after grafting can cost the correction**. The wrong answer is treating pre-graft weight gain as a free lunch; it merely builds a correction that later dieting will dismantle.",
+  "hy": "Thin patient = relative contraindication (donor paucity); pre-op weight gain only if it will be maintained — weight loss deflates the graft.",
+  "src": "Neligan I.22 · Patient selection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — thin patients are donor-limited, not advantaged; no ASC-density benefit is described.",
+   "B": "Wrong — banked allograft fat does not exist as a clinical option; grafting is autologous.",
+   "C": "Correct — insufficient stores are a relative contraindication, and weight-gain strategies work only if maintained.",
+   "D": "Wrong — grafted fat responds to weight change like native fat; later loss shrinks the result."
+  }
+ },
+ {
+  "id": "N-I-22.41",
+  "chapter": "Ch22",
+  "section": "Expectation setting",
+  "stem": "Which point belongs in every preoperative discussion of fat grafting?",
+  "options": {
+   "A": "A single session reliably achieves the final contour in experienced hands",
+   "B": "Resorption affects only patients with metabolic disease, and is otherwise rare",
+   "C": "Overcorrection at the first stage is routine and desirable to offset later loss",
+   "D": "Several rounds may be needed, and unrealistic expectations disqualify"
+  },
+  "answer": "D",
+  "exp": "Two non-negotiables of the preoperative conversation: **patients must be informed that several rounds of fat grafting may be needed to achieve the desired result**, and **patients with unrealistic expectations are not good candidates for this or any other procedure**. The biology enforces humility — intraoperative swelling and infiltration distort the visible endpoint, resorption is universal and individually unpredictable, and the soft-tissue envelope limits each stage's capacity — so the plan is staged by design, with deliberate under-correction and returns as needed. Framing multiple sessions as the NORMAL pathway (not as failure) at the first visit is what keeps the reconstructive relationship intact at month nine when a touch-up is due.",
+  "hy": "Counsel every patient: staged, possibly multiple rounds; unrealistic expectations = poor candidate.",
+  "src": "Neligan I.22 · Patient selection",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — single-session finality cannot be promised; resorption and swelling defeat it.",
+   "B": "Wrong — some resorption occurs in EVERY patient, not only the metabolically ill.",
+   "C": "Wrong — the chapter's strategy is deliberate UNDER-correction with staged returns, not routine overcorrection.",
+   "D": "Correct — multiple rounds may be needed, and unrealistic expectations disqualify."
+  }
+ },
+ {
+  "id": "N-I-22.42",
+  "chapter": "Ch22",
+  "section": "Coleman method — evidence",
+  "stem": "Histologic studies of fat harvested and refined by the Coleman method show:",
+  "options": {
+   "A": "High survival with near-normal cellular enzyme activity; Telfa rolling retains even more",
+   "B": "Survival below 20%, which explains the near-universal need for repeated grafting sessions",
+   "C": "Complete loss of enzymatic activity, recovering only after revascularization is established",
+   "D": "Survival equivalent to fat harvested sharply and washed in cold hypotonic saline solution"
+  },
+  "answer": "A",
+  "exp": "Histologic studies of Coleman-method fat show **a high percentage of survival and near-normal adipose cellular enzyme activity** — biochemical evidence that gentle harvest plus centrifugation delivers living, functioning tissue — and **for small-volume grafting, filtering the fat on sterile gauze (Telfa rolling) can achieve even higher retention of injected fat, though the method lacks efficiency**. That last clause is the operational boundary: gauze rolling excels for the face and hand but cannot feed a 400-mL breast case, which is why large-volume work adapts the principles (in-line canisters, decanting, larger syringes) rather than the chemistry. Between them, these findings validate both ends of the volume spectrum while keeping Coleman's biology — architecture preserved, nonviable components removed — constant.",
+  "hy": "Coleman-processed fat: high survival + near-normal enzyme activity; Telfa rolling retains even more but is inefficient.",
+  "src": "Neligan I.22 · Treatment/surgical technique",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — high survival with near-normal enzyme activity, and higher-retention (but inefficient) Telfa rolling for small volumes.",
+   "B": "Wrong — sub-20% survival contradicts the histologic findings for properly processed fat.",
+   "C": "Wrong — enzyme activity is near normal immediately; no post-revascularization recovery interval is described.",
+   "D": "Wrong — sharp harvest with hypotonic washing is no described equivalent; technique-dependence is the whole point."
+  }
+ },
+ {
+  "id": "N-I-22.43",
+  "chapter": "Ch22",
+  "section": "Levels of placement",
+  "stem": "A surgeon plans malar skeletal projection in one patient, improved skin quality with reduced pore size in a second, and added calf bulk in a third. Which placement levels match these three goals, in order?",
+  "options": {
+   "A": "Intramuscular; supraperiosteal; subdermal",
+   "B": "Supraperiosteal; subdermal; intramuscular",
+   "C": "Subdermal; intramuscular; supraperiosteal",
+   "D": "Supraperiosteal; intramuscular; subdermal"
+  },
+  "answer": "B",
+  "exp": "The placement levels map one-to-one onto goals: **fat placed above the periosteum (supraperiosteal) changes shape related to the underlying bony skeleton** — the malar projection case; **fat grafted immediately beneath the dermis (subdermal) improves skin quality, decreases wrinkling and pore size, and may even reduce scarring** — the skin-quality case; and **intramuscular placement builds bulk** — the calf case. So the correct sequence is supraperiosteal → subdermal → intramuscular. The subdermal plane carries its own warning: superficial placement makes surface irregularities more apparent, especially in thin-skinned territory like the lower eyelid, so it demands the finest aliquots and the most respect. Choosing the level IS the operative plan — the same syringe of fat does entirely different jobs at different depths.",
+  "hy": "Level = effect: supraperiosteal → skeletal contour · subdermal → skin quality (irregularity risk in thin skin) · intramuscular → bulk.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Placement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — this order gives the malar patient intramuscular bulk and the calf patient subdermal fat, mismatching every goal.",
+   "B": "Correct — supraperiosteal for skeletal projection, subdermal for skin quality, intramuscular for bulk.",
+   "C": "Wrong — subdermal placement cannot create skeletal projection, and supraperiosteal fat adds no calf muscle bulk.",
+   "D": "Wrong — the second and third assignments are swapped: skin quality is subdermal, bulk is intramuscular."
+  }
+ },
+ {
+  "id": "N-I-22.44",
+  "chapter": "Ch22",
+  "section": "The globule problem",
+  "stem": "Transferring large globules of fat rather than small aliquots leads to which outcome, and why?",
+  "options": {
+   "A": "Faster revascularization, because larger parcels carry more of their own microcirculation",
+   "B": "Better volume retention, because the surface-area losses are proportionally smaller in larger parcels",
+   "C": "Predictable fibrous encapsulation that stabilizes the grafted mass against later migration",
+   "D": "Central necrosis with resorption or oil cysts — survival depends on surface contact for blood supply"
+  },
+  "answer": "D",
+  "exp": "**Transferring large globules of fat can result in central necrosis of the mass with subsequent resorption and loss of volume, or possibly even cyst formation** — because graft survival \"depends on maximizing the contact surface area of the fatty parcel with the surrounding tissue, such that a blood supply can be conferred.\" Plasmatic imbibition and inosculation reach only a limited depth from the graft surface; the core of an oversized bolus outlives its diffusion distance and dies, liquefying into an oil cyst or calcifying — the same fat necrosis that once fed the breast-surveillance controversy. This is Peer's walnut observation weaponized as technique: the entire Coleman edifice of tiny aliquots in multiple passes and planes exists to keep every grafted cell within revascularization range.",
+  "hy": "Big bolus = dead core: central necrosis → resorption/oil cyst; survival lives on surface-area contact with vascularized tissue.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Placement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — parcels carry no circulation of their own; larger size only lengthens the diffusion distance.",
+   "B": "Wrong — retention worsens with globule size; the surface-to-volume ratio moves against the graft.",
+   "C": "Wrong — encapsulation of a necrotic mass is a complication (cyst), not a stabilizing feature.",
+   "D": "Correct — central necrosis with resorption or cyst formation, by the surface-area principle."
+  }
+ },
+ {
+  "id": "N-I-22.45",
+  "chapter": "Ch22",
+  "section": "Placement mechanics",
+  "stem": "During placement, when is the fat actually deposited, and why are blunt Coleman cannulas through small stab incisions preferred?",
+  "options": {
+   "A": "On insertion of the cannula, because tunnel pressure seats the graft; sharp needles are preferred for precision",
+   "B": "In a single retrograde bolus at the deepest plane, with the tract sealed by external pressure afterwards",
+   "C": "During withdrawal of the blunt cannula; the blunt system also reduces bruising and intravascular embolization",
+   "D": "After pre-tunneling the entire recipient bed, with fat pushed in on repeated forward passes of a sharp cannula"
+  },
+  "answer": "C",
+  "exp": "**The fat is gently placed during the WITHDRAWAL of a blunt Coleman infiltration cannula**, depositing a fine trail of graft along a pre-formed tunnel rather than injecting into a static pool. The delivery system — **small stab incisions and 17-gauge blunt Coleman injection cannulas — \"not only helps to reduce bruising, but also decreases the chance of accidental intravascular embolization of the fat\"**: a blunt tip pushes vessels aside instead of entering them, which is the principal defense against the rare but catastrophic fat embolism from intravascular injection. Withdrawal-phase deposition also serves the surface-area rule (thin cylinders, not spheres) and pairs with slow flow to keep shear low. Technique details this small are precisely what separate reproducible grafting from lumps and complications.",
+  "hy": "Deposit fat on cannula WITHDRAWAL, through stab incisions with blunt 17-gauge cannulas — less bruising, less intravascular embolization.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Placement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — insertion-phase injection and sharp needles reverse both stated elements of the technique.",
+   "B": "Wrong — a single retrograde bolus recreates the globule problem; deposition is distributed along withdrawal passes.",
+   "C": "Correct — withdrawal-phase placement through blunt cannulas, reducing bruising and embolization risk.",
+   "D": "Wrong — sharp pre-tunneling with forward-pass injection is not the described method and raises vascular risk."
+  }
+ },
+ {
+  "id": "N-I-22.46",
+  "chapter": "Ch22",
+  "section": "Molding after placement",
+  "stem": "After placing fat, the surgeon notices a small surface irregularity. According to the chapter, when is molding of grafted fat acceptable?",
+  "options": {
+   "A": "Only for an irregularity noted at placement, so the surface is smooth before leaving the OR",
+   "B": "Daily through the first postoperative week, to distribute the grafted fat evenly through the tissues",
+   "C": "Whenever more than 10 mL has been placed in a single plane, to prevent later oil cyst formation",
+   "D": "Never under any circumstance, including intraoperatively, once the fat has left the cannula"
+  },
+  "answer": "A",
+  "exp": "Molding is almost always the enemy: the structure \"should be purposefully built up with tiny aliquots of fat rather than attempting to insert larger aliquots and then mold the tissue,\" because **molding may displace the fat or cause necrosis of some or all of it, decreasing predictability and increasing uneven contours. The ONLY time molding should be considered is if an irregularity is noted at the time of placement, as the surface must be smooth before leaving the operating room.** The logic: freshly placed parcels have no vascular attachment — pressure shifts them or crushes them. Build the result with the cannula, not the fingers; reserve digital pressure for flattening a visible intraoperative irregularity, and hand the patient a smooth surface at the end of the case.",
+  "hy": "No molding of grafted fat — EXCEPT to smooth an irregularity noticed at placement, before leaving the OR.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Placement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — molding is reserved for the intraoperative irregularity; otherwise it displaces or necroses graft.",
+   "B": "Wrong — postoperative daily molding is precisely the displacement/necrosis hazard; deep massage is avoided for a month.",
+   "C": "Wrong — no volume-triggered molding rule exists; aliquot size prevention, not massage, prevents cysts.",
+   "D": "Wrong — an absolute never is too strong: the intraoperative smoothing exception is explicit."
+  }
+ },
+ {
+  "id": "N-I-22.47",
+  "chapter": "Ch22",
+  "section": "Refinement mechanics",
+  "stem": "After the capped 10 mL syringes are spun, an assistant prepares to transfer the BOTTOM layer into 1 mL syringes, reasoning that the densest layer must hold the viable cells. What is the correct handling of the layers?",
+  "options": {
+   "A": "The oil layer is re-emulsified back into the fat to preserve its lipid-soluble growth factors",
+   "B": "The aqueous drains on releasing the Luer-Lok plug, the oil is wicked away, and the middle fat layer is injected",
+   "C": "All three layers are transferred and injected together, then left to separate within the recipient tissues over days",
+   "D": "The middle fat layer is discarded, since the viable cells sediment into the lowest layer"
+  },
+  "answer": "B",
+  "exp": "The assistant's \"densest layer\" logic imports a cell-culture habit into the wrong setting: after the capped 10 mL syringes spin at 3000 rpm (1200 g) for 3 minutes, **the BOTTOM aqueous layer is local anesthetic and blood — discarded by releasing the Luer-Lok plug — the TOP oil layer (from ruptured adipocytes) is decanted or wicked away with gauze pads, and the MIDDLE layer is the fat that gets transferred to 1 mL syringes for placement**. Sterility is non-negotiable during centrifugation — a sterile central rotor and/or sterile sleeves is \"essential,\" since the graft is an implant. The three-layer anatomy is examinable in itself: free oil above, graft in the middle, infiltrate below — only the middle layer earns injection.",
+  "hy": "Post-spin layers: oil (top — wick) / FAT (middle — inject) / aqueous (bottom — drain via plug).",
+  "src": "Neligan I.22 · Treatment/surgical technique — Refinement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the oil layer is discarded waste from lysed cells, never re-emulsified into the graft.",
+   "B": "Correct — plug-release drains the aqueous phase, the oil is wicked or decanted, and the middle fat layer is the graft.",
+   "C": "Wrong — transferring all layers defeats refinement; separation is the entire purpose of the spin.",
+   "D": "Wrong — that is the assistant's pellet analogy: the bottom layer is anesthetic and blood, and discarding the middle would discard the graft itself."
+  }
+ },
+ {
+  "id": "N-I-22.48",
+  "chapter": "Ch22",
+  "section": "Large-volume adaptation",
+  "stem": "Besides letting the aspirate decant in the in-line collection chamber, which alternative does the chapter describe for separating large-volume fat from the aqueous phase?",
+  "options": {
+   "A": "Batch centrifugation of the entire volume in successive 10 mL syringes",
+   "B": "Enzymatic digestion of the aspirate to free the fat from its connective matrix",
+   "C": "Filtering the fat in a medical-grade sterile sieve",
+   "D": "Rolling the full harvested volume across Telfa pads on the sterile field"
+  },
+  "answer": "C",
+  "exp": "For large volumes the primary method is gravity: the aspirate **decants in the in-line sterile collection chamber until the fat separates from the aqueous layer**, which is then aspirated with a suction cannula or drained through a base spigot. The chapter's stated alternative is **\"to filter the fat in a medical grade sterile sieve\"** — the same separation goal achieved by mesh instead of settling time. The processed fat is then handled through pour-spout vessels into capped **30 mL syringe barrels filled from the back** and placed through 16-gauge blunt cannulas. Same biology as small-volume Coleman processing — separate graft from aqueous and oil, protect sterility, minimize trauma — engineered for hundreds of milliliters.",
+  "hy": "Large-volume separation: decant in the canister — or sieve-filter the fat through medical-grade sterile mesh.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Refinement",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — spinning the whole harvest through successive 10 mL syringes is the small-volume Coleman method, exactly the inefficiency the large-volume system replaces.",
+   "B": "Wrong — enzymatic digestion frees stromal cells for SVF isolation in the laboratory; it destroys a structural graft.",
+   "C": "Correct — sieve filtration is the described alternative to decantation for large-volume separation.",
+   "D": "Wrong — Telfa rolling is the very-small-volume retention champion; it \"lacks efficiency\" and cannot process a large harvest."
+  },
+  "expimage": "images/N-I-22-48.jpg",
+  "expimgcap": "A sterile sieve used as an alternative to decantation for large-volume fat processing"
+ },
+ {
+  "id": "N-I-22.49",
+  "chapter": "Ch22",
+  "section": "Staging philosophy",
+  "stem": "In reconstructive fat grafting, why is deliberate UNDER-correction with a planned second stage preferred?",
+  "options": {
+   "A": "Under-correction lowers the risk of intravascular fat embolism, which rises with the volume placed per session",
+   "B": "Swelling obscures the operative endpoint, and any placed excess later resolves evenly with directed massage",
+   "C": "Grafts mature faster when compressed by a deliberately tight soft-tissue envelope",
+   "D": "The envelope limits each stage, grafted beds later accept larger volumes, and excess fat is hard to remove"
+  },
+  "answer": "D",
+  "exp": "The staging philosophy rests on three stacked facts: **the soft-tissue envelope often limits the surgeon** (each stage can only hold so much); **as tissue quality improves after initial grafting, the area may become more receptive to larger subsequent volumes**; and **\"it is far better to under-correct a deficient area and return to the operating room for a second stage\" because unwanted parcels of excess fat are difficult to remove later**. Add the perceptual problem — infiltration and swelling blur the intraoperative endpoint, and resorption is unpredictable — and single-stage perfection becomes a gamble with asymmetric penalties: under-correction costs a planned touch-up; overcorrection costs lumps, liposuction, or excision. In complicated liposuction-deformity cases a second stage is \"often part of the original plan\": fill big at stage one, refine at stage two.",
+  "hy": "Under-correct and stage: the envelope limits each round, grafted beds accept more later, and excess fat is hard to remove.",
+  "src": "Neligan I.22 · Secondary procedures",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — embolism risk is a matter of intravascular injection and blunt technique, not of the per-session volume; that is not the staging rationale.",
+   "B": "Wrong — placed excess does not resolve evenly with massage; molding displaces or kills graft.",
+   "C": "Wrong — envelope compression is a limit on capacity, not an accelerant of maturation.",
+   "D": "Correct — envelope limits, improving recipient quality across stages, and the difficulty of removing excess all favor staged under-correction."
+  }
+ },
+ {
+  "id": "N-I-22.50",
+  "chapter": "Ch22",
+  "section": "Postoperative protocol",
+  "stem": "Which postoperative instruction set matches the chapter?",
+  "options": {
+   "A": "Compressive dressings applied to the grafted areas for 2 weeks with early vigorous massage",
+   "B": "Shower at 48 hours, elevate above heart level 72 hours, no direct pressure one week, no deep massage one month",
+   "C": "Ice packs applied directly onto the grafted site for 72 hours, with pressure garments fitted over the recipient areas",
+   "D": "Strict bed rest for one week with the grafted areas kept dependent to boost perfusion"
+  },
+  "answer": "B",
+  "exp": "The postoperative protocol in numbers: grafted areas are not routinely dressed; **shower at 48 hours; keep grafted areas elevated above heart level for 72 hours if possible; avoid direct pressure on the graft for one week; facial sutures out at 4–5 days** (resorbable sutures elsewhere out at a week or left); donor sites may get compression garments or an abdominal binder after large-volume harvest; **deep massage is avoided for one month**. Each rule protects unattached, revascularizing parcels: elevation limits edema in the graft bed, the pressure ban prevents displacement and ischemia of parcels that have no vascular anchorage yet, and the massage moratorium extends that protection through early inosculation. Note the asymmetry — compression is for DONOR sites, never the grafted area.",
+  "hy": "Postop: shower 48 h · elevate 72 h · no direct pressure ×1 week · face sutures 4–5 d · no deep massage ×1 month; compression only on donor sites.",
+  "src": "Neligan I.22 · Postoperative care",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — compressive dressing and early massage of the GRAFTED area are precisely prohibited.",
+   "B": "Correct — 48-hour shower, 72-hour elevation, one-week pressure ban, one-month massage ban.",
+   "C": "Wrong — direct ice pressure and recipient-site pressure garments violate the no-pressure rule.",
+   "D": "Wrong — bed rest and dependency are not part of the protocol; elevation is."
+  }
+ },
+ {
+  "id": "N-I-22.51",
+  "chapter": "Ch22",
+  "section": "Antibiotic prophylaxis",
+  "stem": "A poorly controlled diabetic smoker is scheduled for large-volume fat grafting. Which antibiotic plan does the chapter support for THIS patient?",
+  "options": {
+   "A": "A preoperative dose alone, the regimen that suffices for most patients",
+   "B": "A preoperative dose plus 3–5 days of postoperative antibiotics",
+   "C": "Intravenous antibiotics until all donor-site dressings come off",
+   "D": "No antibiotics at any stage, since the procedure is clean and brief"
+  },
+  "answer": "B",
+  "exp": "The chapter's two-branch rule: **\"preoperative antibiotics will suffice for most patients, while those patients that are at high risk for surgical site infection can be given 3–5 days of antibiotics postoperatively.\"** A poorly controlled diabetic smoker sits squarely in the high-risk branch — impaired neutrophil function and microvascular disease plus nicotine vasoconstriction — so this patient earns the preoperative dose PLUS the 3–5-day postoperative course. Delete the risk factors from the vignette and the answer flips to the preoperative-dose-alone branch, which is the point: the regimen is selected by risk, not given uniformly. As always, the deeper infection defense is sterility during processing (sterile rotor, sleeves, capped syringes) — the graft is an implant.",
+  "hy": "Antibiotics by branch: preop dose for most; ADD 3–5 postoperative days for high-infection-risk patients (e.g., uncontrolled diabetes).",
+  "src": "Neligan I.22 · Postoperative care",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — the preoperative-dose-alone branch is for MOST patients; this vignette's comorbidities move the patient out of it.",
+   "B": "Correct — high surgical-site-infection risk earns 3–5 days of postoperative antibiotics on top of the preoperative dose.",
+   "C": "Wrong — IV antibiotics tied to dressings or drains belong to other operations; no such regimen is described.",
+   "D": "Wrong — prophylaxis is used in every branch; \"no antibiotics\" misstates the protocol."
+  }
+ },
+ {
+  "id": "N-I-22.52",
+  "chapter": "Ch22",
+  "section": "Retention data — Bourne",
+  "stem": "Bourne and colleagues quantified fat graft retention for traumatic craniofacial defects. What did they find?",
+  "options": {
+   "A": "Average retention of approximately 63% at 9 months, with a spread of good and poor responders",
+   "B": "Retention of 90% at one year in all patients who reliably avoided pressure on the grafted area",
+   "C": "Average retention of 45% at 9 months, identical in every patient studied in the series",
+   "D": "Complete resorption by 6 months in the majority of trauma reconstructions performed"
+  },
+  "answer": "A",
+  "exp": "Bourne and colleagues, grafting **traumatic craniofacial defects**, showed **an average retention rate of approximately 63% at 9 months — with a distribution of values around the mean representing both good and poor responders**. Two counseling points hide in that sentence: first, the headline number (roughly two-thirds of placed volume persisting at nine months with modern technique — compare Peer's classic ~45% one-year loss); second, and more important, the SPREAD — some patients keep most of their graft, others little, and **\"the extent of resorption cannot yet be predicted for a given individual, but some degree of resorption will happen in every patient.\"** That distribution is the evidence base for staged planning and for refusing to promise any patient a specific percentage.",
+  "hy": "Bourne: ~63% average retention at 9 months (traumatic craniofacial) — with real good-vs-poor responder spread; resorption is universal and unpredictable.",
+  "src": "Neligan I.22 · Outcomes, prognosis, and complications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — ~63% at 9 months with a distribution spanning good and poor responders.",
+   "B": "Wrong — 90% retention is promised by no dataset; the average was about 63%.",
+   "C": "Wrong — 45% is Peer's historical one-year LOSS figure, not Bourne's retention, and uniformity across patients is exactly what was absent.",
+   "D": "Wrong — complete resorption by 6 months in the majority contradicts the data."
+  }
+ },
+ {
+  "id": "N-I-22.53",
+  "chapter": "Ch22",
+  "section": "Complication profile",
+  "stem": "Which statement about the complications of fat grafting is correct?",
+  "options": {
+   "A": "Perioperative morbidity is high after grafting, though late complications are essentially unknown in practice",
+   "B": "Fat embolism is the most frequent complication and mandates routine postoperative screening",
+   "C": "Donor sites are immune to contour problems because the fat is always removed diffusely",
+   "D": "Unpredictable resorption is the biggest risk; visible contour irregularity the most problematic issue"
+  },
+  "answer": "D",
+  "exp": "The complication landscape has a clear hierarchy: procedures are low-risk with low perioperative morbidity, soreness and swelling are common, but **\"the most significant risk remains the unpredictable nature of graft resorption\"** — universal, individually unpredictable — **and \"most problematic is the high potential for contour irregularities visible through the skin, which can occur in both the recipient and donor sites.\"** Recipient lumps generally mean too much volume placed just beneath thin skin; donor irregularities follow overharvest of a single area. The rare-events list (anesthetic allergy, discoloration from a ruptured vessel, fat necrosis, oil cysts, calcification, overcorrection, bleeding, clot, blood-borne infection, scarring, fat embolism) matters for consent, but the everyday enemies are resorption and contour.",
+  "hy": "Most significant risk = unpredictable resorption; most problematic = visible contour irregularity (recipient AND donor sites).",
+  "src": "Neligan I.22 · Outcomes, prognosis, and complications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — perioperative morbidity is LOW; the late problems (resorption, contour) dominate instead.",
+   "B": "Wrong — fat embolism is rare; routine screening for it is not a described practice.",
+   "C": "Wrong — donor sites are explicitly at risk of pronounced irregularity when overharvested focally.",
+   "D": "Correct — unpredictable resorption and visible contour irregularity are the flagged chief problems."
+  }
+ },
+ {
+  "id": "N-I-22.54",
+  "chapter": "Ch22",
+  "section": "Managing excess fat",
+  "stem": "A patient has a visible subcutaneous lump from overgrafting beneath thin skin. Which set of remedies does the chapter list?",
+  "options": {
+   "A": "Observation only, since grafted lumps resorb reliably within the first postoperative year",
+   "B": "Liposuction, direct excision, lipodissolve (not FDA-approved), or off-label Kybella",
+   "C": "External ultrasound with compression, which together dissolve mature grafted adipocytes",
+   "D": "Immediate re-grafting circumferentially around the lump to camouflage the contour step-off"
+  },
+  "answer": "B",
+  "exp": "For the palpable lump of excess grafted fat under thin skin, the chapter's remedy list: **liposuctioning of the excess, direct excision, lipodissolve products (not approved by the FDA in the United States), and potentially off-label use of the deoxycholic acid derivative ATX-101 (Kybella)** — with the overarching warning that unwanted parcels are difficult to remove, so \"prudence should be exercised when placing grafts.\" Kybella is FDA-approved for submental fat, hence \"off-label\" anywhere else; deoxycholic acid is a detergent adipocytolytic. Lipodissolve (phosphatidylcholine/deoxycholate compounding) never earned FDA approval — the regulatory asymmetry between the two injectables is a classic exam discrimination. Prevention beats every remedy: tiny aliquots, deeper planes under thin skin, and under-correction.",
+  "hy": "Excess-fat lump: liposuction · direct excision · lipodissolve (NOT FDA-approved) · off-label deoxycholic acid ATX-101 (Kybella).",
+  "src": "Neligan I.22 · Outcomes, prognosis, and complications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — established lumps do not reliably resorb; difficulty of later removal is the stated problem.",
+   "B": "Correct — the four listed remedies, with lipodissolve's non-approval and Kybella's off-label status.",
+   "C": "Wrong — external ultrasound with compression is not a described treatment for grafted excess.",
+   "D": "Wrong — camouflage re-grafting around a lump appears nowhere and would compound the contour problem."
+  }
+ },
+ {
+  "id": "N-I-22.55",
+  "chapter": "Ch22",
+  "section": "Rare risks",
+  "stem": "Which listed pairing of rare fat-grafting risk and its mechanism is correct?",
+  "options": {
+   "A": "Fat embolism — direct injection of fat into a blood vessel",
+   "B": "Permanent discoloration — deposition of hemosiderin from the centrifuged oil layer",
+   "C": "Blood-borne infection — less likely when grafting is combined with another cosmetic procedure",
+   "D": "Calcification — inevitable consequence of any graft placed above the periosteum"
+  },
+  "answer": "A",
+  "exp": "The correctly paired rare risk: **fat embolism — from direct fat injection into a blood vessel**; this is why placement uses blunt cannulas through stab incisions and slow withdrawal-phase deposition. The other pairings are corrupted versions of real list items: **permanent discoloration is caused by a ruptured blood vessel** (bruising staining, not oil-layer hemosiderin); **blood-borne infection is MORE likely when grafting is combined with another cosmetic procedure**, not less; and **calcification** appears on the rare-risk list without any inevitability or supraperiosteal linkage — it is a sequela of fat necrosis wherever oversized parcels die. Reading the list mechanistically (vessel entered → embolism; vessel ruptured → discoloration; dead fat → necrosis/cyst/calcification) turns rote recall into physiology.",
+  "hy": "Fat embolism = direct intravascular fat injection — the blunt-cannula rationale; discoloration = ruptured vessel; combined procedures raise infection risk.",
+  "src": "Neligan I.22 · Outcomes, prognosis, and complications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Correct — intravascular injection is the stated mechanism of fat embolism.",
+   "B": "Wrong — discoloration follows a ruptured blood vessel; the oil layer plays no described role.",
+   "C": "Wrong — combination with another cosmetic procedure makes blood-borne infection MORE likely, not less.",
+   "D": "Wrong — calcification is a listed rare event, not an inevitable consequence of supraperiosteal placement."
+  }
+ },
+ {
+  "id": "N-I-22.56",
+  "chapter": "Ch22",
+  "section": "Weight stability",
+  "stem": "Why are patients encouraged to undergo fat grafting at their ideal body weight and to maintain it afterwards?",
+  "options": {
+   "A": "Anesthetic dosing of the superwet infiltration solution is unreliable outside the ideal weight range",
+   "B": "Donor-site fat regenerates fully only in patients who remain in stable energy balance",
+   "C": "Harvest is technically impossible at higher body mass because the fat becomes fibrous",
+   "D": "Grafted fat behaves like native fat: weight change resizes the result and can undo the correction"
+  },
+  "answer": "D",
+  "exp": "Grafted fat is living autologous tissue that **behaves like native fat: \"significant changes in weight can also result in related changes in the size of the area grafted, therefore patients are encouraged to have fat grafting procedures performed when they are at their ideal body weight and to maintain that weight indefinitely\"** — and, from patient selection, **weight loss following grafting \"can lead to loss of volume and failure to maintain adequate correction.\"** The graft's adipocytes hypertrophy and atrophy with systemic energy balance exactly as their donor depot would have; a correction calibrated at one weight is recalibrated by every later fluctuation, in either direction. The same conversation covers donor-site discipline — overharvesting a single area produces pronounced donor irregularities, another reason volume planning and weight stability travel together.",
+  "hy": "Graft = living fat: weight swings resize the result — operate at ideal weight and keep it.",
+  "src": "Neligan I.22 · Outcomes, prognosis, and complications",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "why": {
+   "A": "Wrong — anesthetic dosing is not the issue; graft-volume stability is.",
+   "B": "Wrong — donor regeneration is not a described phenomenon; the concern is the grafted volume tracking weight.",
+   "C": "Wrong — harvest remains technically possible across body-mass ranges; fibrous conversion is not described.",
+   "D": "Correct — grafted fat parallels native fat through weight change, so ideal, maintained weight protects the correction."
+  }
+ },
+ {
+  "id": "N-I-22.57",
+  "chapter": "Ch22",
+  "section": "Figure — large-volume harvest",
+  "stem": "The intraoperative setup shown is used during large-volume fat harvest. Which statement about this system is correct?",
+  "options": {
+   "A": "The chamber applies enzymatic digestion, releasing stromal cells during the aspiration itself",
+   "B": "An in-line sterile collection chamber: harvested fat decants, and the aqueous layer is then removed",
+   "C": "The canister continuously centrifuges the aspirate at 1200 g while machine suction continues running",
+   "D": "It warms the aspirate to body temperature, preserving enzymatic activity before reinjection"
+  },
+  "answer": "B",
+  "exp": "The photograph shows the **large-volume harvest apparatus: a sterile collection chamber set up in-line on the sterile field, with machine-generated suction from a standard liposuction aspirator applied through the system and a standard 3- or 4-mm cannula harvesting fat into the vessel. The aspirate is allowed to DECANT until fat separates from the aqueous layer, which is then removed by aspiration with a suction cannula — commercial vessels add a base spigot for the same purpose.** This is gravity separation scaled for hundreds of milliliters: no centrifuge touches the main volume; sterility is preserved because the chamber never leaves the field; and the fat then moves via pour-spout vessels into 30 mL syringes filled from the back for placement with 16-gauge blunt cannulas.",
+  "hy": "Large-volume harvest: in-line sterile canister + machine suction → decant → remove the aqueous layer from beneath the fat.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Figs 22.1",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "image": "images/N-I-22-57.jpg",
+  "imgcap": "Intraoperative fat collection setup for large-volume grafting",
+  "why": {
+   "A": "Wrong — no enzymatic step exists in structural fat grafting; digestion belongs to laboratory SVF isolation.",
+   "B": "Correct — in-line sterile collection with decantation and aqueous removal is exactly what is shown.",
+   "C": "Wrong — the canister is passive; nothing spins during collection.",
+   "D": "Wrong — the system separates by gravity; warming plays no described role."
+  }
+ },
+ {
+  "id": "N-I-22.58",
+  "chapter": "Ch22",
+  "section": "Figure — Coleman processing",
+  "stem": "The device and syringes shown belong to small-volume fat processing. Which parameters and layer handling apply?",
+  "options": {
+   "A": "1500 rpm for a full 10 minutes, after which the lowest layer is taken as the purified fat for injection",
+   "B": "5000 rpm for a single minute, with all layers reinjected to preserve the growth factors",
+   "C": "Centrifugation at 3000 rpm (1200 g) for 3 minutes; oil is wicked from above, aqueous drained below",
+   "D": "3000 rpm for 30 seconds, with syringes uncapped so that the generated heat can dissipate"
+  },
+  "answer": "C",
+  "exp": "The tabletop centrifuge with sterile rotor and tubes holds the 10 mL syringes and **generates 1200 g at 3000 rpm; the fat is centrifuged for 3 minutes to separate the oil, fat, and aqueous layers** — the layered syringes beside it show the result. Handling is then asymmetric: **drain the aqueous layer (local anesthetic and blood) by releasing the Luer-Lok plug, wick the oil off the top with cotton gauze**, and fill the middle fat layer into 1 mL syringes (Luer connector or back-filling) for precise facial or hand placement through fine blunt cannulas. The syringes in the image are the visual for the three-layer anatomy every examiner loves: oil above, graft in the middle, infiltrate below.",
+  "hy": "Coleman spin: 3000 rpm = 1200 g × 3 min → oil (wick) / fat (inject) / aqueous (drain via plug).",
+  "src": "Neligan I.22 · Treatment/surgical technique — Fig 22.5",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "image": "images/N-I-22-58.jpg",
+  "imgcap": "Small-volume fat processing equipment and the resulting syringe contents",
+  "why": {
+   "A": "Wrong — 1500 rpm × 10 minutes is not the protocol, and the bottom layer is discarded infiltrate, not graft.",
+   "B": "Wrong — 5000 rpm × 1 minute is not described, and reinjecting all layers defeats refinement.",
+   "C": "Correct — 3000 rpm (1200 g) for 3 minutes, oil wicked from above, aqueous drained from below.",
+   "D": "Wrong — the syringes remain capped for the spin; heat dissipation is not a described concern."
+  }
+ },
+ {
+  "id": "N-I-22.59",
+  "chapter": "Ch22",
+  "section": "Figure — gauze processing",
+  "stem": "The processing method shown yields the highest retention rates of injected fat in small-volume grafting. What is its principal limitation?",
+  "options": {
+   "A": "It lacks efficiency, restricting it to very small graft volumes",
+   "B": "It strips the stromal vascular fraction from the graft material",
+   "C": "It requires enzymatic pretreatment of the aspirate before rolling",
+   "D": "It contaminates the graft through prolonged exposure to room air"
+  },
+  "answer": "A",
+  "exp": "The image shows **filtering fat graft on Telfa non-adherent gauze — the processing method for very small volumes that \"yields a high retention rate, but lacks efficiency.\"** Rolling the aspirate across the absorbent pad wicks away aqueous and oil while sparing the cellular graft — including its stromal vascular fraction, the mechanism to which Fisher attributed the superior retention of gauze-rolled fat. The efficiency ceiling is physical: rolling teaspoon-sized aliquots pad by pad cannot process the hundreds of milliliters a breast or body case requires, which is why the same chapter pairs this method with the face and hand, and hands large-volume work to in-line canisters and decantation. Know it as the retention champion with the smallest throughput.",
+  "hy": "Telfa rolling: highest small-volume retention (keeps SVF), but too inefficient beyond very small grafts.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Fig 22.6",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "image": "images/N-I-22-59.jpg",
+  "imgcap": "A fat-processing method used before transfer to small syringes",
+  "why": {
+   "A": "Correct — inefficiency is its principal limitation, confining it to very small volumes.",
+   "B": "Wrong — SVF preservation is its strength, per Fisher, not a loss.",
+   "C": "Wrong — no enzymatic step precedes gauze rolling.",
+   "D": "Wrong — contamination is controlled on the sterile field; the stated drawback is efficiency, not sterility."
+  }
+ },
+ {
+  "id": "N-I-22.60",
+  "chapter": "Ch22",
+  "section": "Figure — large-volume placement",
+  "stem": "The instruments shown are prepared for the placement phase of LARGE-volume fat grafting. Which statement is correct?",
+  "options": {
+   "A": "The syringes are filled from the tip through a Luer connector rather than from the back",
+   "B": "This assembly is reserved for subdermal facial grafting of very small aliquots",
+   "C": "The cannula's caliber was chosen to intentionally emulsify the fat during injection",
+   "D": "A 16-gauge blunt-tipped cannula with 30 mL syringes; the fat should flow easily"
+  },
+  "answer": "D",
+  "exp": "The assembly shown — a long blunt cannula on a large syringe — is the placement hardware for LARGE-volume grafting: **\"a 16-gauge blunt-tipped cannula can be used with the 30 mL syringes, and the fat should be easily flowable.\"** Both specifications are safety-and-viability engineering: the 16-gauge bore keeps shear stress tolerable at the flow rates a 30 mL syringe produces, and easy flowability confirms the graft is neither desiccated nor clogged with debris that would concentrate shear. Contrast the small-volume system — 1 mL syringes with very-small-aperture blunt cannulas for face and hand, filled via a Luer connector or from the back — while the 30 mL barrels are capped and filled from the back via a pour-spout vessel. Blunt tips serve the same two masters at every scale: less bruising, less risk of intravascular embolization.",
+  "hy": "Large-volume placement: 16-gauge blunt cannula + 30 mL syringes; the fat must flow easily.",
+  "src": "Neligan I.22 · Treatment/surgical technique — Fig 22.4",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "image": "images/N-I-22-60.jpg",
+  "imgcap": "Instruments prepared for graft placement",
+  "why": {
+   "A": "Wrong — the 30 mL barrels are capped and filled from the BACK from a pour-spout vessel; Luer-connector filling belongs to the 1 mL small-volume system.",
+   "B": "Wrong — subdermal facial micro-aliquots use 1 mL syringes with fine cannulas, not this assembly.",
+   "C": "Wrong — emulsification is a nanofat concept; here shear is minimized, not sought.",
+   "D": "Correct — 16-gauge blunt cannula, 30 mL syringes, easily flowable fat."
+  }
+ },
+ {
+  "id": "N-I-22.61",
+  "chapter": "Ch22",
+  "section": "Figure — implant explantation",
+  "stem": "The patient shown had recurrent painful right capsular contracture and underwent removal of 350 mL saline implants with simultaneous grafting of 380 mL of fat per breast; the result is shown at 6 months. Which principle does this case illustrate?",
+  "options": {
+   "A": "Fat grafting after explantation must be delayed at least a year to allow capsule resolution",
+   "B": "Implant-to-fat exchange requires volume replacement far below the explanted implant volume",
+   "C": "Implants can be removed and replaced with fat in the same procedure, at comparable volume",
+   "D": "Capsular contracture is a contraindication to fat grafting because the capsule blocks revascularization"
+  },
+  "answer": "C",
+  "exp": "The case demonstrates that **breast implants can be removed and replaced with autologous fat graft in the SAME procedure** — this 48-year-old with recurrent painful capsular contracture had her 350 mL smooth round saline implants explanted with **simultaneous grafting of 380 mL of fat per breast**, shown at 6 months (and stable at 18). The exchanged volumes are nearly matched — implant OUT, comparable graft volume IN — converting an alloplastic reconstruction with a hostile capsule problem into living autologous tissue in one outpatient-caliber operation. For the recurrent-contracture patient this solves the underlying pathology (no implant, no capsule) rather than repeating capsulectomy-and-replace. Single-stage implant-to-fat exchange is exactly the kind of application that returned fat grafting to the center of breast surgery.",
+  "hy": "Implant-to-fat exchange works single-stage: explant (350 mL) + simultaneous grafting (~380 mL/breast) — capsular contracture solved with living tissue.",
+  "src": "Neligan I.22 · Secondary procedures — Figs 22.12–22.14",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "image": "images/N-I-22-61.jpg",
+  "imgcap": "Result 6 months after a single-stage breast procedure",
+  "why": {
+   "A": "Wrong — no waiting year is described; explantation and grafting occurred in the same procedure.",
+   "B": "Wrong — the grafted volume (380 mL) slightly EXCEEDED the explanted implant volume (350 mL), not far below it.",
+   "C": "Correct — same-procedure exchange of implant volume for a comparable fat volume is the illustrated principle.",
+   "D": "Wrong — capsular contracture was the INDICATION here, not a contraindication."
+  }
+ },
+ {
+  "id": "N-I-22.62",
+  "chapter": "Ch22",
+  "section": "Figure — total breast reconstruction",
+  "stem": "The patient shown had bilateral mastectomies WITHOUT radiation, and declined implants and flaps. The lower panel shows her 3 years after reconstruction. What made a purely graft-based total breast reconstruction possible?",
+  "options": {
+   "A": "A single mega-volume session of more than 800 mL per breast placed intramuscularly",
+   "B": "External expansion (BRAVA) combined with serial fat grafting treatments",
+   "C": "Cell-assisted lipotransfer with culture-expanded ASCs added to each graft",
+   "D": "Pre-grafting of the mastectomy skin with dermal matrix to create a recipient pocket"
+  },
+  "answer": "B",
+  "exp": "The lower panels show this 45-year-old, after bilateral mastectomies WITHOUT radiation, **3 years after breast reconstruction with EXTERNAL EXPANSION (BRAVA) and three fat grafting treatments** (case courtesy of Dr. Roger Khouri). BRAVA is a suction-dome external expander worn over the chest: cyclical negative pressure pre-expands the mastectomy envelope and stimulates its vascularity, creating recipient capacity that a flat, tight chest wall lacks — the missing precondition that serial moderate-volume grafting then fills, session by session. The construction answers both classic limits of graft-based total reconstruction: the envelope (expanded externally, no expander implant) and per-session volume ceilings (solved by staging). The result is a purely autologous, flap-free, implant-free total breast reconstruction.",
+  "hy": "Total breast reconstruction by fat alone = external expansion (BRAVA) + serial grafting rounds (Khouri) — envelope first, volume in stages.",
+  "src": "Neligan I.22 · Secondary procedures — Fig 22.15",
+  "book": "Neligan",
+  "vol": "I",
+  "chnum": "22",
+  "chname": "Repair and grafting fat and adipose tissue",
+  "image": "images/N-I-22-62.jpg",
+  "imgcap": "Before and after images of a breast reconstruction",
+  "why": {
+   "A": "Wrong — no single mega-volume session appears; three staged treatments built the result.",
+   "B": "Correct — BRAVA external expansion combined with serial fat grafting made total autologous reconstruction possible.",
+   "C": "Wrong — cell-assisted lipotransfer with cultured ASCs is not part of this case.",
+   "D": "Wrong — dermal-matrix pre-grafting of the envelope is not a described component; expansion created the pocket."
+  }
  }
 ]
